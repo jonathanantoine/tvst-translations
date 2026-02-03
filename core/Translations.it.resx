@@ -1,0 +1,2739 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <!--
+    Microsoft ResX Schema
+
+    Version 2.0
+
+    The primary goals of this format is to allow a simple XML format
+    that is mostly human readable. The generation and parsing of the
+    various data types are done through the TypeConverter classes
+    associated with the data types.
+
+    Example:
+
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+
+    There are any number of "resheader" rows that contain simple
+    name/value pairs.
+
+    Each data row contains a name, and value. The row also contains a
+    type or mimetype. Type corresponds to a .NET class that support
+    text/value conversion through the TypeConverter architecture.
+    Classes that don't support this are serialized and stored with the
+    mimetype set.
+
+    The mimetype is used for serialized objects, and tells the
+    ResXResourceReader how to depersist the object. This is currently not
+    extensible. For a given mimetype the value must be set accordingly:
+
+    Note - application/x-microsoft.net.object.binary.base64 is the format
+    that the ResXResourceWriter will generate, however the reader can
+    read any of the formats listed below.
+
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+        <xsd:element name="root" msdata:IsDataSet="true">
+            <xsd:complexType>
+                <xsd:choice maxOccurs="unbounded">
+                    <xsd:element name="metadata">
+                        <xsd:complexType>
+                            <xsd:sequence>
+                                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+                            </xsd:sequence>
+                            <xsd:attribute name="name" use="required" type="xsd:string"/>
+                            <xsd:attribute name="type" type="xsd:string"/>
+                            <xsd:attribute name="mimetype" type="xsd:string"/>
+                            <xsd:attribute ref="xml:space"/>
+                        </xsd:complexType>
+                    </xsd:element>
+                    <xsd:element name="assembly">
+                        <xsd:complexType>
+                            <xsd:attribute name="alias" type="xsd:string"/>
+                            <xsd:attribute name="name" type="xsd:string"/>
+                        </xsd:complexType>
+                    </xsd:element>
+                    <xsd:element name="data">
+                        <xsd:complexType>
+                            <xsd:sequence>
+                                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+                            </xsd:sequence>
+                            <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+                            <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+                            <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+                            <xsd:attribute ref="xml:space"/>
+                        </xsd:complexType>
+                    </xsd:element>
+                    <xsd:element name="resheader">
+                        <xsd:complexType>
+                            <xsd:sequence>
+                                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                            </xsd:sequence>
+                            <xsd:attribute name="name" type="xsd:string" use="required"/>
+                        </xsd:complexType>
+                    </xsd:element>
+                </xsd:choice>
+            </xsd:complexType>
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>2.0</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <data name="ChangeLog_Intro" xml:space="preserve">
+    <value>Questa app è creata nel mio tempo libero, con caffè e felicità per i miei figli e mia moglie.</value>
+  </data>
+    <data name="About_DescriptionFormat" xml:space="preserve">
+    <value>Questa app è creata nel mio tempo libero, con caffè e felicità per i miei figli e mia moglie.
+
+Sentiti libero di ringraziarmi usando la pagina delle donazioni.
+
+Grazie a Francko76 per la traduzione IT!
+
+Stai usando la versione {0}</value>
+  </data>
+    <data name="NewVersion_Title" xml:space="preserve">
+    <value>✨ È disponibile una nuova versione! ✨</value>
+  </data>
+    <data name="AdDisplayControl_Placeholder_Text" xml:space="preserve">
+    <value>Intendi "Ringraziare" o rimuovere gli annunci?
+Clicca qui e fai una donazione!</value>
+  </data>
+    <data name="Billing_CannotConnectYouToTheStore" xml:space="preserve">
+    <value>Non puoi connetterti allo Store in questo momento. Riprova più tardi.</value>
+  </data>
+    <data name="Cast_Code_UnknowAge" xml:space="preserve">
+    <value>Età sconosciuta</value>
+  </data>
+    <data name="Cast_Code_Years" xml:space="preserve">
+    <value>anni</value>
+  </data>
+    <data name="Changelog_CurrentVersionFormat" xml:space="preserve">
+    <value>Stai usando la versione {0}</value>
+  </data>
+    <data name="CheckinEpisodeView_CancelAction_Content" xml:space="preserve">
+    <value>ANNULLA</value>
+  </data>
+    <data name="Settings_Data_HideHiddenItems_Text" xml:space="preserve">
+    <value>Non mostrare le Serie TV nascoste</value>
+  </data>
+    <data name="Settings_Data_UsesSpecialsEpisodesInEpisodeLeftCount_Text" xml:space="preserve">
+    <value>Calcola anche gli episodi speciali con il numero di episodi da vedere e le statistiche</value>
+  </data>
+    <data name="Settings_Data_EnableHomeGroupCollapsing_Text" xml:space="preserve">
+    <value>Abilita il comprimi/espandi dei principali gruppi di elenchi?</value>
+  </data>
+    <data name="Settings_Various_FixDb" xml:space="preserve">
+    <value>Ottimizza il database.</value>
+  </data>
+    <data name="Global_Error_NoMoreSpaceOnDeviceException" xml:space="preserve">
+    <value>Errore, sembra che non ci sia più spazio sul tuo dispositivo ...</value>
+  </data>
+
+    <data name="CheckinEpisodeView_CheckinAction_Content" xml:space="preserve">
+    <value>CHECK-IN</value>
+  </data>
+    <data name="CheckinEpisodeView_YouAreAlreadyWatchingSomething_Text" xml:space="preserve">
+    <value>Stai già guardando:</value>
+  </data>
+    <data name="CheckinEpisodeView_PlaceholderText" xml:space="preserve">
+    <value>Inserisci il testo da condividere</value>
+  </data>
+
+    <data name="CheckinEpisode_ShareWithFormat" xml:space="preserve">
+    <value>Condividi con {0}</value>
+  </data>
+    <data name="Donation_Button_Combo_Text" xml:space="preserve">
+    <value>TUTTO IN UNO!</value>
+  </data>
+    <data name="CalendarSyncEnabledQuestion" xml:space="preserve">
+    <value>Abilita la sincronizzazione con il calendario</value>
+  </data>
+    <data name="Donation_SubscriptionEvery3Month_PriceAddition" xml:space="preserve">
+    <value>Ogni 3 mesi</value>
+  </data>
+    <data name="Donation_OneTime_Header" xml:space="preserve">
+    <value>UNA VOLTA PER TUTTE</value>
+  </data>
+    <data name="Donation_SubscriptionEvery3Month_Header" xml:space="preserve">
+    <value>ISCRIZIONE PER 3 MESI</value>
+  </data>
+    <data name="Donation_Button_Calendar_Text" xml:space="preserve">
+    <value>SINCRONIZZAZIONE DEL CALENDARIO</value>
+  </data>
+    <data name="Search_CannotLoadFromTrakt" xml:space="preserve">
+    <value>Non è possibile accedere a Trakt.tv, controlla la tua connessione internet...</value>
+  </data>
+    <data name="Search_Tutorial_Text" xml:space="preserve">
+    <value>Inserisci "nomi completi", il titolo della Serie TV con poche lettere non sarà trovato da Trakt.tv</value>
+  </data>
+    <data name="ToastNotifications_Code_SeasonReleaseDateAnnouncedFormat" xml:space="preserve">
+    <value>Data di uscita della stagione {0} annunciata</value>
+  </data>
+    <data name="ToastNotifications_Code_ShowChangeOfStatusFormat" xml:space="preserve">
+    <value>Questa Serie TV ha cambiato stato da '{0}' a '{1}'.</value>
+  </data>
+    <data name="ToastNotifications_Code_TapHereToKnowMore" xml:space="preserve">
+    <value>Maggiori informazioni</value>
+  </data>
+    <data name="Search_GroupHeader_AlreayInYourCollection" xml:space="preserve">
+    <value>GIÀ NELLA TUA COLLEZIONE</value>
+  </data>
+    <data name="Search_GroupHeader_FoundOnTrakt" xml:space="preserve">
+    <value>TROVATO SU TRAKT.TV</value>
+  </data>
+    <data name="Donation_Button_RemoveAds_Text" xml:space="preserve">
+    <value>RIMUOVI LA PUBBLICITÀ!</value>
+  </data>
+    <data name="Donation_Button_SayThankYou_Text" xml:space="preserve">
+    <value>RINGRAZIA!</value>
+  </data>
+    <data name="Global_Filters" xml:space="preserve">
+    <value>Filtri</value>
+  </data>
+    <data name="Donation_Button_UICustomize_Text" xml:space="preserve">
+    <value>SCEGLI FONT E COLORE!</value>
+  </data>
+    <data name="Donation_ExplanationTextPart_Text" xml:space="preserve">
+    <value>Questa applicazione è fatta nel mio tempo libero,
+con caffè e felicità
+per i miei figli e mia moglie.</value>
+  </data>
+    <data name="Donation_PageTitle_Text" xml:space="preserve">
+    <value>Come ringraziare?</value>
+  </data>
+    <data name="Episodedetails_RateThisEpisode_Content" xml:space="preserve">
+    <value>VALUTA QUESTO EPISODIO</value>
+  </data>
+    <data name="RateASeason_ActionButton_Content" xml:space="preserve">
+    <value>VALUTA QUESTA STAGIONE</value>
+  </data>
+    <data name="EpisodeDetails_YourRatingFormat" xml:space="preserve">
+    <value>La tua valutazione: {0} - {1}</value>
+  </data>
+    <data name="RateASeason_Title_Text" xml:space="preserve">
+    <value>Ti è piaciuta questa stagione?</value>
+  </data>
+    <data name="Episodedetails_SetAsSeen_Content" xml:space="preserve">
+    <value>SEGNO COME VISTO</value>
+  </data>
+    <data name="Episodedetails_WatchedAtFormat" xml:space="preserve">
+    <value>Guardato il {0} alle {1}</value>
+  </data>
+    <data name="Episodedetails_AiredAtFormat" xml:space="preserve">
+    <value>Trasmesso il {0} alle {1}</value>
+  </data>
+    <data name="HomeSwiped_SetAsSeen_Content" xml:space="preserve">
+    <value>Contrassegna {0} come visto</value>
+  </data>
+    <data name="Global_DoingTheOperation" xml:space="preserve">
+    <value>Esecuzione di questa operazione...</value>
+  </data>
+    <data name="Episodedetails_SetAsNotSeen_Content" xml:space="preserve">
+    <value>SEGNA COME NON VISTO</value>
+  </data>
+    <data name="Episode_Code_Add_QuestionContent" xml:space="preserve">
+    <value>Contrassegnando questo episodio come visto, aggiungerai questa serie alla tua raccolta.
+    Confermi?</value>
+  </data>
+    <data name="Episode_Code_Add_QuestionTitle" xml:space="preserve">
+    <value>AGGIUNGERE LA SERIE?</value>
+  </data>
+    <data name="RateAnEpisode_ActionButton_Content" xml:space="preserve">
+    <value>VALUTA QUESTO EPISODIO</value>
+  </data>
+    <data name="Episode_Code_UpdateSeenInfo_ErrorMarkingAsNotSeen" xml:space="preserve">
+    <value>Impossibile contrassegnare questo episodio come NON visto, controlla la tua connessione Internet e riprova.</value>
+  </data>
+    <data name="Episode_Code_UpdateSeenInfo_ErrorMarkingAsSeen" xml:space="preserve">
+    <value>Impossibile contrassegnare questo episodio come visto, controlla la tua connessione Internet e riprova.</value>
+  </data>
+    <data name="Error_GenericText_Part1_Text" xml:space="preserve">
+    <value>Si è verificato un errore imprevisto, controlla la tua connessione Internet e riprova.</value>
+  </data>
+    <data name="Frame_Code_OkButton" xml:space="preserve">
+    <value>OK</value>
+  </data>
+    <data name="Frame_Code_YesButton" xml:space="preserve">
+    <value>SI</value>
+  </data>
+    <data name="Frame_NoButton_Content" xml:space="preserve">
+    <value>NO</value>
+  </data>
+    <data name="Frame_YesButton_Content" xml:space="preserve">
+    <value>SI</value>
+  </data>
+    <data name="Home_AppBar_About_Label" xml:space="preserve">
+    <value>Informazioni sull'applicazione</value>
+  </data>
+    <data name="Home_AppBar_AppSettings_Label" xml:space="preserve">
+    <value>Impostazioni</value>
+  </data>
+
+    <data name="Home_AppBar_Refresh_Label" xml:space="preserve">
+    <value>Aggiorna i dati</value>
+  </data>
+    <data name="Home_AppBar_SayThankYou_Label" xml:space="preserve">
+    <value>Come dire grazie?</value>
+  </data>
+    <data name="Home_Code_Incoming_DayNameSuffix" xml:space="preserve">
+    <value>,</value>
+  </data>
+    <data name="Home_Code_Incoming_XDaysAgoPlural" xml:space="preserve">
+    <value>{0} giorni fa</value>
+  </data>
+    <data name="Home_Code_Incoming_InXDaysPlural" xml:space="preserve">
+    <value>tra {0} giorni</value>
+  </data>
+    <data name="Home_Code_Incoming_Yesterday" xml:space="preserve">
+    <value>IERI</value>
+  </data>
+    <data name="Home_Code_Incoming_BeforeYesterday" xml:space="preserve">
+    <value>L'ALTRO IERI</value>
+  </data>
+    <data name="Home_Past_PanelTitle_Header" xml:space="preserve">
+    <value>RILASCIATO DI RECENTE</value>
+  </data>
+    <data name="Home_Code_Incoming_DaySymbol" xml:space="preserve">
+    <value>G</value>
+  </data>
+    <data name="Home_Code_Incoming_Later" xml:space="preserve">
+    <value>IN ARRIVO O NON ANNUNCIATO</value>
+  </data>
+    <data name="Home_Code_Incoming_Today" xml:space="preserve">
+    <value>OGGI</value>
+  </data>
+    <data name="Home_Code_Incoming_Tomorrow" xml:space="preserve">
+    <value>DOMANI</value>
+  </data>
+    <data name="Home_Code_MyShowPanelHeader_Default" xml:space="preserve">
+    <value>LE MIE SERIE TV</value>
+  </data>
+    <data name="Global_NothingToDisplayHere_Text" xml:space="preserve">
+    <value>Qui non c'è nulla al momento...</value>
+  </data>
+    <data name="Global_Loading" xml:space="preserve">
+    <value>Caricamento in corso...</value>
+  </data>
+    <data name="Home_Code_MyShowPanelHeader_MultipleShowFormat" xml:space="preserve">
+    <value>LE MIE {0} SERIE TV</value>
+  </data>
+    <data name="Home_Code_MyShowPanelHeader_OneShowOnly" xml:space="preserve">
+    <value>LA MIA SERIE TV</value>
+  </data>
+    <data name="Home_Code_MyShowsHiddenGroupHeader_Plural" xml:space="preserve">
+    <value>{0} SERIE TV NASCOSTE</value>
+  </data>
+    <data name="Home_Code_MyShowToStartGroupHeaderPlural" xml:space="preserve">
+    <value>{0} SERIE TV IN ARRIVO</value>
+  </data>
+    <data name="Home_Code_MyShowToStartGroupHeaderSingular" xml:space="preserve">
+    <value>1 SERIE TV IN ARRIVO</value>
+  </data>
+    <data name="Home_Code_MyShowWithEpisodeToSeeButEndedGroupHeader_Plural" xml:space="preserve">
+    <value>{0} SERIE TV TERMINATE CON EPISODI NON VISTI</value>
+  </data>
+    <data name="Home_Code_MyShowWithEpisodeToSeeGroupHeader_Plural" xml:space="preserve">
+    <value>{0} SERIE TV CON EPISODI NON VISTI</value>
+  </data>
+    <data name="Home_Code_MyShowWithEpisodeToSeeNotEndedGroupHeader_Plural" xml:space="preserve">
+    <value>{0} SERIE TV NON TERMINATE CON EPISODI NON VISTI</value>
+  </data>
+    <data name="Home_Code_MyShowWithNoEpisodeToSeeEndedGroupHeader_Plural" xml:space="preserve">
+    <value>{0} SERIE TV VISTE, TERMINATE</value>
+  </data>
+    <data name="Home_Code_MyShowWithNoEpisodeToSeeGroupHeader_Plural" xml:space="preserve">
+    <value>{0} SERIE TV VISTE, IN ARRIVO</value>
+  </data>
+    <data name="Home_Code_Popular_Popular" xml:space="preserve">
+    <value>POPOLARE</value>
+  </data>
+    <data name="Home_Code_Popular_PopularGenreFormat" xml:space="preserve">
+    <value>{0} - POPOLARE</value>
+  </data>
+    <data name="ShowDetails_Code_SimilarToThisShow" xml:space="preserve">
+    <value>POTREBBE PIACERTI</value>
+  </data>
+    <data name="ShowDetails_OpenInTmdb" xml:space="preserve">
+        <value>TMDB</value>
+    </data>
+    <data name="ShowDetails_OpenInTrakt" xml:space="preserve">
+        <value>Trakt</value>
+    </data>
+    <data name="ShowDetails_OpenInImdb" xml:space="preserve">
+        <value>IMDB</value>
+    </data>
+    <data name="Home_Code_Popular_HowToDisplayActions" xml:space="preserve">
+    <value>Suggerimento: tieni premuta una Serie TV per visualizzare le opzioni: Aggiungi, nascondi, ecc.
+</value>
+  </data>
+    <data name="Global_Code_LearnMore" xml:space="preserve">
+    <value>Leggi di più...</value>
+  </data>
+    <data name="Home_Code_Popular_Recommandations" xml:space="preserve">
+    <value>CONSIGLIATE</value>
+  </data>
+    <data name="Home_Code_Popular_ReleasedThisMonthFormat" xml:space="preserve">
+    <value>LE SERIE TV DI {0}</value>
+  </data>
+    <data name="Home_Code_Popular_Trending" xml:space="preserve">
+    <value>DI TENDENZA</value>
+  </data>
+    <data name="Home_Code_WelcomeHeaderTextDefault" xml:space="preserve">
+    <value>Benvenuto/a, amico/a</value>
+  </data>
+    <data name="Home_Code_WelcomeHeaderTextFormat" xml:space="preserve">
+    <value>Benvenuto/a, {0}</value>
+  </data>
+    <data name="Home_Incoming_EmptyPlaceHolder_Text" xml:space="preserve">
+    <value>Non ci sono episodi in arrivo</value>
+  </data>
+    <data name="Home_Incoming_OnChannelLink_Text" xml:space="preserve">
+    <value>su</value>
+  </data>
+    <data name="Home_Incoming_PanelTitle_Header" xml:space="preserve">
+    <value>PROSSIMI EPISODI</value>
+  </data>
+    <data name="Home_Menu_AppSetting_Text" xml:space="preserve">
+    <value>Impostazioni</value>
+  </data>
+    <data name="Home_Menu_ContactMe_Text" xml:space="preserve">
+    <value>Parla con me</value>
+  </data>
+    <data name="Home_Menu_ContactMe_Reason_DataMissing" xml:space="preserve">
+    <value>Alcuni dati non sono aggiornati</value>
+  </data>
+    <data name="Global_Cancel" xml:space="preserve">
+    <value>Annulla</value>
+  </data>
+    <data name="Home_Menu_ContactMe_Reason_WannaTalk" xml:space="preserve">
+    <value>Richieste di funzionalità</value>
+  </data>
+    <data name="Home_Menu_ContactMe_Reason_OtherReason" xml:space="preserve">
+    <value>Altro motivo</value>
+  </data>
+    <data name="Home_Menu_FollowOnFacebook_Text" xml:space="preserve">
+    <value>Seguici su Facebook</value>
+  </data>
+    <data name="Home_Menu_PanelTitle_Header" xml:space="preserve">
+    <value>MENU</value>
+  </data>
+    <data name="Home_Menu_RateTheApp_Text" xml:space="preserve">
+    <value>Valuta l'app</value>
+  </data>
+    <data name="Home_MyShow_EmptyPlaceHolderPart_Text" xml:space="preserve">
+    <value>È un pò vuoto qui
+    cerchiamo qualcosa
+  da vedere...!</value>
+  </data>
+    <data name="Settings_Various_RecreateDb" xml:space="preserve">
+    <value>Ricostruisci il database.</value>
+  </data>
+    <data name="Settings_Various_RecreateDbExplanation" xml:space="preserve">
+    <value>L'applicazione verrà riavviata e dovrai eseguire una sincronizzazione completa.</value>
+  </data>
+    <data name="Home_MyShow_EmptyPlaceHolder_AddAShow_Content" xml:space="preserve">
+    <value>AGGIUNGI UNA SERIE TV</value>
+  </data>
+    <data name="Home_Popular_IsInError_Text" xml:space="preserve">
+    <value>SERIE TV popolari e di tendenza
+sono disponibili solo con
+una connessione a Internet.</value>
+  </data>
+    <data name="Home_Popular_RecommandationsBeingRemoved_Text" xml:space="preserve">
+    <value>Nascondi</value>
+  </data>
+
+    <data name="Home_Suggestions_PanelTitle_Header" xml:space="preserve">
+    <value>CONSIGLI</value>
+  </data>
+    <data name="Home_UserHistory_Code_LastWeek" xml:space="preserve">
+    <value>ULTIMI 7 GIORNI</value>
+  </data>
+    <data name="Home_UserHistory_Code_Today" xml:space="preserve">
+    <value>OGGI</value>
+  </data>
+    <data name="HomeNavigationSystem_Responsive_Header" xml:space="preserve">
+    <value>POSIZIONI DEL MENU PRINCIPALE</value>
+  </data>
+    <data name="HomeNavigationSystem_Responsive" xml:space="preserve">
+    <value>Responsive: nella parte inferiore dello schermo, nella parte superiore dello schermo</value>
+  </data>
+    <data name="HomeNavigationSystem_Bottom" xml:space="preserve">
+    <value>Nella parte inferiore dello schermo</value>
+  </data>
+    <data name="HomeNavigationSystem_Top" xml:space="preserve">
+    <value>Nella parte superiore dello schermo</value>
+  </data>
+    <data name="Home_UserHistory_Code_Yesterday" xml:space="preserve">
+    <value>IERI</value>
+  </data>
+    <data name="Home_UserHistory_PanelTitle_Header" xml:space="preserve">
+    <value>CRONOLOGIA</value>
+  </data>
+    <data name="Global_TabSection_HistoryPanelTitle" xml:space="preserve">
+    <value>Ultimi episodi guardati</value>
+  </data>
+    <data name="Home_UserHistory_SegmentHeader" xml:space="preserve">
+    <value>Tuo</value>
+  </data>
+    <data name="Home_FriendsHistory_SegmentHeader" xml:space="preserve">
+    <value>Amici</value>
+  </data>
+    <data name="Home_UserHistory_Filter_OnlyYours" xml:space="preserve">
+    <value>Solo il tuo</value>
+  </data>
+    <data name="Home_UserHistory_Filter_IncludeFriends" xml:space="preserve">
+    <value>Includi la cronologia dei tuoi amici</value>
+  </data>
+
+    <data name="Home_UserMenu_About_Content" xml:space="preserve">
+    <value>Informazioni sull'app</value>
+  </data>
+    <data name="Home_UserMenu_AppSetting_Content" xml:space="preserve">
+    <value>Impostazioni</value>
+  </data>
+    <data name="Home_UserMenu_ChangeLog_Content" xml:space="preserve">
+    <value>Note di rilascio</value>
+  </data>
+    <data name="Home_UserMenu_ChangeLog_Label" xml:space="preserve">
+    <value>Note di rilascio</value>
+  </data>
+
+    <data name="Home_UserMenu_Refresh_Content" xml:space="preserve">
+    <value>Aggiorna</value>
+  </data>
+
+    <data name="Home_UserMenu_RemoveAds_Content" xml:space="preserve">
+    <value>Rimuovi la pubblicità</value>
+  </data>
+    <data name="Home_UserMenu_Signout_Title" xml:space="preserve">
+        <value>Disconnetti</value>
+    </data>
+    <data name="Home_UserStats_Code_TotalShowCountSuffixLabelPlural" xml:space="preserve">
+    <value>SERIE TV</value>
+  </data>
+    <data name="Home_UserStats_Code_TotalShowCountSuffixLabelSingular" xml:space="preserve">
+    <value>SERIE TV</value>
+  </data>
+    <data name="Home_UserStats_Code_AllSeenShowCountSuffixLabelPlural" xml:space="preserve">
+    <value>SERIE TV viste</value>
+  </data>
+    <data name="Home_UserStats_Code_AllSeenShowCountSuffixLabelSingular" xml:space="preserve">
+    <value>SERIE TV vista</value>
+  </data>
+    <data name="Home_UserStats_Code_NotAllSeenShowCountSuffixLabelPlural" xml:space="preserve">
+    <value>SERIE TV con episodi da vedere</value>
+  </data>
+    <data name="Home_UserStats_Code_NotAllSeenShowCountSuffixLabelSingular" xml:space="preserve">
+    <value>Serie TV con episodi da vedere</value>
+  </data>
+    <data name="Home_UserStats_Code_NoTimeSpent" xml:space="preserve">
+    <value>Non hai guardato questa SERIE TV</value>
+  </data>
+    <data name="Home_UserStats_FriendsStatsHeader" xml:space="preserve">
+    <value>TU E I TUOI AMICI</value>
+  </data>
+    <data name="Global_You" xml:space="preserve">
+    <value>TU</value>
+  </data>
+    <data name="Home_UserStats_Code_PercentEpToWatchFormat" xml:space="preserve">
+    <value>{0}% di episodi non visti</value>
+  </data>
+    <data name="Home_UserStats_Code_PercentEpWatchedFormat" xml:space="preserve">
+    <value>di episodi visti</value>
+  </data>
+    <data name="Home_UserStats_Code_ToWatchEpisodeLabelPlural" xml:space="preserve">
+    <value>{0} episodi da vedere</value>
+  </data>
+    <data name="Home_UserStats_Code_WatchedEpisodeLabelPlural" xml:space="preserve">
+    <value>{0} episodi visti</value>
+  </data>
+    <data name="Home_UserStats_EmptyPlaceHolder_Text" xml:space="preserve">
+    <value>Devi aggiungere
+almeno una SERIE TV
+per vedere le tue statistiche.</value>
+  </data>
+    <data name="Home_UserStats_Genres_GroupHeader_Text" xml:space="preserve">
+    <value>PER GENERE</value>
+  </data>
+    <data name="Home_UserStats_Networks_GroupHeader_Text" xml:space="preserve">
+    <value>CANALI/SERVIZI DI STREAMING</value>
+  </data>
+    <data name="Home_UserStats_LastMonthEmpty_Text" xml:space="preserve">
+    <value>Nessun episodio visto negli ultimi 30 giorni.</value>
+  </data>
+    <data name="Home_UserStats_LastMonthTopShow_GroupHeader_Text" xml:space="preserve">
+    <value>CLASSIFICA DELLE SERIE TV VISTE NEGLI ULTIMI 30 GIORNI</value>
+  </data>
+    <data name="Home_UserStats_LastMonth_GroupHeader_Text" xml:space="preserve">
+    <value>EPISODI VISTI NEGLI ULTIMI 30 GIORNI</value>
+        <comment>EPISODI VISTI NEGLI ULTIMI 30 GIORNI</comment>
+  </data>
+    <data name="Home_UserStats_PanelTitle_Header" xml:space="preserve">
+    <value>TUTTO SU DI TE</value>
+  </data>
+    <data name="Home_UserStats_Progression_GroupHeader_Text" xml:space="preserve">
+    <value>I TUOI PROGRESSI</value>
+  </data>
+    <data name="Home_UserStats_TopShow_GroupHeader_Text" xml:space="preserve">
+    <value>TOP SERIE TV</value>
+  </data>
+    <data name="Home_UserStats_WatchTime_EpLeftToSeeIn_Text" xml:space="preserve">
+    <value>episodi da vedere in</value>
+  </data>
+    <data name="Home_UserStats_WatchTime_ShowNotStartedEpLeftToSeeIn_Text" xml:space="preserve">
+    <value>episodi nelle serie da vedere in</value>
+  </data>
+    <data name="Home_UserStats_WatchTime_EpSeenInPlural_Text" xml:space="preserve">
+    <value>episodi visti in</value>
+  </data>
+
+    <data name="Import_Code_BackupRetrieved" xml:space="preserve">
+    <value>Backup ripristinato, stiamo elaborando
+le tue Serie TV...</value>
+  </data>
+
+    <data name="LiveTile_Code_NoShowHere" xml:space="preserve">
+    <value>Nessuna SERIE TV qui :(</value>
+  </data>
+
+    <data name="People_Code_ActingAsFormat" xml:space="preserve">
+    <value>{0}</value>
+  </data>
+    <data name="People_Code_ActingInXEpisodePlural" xml:space="preserve">
+    <value>{0} episodi</value>
+  </data>
+    <data name="People_Code_ActingInXMoviesPlural" xml:space="preserve">
+    <value>RECITA IN {0} FILM</value>
+  </data>
+    <data name="People_Code_ActingInXShowsPlural" xml:space="preserve">
+    <value>RECITA IN {0} SERIE TV</value>
+  </data>
+    <data name="People_Code_AsCastNumberPlural" xml:space="preserve">
+    <value>{0} ruoli diversi</value>
+  </data>
+    <data name="People_Code_AsCrewNumberPlural" xml:space="preserve">
+    <value>{0} partecipazioni al cast</value>
+  </data>
+    <data name="People_Code_CrewingInXMoviesPlural" xml:space="preserve">
+    <value>NEL CAST DI {0} FILM</value>
+  </data>
+    <data name="People_Code_CrewingInXShowsPlural" xml:space="preserve">
+    <value>NEL CAST DI {0} SERIE TV</value>
+  </data>
+    <data name="People_Code_EmptyBiography" xml:space="preserve">
+    <value>Nessuna biografia disponibile.</value>
+  </data>
+
+    <data name="RateAnEpisode_Title_Text" xml:space="preserve">
+    <value>Ti è piaciuto questo episodio?</value>
+  </data>
+    <data name="RateAShow_ActionButton_Content" xml:space="preserve">
+    <value>VALUTA LA SERIE TV</value>
+  </data>
+    <data name="RateAShow_Title_Text" xml:space="preserve">
+    <value>Come valuti questa SERIE TV?</value>
+  </data>
+    <data name="Global_WhatDoYouThinkOfIt" xml:space="preserve">
+    <value>Cosa ne pensi?</value>
+  </data>
+    <data name="RateEpisode_Code_Error" xml:space="preserve">
+    <value>Non siamo stati in grado di valutare questo episodio in questo momento, riprova più tardi.</value>
+  </data>
+    <data name="RateMe_Code_MailSubjectFormat" xml:space="preserve">
+    <value>Informazioni su TV Show Tracker v{0}</value>
+  </data>
+    <data name="RateMeToast_Code_Content_Text" xml:space="preserve">
+    <value>Consiglieresti TV Show Tracker?</value>
+  </data>
+    <data name="RateMe_Content_Text" xml:space="preserve">
+    <value>Ad ogni modo, conosci TV Show Tracker e ci piacerebbe sentirti.
+
+Esprimi il tuo parere!</value>
+  </data>
+    <data name="RateMe_DisLike_Text" xml:space="preserve">
+    <value>NON MI È PIACIUTO</value>
+  </data>
+    <data name="RateMe_Later_Content" xml:space="preserve">
+    <value>No grazie. Forse più tardi.</value>
+  </data>
+    <data name="RateMe_Like_Text" xml:space="preserve">
+    <value>MI PIACE!</value>
+  </data>
+
+    <data name="RateMe_Title_Text" xml:space="preserve">
+    <value>LA TUA OPINIONE È IMPORTANTE PER NOI!</value>
+  </data>
+    <data name="RateMeToast_Code_Title_Text" xml:space="preserve">
+    <value>La tua opinione conta!</value>
+  </data>
+    <data name="RateShow_Code_Error" xml:space="preserve">
+    <value>Impossibile valutare la SERIE TV ora, riprova più tardi.</value>
+  </data>
+    <data name="Search_AddingMediaItem_Text" xml:space="preserve">
+        <value>Questa SerieTv è stata aggiunta..</value>
+    </data>
+    <data name="Search_EmptyPlaceholder_Text" xml:space="preserve">
+    <value>Sembra che nessuna SERIE TV
+corrisponda a questa ricerca
+:-(</value>
+  </data>
+    <data name="Search_PlaceHolder_Content" xml:space="preserve">
+    <value>Cerca SERIE TV per parole chiave.</value>
+  </data>
+    <data name="Settings_SetAsSeenBehavior_Text" xml:space="preserve">
+    <value>Quando un episodio è contrassegnato come visto:</value>
+  </data>
+    <data name="SetAsSeenBehavior_WhatToDoQuestion" xml:space="preserve">
+    <value>Guardato quando?</value>
+  </data>
+    <data name="Settings_SetAsSeenBehavior_Code_SetAsSeenAtCurrentDate" xml:space="preserve">
+    <value>Usa data e ora correnti</value>
+  </data>
+    <data name="Settings_SetAsSeenBehavior_Code_SetAsSeenAtAiredDate" xml:space="preserve">
+    <value>Usa la data di uscita dell'episodio</value>
+  </data>
+    <data name="Settings_SetAsSeenBehavior_Code_SetAsSeenAtAGivenDate" xml:space="preserve">
+    <value>Data e ora personalizzate</value>
+  </data>
+    <data name="Settings_SetAsSeenBehavior_Code_AskUserEachTime" xml:space="preserve">
+    <value>Chiedimi sempre cosa fare</value>
+  </data>
+    <data name="Settings_BackgroundSyncEnabled_Text" xml:space="preserve">
+    <value>Abilita la sincronizzazione in background</value>
+  </data>
+    <data name="Settings_BackgroundSyncFrequency_Text" xml:space="preserve">
+    <value>Sincronizza ogni:</value>
+  </data>
+    <data name="Settings_BackgroundSyncFrequency_Code_12Hours" xml:space="preserve">
+    <value>12 ore</value>
+  </data>
+    <data name="Settings_BackgroundSyncFrequency_Code_24Hours" xml:space="preserve">
+    <value>24 ore</value>
+  </data>
+    <data name="Settings_BackgroundSyncFrequency_Code_2Hours" xml:space="preserve">
+    <value>2 ore</value>
+  </data>
+    <data name="Settings_BackgroundSyncFrequency_Code_30Minutes" xml:space="preserve">
+    <value>30 minuti</value>
+  </data>
+    <data name="Settings_BackgroundSyncFrequency_Code_4Hours" xml:space="preserve">
+    <value>4 ore</value>
+  </data>
+    <data name="Settings_BackgroundSyncFrequency_Code_60Minutes" xml:space="preserve">
+    <value>1 ora</value>
+  </data>
+    <data name="Settings_BackgroundSyncFrequency_Code_6Hours" xml:space="preserve">
+    <value>6 ore</value>
+  </data>
+    <data name="Settings_BackgroundSyncHeader_Text" xml:space="preserve">
+    <value>SINCRONIZZAZIONE IN BACKGROUND</value>
+  </data>
+    <data name="Settings_Code_ChangingLanguage" xml:space="preserve">
+    <value>Applicazione della nuova lingua ...</value>
+  </data>
+ 
+    <data name="Settings_Data_MarkBatchAsSeenALongTimeAgo_Text" xml:space="preserve">
+    <value>Quando contrassegno stagioni complete come viste, è per informare Trakt che è passato molto tempo?</value>
+  </data>
+    <data name="Settings_Data_PutAllShowWithEpToSeeInSameGroup_Text" xml:space="preserve">
+    <value>Mostra SERIE TV con episodi da vedere (terminata o meno) nello stesso gruppo sulla home page?</value>
+  </data>
+    <data name="Settings_Data_PutShowToStartInASeparateGroup_Text" xml:space="preserve">
+    <value>Mostra le SERIE TV da seguire (nessun episodio visto) in un gruppo separato</value>
+  </data>
+    <data name="Settings_Data_HideAndIgnoreSpecialEpisodes_Text" xml:space="preserve">
+    <value>Ignora e nascondi episodi speciali</value>
+  </data>
+
+    <data name="Settings_DisplayHeader_Text" xml:space="preserve">
+    <value>COSA E COME VISUALIZZARE</value>
+  </data>
+    <data name="Settings_DisplayIncomingHeader_Text" xml:space="preserve">
+    <value>Mostra i prossimi episodi all'inizio e anche la pagina dei dettagli</value>
+  </data>
+    <data name="Settings_DisplaySection_Discover" xml:space="preserve">
+        <value>Mostrare la sezione "Scopri"?</value>
+    </data>
+    <data name="Settings_DisplaySection_UserHistoryHeader" xml:space="preserve">
+        <value>Mostrare la sezione "La tua cronologia"?</value>
+    </data>
+    <data name="Settings_Display_AppLanguage_Text" xml:space="preserve">
+    <value>Lingua dell'applicazione</value>
+  </data>
+    <data name="Settings_Display_AppDataLanguage_Text" xml:space="preserve">
+    <value>Lingua dei dati delle SERIE TV</value>
+  </data>
+    <data name="Settings_Display_Code_AvailableOnNextLaunchReminder" xml:space="preserve">
+    <value>Hai apportato una modifica (carattere, colore o lingua) che sarà visibile solo al prossimo riavvio di TV Show Tracker</value>
+  </data>
+    <data name="Settings_Display_Code_NotificationDelay_12Hours" xml:space="preserve">
+    <value>12 ore prima</value>
+  </data>
+    <data name="Settings_Display_Code_NotificationDelay_2Hours" xml:space="preserve">
+    <value>2 ore prima</value>
+  </data>
+    <data name="Settings_Display_Code_NotificationDelay_2HoursAfter" xml:space="preserve">
+    <value>2 ore dopo</value>
+  </data>
+    <data name="Settings_Display_Code_NotificationDelay_3Hours" xml:space="preserve">
+    <value>3 ore prima</value>
+  </data>
+    <data name="Settings_Display_Code_NotificationDelay_6Hours" xml:space="preserve">
+    <value>6 ore prima</value>
+  </data>
+    <data name="Settings_Display_Code_NotificationDelay_8Hours" xml:space="preserve">
+    <value>8 ore prima</value>
+  </data>
+    <data name="Settings_Display_Code_NotificationDelay_10Hours" xml:space="preserve">
+    <value>10 ore prima</value>
+  </data>
+
+    <data name="Settings_Display_Code_NotificationDelay_12HoursAfter" xml:space="preserve">
+    <value>12 ore dopo</value>
+  </data>
+    <data name="Settings_Display_Code_NotificationDelay_AWeek" xml:space="preserve">
+    <value>Una settimana prima della messa in onda</value>
+  </data>
+    <data name="Settings_Display_Code_NotificationDelay_AWeekAfter" xml:space="preserve">
+    <value>Una settimana dopo la messa in onda</value>
+  </data>
+    <data name="Settings_Display_Code_NotificationDelay_15Minutes" xml:space="preserve">
+    <value>15 minuti prima</value>
+  </data>
+    <data name="Settings_Display_Code_NotificationDelay_15MinutesAfter" xml:space="preserve">
+    <value>15 minuti dopo</value>
+  </data>
+    <data name="Settings_Display_Code_NotificationDelay_5Minutes" xml:space="preserve">
+    <value>5 minuti prima</value>
+  </data>
+    <data name="Settings_Display_Code_NotificationDelay_5MinutesAfter" xml:space="preserve">
+    <value>5 minuti dopo</value>
+  </data>
+    <data name="Settings_Display_Code_NotificationDelay_60Minutes" xml:space="preserve">
+    <value>1 ora prima</value>
+  </data>
+    <data name="Settings_Display_Code_NotificationDelay_60MinutesAfter" xml:space="preserve">
+    <value>1 ora dopo</value>
+  </data>
+    <data name="Settings_Display_Code_NotificationDelay_ADay" xml:space="preserve">
+    <value>1 giorno prima</value>
+  </data>
+    <data name="Settings_Display_Code_NotificationDelay_ADayAfter" xml:space="preserve">
+    <value>1 giorno dopo</value>
+  </data>
+    <data name="Settings_Display_Code_NotificationDelay_None" xml:space="preserve">
+    <value>Quando viene trasmesso l'episodio</value>
+  </data>
+    <data name="Settings_Display_Code_SortOption_Alphabetic" xml:space="preserve">
+    <value>Alfabetico</value>
+  </data>
+    <data name="Settings_Display_Code_SortOption_AlphabeticReverse" xml:space="preserve">
+    <value>Alfabeto invertito</value>
+  </data>
+    <data name="Settings_Display_Code_SortOption_EpisodeToSee" xml:space="preserve">
+    <value>Numero di episodi da vedere</value>
+  </data>
+    <data name="Settings_Display_Code_SortOption_EpisodeToSeeReverse" xml:space="preserve">
+    <value>Numero di episodi da vedere invertiti</value>
+  </data>
+    <data name="Settings_Display_Code_SortOption_LastActionTime" xml:space="preserve">
+    <value>Data ultima modifica</value>
+  </data>
+    <data name="Settings_Display_Code_SortOption_LastActionTimeReverse" xml:space="preserve">
+    <value>Data ultima modifica invertita</value>
+  </data>
+    <data name="Settings_Display_Code_SortOption_NextEpisodeAiredDate" xml:space="preserve">
+    <value>Prossimo episodio in onda</value>
+  </data>
+    <data name="Settings_Display_Code_SortOption_NextEpisodeAiredDateReverse" xml:space="preserve">
+    <value>Prossimo episodio in onda invertito</value>
+  </data>
+    <data name="Settings_Display_ColorHeader_Text" xml:space="preserve">
+    <value>COLORE PRINCIPALE</value>
+  </data>
+    <data name="Settings_Display_FontHeader_Text" xml:space="preserve">
+    <value>FONT</value>
+  </data>
+    <data name="Settings_Display_HideEndedAndSeenShowsFromHome_Text" xml:space="preserve">
+    <value>Nascondi le SERIE TV viste e terminate dalla schermata principale</value>
+  </data>
+
+    <data name="Settings_Display_DateFormatLabel_Text" xml:space="preserve">
+    <value>Formato di visualizzazione della data</value>
+  </data>
+    <data name="Settings_Display_24HourDates_Text" xml:space="preserve">
+    <value>Formato 24 ore</value>
+  </data>
+    <data name="Settings_Display_StartupPage_Text" xml:space="preserve">
+    <value>Scheda visualizzata all'avvio</value>
+  </data>
+    <data name="Settings_Display_NotificationDelayHeader_Text" xml:space="preserve">
+    <value>Notifica di nuovi episodi</value>
+  </data>
+    <data name="Settings_Display_TranslationsHeader_Text" xml:space="preserve">
+    <value>TRADUZIONI</value>
+  </data>
+    <data name="Settings_Display_UIThemeHeader_Text" xml:space="preserve">
+    <value>Tema</value>
+  </data>
+    <data name="Settings_LiveThings_Header" xml:space="preserve">
+    <value>NOTIFICHE</value>
+  </data>
+
+   
+    <data name="Settings_MainDisplayHeader_Header" xml:space="preserve">
+    <value>DISPLAY</value>
+  </data>
+    <data name="Settings_MainUiCustomizationHeader_Header" xml:space="preserve">
+    <value>ASPETTO</value>
+  </data>
+ 
+    <data name="Settings_Notifications_CreateNotificationsForIncomingEpisodes_Text" xml:space="preserve">
+    <value>Notifica quando un episodio delle tue SERIE TV va in onda</value>
+  </data>
+    <data name="Settings_Notifications_CreateNotificationsForSeasonReleaseDateAnnounced_Text" xml:space="preserve">
+    <value>Notifica quando viene annunciata la data di lancio</value>
+  </data>
+    <data name="Settings_Notifications_CreateNotificationsForShowStatusChange_Text" xml:space="preserve">
+    <value>Notifica quando un SERIE TV cambia stato</value>
+  </data>
+    <data name="Settings_Other_Header" xml:space="preserve">
+    <value>ALTRO</value>
+  </data>
+    <data name="Settings_Various" xml:space="preserve">
+    <value>VARIE</value>
+  </data>
+    <data name="Settings_PageTitle_Text" xml:space="preserve">
+    <value>IMPOSTAZIONI</value>
+  </data>
+    <data name="Settings_RaterAfterWatchedHeader_Text" xml:space="preserve">
+        <value>Episodi: richiedere una valutazione quando contrassegnato come visto</value>
+    </data>
+    <data name="Settings_SortHeader_Text" xml:space="preserve">
+    <value>CLASSIFICAZIONE DELLE SERIE TV</value>
+  </data>
+    <data name="Settings_SortHeaderWithEpToSee_Text" xml:space="preserve">
+    <value>Gruppi con episodi da vedere</value>
+  </data>
+    <data name="Settings_SortHeaderWithNOEpToSee_Text" xml:space="preserve">
+    <value>Gruppi senza episodi da vedere</value>
+  </data>
+    <data name="Settings_StatsHeader_Text" xml:space="preserve">
+    <value>STATISTICHE</value>
+  </data>
+    <data name="Settings_Stats_IgnoreDaysHigherThan20_Text" xml:space="preserve">
+    <value>Ignora i giorni in cui ho visto più di 20 episodi</value>
+  </data>
+    <data name="Settings_SubGroup_Synchronisation_Text" xml:space="preserve">
+    <value>SINCRONIZZAZIONE AUTOMATICA</value>
+  </data>
+    <data name="Settings_SyncTrigger_Code_12Hours" xml:space="preserve">
+    <value>Ogni 12 ore</value>
+  </data>
+    <data name="Settings_SyncTrigger_Code_24Hours" xml:space="preserve">
+    <value>Ogni 24 ore</value>
+  </data>
+    <data name="Settings_SyncTrigger_Code_48Hours" xml:space="preserve">
+    <value>Ogni 48 ore</value>
+  </data>
+    <data name="Settings_SyncTrigger_Code_7Days" xml:space="preserve">
+    <value>Ogni 7 giorni</value>
+  </data>
+    <data name="Settings_SyncTrigger_Code_EveryLaunch" xml:space="preserve">
+    <value>Ad ogni avvio</value>
+  </data>
+    <data name="Settings_SyncTrigger_Code_Manually" xml:space="preserve">
+    <value>Manualmente</value>
+  </data>
+    <data name="Settings_ToastNotificationsHeader_Text" xml:space="preserve">
+    <value>NOTIFICHE</value>
+  </data>
+    <data name="Settings_BadgeNotificationEnabled_Text" xml:space="preserve">
+    <value>Mostra un badge sull'icona dell'app con il numero di episodi da vedere</value>
+  </data>
+    <data name="Settings_UITheme_Dark" xml:space="preserve">
+    <value>Scuro</value>
+  </data>
+    <data name="Settings_UITheme_Light" xml:space="preserve">
+    <value>Chiaro</value>
+  </data>
+    <data name="Settings_UI_Code_NeedToBuyIAPContent" xml:space="preserve">
+    <value>Per eseguire questa azione è necessario effettuare l'acquisto in-app nello Store.
+
+Questo è un modo per ringraziare lo sviluppatore!
+
+Vuoi maggiori informazioni?</value>
+  </data>
+    <data name="Settings_UI_Code_NeedToBuyIAPTitle" xml:space="preserve">
+    <value>ACQUISTO RICHIESTO</value>
+  </data>
+
+    <data name="ShowDetails_AppBar_Add_Label" xml:space="preserve">
+    <value>Aggiungi a SERIE TV</value>
+  </data>
+    <data name="Home_AppBar_Add_Label" xml:space="preserve">
+    <value>Aggiungi SERIE TV</value>
+  </data>
+    <data name="ShowDetails_AppBar_AddComment_Label" xml:space="preserve">
+    <value>Commenta</value>
+  </data>
+    <data name="ShowDetails_AppBar_AddComment_SubmitComment" xml:space="preserve">
+    <value>Invia</value>
+  </data>
+    <data name="ShowDetails_AppBar_AddComment_SpoilerAlert" xml:space="preserve">
+    <value>Avviso spoiler</value>
+  </data>
+    <data name="ShowDetails_AppBar_AddComment_Placeholder" xml:space="preserve">
+    <value>Scrivi qui il tuo commento.
+Regole: solo in inglese, 5 o più parole, senza richieste di supporto, contrassegna se spoiler!</value>
+  </data>
+    <data name="ShowDetails_ReplyComment_ButtonText" xml:space="preserve">
+    <value>Rispondi a questo commento</value>
+  </data>
+    <data name="ShowDetails_ReplyComment_ReplyingToFormat" xml:space="preserve">
+    <value>Risposta a {0} commenti</value>
+  </data>
+    <data name="AddComment_AtLeast5Words" xml:space="preserve">
+    <value>Sono necessarie almeno 5 parole.</value>
+  </data>
+    <data name="AddComment_InEnglish" xml:space="preserve">
+    <value>Deve essere scritto in inglese.</value>
+  </data>
+    <data name="MediaItemDetails_DisplayPoster" xml:space="preserve">
+    <value>Guarda la locandina</value>
+  </data>
+    <data name="ShowDetails_AppBar_Hide_Label" xml:space="preserve">
+    <value>Nascondi queste informazioni</value>
+  </data>
+
+    <data name="ShowDetails_AppBar_RateShow_Label" xml:space="preserve">
+    <value>Valuta questa SERIE TV</value>
+  </data>
+    <data name="ShowDetails_AppBar_Remove_Label" xml:space="preserve">
+    <value>Rimuovi dalla mia raccolta</value>
+  </data>
+
+    <data name="ShowDetails_AppBar_Search_Label" xml:space="preserve">
+    <value>Cerca</value>
+  </data>
+    <data name="Global_Share_Label" xml:space="preserve">
+    <value>Condividi</value>
+  </data>
+    <data name="ShowDetails_AppBar_UnHide_Label" xml:space="preserve">
+    <value>Ripristina nella mia raccolta</value>
+  </data>
+    <data name="ShowDetails_Similar_PanelHeader_Header" xml:space="preserve">
+    <value>SERIE TV SIMILI</value>
+  </data>
+    <data name="Show_List_AddToAList_Label" xml:space="preserve">
+    <value>Aggiungi all'elenco</value>
+  </data>
+    <data name="Global_Validate" xml:space="preserve">
+    <value>CONFERMA</value>
+  </data>
+
+    <data name="Show_List_CreateAList_Text" xml:space="preserve">
+    <value>CREA UN ELENCO</value>
+  </data>
+    <data name="Show_List_RefreshingList_Text" xml:space="preserve">
+    <value>Aggiornamento elenco in corso...</value>
+  </data>
+    <data name="Show_List_ListedOn_Text" xml:space="preserve">
+    <value>Catalogato in questi elenchi:</value>
+  </data>
+    <data name="Show_List_AddToListExplanation_Text" xml:space="preserve">
+    <value>Seleziona gli elenchi dove posizionare questa SERIE TV</value>
+  </data>
+    <data name="Global_Close_Text" xml:space="preserve">
+    <value>CHIUDI</value>
+  </data>
+    <data name="List_DescriptionField_PlaceholderText" xml:space="preserve">
+    <value>Descrizione (facoltativa)</value>
+  </data>
+    <data name="List_NameField_PlaceholderText" xml:space="preserve">
+    <value>Nome (obbligatorio)</value>
+  </data>
+    <data name="ShowDetails_Calendar_EmptyPlaceholder_Text" xml:space="preserve">
+    <value>Nessun prossimo episodio
+per questa SERIE TV</value>
+  </data>
+    <data name="ShowDetails_Calendar_PanelHeader_Header" xml:space="preserve">
+    <value>CALENDARIO</value>
+  </data>
+    <data name="ShowDetails_Code_AskRemovingContent" xml:space="preserve">
+    <value>AVVISO: questo rimuoverà questa SERIE TV dalla tua raccolta SERIE TV su Trakt, la tua lista di controllo e tutta la tua cronologia andranno persi.</value>
+  </data>
+    <data name="ShowDetails_Code_AskRemovingTitle" xml:space="preserve">
+    <value>RIMUOVERE SERIE TV?</value>
+  </data>
+    <data name="ShowDetails_Code_CannotRemoveFormat" xml:space="preserve">
+    <value>Spiacenti, al momento non è stato possibile rimuovere la SERIE TV '{0}' dalla tua raccolta.</value>
+  </data>
+    <data name="ShowDetails_Code_Episode_AiredEpisodesPlural" xml:space="preserve">
+    <value>EPISODI TRASMESSI</value>
+  </data>
+    <data name="ShowDetails_Code_EpisodePlural" xml:space="preserve">
+    <value>episodi</value>
+  </data>
+    <data name="ShowDetails_Code_Episode_TotalEpisodeLeftPlural" xml:space="preserve">
+    <value>EPISODI ANCORA DA VEDERE</value>
+  </data>
+    <data name="ShowDetails_Code_Episode_TotalSeasonNumberPlural" xml:space="preserve">
+    <value>STAGIONI</value>
+  </data>
+    <data name="ShowDetails_Code_Removing" xml:space="preserve">
+    <value>Rimozione SERIE TV...</value>
+  </data>
+    <data name="ShowDetails_Code_SeasonGroup_Season" xml:space="preserve">
+    <value>STAGIONE</value>
+  </data>
+    <data name="ShowDetails_Code_SeasonGroup_Specials" xml:space="preserve">
+    <value>SPECIALI</value>
+  </data>
+    <data name="ShowDetails_Code_Share_CheckOutThisShowFormat" xml:space="preserve">
+    <value>Controlla questa SERIE TV, "{0}": {1}</value>
+  </data>
+    <data name="ShowDetails_Code_Share_CheckOutThisEpisodeFormat" xml:space="preserve">
+    <value>Controlla questo episodio, "{0}" / "{1}": {2}</value>
+  </data>
+    <data name="ShowDetails_Code_Share_DiscoveredWith" xml:space="preserve">
+    <value>Scoperto utilizzando l'app TV Show &amp; Movie Tracker #TVSTT</value>
+  </data>
+    <data name="ShowDetails_Code_ShowInfo_ErrorWhenHidingRecommendation" xml:space="preserve">
+    <value>Si è verificato un errore durante il tentativo di nascondere questa SERIE TV da quelle consigliate...</value>
+  </data>
+    <data name="ShowDetails_EpisodeMenu_Checkin_Content" xml:space="preserve">
+    <value>Check-in</value>
+  </data>
+    <data name="ShowDetails_EpisodeMenu_MarkAsNotSeen_Content" xml:space="preserve">
+    <value>Contrassegna l'episodio come NON visto</value>
+  </data>
+    <data name="ShowDetails_EpisodeMenu_MarkAsNotSeenWithPrevious_Content" xml:space="preserve">
+    <value>Contrassegna questo episodio e quello precedente come NON visto</value>
+  </data>
+    <data name="ShowDetails_EpisodeMenu_MarkAsSeen_Content" xml:space="preserve">
+    <value>Contrassegna l'episodio come visto</value>
+  </data>
+    <data name="ShowDetails_EpisodeMenu_MarkAsSeenWithPrevious_Content" xml:space="preserve">
+    <value>Contrassegna questo episodio e quello precedente come già visti</value>
+  </data>
+    <data name="ShowDetails_EpisodeMenu_Rate_Content" xml:space="preserve">
+    <value>Valuta questo episodio</value>
+  </data>
+    <data name="ShowDetails_Episode_PanelTitle_Header" xml:space="preserve">
+    <value>EPISODI</value>
+  </data>
+    <data name="ShowDetails_Episode_Runtime_Text" xml:space="preserve">
+    <value>MIN PER episodio</value>
+  </data>
+    <data name="ShowDetails_SeasonMenu_DoNothing_Content" xml:space="preserve">
+    <value>Non fare nulla</value>
+  </data>
+    <data name="ShowDetails_SeasonMenu_MarkSeasonAndPreviousAsSeen_Content" xml:space="preserve">
+    <value>Contrassegna questa stagione e quella passata come già viste</value>
+  </data>
+    <data name="ShowDetails_SeasonMenu_MarkSeasonAsNOTsSeen_Content" xml:space="preserve">
+    <value>Contrassegna la stagione come NON vista</value>
+  </data>
+    <data name="ShowDetails_SeasonMenu_MarkSeasonAsSeen_Content" xml:space="preserve">
+    <value>Contrassegna la stagione come vista</value>
+  </data>
+    <data name="ShowDetails_SeasonMenu_Share_Content" xml:space="preserve">
+    <value>Condividi la stagione</value>
+  </data>
+    <data name="ShowDetails_ShowComments_Code_CommentMadeAtDuringSeasonFormat" xml:space="preserve">
+    <value>{0} – stagione{1}</value>
+  </data>
+    <data name="ShowDetails_ShowComments_Code_ReplyNumberPlural" xml:space="preserve">
+    <value>Risposte</value>
+  </data>
+    <data name="ShowDetails_ShowComments_Code_ReplyNumberNone" xml:space="preserve">
+    <value>Nessuna risposta</value>
+  </data>
+    <data name="ShowDetails_ShowComments_Code_Like" xml:space="preserve">
+    <value>Mi è piaciuto</value>
+  </data>
+    <data name="ShowDetails_ShowComments_Code_UnLike" xml:space="preserve">
+    <value>Não mais como</value>
+  </data>
+    <data name="ShowDetails_ShowComments_Code_DisplayReplies" xml:space="preserve">
+    <value>Mostra le risposte</value>
+  </data>
+    <data name="ShowDetails_ShowComments_Code_ReplyNumberSingular" xml:space="preserve">
+    <value>Risposta</value>
+  </data>
+    <data name="ShowDetails_ShowComments_SpoilerAlertButtonText" xml:space="preserve">
+    <value>SPOILER: MOSTRA IN QUALSIASI LINGUA</value>
+  </data>
+    <data name="MediaItemDetails_Comments_Code_LoadingComments" xml:space="preserve">
+    <value>Caricamento commenti...</value>
+  </data>
+    <data name="MediaItemDetails_Comments_Code_TotalCommentsNumberLabelPlural" xml:space="preserve">
+    <value>Ci sono un totale di {0} commenti</value>
+  </data>
+
+    
+    <data name="ShowDetails_ShowComments_PanelHeader_Header" xml:space="preserve">
+    <value>COMMENTI</value>
+  </data>
+ 
+    <data name="ShowDetails_ShowInfo_Air_Text" xml:space="preserve">
+    <value>In onda:</value>
+  </data>
+    <data name="ShowDetails_ShowInfo_AirAt_Text" xml:space="preserve">
+    <value> alle </value>
+  </data>
+    <data name="ShowDetails_ShowInfo_CastGroupHeader_Text" xml:space="preserve">
+    <value>ATTORI</value>
+  </data>
+    <data name="ShowDetails_ShowInfo_CastOrCrewEmpty_Text" xml:space="preserve">
+    <value>Non ci sono informazioni su cast della SERIE TV...</value>
+  </data>
+
+    <data name="ShowDetails_ShowInfo_CrewGroupHeader_Text" xml:space="preserve">
+    <value>SCHEDA TECNICA</value>
+  </data>
+    <data name="ShowDetails_ShowInfo_FirstYear_Text" xml:space="preserve">
+    <value>Primo anno:</value>
+  </data>
+    <data name="ShowDetails_ShowInfo_HideRecommendation_Text" xml:space="preserve">
+    <value>Nascondi raccomandazione</value>
+  </data>
+    <data name="ShowDetails_ShowInfo_PanelHeader_Header" xml:space="preserve">
+    <value>DETTAGLI</value>
+  </data>
+    <data name="Rating_ValueDescription_1" xml:space="preserve">
+    <value>Davvero davvero male. Peggio che mai.</value>
+  </data>
+    <data name="Rating_ValueDescription_2" xml:space="preserve">
+    <value>Peccato</value>
+  </data>
+    <data name="Rating_ValueDescription_3" xml:space="preserve">
+    <value>Male</value>
+  </data>
+    <data name="Rating_ValueDescription_4" xml:space="preserve">
+    <value>Non mi è piaciuto</value>
+  </data>
+    <data name="Rating_ValueDescription_5" xml:space="preserve">
+    <value>Mah</value>
+  </data>
+    <data name="Rating_ValueDescription_6" xml:space="preserve">
+    <value>Non male</value>
+  </data>
+    <data name="Rating_ValueDescription_7" xml:space="preserve">
+    <value>Buona</value>
+  </data>
+    <data name="Rating_ValueDescription_8" xml:space="preserve">
+    <value>Ottima</value>
+  </data>
+    <data name="Rating_ValueDescription_9" xml:space="preserve">
+    <value>Eccellente!</value>
+  </data>
+    <data name="Rating_ValueDescription_10" xml:space="preserve">
+    <value>Meravigliosa!</value>
+  </data>
+
+    <data name="ShowDetails_ShowInfo_RatingWith_Text" xml:space="preserve">
+    <value> con </value>
+  </data>
+    <data name="ShowDetails_ShowInfo_Runtime_Text" xml:space="preserve">
+        <value>Durata degli episodi:</value>
+    </data>
+    <data name="EpisodeDetails_Runtime" xml:space="preserve">
+    <value>Durata: </value>
+  </data>
+    <data name="ShowDetails_ShowInfo_SeasonsRatingGroupHeader_Text" xml:space="preserve">
+    <value>VALUTAZIONI DELLE STAGIONI</value>
+  </data>
+    <data name="ShowDetails_ShowInfo_Status_Text" xml:space="preserve">
+    <value>Stato:</value>
+  </data>
+    <data name="ShowDetails_ShowNews_Error_Text" xml:space="preserve">
+    <value>È necessaria una connessione a Internet per scaricare le informazioni sull'evento.</value>
+  </data>
+
+    <data name="ShowDetails_ShowNews_NoNewsToDisplay_Text" xml:space="preserve">
+    <value>Al momento non ci sono informazioni per questo evento.</value>
+  </data>
+    <data name="ShowDetails_ShowNews_PanelHeader_Header" xml:space="preserve">
+    <value>NOTIZIE</value>
+  </data>
+    <data name="MediaItemDetails_News_Reload_Content" xml:space="preserve">
+    <value>RIPROVA</value>
+  </data>
+
+    <data name="Startup_Code_Connection_TraktReached" xml:space="preserve">
+    <value>Ci stiamo connettendo con trakt.tv e
+ci servono solo pochi secondi.</value>
+  </data>
+
+    <data name="Startup_FlipViewItem2_Content_Text" xml:space="preserve">
+    <value>...tutte le SERIE TV
+che guardi!</value>
+  </data>
+    <data name="Startup_FlipViewItem2_Title_Text" xml:space="preserve">
+    <value>Gestisci</value>
+  </data>
+    <data name="Startup_FlipViewItem3_Content_Text" xml:space="preserve">
+    <value>...le nuove SERIE TV
+secondo i tuoi gusti
+e le tendenze nel mondo!</value>
+  </data>
+    <data name="Startup_FlipViewItem3_Title_Text" xml:space="preserve">
+    <value>Scopri...</value>
+  </data>
+    <data name="Startup_FlipViewItem4_Content_Text" xml:space="preserve">
+    <value>...solo perché la vita...
+merita di essere divertente!</value>
+  </data>
+    <data name="Startup_FlipViewItem4_Title_Text" xml:space="preserve">
+    <value>Divertiti...</value>
+  </data>
+    <data name="Startup_Register_Text" xml:space="preserve">
+    <value>ISCRIVITI</value>
+  </data>
+    <data name="Startup_SignIn_Text" xml:space="preserve">
+    <value>ACCEDI</value>
+  </data>
+    <data name="StatusDisplay_ImportInProgressFormat" xml:space="preserve">
+    <value>Importazione... ({0}%)</value>
+  </data>
+    <data name="StatusDisplay_SyncFailure" xml:space="preserve">
+    <value>Sincronizzazione non riuscita: controlla la tua connessione Internet.</value>
+  </data>
+    <data name="StatusDisplay_SyncFailureBecauseOfTrakt" xml:space="preserve">
+    <value>Errore: Trakt.tv non è attualmente disponibile.</value>
+  </data>
+    <data name="Global_Error_SyncFailureBecauseOfTrakt" xml:space="preserve">
+    <value>Trakt.tv sembra essere offline. Non è la tua connessione Internet o un errore dell'applicazione. Per favore riprova più tardi.</value>
+  </data>
+    <data name="StatusDisplay_SyncingExtraInfo" xml:space="preserve">
+    <value>Sincronizzazione di informazioni aggiuntive...</value>
+  </data>
+    <data name="StatusDisplay_SyncingHiddenItems" xml:space="preserve">
+    <value>Sincronizzazione di oggetti nascosti...</value>
+  </data>
+    <data name="StatusDisplay_SyncingRatings" xml:space="preserve">
+    <value>Sincronizzazione valutazioni...</value>
+  </data>
+    <data name="StatusDisplay_SyncingImages" xml:space="preserve">
+    <value>Sincronizzazione immagini...</value>
+  </data>
+    <data name="StatusDisplay_SyncingCalendar" xml:space="preserve">
+    <value>Aggiornamento del calendario...</value>
+  </data>
+    <data name="StatusDisplay_SyncingSeasonsAndEpisodes" xml:space="preserve">
+    <value>Sincronizzazione stagioni ed episodi...</value>
+  </data>
+    <data name="StatusDisplay_SyncingShowInfos" xml:space="preserve">
+    <value>Sincronizzazione di informazioni da SERIE TV...</value>
+  </data>
+    <data name="StatusDisplay_SyncingShows" xml:space="preserve">
+    <value>Sincronizzazione delle tue SERIE TV...</value>
+  </data>
+    <data name="StatusDisplay_SyncingTranslations" xml:space="preserve">
+    <value>Sincronizzazione delle traduzioni...</value>
+  </data>
+
+    <data name="ToastNotifications_Code_EpisodeAiredFormat" xml:space="preserve">
+    <value>L'episodio {0} di {1} è andato in onda!</value>
+  </data>
+
+    <data name="ToastNotifications_Code_Win8EpisodeAiredTitle" xml:space="preserve">
+    <value>Nuovo episodio in onda</value>
+  </data>
+    <data name="ToastNotifications_Code_Win8EpisodeAiredTitleFuture" xml:space="preserve">
+    <value>episodio trasmesso {0} {1}</value>
+  </data>
+    <data name="ToastNotifications_Code_Win8EpisodeAiredTitlePast" xml:space="preserve">
+    <value>episodio trasmesso il {0} {1}</value>
+  </data>
+    <data name="Settings_Data_LetMeMarkNotAiredEpisodeAsSeen_Text" xml:space="preserve">
+    <value>Consenti di contrassegnare un episodio come visto anche se non ancora mostrato.</value>
+  </data>
+    <data name="Settings_CalendarSync_Text" xml:space="preserve">
+    <value>Sincronizza con il calendario</value>
+  </data>
+    <data name="Trakt_LostAuthorizationContent" xml:space="preserve">
+    <value>TV Show Tracker ha perso l'accesso al tuo account. Nessun dato è andato perso, ma è necessario accedere di nuovo.</value>
+  </data>
+    <data name="Trakt_LostAuthorizationTitle" xml:space="preserve">
+    <value>AUTORIZZAZIONE PERSA</value>
+  </data>
+    <data name="Global_ItsDone" xml:space="preserve">
+    <value>Operazione conclusa con successo!</value>
+  </data>
+    <data name="Donation_Button_Restore_Text" xml:space="preserve">
+    <value>Ripristina i miei acquisti precedenti</value>
+  </data>
+    <data name="Menu_ShowNumberPlural" xml:space="preserve">
+    <value>{0} SERIE TV</value>
+  </data>
+    <data name="Global_TabSection_Calendar" xml:space="preserve">
+    <value>Calendario</value>
+  </data>
+    <data name="Global_TabSection_YourShows" xml:space="preserve">
+    <value>LE MIE SERIE TV</value>
+  </data>
+    <data name="Global_TabSection_History" xml:space="preserve">
+    <value>Cronologia</value>
+  </data>
+    <data name="Global_TabSection_Shows" xml:space="preserve">
+    <value>SERIE TV</value>
+  </data>
+    <data name="Global_TabSection_Stats" xml:space="preserve">
+    <value>Profilo</value>
+  </data>
+    <data name="Global_TabSection_Discover" xml:space="preserve">
+    <value>Scopri</value>
+  </data>
+    <data name="Widget_NextEp_PanelTitle" xml:space="preserve">
+    <value>prossimi episodi da vedere</value>
+  </data>
+    <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
+    <value>Apparirà una pubblicità.</value>
+  </data>
+    <data name="Episode_UnknowTitle" xml:space="preserve">
+    <value>Titolo sconosciuto</value>
+  </data>
+    <data name="Home_Menu_ContactSection_Text" xml:space="preserve">
+    <value>CONTATTO</value>
+  </data>
+    <data name="Home_Menu_DoMoreSection_Text" xml:space="preserve">
+    <value>ALTRO</value>
+  </data>
+    <data name="Home_Menu_InfoSection_Text" xml:space="preserve">
+    <value>INFORMAZIONI</value>
+  </data>
+    <data name="Global_ShowStatus_Canceled" xml:space="preserve">
+    <value>Annullata</value>
+  </data>
+    <data name="Global_ShowStatus_Ended" xml:space="preserve">
+    <value>Terminata</value>
+  </data>
+    <data name="Global_ShowStatus_InProduction" xml:space="preserve">
+    <value>In produzione</value>
+  </data>
+    <data name="Global_ShowStatus_Planned" xml:space="preserve">
+    <value>Pianificata</value>
+  </data>
+    <data name="Global_ShowStatus_Returning" xml:space="preserve">
+    <value>SERIE TV in arrivo</value>
+  </data>
+    <data name="Home_UserLists_Code_NumberOfElementPlural" xml:space="preserve">
+    <value>{0} SERIE TV in questo elenco</value>
+  </data>
+    <data name="Global_Delete_Text" xml:space="preserve">
+    <value>Cancella</value>
+  </data>
+    <data name="Show_List_Edit_Text" xml:space="preserve">
+    <value>Modifica</value>
+  </data>
+    <data name="Home_UserLists_PanelTitle_Header" xml:space="preserve">
+    <value>ELENCHI</value>
+  </data>
+    <data name="Home_UserLists_Code_OwnLists" xml:space="preserve">
+    <value>I TUOI ELENCHI</value>
+  </data>
+    ee
+    <data name="Home_UserLists_Code_LikedLists" xml:space="preserve">
+    <value>I TUOI ELENCHI PREFERITI</value>
+  </data>
+    <data name="Incoming_InXDayPlural" xml:space="preserve">
+    <value>in {0} giorni</value>
+  </data>
+    <data name="Settings_UICustom_Code_TvstFontSize_Header" xml:space="preserve">
+    <value>DIMENSIONE DEL FONT</value>
+  </data>
+    <data name="Settings_UICustom_Code_TvstFontSize_Big" xml:space="preserve">
+    <value>Grande</value>
+  </data>
+    <data name="Settings_UICustom_Code_TvstFontSize_Bigger" xml:space="preserve">
+    <value>Molto grande</value>
+  </data>
+    <data name="Settings_UICustom_Code_TvstFontSize_Normal" xml:space="preserve">
+    <value>Normale</value>
+  </data>
+    <data name="Settings_UICustom_Code_TvstFontSize_Small" xml:space="preserve">
+    <value>Piccolo</value>
+  </data>
+    <data name="Settings_UICustom_Code_TvstFontSize_Smaller" xml:space="preserve">
+    <value>Molto piccolo</value>
+  </data>
+    <data name="Settings_BackgroundSync_WifiOnly" xml:space="preserve">
+    <value>Sincronizza solo con WI-FI</value>
+  </data>
+    <data name="Global_ExitDemo" xml:space="preserve">
+    <value>Esci dalla modalità demo.</value>
+  </data>
+    <data name="Settings_Data_TrackingTargetLabel" xml:space="preserve">
+    <value>DOVE AGGIUNGERE SERIE TV?</value>
+  </data>
+    <data name="Settings_Data_TrackingTarget_Both" xml:space="preserve">
+    <value>Raccolta e Watchlist</value>
+  </data>
+    <data name="Settings_Data_TrackingTarget_Collection" xml:space="preserve">
+    <value>Raccolta</value>
+  </data>
+    <data name="Settings_Data_TrackingTarget_Watchlist" xml:space="preserve">
+    <value>Watchlist</value>
+  </data>
+    <data name="Donation_Paypal" xml:space="preserve">
+    <value>FAI UNA DONAZIONE TRAMITE PAYPAL</value>
+  </data>
+    <data name="ListCreation_NameMandatoryToast" xml:space="preserve">
+    <value>Fornisci un nome per questo elenco.</value>
+  </data>
+    <data name="PastEpisode_Seen_Text" xml:space="preserve">
+    <value>VISTO</value>
+  </data>
+
+    <data name="EpisodeFormat_SeasonAndEpisode" xml:space="preserve">
+    <value>S{0:00}E{1:00}</value>
+  </data>
+    <data name="EpisodeFormat_Absolute" xml:space="preserve">
+    <value>E{0}</value>
+  </data>
+    <data name="EpisodeFormat_AbsoluteWithoutPrefix" xml:space="preserve">
+    <value>{0}</value>
+  </data>
+    <data name="EpisodeFormat_SeasonAndEpisodeLowerCase" xml:space="preserve">
+    <value>s{0:00}e{1:00}</value>
+  </data>
+    <data name="EpisodeFormat_SeasonAndEpisodeXSeparated" xml:space="preserve">
+    <value>{0:0}x{1:0}</value>
+  </data>
+    <data name="EpisodeFormat_SeasonAndEpisodePipeSeparated" xml:space="preserve">
+    <value>S{0:00} | {1:00}</value>
+  </data>
+    <data name="EpisodeFormat_SeasonAndEpisodeSpaceSeparated" xml:space="preserve">
+    <value>S{0:00} E{1:00}</value>
+  </data>
+    <data name="Settings_EpisodeFormatLabel" xml:space="preserve">
+    <value>Formato etichetta di Stagione-Episodi</value>
+  </data>
+    <data name="CommentsSorting_Label_Newest" xml:space="preserve">
+    <value>Prima i più nuovi</value>
+  </data>
+    <data name="CommentsSorting_Label_Oldest" xml:space="preserve">
+    <value>Prima i più vecchi</value>
+  </data>
+    <data name="CommentsSorting_Label_Likes" xml:space="preserve">
+    <value>Numero di 'likes'</value>
+  </data>
+    <data name="CommentsSorting_Label_Replies" xml:space="preserve">
+    <value>Numero di commenti</value>
+  </data>
+    <data name="EpisodesSorting_Label_AiredDate" xml:space="preserve">
+    <value>Prima i più vecchi</value>
+  </data>
+    <data name="EpisodesSorting_Label_AiredDateReverse" xml:space="preserve">
+    <value>Prima i più nuovi</value>
+  </data>
+    <data name="Settings_SortCommentHeader" xml:space="preserve">
+    <value>CLASSIFICAZIONE DEI COMMENTI</value>
+  </data>
+    <data name="ShowDetails_ShowInfo_TmdbRatingHeader" xml:space="preserve">
+    <value>CLASSIFICAZIONE TMDB</value>
+  </data>
+    <data name="Settings_SortCommentPAGEHeader" xml:space="preserve">
+    <value>CLASSIFICAZIONE DEI COMMENTI</value>
+  </data>
+    <data name="Settings_WidgetTransparency_Header" xml:space="preserve">
+    <value>OPACITÀ SFONDO DEL WIDGET</value>
+  </data>
+    <data name="ShowDetails_EpisodeMenu_MarkAsSeenAtAGivenDate_Content" xml:space="preserve">
+    <value>Guardato in una data specifica</value>
+  </data>
+    <data name="ShowDetails_ShowInfo_OriginalNameHeader" xml:space="preserve">
+    <value>Nome originale</value>
+  </data>
+    <data name="ShowDetails_ShowInfo_OriginalCountryHeader" xml:space="preserve">
+    <value>Paese d'origine</value>
+  </data>
+    <data name="Settings_SortEpisodesHeader" xml:space="preserve">
+    <value>CLASSIFICAZIONE degli Episodi</value>
+  </data>
+    <data name="Settings_Display_HideSeenEpFromPastEpisodesTab_Text" xml:space="preserve">
+        <value>Nascondi gli episodi e film visti dalla pagina del calendario.</value>
+    </data>
+    <data name="Settings_AppSection_Text" xml:space="preserve">
+    <value>SEZIONI DELL'APP</value>
+  </data>
+    <data name="Settings_DisplaySection_CalendarHeader" xml:space="preserve">
+        <value>Mostrare la sezione "Calendario"?</value>
+    </data>
+
+    <data name="SetAsSeenAtAGivenDate_Button_SetAsSeen" xml:space="preserve">
+    <value>VISTO IN UNA DATA SPECIFICA</value>
+  </data>
+    <data name="SetAsSeenAtAGivenDate_Button_SetAsSeenShort" xml:space="preserve">
+    <value>VISTO IN UNA DATA SPECIFICA</value>
+  </data>
+    <data name="Settings_DisplayLockRotation_Text" xml:space="preserve">
+    <value>Blocca la visualizzazione verticale</value>
+  </data>
+    <data name="Startup_Demo_Text" xml:space="preserve">
+    <value>PROVA IN MODALITÀ DEMO</value>
+  </data>
+    <data name="Settings_Various_DisplayAppFullScreen_Text" xml:space="preserve">
+    <value>Mostra l'applicazione a schermo intero nascondendo la barra di stato</value>
+  </data>
+    <data name="Settings_WidgetHeader" xml:space="preserve">
+    <value>WIDGET</value>
+  </data>
+    <data name="Settings_WidgetCounterIncludesShowsToStart" xml:space="preserve">
+    <value>Includi le Serie TV da vedere sul contatore del widget?</value>
+  </data>
+
+    <data name="Settings_BadgeCounterIncludesShowsToStart" xml:space="preserve">
+    <value>Includi il contatore sull'icona della app?</value>
+  </data>
+    <data name="MediaItemDetails_AppBar_BackHome_Label" xml:space="preserve">
+    <value>Torna alla Home</value>
+  </data>
+
+    <data name="Global_LoadMoreButton_Text" xml:space="preserve">
+    <value>Carica altro...</value>
+  </data><!--    ======================================= ADDED-->
+    <data name="Global_TVShows" xml:space="preserve">
+    <value>SERIE TV</value>
+</data>
+    <data name="Global_Movies" xml:space="preserve">
+    <value>FILM</value>
+</data>
+    <data name="MovieDetails_Info_PanelHeader_Header" xml:space="preserve">
+    <value>GENERALE</value>
+</data>
+    <data name="MovieDetails_Comments_PanelTitle_Header" xml:space="preserve">
+    <value>COMMENTI</value>
+</data>
+    <data name="MovieDetails_Code_Share_CheckOutThisMovieFormat" xml:space="preserve">
+    <value>Guarda questo film, "{0}" : {1}</value>
+</data>
+    <data name="MovieDetails_Code_Share_DiscoveredWith" xml:space="preserve">
+    <value>Scopri utilizzando TV Show &amp; Movie Tracker #TVSTT</value>
+</data>
+    <data name="MovieDetails_AppBar_Remove_Label" xml:space="preserve">
+    <value>Rimuovi film da TVST</value>
+</data>
+    <data name="MovieDetails_AppBar_Add_Label" xml:space="preserve">
+    <value>Aggiungi film a TVST</value>
+</data>
+    <data name="Movie_List_AddToAList_Label" xml:space="preserve">
+    <value>Aggiungi all'elenco</value>
+</data>
+    <data name="RateAMovie_ActionButton_Content" xml:space="preserve">
+    <value>VALUTA QUESTO FILM</value>
+</data>
+    <data name="MovieDetails_Similar_PanelHeader_Header" xml:space="preserve">
+    <value>FILM CORRELATI E SIMILI</value>
+</data>
+    <data name="MovieDetails_MovieInfo_FirstYear_Text" xml:space="preserve">
+    <value>Anno: </value>
+</data>
+    <data name="MovieDetails_Runtime_Text" xml:space="preserve">
+    <value>Durata</value>
+</data>
+    <data name="MovieDetails_Info_BudgetHeader_Text" xml:space="preserve">
+    <value>Budget</value>
+</data>
+
+    <data name="MovieDetails_ReleaseDateHeader" xml:space="preserve">
+    <value>Data</value>
+</data>
+    <data name="MovieDetails_Menu_AddToTVST" xml:space="preserve">
+    <value>Aggiungi a TVST</value>
+</data>
+    <data name="MovieDetails_Menu_RemoveFromTVST" xml:space="preserve">
+    <value>Rimuovi da TVST</value>
+</data>
+    <data name="MovieDetails_Menu_SetAsNotSeen" xml:space="preserve">
+    <value>Rimuovi dalla cronologia</value>
+</data>
+    <data name="MovieDetails_Menu_SetAsSeen" xml:space="preserve">
+    <value>Imposta questo film come visto</value>
+</data>
+    <data name="MovieDetails_Menu_RemoveFromCollection" xml:space="preserve">
+    <value>Rimuovi dalla raccolta</value>
+</data>
+
+    <data name="MovieDetails_Menu_AddToCollection" xml:space="preserve">
+    <value>Aggiungi alla raccolta</value>
+</data>
+    <data name="MovieDetails_Menu_RemoveFromWatchlist" xml:space="preserve">
+    <value>Rimuovi dalla watchlist</value>
+</data>
+    <data name="MovieDetails_Menu_AddToWatchlist" xml:space="preserve">
+    <value>Aggiungi alla watchlist</value>
+</data>
+    <data name="MovieDetails_Menu_Share" xml:space="preserve">
+    <value>Condividi film</value>
+</data>
+    <data name="MovieDetails_AskRemovingTitle" xml:space="preserve">
+    <value>RIMUOVERE QUESTO FILM DA TVST?</value>
+</data>
+    <data name="MovieDetails_AskRemovingContent" xml:space="preserve">
+    <value>AVVISO: verranno rimossi TUTTI I DATI relativi a questo film su Trakt.tv: raccolta, watchlist, cronologia di riproduzione, ecc.
+
+Confermi?
+    </value>
+</data>
+    <data name="MovieDetails_Add_Where_Title" xml:space="preserve">
+    <value>DOVE?</value>
+</data>
+    <data name="MovieDetails_Add_Where_Collected" xml:space="preserve">
+    <value>Aggiungi alla raccolta</value>
+</data>
+    <data name="MovieDetails_Add_Where_Watchlist" xml:space="preserve">
+    <value>Aggiungi alla watchlist</value>
+</data>
+    <data name="MovieDetails_Add_Where_Watched" xml:space="preserve">
+    <value>Già visto</value>
+</data>
+    <data name="Home_UserMenu_Movies" xml:space="preserve">
+    <value>Film</value>
+</data>
+    <data name="Home_UserMenu_Shows" xml:space="preserve">
+    <value>Serie TV</value>
+</data>
+
+    <data name="MoviesLists_PanelHeader_Watched" xml:space="preserve">
+    <value>Visti</value>
+</data>
+    <data name="MoviesLists_PanelHeader_MoviesToRate" xml:space="preserve">
+    <value>Non ancora valutato</value>
+</data>
+    <data name="MoviesLists_PanelHeader_Watchlist" xml:space="preserve">
+    <value>Watchlist</value>
+</data>
+    <data name="MoviesLists_PanelHeader_Collected" xml:space="preserve">
+    <value>Nella Raccolta</value>
+</data>
+
+    <data name="StatusDisplay_SyncingMovieImages" xml:space="preserve">
+    <value>Sincronizzazione immagini dei film...</value>
+</data>
+
+    <data name="MovieInList_WatchedAtFormat" xml:space="preserve">
+    <value>Visto il {0}</value>
+</data>
+    <data name="MovieInList_CollectedAtFormat" xml:space="preserve">
+    <value>In raccolta dal {0}</value>
+</data>
+
+    <data name="MovieInList_WatchlistedAtFormat" xml:space="preserve">
+    <value>In Elenco dal {0}</value>
+</data>
+    <data name="MovieDetails_Menu_SetAsSeenAgain" xml:space="preserve">
+    <value>Imposta questo film come visto di nuovo</value>
+</data>
+    <data name="RateAMovie_Title_Text" xml:space="preserve">
+    <value>Come valuti questo film?</value>
+</data>
+
+    <data name="StatusDisplay_SyncingMovieInfos" xml:space="preserve">
+    <value>Recupero delle informazioni sul film...</value>
+</data>
+    <data name="Home_MoviesListsPageTitlePlural" xml:space="preserve">
+    <value>{0} film</value>
+</data>
+    <data name="MoviesLists_SortChoice_Title" xml:space="preserve">
+    <value>CLASSIFICAZIONE</value>
+  </data>
+
+    <data name="MoviesLists_SortChoice_SortOption_Alphabetic" xml:space="preserve">
+    <value>Alfabetico</value>
+  </data>
+    <data name="MoviesLists_SortChoice_SortOption_AlphabeticReverse" xml:space="preserve">
+    <value>Alfabeto invertito</value>
+  </data>
+    <data name="MoviesLists_SortChoice_SortOption_ActionTime" xml:space="preserve">
+    <value>Data di messa in onda</value>
+  </data>
+    <data name="MoviesLists_SortChoice_SortOption_ActionTimeReverse" xml:space="preserve">
+    <value>Data di messa in onda invertita</value>
+  </data>
+    <data name="MoviesLists_SortChoice_SortOption_ReleaseDateReverse" xml:space="preserve">
+    <value>data di uscita invertita</value>
+  </data>
+    <data name="MoviesLists_SortChoice_SortOption_ReleaseDate" xml:space="preserve">
+    <value>data di uscita</value>
+  </data>
+    <data name="MediaItem_YourRatingFormat" xml:space="preserve">
+    <value>Il tuo voto: {0}</value>
+  </data>
+    <data name="Global_When" xml:space="preserve">
+    <value>QUANDO ?</value>
+  </data>
+    <data name="MovieInfo_ErrorWhenHidingRecommendation" xml:space="preserve">
+    <value>Si è verificato un errore durante il tentativo di nascondere questo film dai tuoi consigli...</value>
+  </data>
+    <data name="Home_Code_Popular_MoviesReleasedThisMonthFormat" xml:space="preserve">
+    <value>FILM RILASCIATI IN {0}</value>
+  </data>
+    <data name="Home_Code_Popular_MoviePopular" xml:space="preserve">
+    <value>POPOLARI</value>
+  </data>
+    <data name="Home_Code_Popular_MovieTrending" xml:space="preserve">
+    <value>DI TENDENZA</value>
+        </data>
+    <data name="Settings_Display_MovieStartupPage_Text" xml:space="preserve">
+    <value>Tutorial iniziale quando si avvia la pagina dei dettagli di una Serie TV</value>
+  </data>
+    <data name="Settings_Display_ShowDetailsStartupPage_Text" xml:space="preserve">
+    <value>Tutorial iniziale all'avvio della pagina dei film</value>
+  </data>
+    <data name="Settings_Various_SendTokenToDev" xml:space="preserve">
+    <value>Invia informazioni di debug a Jonathan!</value>
+  </data>
+
+    <data name="Movie_Checkin_Label" xml:space="preserve">
+    <value>Check-in</value>
+  </data>
+    <data name="Home_AppBar_FullRefresh_Label" xml:space="preserve">
+    <value>sincronizzazione completa</value>
+  </data>
+    <data name="Home_AppBar_Home_Label" xml:space="preserve">
+    <value>Torna alla Home</value>
+  </data>
+
+    <data name="EpisodeDetails_WhereToWatch" xml:space="preserve">
+    <value>Dove vedere</value>
+  </data>
+    <data name="EpisodeDetails_WhereToWatchSettingsName" xml:space="preserve">
+    <value>Paese utilizzato per scoprire dove vedere un episodio/film:</value>
+    </data>
+    <data name="EpisodeDetails_WhereToWatchCountry" xml:space="preserve">
+    <value>Quale paese utilizzare?</value>
+  </data>
+
+    <data name="Notifications_Settings_WhichStyleHeader" xml:space="preserve">
+    <value>Stile delle notifiche:</value>
+  </data>
+
+    <data name="Notifications_Style_Android" xml:space="preserve">
+    <value>Android</value>
+  </data>
+
+    <data name="Notifications_Style_Enhanced" xml:space="preserve">
+    <value>Migliorato</value>
+  </data>
+    <data name="Notifications_Style_TestButton" xml:space="preserve">
+    <value>Prova una notifica</value>
+  </data>
+
+    <data name="Global_openingPage" xml:space="preserve">
+    <value>Apertura della pagina...</value>
+  </data>
+
+    <data name="Comment_DisplayUserProfile" xml:space="preserve">
+    <value>Mostra il profilo utente dell'autore</value>
+  </data>
+    <data name="Episodes_SetPreviousEpisodeAsSeenTooQuestion" xml:space="preserve">
+    <value>Vuoi contrassegnare anche gli episodi precedenti come visti?</value>
+  </data>
+    <data name="Setting_Episodes_SetPreviousEpisodeAsSeenToo" xml:space="preserve">
+    <value>Chiedi se vuoi contrassegnare anche gli episodi precedenti come visti quando ne contrassegni uno come visto</value>
+  </data>
+
+    <data name="HistoryItem_Remove" xml:space="preserve">
+    <value>Rimuovi questo elemento dalla mia cronologia</value>
+  </data>
+
+    <data name="ListContent_SortChoice_SortOption_Alphabetic" xml:space="preserve">
+    <value>Alfabetico</value>
+  </data>
+    <data name="ListContent_SortChoice_SortOption_AlphabeticReverse" xml:space="preserve">
+    <value>Alfabetico invertito</value>
+  </data>
+    <data name="ListContent_SortChoice_SortOption_Rank" xml:space="preserve">
+        <value>Classificazione  - valore predefinito</value>
+    </data>
+    <data name="ListContent_SortChoice_SortOption_RankReverse" xml:space="preserve">
+    <value>Classificazione invertita</value>
+  </data>
+    <data name="ListContent_SortChoice_SortOption_YearReverse" xml:space="preserve">
+    <value>Anno di uscita invertito</value>
+  </data>
+    <data name="ListContent_SortChoice_SortOption_Year" xml:space="preserve">
+    <value>Anno di uscita</value>
+  </data>
+
+    <data name="ListContent_SortChoice_SortOption_ListedAtReverse" xml:space="preserve">
+    <value>Data aggiunta all'elenco invertito</value>
+  </data>
+    <data name="ListContent_SortChoice_SortOption_ListedAt" xml:space="preserve">
+    <value>Data aggiunta all'elenco</value>
+  </data>
+
+    <data name="MediaItem_AskPersonalNoteTitle" xml:space="preserve">
+    <value>Note personali</value>
+  </data>
+
+    <data name="MediaItem_PersonalNoteHeader" xml:space="preserve">
+    <value>Note personali</value>
+  </data>
+
+    <data name="MediaItem_PersonalNoteMenuItem" xml:space="preserve">
+    <value>Aggiungi/modifica le tue note personali</value>
+  </data>
+
+    <data name="ShowDetailsStartupPage_DefaultChoice" xml:space="preserve">
+    <value>Dinamico a seconda della pagina precedente - valore predefinito</value>
+  </data>
+
+    <data name="Settings_DisplayShowChannelOnHomePage" xml:space="preserve">
+    <value>Mostra il canale della Serie TV nell'elenco principale?</value>
+  </data>
+    <data name="MediaItemDetails_ShowInfo_CertificationHeader" xml:space="preserve">
+    <value>Certificazione</value>
+  </data>
+    <data name="Home_Code_Popular_Anticipated" xml:space="preserve">
+    <value>TRAILERS FILM</value>
+  </data>
+
+    <data name="Settings_Data_EnableSeasonsGroupCollapsing_Text" xml:space="preserve">
+    <value>Maggiori informazioni sulle stagioni</value>
+  </data>
+    <data name="Settings_CollapsingSectionHeader" xml:space="preserve">
+    <value>Meno informazioni</value>
+  </data>
+    <data name="Settings_SeasonCollapsingMode_Header" xml:space="preserve">
+    <value>Informazioni Stagioni</value>
+  </data>
+
+    <data name="AvailableSeasonCollapsingMode_IfFullySeenOrNotNextToSee" xml:space="preserve">
+    <value>Se vista completamente o non visto</value>
+  </data>
+    <data name="AvailableSeasonCollapsingMode_IfFullySeen" xml:space="preserve">
+    <value>Se vista completamente</value>
+  </data>
+    <data name="AvailableSeasonCollapsingMode_Always" xml:space="preserve">
+    <value>Sempre</value>
+  </data>
+    <data name="AvailableSeasonCollapsingMode_Never" xml:space="preserve">
+    <value>Mai</value>
+  </data>
+
+    <data name="Home_Code_MyShowsHiddenGroupHeader_Single" xml:space="preserve">
+    <value>{0} SERIE TV NASCOSTA</value>
+  </data>
+    <data name="Home_Code_Incoming_XDaysAgoSingle" xml:space="preserve">
+    <value>{0} giorno fa</value>
+  </data>
+    <data name="Home_Code_Incoming_InXDaysSingle" xml:space="preserve">
+    <value>tra {0} giorno</value>
+  </data>
+    <data name="Home_Code_MyShowWithEpisodeToSeeButEndedGroupHeader_Single" xml:space="preserve">
+    <value>{0} SERIE TV CONCLUSA CON EPISODI NON VISTI</value>
+  </data>
+    <data name="Home_Code_MyShowWithEpisodeToSeeGroupHeader_Single" xml:space="preserve">
+    <value>{0} SERIE TV CON EPISODI NON VISTI</value>
+  </data>
+    <data name="Home_Code_MyShowWithEpisodeToSeeNotEndedGroupHeader_Single" xml:space="preserve">
+    <value>{0} SERIE TV IN CORSO CON EPISODI NON VISTI</value>
+  </data>
+    <data name="Home_Code_MyShowWithNoEpisodeToSeeEndedGroupHeader_Single" xml:space="preserve">
+    <value>{0} SERIE TV CONCLUSA, VISTA TUTTA</value>
+  </data>
+    <data name="Home_Code_MyShowWithNoEpisodeToSeeGroupHeader_Single" xml:space="preserve">
+    <value>{0} SERIE TV, TUTTI GLI EPISODI VISTI</value>
+  </data>
+    <data name="Home_UserStats_Code_ToWatchEpisodeLabelSingle" xml:space="preserve">
+    <value>{0} episodio{1} da vedere</value>
+  </data>
+    <data name="Home_UserStats_Code_WatchedEpisodeLabelSingle" xml:space="preserve">
+    <value>{0} episodio visto</value>
+  </data>
+    <data name="People_Code_ActingInXEpisodeSingle" xml:space="preserve">
+    <value>{0} episodio</value>
+  </data>
+    <data name="People_Code_ActingInXMoviesSingle" xml:space="preserve">
+    <value>RECITA IN {0} FILM</value>
+  </data>
+    <data name="People_Code_ActingInXShowsSingle" xml:space="preserve">
+    <value>RECITA IN {0} SERIE TV</value>
+  </data>
+    <data name="People_Code_AsCastNumberSingle" xml:space="preserve">
+    <value>{0} nel cast</value>
+  </data>
+    <data name="People_Code_AsCrewNumberSingle" xml:space="preserve">
+    <value>{0} nel cast</value>
+  </data>
+    <data name="People_Code_CrewingInXMoviesSingle" xml:space="preserve">
+    <value>NEL CAST DI {0} FILM</value>
+  </data>
+    <data name="People_Code_CrewingInXShowsSingle" xml:space="preserve">
+    <value>NEL CAST DI {0} SERIE TV</value>
+  </data>
+    <data name="Home_UserLists_Code_NumberOfElementSingle" xml:space="preserve">
+    <value>{0} elemento in elenco</value>
+  </data>
+    <data name="MediaItemDetails_Comments_Code_TotalCommentsNumberLabelSingle" xml:space="preserve">
+    <value>Ci sono un totale di {0} commenti</value>
+  </data>
+    <data name="Menu_ShowNumberSingle" xml:space="preserve">
+    <value>{0} Serie TV seguita</value>
+  </data>
+    <data name="Incoming_InXDaySingle" xml:space="preserve">
+    <value>tra {0} giorno</value>
+  </data>
+    <data name="Home_MoviesListsPageTitleSingle" xml:space="preserve">
+    <value>{0} film</value>
+  </data>
+
+    <data name="Global_VoteSingle" xml:space="preserve">
+    <value>vota</value>
+  </data>
+    <data name="ShowDetails_Code_Episode_AiredEpisodesSingle" xml:space="preserve">
+    <value>EPISODIO TRASMESSO</value>
+  </data>
+    <data name="ShowDetails_Code_EpisodeSingle" xml:space="preserve">
+    <value>episodio</value>
+  </data>
+    <data name="ShowDetails_Code_Episode_TotalEpisodeLeftSingle" xml:space="preserve">
+    <value>EPISODIO ANCORA DA VEDERE</value>
+  </data>
+    <data name="ShowDetails_Code_Episode_TotalSeasonNumberSingle" xml:space="preserve">
+    <value>STAGIONE</value>
+  </data>
+
+    <data name="ShowDetails_HideSeason" xml:space="preserve">
+    <value>Nascondi questa stagione</value>
+  </data>
+    <data name="ShowDetails_UnhideSeason" xml:space="preserve">
+    <value>Non nasconderti più in questa stagione</value>
+  </data>
+
+    <data name="Trakt_AccountLockedContent" xml:space="preserve">
+    <value>Il tuo account è stato bloccato da Trakt. Si prega di contattarli all'indirizzo support@trakt.tv.</value>
+  </data>
+
+    <data name="Trakt_AccountLockedContactButton" xml:space="preserve">
+    <value>CONTATTARLI</value>
+  </data>
+    <data name="Trakt_AccountLockedTitle" xml:space="preserve">
+    <value>ACCOUNT BLOCCATO</value>
+  </data>
+    <data name="ProcessItemsToBeSetAsSeen_CantBeDoneNow" xml:space="preserve">
+        <value>Impossibile inviare le modifiche recenti a Trakt ma non preoccuparti, proveremo più tardi per te!</value>
+    </data>
+    <data name="Settings_OpenMovieWorldInsteadOfTVShow" xml:space="preserve">
+    <value>Aprire la pagina dei film invece delle serie TV all'avvio?</value>
+  </data>
+    <data name="MovieDetails_Info_Director_Single" xml:space="preserve">
+        <value>Regista</value>
+    </data>
+    <data name="MovieDetails_Info_Director_Plural" xml:space="preserve">
+        <value>registi</value>
+    </data>
+    <data name="MovieDetails_OpenHomePage" xml:space="preserve">
+        <value>Sito ufficiale</value>
+    </data>
+    <data name="ShowDetails_OpenHomePage" xml:space="preserve">
+        <value>Sito ufficiale</value>
+    </data>
+    <data name="UserLists_SortChoice_SortOption_Alphabetic" xml:space="preserve">
+        <value>Alfabetico</value>
+    </data>
+    <data name="UserLists_SortChoice_SortOption_AlphabeticReverse" xml:space="preserve">
+        <value>Alfabeto invertito</value>
+    </data>
+    <data name="UserLists_SortChoice_SortOption_UpdatedAt" xml:space="preserve">
+        <value>Data ultima modifica</value>
+    </data>
+    <data name="UserLists_SortChoice_SortOption_UpdatedAtReverse" xml:space="preserve">
+        <value>Data ultima modifica invertita</value>
+    </data>
+    <data name="UserLists_SortChoice_SortOption_Rank" xml:space="preserve">
+        <value>Classificazione - valore predefinito</value>
+    </data>
+    <data name="UserLists_SortChoice_SortOption_RankReverse" xml:space="preserve">
+        <value>Classificazione invertita</value>
+    </data>
+    <data name="UserLists_SortChoice_SortOption_Items" xml:space="preserve">
+        <value>Numero di elementi</value>
+    </data>
+    <data name="UserLists_SortChoice_SortOption_ItemsReverse" xml:space="preserve">
+        <value>Numero di elementi invertito</value>
+    </data>
+    <data name="SearchView_OpenKeyboardOnSearch" xml:space="preserve">
+        <value>Mostra la tastiera quando apro la ricerca</value>
+    </data>
+    <data name="SearchView_DoNotOpenKeyboardOnSearch" xml:space="preserve">
+        <value>Nascondi la tastiera quando apro la ricerca</value>
+    </data>
+    <data name="SearchView_Genre_All" xml:space="preserve">
+        <value>Tutti i generi</value>
+    </data>
+    <data name="SearchView_Years_All" xml:space="preserve">
+        <value>Tutti gli anni</value>
+    </data>
+    <data name="Search_Rating_MoreThanFormat" xml:space="preserve">
+        <value>Più di {0}</value>
+    </data>
+    <data name="Home_Popular_TopByGenreSectionHeader" xml:space="preserve">
+        <value>TOP PER GENERE</value>
+    </data>
+    <data name="ShowDetails_ShowInfo_Genre" xml:space="preserve">
+        <value>Generi</value>
+    </data>
+    <data name="Settings_Various_RemoveAnimeFromRecommendations" xml:space="preserve">
+        <value>Rimuovere l'animazione dai miei consigli personali?</value>
+    </data>
+    <data name="MovieList_NumberOfElementPlural" xml:space="preserve">
+        <value>{0} film</value>
+    </data>
+    <data name="MovieList_NumberOfElementSingle" xml:space="preserve">
+        <value>{0} film</value>
+    </data>
+    <data name="SearchView_Ratings_All" xml:space="preserve">
+        <value>Tutte le valutazioni</value>
+    </data>
+    <data name="RestoreSettings_ChooserTitle" xml:space="preserve">
+        <value>Scegli il file delle impostazioni da ripristinare</value>
+    </data>
+    <data name="Settings_RestoreSettingsButtonTitle" xml:space="preserve">
+        <value>Ripristina un backup delle impostazioni</value>
+    </data>
+    <data name="Recommendations_BackToStart" xml:space="preserve">
+        <value>Torna al primo elemento</value>
+    </data>
+    <data name="Recommendations_NextItem" xml:space="preserve">
+        <value>Consiglio successivo</value>
+    </data>
+    <data name="Recommendations_HidingRecommendation" xml:space="preserve">
+        <value>Cancellazione di questa raccomandazione ...</value>
+    </data>
+    <data name="Home_Popular_ViewMoreButtonText" xml:space="preserve">
+        <value>Mostra consigli più personalizzati</value>
+    </data>
+    <data name="ShowDetails_ShowInfo_TotalRuntime" xml:space="preserve">
+        <value>Durata totale:</value>
+    </data>
+    <data name="ShowDetails_Info_Creator_Plural" xml:space="preserve">
+        <value>Creatori</value>
+    </data>
+    <data name="ShowDetails_Info_Creator_Single" xml:space="preserve">
+        <value>Creatore</value>
+    </data>
+    <data name="Show_RecommendThis" xml:space="preserve">
+        <value>Consiglia questa serie</value>
+    </data>
+    <data name="Show_UnrecommendThis" xml:space="preserve">
+        <value>Non consiglio più questa serie</value>
+    </data>
+    <data name="Movie_RecommendThis" xml:space="preserve">
+        <value>Consiglia questo film</value>
+    </data>
+    <data name="Movie_UnrecommendThis" xml:space="preserve">
+        <value>Non consiglio di nuovo questo film</value>
+    </data>
+    <data name="ToastNotifications_Code_MovieReleased" xml:space="preserve">
+        <value>Questo film è uscito oggi!</value>
+    </data>
+    <data name="Settings_HideRatingsOfNotYetRatedItems" xml:space="preserve">
+        <value>Nascondere le valutazioni per gli elementi che non hai ancora valutato?</value>
+    </data>
+    <data name="Global_RatingHidedBecauseNotRatedYourself" xml:space="preserve">
+        <value>Valutalo prima</value>
+    </data>
+    <data name="Global_Unknow" xml:space="preserve">
+        <value>sconosciuto</value>
+    </data>
+    <data name="Recommendations_SwitchToMovies" xml:space="preserve">
+        <value>Mostra consigli sui film</value>
+    </data>
+    <data name="Recommendations_SwitchToShows" xml:space="preserve">
+        <value>Mostra consigli sulle serie</value>
+    </data>
+    <data name="Settings_DisplayUserRatingOnMainList" xml:space="preserve">
+        <value>Mostrare le tue valutazioni negli elenchi di serie e film?
+</value>
+    </data>
+    <data name="Settings_DisplayMainListsConfigHeader" xml:space="preserve">
+        <value>ELENCO DELLE TUE SERIE TV E FILM</value>
+    </data>
+    <data name="Settings_DisplayIsRecommendedOnMainList" xml:space="preserve">
+        <value>Visualizzare lo stato dei consigli personali nelle serie e negli elenchi di film?</value>
+    </data>
+    <data name="MovieInList_ReleaseAtFormat" xml:space="preserve">
+        <value>Rilasciato il
+{0}</value>
+    </data>
+    <data name="MyRecommendations_Name" xml:space="preserve">
+        <value>I miei consigli</value>
+    </data>
+    <data name="MyRecommendations_Description" xml:space="preserve">
+        <value>Le serie e i film che consiglio di vedere</value>
+    </data>
+    <data name="InAppPurchasePaymentPending_Message" xml:space="preserve">
+        <value>Grazie, avrai accesso a questa funzione una volta completato il pagamento.</value>
+    </data>
+    <data name="InAppPurchasePayment_Thanks_Message" xml:space="preserve">
+        <value>Grazie, significa molto per me avere il tuo supporto!</value>
+    </data>
+    <data name="MediaItem_DoNotRecommendThisAnymore" xml:space="preserve">
+        <value>Non consiglio più questo articolo</value>
+    </data>
+    <data name="Settings_DisplayProgressOnMainList" xml:space="preserve">
+        <value>Mostra i tuoi progressi negli elenchi delle serie?</value>
+    </data>
+    <data name="Settings_AvailableGridModeItemsByRow_Default" xml:space="preserve">
+        <value>Predefinito: lascia che l'app scelga per me</value>
+    </data>
+    <data name="Settings_Display_ItemsByRowHeader_MainHeader" xml:space="preserve">
+        <value>Numero di elementi per riga in modalità griglia</value>
+    </data>
+    <data name="People_AlreadyInYourCollection" xml:space="preserve">
+    <value>GIÀ VISTO IN...</value>
+  </data>
+    <data name="Global_ShowStatus_Released" xml:space="preserve">
+    <value>rilasciato</value>
+  </data>
+    <data name="Settings_Various_SetAsWatchedAtCurrentDateForMovie" xml:space="preserve">
+        <value>Usa la data e l'ora correnti quando imposto un film come visto</value>
+    </data>
+    <data name="SearchView_Network_All" xml:space="preserve">
+        <value>Tutti i canali/servizi</value>
+    </data>
+    <data name="ShowStatusChangesPageTitle" xml:space="preserve">
+        <value>Modifiche allo stato dell'ultima serie</value>
+    </data>
+    <data name="Watchlist_Description" xml:space="preserve">
+        <value>Film e serie TV che ho intenzione di vedere.</value>
+    </data>
+    <data name="Startup_ConnectionLegacyModeButton" xml:space="preserve">
+        <value>Soluzione di emergenza 2: accedi nel tuo browser</value>
+    </data>
+    <data name="ShowStatusChangesPage_EmptyPlaceholder" xml:space="preserve">
+        <value>Le ultime modifiche allo stato delle serie verranno visualizzate qui.
+Sembra che al momento non ce ne siano.
+Torna più tardi!</value>
+    </data>
+    <data name="PersonalRecomendation_TooMuchExplanation" xml:space="preserve">
+        <value>Puoi aggiungere solo 50 consigli personali. Rimuovine uno prima di aggiungere questo!</value>
+    </data>
+    <data name="Home_Menu_ContactMe_Reason_WhatIsThunderbolt" xml:space="preserve">
+        <value>Cosa sta facendo l'icona fulmine?</value>
+    </data>
+    <data name="Thunderbolt_Explanation" xml:space="preserve">
+        <value>Se avessi solo 50 film e serie TV da portare con te su un'isola deserta, quali sarebbero?
+
+Aggiunge la serie all'elenco di articoli che consigli personalmente.
+Crea consigli personalizzati migliori per te.</value>
+    </data>
+    <data name="Widget_RecentlyAiredEpisodes_Title" xml:space="preserve">
+    <value>EPISODI ANDATI IN ONDA DI RECENTE</value>
+  </data>
+    <data name="ShowDetails_EpisodeMenu_MarkAsSeenAgain_Content" xml:space="preserve">
+    <value>Contrassegna questo episodio come visto di nuovo</value>
+  </data>
+    <data name="EpisodeDetails_SeenAt_RemoveItemQuestion" xml:space="preserve">
+    <value>Rimuovere questo elemento dalla mia cronologia?</value>
+  </data>
+
+    <data name="Global_EraseAccount_MenuItem" xml:space="preserve">
+    <value>Soppressione del conto</value>
+  </data>
+
+    <data name="Global_EraseAccount_Description" xml:space="preserve">
+    <value>Ci dispiace che tu abbia lasciato Trakt.tv. Fai clic su "elimina account" nella pagina successiva.</value>
+  </data>
+    <data name="Settings_EnableNotifications" xml:space="preserve">
+        <value>Attivare le notifiche</value>
+    </data>
+    <data name="Settings_Data_DisableTelemetry_Text" xml:space="preserve">
+        <value>Disattiva la telemetria
+Se selezionata, nessun dato anonimo sull'utilizzo verrà raccolto.
+Questi dati ci aiutano a migliorare l'app e a risolvere i problemi. Nessuna informazione personale viene mai condivisa.</value>
+    </data>
+    <data name="Settings_DisplayMovieOnHomeScreenHeader_Text" xml:space="preserve">
+        <value>Visualizzare la scheda 'film' nella pagina iniziale?</value>
+    </data>
+    <data name="Global_TabSection_Movies" xml:space="preserve">
+    <value>FILM</value>
+  </data>
+    <data name="Home_Movie_EmptyPlaceHolder_AddAMovie_Content" xml:space="preserve">
+        <value>AGGIUNGERE UN FILM</value>
+    </data>
+    <data name="Android_FixNotificationConfirmQuestion" xml:space="preserve">
+        <value>Le notifiche sono disattivate per impostazione predefinita e devi abilitarle esplicitamente. Devi autorizzare due permessi.
+
+Puoi farlo in qualsiasi momento più tardi nelle impostazioni dell'app.
+
+Vuoi farlo ora?</value>
+    </data>
+    <data name="Android_FixNotificationLabel" xml:space="preserve">
+        <value>Le notifiche sono disattivate per impostazione predefinita e devi abilitarle esplicitamente.
+
+</value>
+    </data>
+    <data name="Android_FixNotificationActionLabel" xml:space="preserve">
+        <value>Correggi</value>
+    </data>
+    <data name="Android_FixNotificationConfirmTitle" xml:space="preserve">
+        <value>Notifiche di serie TV e film
+
+</value>
+    </data>
+    <data name="Donation_SubscriptionExplanation" xml:space="preserve">
+        <value>Accedi a TUTTE le funzionalità elencate sopra.
+        
+{0}, puoi annullare in qualsiasi momento.
+
+L'abbonamento si rinnova automaticamente fino alla disdetta effettuata tramite il tuo account Google Play in qualsiasi momento prima della fine del periodo di fatturazione corrente.</value>
+    </data>
+
+    <data name="DemoMode_CantDoThis" xml:space="preserve">
+    <value>Azione impossibile nella modalità demo.</value>
+  </data>
+
+    <data name="Global_Error_AccountLimitExceededTitle" xml:space="preserve">
+  <value>Limite raggiunto</value>
+</data>
+
+    <data name="Global_Error_AccountLimitExceededContent" xml:space="preserve">
+        <value>Hai raggiunto uno dei limiti imposti da Trakt per gli account gratuiti:  
+- 100 elementi al massimo nella tua lista di cose da vedere  - 10 liste personali al massimo  
+
+Mi dispiace per l'inconveniente, ma queste restrizioni sono stabilite da Trakt e non dipendono da me.
+
+Tuttavia, puoi comunque aggiungere una serie segnando un episodio come visto: questo non verrà conteggiato nel limite.
+
+Per rimuovere queste restrizioni, ti invito a considerare di passare a un abbonamento VIP su Trakt.</value>
+    </data>
+
+    <data name="Global_Error_AccountLimitExceededGoToVip" xml:space="preserve">
+  <value>Passa a VIP</value>
+</data>
+    <data name="Changelog_FooterText" xml:space="preserve">
+    <value>Grazie per il tuo feedback e i suggerimenti! Il tuo supporto è molto importante per me. 💙</value>
+</data>
+    <data name="Global_OpenLink" xml:space="preserve">
+        <value>Apri il link</value>
+    </data>
+    <data name="AskForTextPlaceholder" xml:space="preserve">
+  <value>Inserisci il tuo testo qui...</value>
+</data>
+    <data name="Episode_SetAsWatchedSuccess" xml:space="preserve">
+  <value>Episodio segnato come visto!</value>
+</data>
+    <data name="Global_AvailableOptions_CurrentValuePrefix" xml:space="preserve">
+    <value> ➤ Valore attuale</value>
+</data>
+    <data name="IncitationToDonate_Title_Text" xml:space="preserve">
+  <value>🎉 100 giorni insieme!</value>
+</data>
+    <data name="IncitationToDonate_Content_Text" xml:space="preserve">
+  <value>Per ringraziarti, niente pubblicità per 2 settimane 😊.
+
+Sviluppo quest'app da solo nel tempo libero (quel poco che resta con 3 figli 😉).
+
+Se vuoi sostenere il progetto, lo apprezzerei tantissimo 💖!</value>
+</data>
+    <data name="IncitationToDonate_Ok_Text" xml:space="preserve">
+  <value>Grazie 🙏</value>
+</data>
+    <data name="IncitationToDonate_Donate_Text" xml:space="preserve">
+  <value>Voglio sostenere 💖</value>
+</data>
+    <data name="Calendar_IsSeasonFinaleIndicatorText" xml:space="preserve">
+        <value>FINALE DI STAGIONE</value>
+    </data>
+    <data name="Calendar_IsSeasonPremiereIndicatorText" xml:space="preserve">
+        <value>INIZIO DI STAGIONE</value>
+    </data>
+    <data name="Home_UserStats_NumberOfPlaysLabelPlural" xml:space="preserve">
+        <value>riproduzioni degli episodi:</value>
+    </data>
+    <data name="Home_UserStats_NumberOfPlaysLabelSingular" xml:space="preserve">
+        <value>riproduzione dell’episodio</value>
+    </data>
+    <data name="Home_UserStats_FirstWatchedAt" xml:space="preserve">
+        <value>Prima visione il</value>
+    </data>
+    <data name="Home_UserStats_NumberOfPlaysSingularFormat" xml:space="preserve">
+        <value>{0} volta</value>
+    </data>
+    <data name="Home_UserStats_NumberOfPlaysPluralFormat" xml:space="preserve">
+        <value>{0} volte</value>
+    </data>
+    <data name="Home_UserStats_SeasonsToStartSingular" xml:space="preserve">
+        <value>stagione non ancora vista completamente</value>
+    </data>
+    <data name="Home_UserStats_SeasonsToStartPlural" xml:space="preserve">
+        <value>stagioni non ancora viste completamente</value>
+    </data>
+    <data name="Global_And" xml:space="preserve">
+        <value>e</value>
+    </data>
+    <data name="Home_UserStats_WatchTime_EpSeenInSingular_Text" xml:space="preserve">
+        <value>episodio visto in</value>
+    </data>
+    <data name="Global_UI_HintOfPinchPossibleContent" xml:space="preserve">
+        <value>Pizzica per ingrandire o ridurre e cambiare il numero di elementi per riga.</value>
+    </data>
+    <data name="Global_UI_HintToastTitle" xml:space="preserve">
+        <value>💡 Suggerimento</value>
+    </data>
+    <data name="Settings_LanguageAndFormatHeader_Text" xml:space="preserve">
+        <value>Lingua e formato</value>
+    </data>
+    <data name="Settings_DisplaySection_UserStatsHeader" xml:space="preserve">
+        <value>Mostrare la scheda "Le tue statistiche" nella home page?</value>
+    </data>
+    <data name="Settings_HomeSectionsGroupHeader_Text" xml:space="preserve">
+        <value>Sezioni della pagina iniziale</value>
+    </data>
+    <data name="Episode_SetAsUnseen_MultiplePlays_QuestionAllRecords" xml:space="preserve">
+        <value>Tutte le visualizzazioni</value>
+    </data>
+    <data name="Episode_SetAsUnseen_MultiplePlays_QuestionContent" xml:space="preserve">
+        <value>Quali visualizzazioni vuoi rimuovere dalla tua cronologia?</value>
+    </data>
+    <data name="Episode_SetAsUnseen_MultiplePlays_QuestionTitle" xml:space="preserve">
+        <value>Hai visto questo episodio più volte!</value>
+    </data>
+    <data name="MovieDetails_Menu_AdddingWhereSubtitleFormat" xml:space="preserve"> 
+  <value>Aggiunta di "{0}"</value>
+</data>
+    <data name="MoviesLists_PanelHeader_WatchlistNotReleased" xml:space="preserve">
+        <value>In arrivo</value>
+    </data>
+    <data name="MoviesLists_PanelHeader_WatchlistReleased" xml:space="preserve">
+        <value>Già usciti</value>
+    </data>
+
+    <data name="Home_UserMenu_YourStats" xml:space="preserve">
+      <value>Le tue statistiche</value>
+  </data>
+    <data name="Settings_DisplaySectionsWarning" xml:space="preserve">
+        <value>💡 Puoi visualizzare fino a 5 sezioni contemporaneamente, quindi mantieni solo quelle che ti interessano davvero. La sezione « Le tue statistiche » verrà nascosta automaticamente se superi le 5.</value>
+    </data>
+    <data name="Home_UserStats_WatchTime_WatchedMoviesPlural" xml:space="preserve">
+        <value>film visti in</value>
+    </data>
+    <data name="Home_UserStats_WatchTime_WatchedMoviesSingle" xml:space="preserve">
+        <value>film visto in</value>
+    </data>
+    <data name="Home_UserStats_WatchTime_MovieLeftToSeeIn" xml:space="preserve">
+        <value>film da vedere in</value>
+    </data>
+    <data name="Home_UserStats_WatchedMoviesInLast6MonthsPlural" xml:space="preserve">
+        <value>film visti negli ultimi 6 mesi in</value>
+    </data>
+    <data name="Home_UserStats_WatchedMoviesInLast6MonthsSingle" xml:space="preserve">
+        <value>film visto negli ultimi 6 mesi in</value>
+    </data>
+    <data name="History_Filters_CurrentValue_OnlyYours" xml:space="preserve">
+        <value>Solo le tue</value>
+    </data>
+    <data name="History_Filters_CurrentValue_YoursAndFriends" xml:space="preserve">
+        <value>Le tue + amici</value>
+    </data>
+    <data name="Settings_Various_ForceAdsDisplay_Text" xml:space="preserve">
+        <value>Forzare la visualizzazione degli annunci</value>
+    </data>
+    <data name="Global_VotePlural" xml:space="preserve">
+        <value>voti</value>
+    </data>
+
+    <data name="GenreName_biography" xml:space="preserve">
+    <value>Biografia</value>
+</data>
+    <data name="GenreName_children" xml:space="preserve">
+    <value>Bambini</value>
+</data>
+    <data name="GenreName_comedy" xml:space="preserve">
+    <value>Commedia</value>
+</data>
+    <data name="GenreName_crime" xml:space="preserve">
+    <value>Crimine</value>
+</data>
+    <data name="GenreName_documentary" xml:space="preserve">
+    <value>Documentario</value>
+</data>
+    <data name="GenreName_drama" xml:space="preserve">
+    <value>Drammatico</value>
+</data>
+    <data name="GenreName_family" xml:space="preserve">
+    <value>Famiglia</value>
+</data>
+    <data name="GenreName_fantasy" xml:space="preserve">
+    <value>Fantasy</value>
+</data>
+    <data name="GenreName_game_show" xml:space="preserve">
+    <value>Quiz</value>
+</data>
+    <data name="GenreName_history" xml:space="preserve">
+    <value>Storia</value>
+</data>
+    <data name="GenreName_holiday" xml:space="preserve">
+    <value>Festività</value>
+</data>
+    <data name="GenreName_home_and_garden" xml:space="preserve">
+    <value>Casa e Giardino</value>
+</data>
+    <data name="GenreName_horror" xml:space="preserve">
+    <value>Horror</value>
+</data>
+    <data name="GenreName_music" xml:space="preserve">
+    <value>Musica</value>
+</data>
+    <data name="GenreName_musical" xml:space="preserve">
+    <value>Musical</value>
+</data>
+    <data name="GenreName_mystery" xml:space="preserve">
+    <value>Mistero</value>
+</data>
+    <data name="GenreName_news" xml:space="preserve">
+    <value>Notizie</value>
+</data>
+    <data name="GenreName_none" xml:space="preserve">
+    <value>Nessuno</value>
+</data>
+    <data name="GenreName_reality" xml:space="preserve">
+    <value>Reality</value>
+</data>
+    <data name="GenreName_romance" xml:space="preserve">
+    <value>Romantico</value>
+</data>
+    <data name="GenreName_science_fiction" xml:space="preserve">
+    <value>Fantascienza</value>
+</data>
+    <data name="GenreName_short" xml:space="preserve">
+    <value>Corti</value>
+</data>
+    <data name="GenreName_soap" xml:space="preserve">
+    <value>Soap</value>
+</data>
+    <data name="GenreName_special_interest" xml:space="preserve">
+    <value>Interesse Speciale</value>
+</data>
+    <data name="GenreName_sporting_event" xml:space="preserve">
+    <value>Evento Sportivo</value>
+</data>
+    <data name="GenreName_superhero" xml:space="preserve">
+    <value>Supereroe</value>
+</data>
+    <data name="GenreName_suspense" xml:space="preserve">
+    <value>Suspense</value>
+</data>
+    <data name="GenreName_action" xml:space="preserve">
+    <value>Azione</value>
+</data>
+    <data name="GenreName_adventure" xml:space="preserve">
+    <value>Avventura</value>
+</data>
+    <data name="GenreName_animation" xml:space="preserve">
+    <value>Animazione</value>
+</data>
+    <data name="GenreName_anime" xml:space="preserve">
+    <value>Anime</value>
+</data>
+    <data name="GenreName_talk_show" xml:space="preserve">
+    <value>Talk Show</value>
+</data>
+    <data name="GenreName_thriller" xml:space="preserve">
+    <value>Thriller</value>
+</data>
+    <data name="GenreName_war" xml:space="preserve">
+    <value>Guerra</value>
+</data>
+    <data name="GenreName_western" xml:space="preserve">
+    <value>Western</value>
+</data>
+    <data name="GenreName_tv_show" xml:space="preserve">
+    <value>Serie TV</value>
+</data>
+
+    <data name="Settings_Display_ItemsByRowHeader_Home" xml:space="preserve">
+        <value>Per visualizzare le serie</value>
+    </data>
+    <data name="Settings_Display_ItemsByRowHeader_MovieList" xml:space="preserve">
+        <value>Per visualizzare i film</value>
+    </data>
+  <data name="Settings_Display_ItemsByRowHeader_UserListContent" xml:space="preserve">
+      <value>Nella pagina che mostra il contenuto di una lista</value>
+  </data>
+  <data name="Settings_Display_ItemsByRowHeader_TopOfGenre" xml:space="preserve">
+      <value>Nella pagina che mostra il top di un genere</value>
+  </data>
+    <data name="UserLists_AccessDenied" xml:space="preserve">
+        <value>Accesso negato: non ha più accesso a questa lista.</value>
+    </data>
+    <data name="Settings_GridModeRowsWarning" xml:space="preserve">
+        <value>💡 In ogni pagina, pizzica per ingrandire o ridurre e cambiare il numero di elementi per riga.
+</value>
+    </data>
+    <data name="MediaItem_WhereToWatchHeader" xml:space="preserve">
+        <value>DOVE VEDERE</value>
+    </data>
+    <data name="MediaItem_WhereToWatchNeedsJustWatchText" xml:space="preserve">
+        <value>Scegli il tuo paese (JustWatch) per mostrare i fornitori</value>
+    </data>
+    <data name="MediaItem_WhereToWatch_DataProvidedByJustwatch" xml:space="preserve">
+        <value>Dati forniti da JustWatch</value>
+    </data>
+    <data name="MediaItem_WhereToWatch_NoProviderFound" xml:space="preserve">
+        <value>Sembra che non ci sia alcun fornitore disponibile nel tuo paese.</value>
+    </data>
+    <data name="WatchProviderType_Buy" xml:space="preserve">
+  <value>Acquisto</value>
+</data>
+    <data name="WatchProviderType_Ads" xml:space="preserve">
+  <value>Streaming con pubblicità</value>
+</data>
+    <data name="WatchProviderType_Flatrate" xml:space="preserve">
+  <value>Streaming</value>
+</data>
+    <data name="WatchProviderType_Rent" xml:space="preserve">
+  <value>Noleggio</value>
+</data>
+    <data name="WatchProviderType_Free" xml:space="preserve">
+        <value>Gratis</value>
+    </data>
+    <data name="Settings_DisplayShowSeasonPremiereOnHomePage" xml:space="preserve">
+        <value>Mostrare un’etichetta per la il primo episodio della stagione nella lista principale?</value>
+    </data>
+    <data name="ShowCommentsHeader_Sentiment_Header" xml:space="preserve">
+        <value>MOOD DELLA COMMUNITY</value>
+    </data>
+    <data name="ShowCommentsHeader_Comments_Header" xml:space="preserve">
+        <value>COMMENTI</value>
+    </data>
+    <data name="PhotoGallery_SetAsPreferredThumbnail" xml:space="preserve">
+        <value>Imposta come miniatura dell’elemento</value>
+    </data>
+    <data name="PhotoGallery_SetAsNoMorePreferredThumbnail" xml:space="preserve">
+        <value>Non impostare più come miniatura</value>
+    </data>
+    <data name="PhotoGallery_Download" xml:space="preserve">
+        <value>Scaricare l’immagine</value>
+    </data>
+    <data name="PhotoGallery_IsPreferred" xml:space="preserve">
+        <value>Miniatura personalizzata</value>
+    </data>
+    <data name="PhotoGallery_SetAsPreferredThumbnail_Success" xml:space="preserve">
+        <value>Miniatura impostata per questa serie!</value>
+    </data>
+    <data name="PhotoGallery_SetAsNoMorePreferredThumbnail_Success" xml:space="preserve">
+        <value>Miniatura ripristinata!</value>
+    </data>
+    <data name="PhotoGallery_TabTitle" xml:space="preserve">
+        <value>Foto</value>
+    </data>
+    <data name="PhotoGallery_IsDefault" xml:space="preserve">
+        <value>Miniatura predefinita</value>
+    </data>
+    <data name="ShowDetails_HideSeasonWithPrevious" xml:space="preserve">
+        <value>Nascondi questa stagione e le precedenti</value>
+    </data>
+    <data name="Settings_RaterAfterMovieWatchedHeader_Text" xml:space="preserve">
+        <value>Film: richiedere una valutazione quando contrassegnato come visto</value>
+    </data>
+    <data name="Settings_SortHeaderWithShowToStartWatching_Text" xml:space="preserve">
+        <value>Gruppi con serie da iniziare a vedere</value>
+    </data>
+    <data name="Startup_ConnectionDevicodeCodeModeButton" xml:space="preserve">
+        <value>Metodo alternativo 1: accesso con un codice</value>
+    </data>
+    <data name="Startup_ConnectionDevicodeCodeModeExplanationFormat" xml:space="preserve">
+        <value>Il tuo browser si aprirà.
+ 
+Accedi a Trakt, inserisci il codice {0} (dovrebbe essere già compilato), poi torna nell’app.
+ 
+La connessione verrà rilevata automaticamente.
+ 
+Promemoria: il tuo codice è {0}.</value>
+    </data>
+    <data name="Global_CopyLink" xml:space="preserve">
+        <value>Copia link</value>
+    </data>
+    <data name="Startup_ConnectionDevicodeCodeModeError" xml:space="preserve">
+        <value>Non ha funzionato. Per favore riprova la procedura di accesso.</value>
+    </data>
+    <data name="Startup_ConnectionDevicodeCode_CopyCodeAndOpenLink" xml:space="preserve">
+        <value>Copiare il codice e aprire il link</value>
+    </data>
+    <data name="Global_AuthenticationAttempt" xml:space="preserve">
+        <value>Tentativo di connession…</value>
+    </data>
+    <data name="Startup_ConnectionDevicodeCodeMode_Name" xml:space="preserve">
+        <value>Accedere con un codice</value>
+    </data>
+    <data name="Home_UserMenu_Signout_Content" xml:space="preserve">
+        <value>Sei sicuro di voler disconnetterti?</value>
+    </data>
+    <data name="Restore_CompleteToast" xml:space="preserve">
+      <value>Ripristino completato</value>
+    </data>
+    <data name="Restore_FileReceivedToast" xml:space="preserve">
+      <value>File ricevuto, ripristino in corso</value>
+    </data>
+    <data name="Settings_AnalyticsHeader" xml:space="preserve">
+      <value>TELEMETRIA</value>
+    </data>
+    <data name="Settings_BackupAndRestoreTabHeader" xml:space="preserve">
+      <value>Backup &amp; Ripristino</value>
+    </data>
+    <data name="Settings_DebugHeaderText" xml:space="preserve">
+      <value>OTTIMIZZAZIONI</value>
+    </data>
+    <data name="Settings_ExportHeaderText" xml:space="preserve">
+      <value>BACKUP &amp; RIPRISTINO</value>
+    </data>
+    <data name="Settings_RestoreDatabaseButtonTitle" xml:space="preserve">
+      <value>Ripristina il backup del database</value>
+    </data>
+    <data name="Settings_Various_ExportDatabase" xml:space="preserve">
+      <value>Esporta il database</value>
+    </data>
+    <data name="Settings_Various_ExportSettings" xml:space="preserve">
+      <value>Esporta le impostazioni</value>
+    </data>
+    <data name="Watchlist_Name" xml:space="preserve">
+      <value>Watchlist</value>
+    </data>
+</root>
