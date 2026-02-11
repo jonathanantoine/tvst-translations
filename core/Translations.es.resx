@@ -2627,8 +2627,7 @@ Recordatorio: tu código es {0}.</value>
         <value>¿Está seguro de que desea cerrar sesión?</value>
     </data>
     <data name="Startup_SignIn_IssueExplanation" xml:space="preserve">
-      <value>Si tienes un problema al iniciar sesión, prueba las alternativas a continuación.
-Si el problema persiste, puedes contactarme para obtener ayuda.</value>
+      <value>Si tienes un problema al iniciar sesión, prueba las alternativas a continuación. Si el problema persiste, puedes contactarme para obtener ayuda.</value>
     </data>
     <data name="Startup_SignIn_IssueTitle" xml:space="preserve">
       <value>Problema de inicio de sesión</value>

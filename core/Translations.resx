@@ -1379,9 +1379,8 @@ deserves to be funny!</value>
   <data name="Startup_SignIn_Text" xml:space="preserve">
     <value>LOG IN</value>
   </data>
-    <data name="Startup_SignIn_IssueExplanation" xml:space="preserve">
-    <value>If you encounter a sign-in issue, try the alternatives below.
-If the problem persists, feel free to contact me for assistance.</value>
+  <data name="Startup_SignIn_IssueExplanation" xml:space="preserve">
+    <value>If you encounter a sign-in issue, try the alternatives below. If the problem persists, feel free to contact me for assistance.</value>
   </data>
     <data name="Startup_SignIn_IssueTitle" xml:space="preserve">
     <value>Sign-in problem</value>
