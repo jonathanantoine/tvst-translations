@@ -2736,4 +2736,11 @@ Promemoria: il tuo codice è {0}.</value>
     <data name="Watchlist_Name" xml:space="preserve">
       <value>Watchlist</value>
     </data>
+    <data name="Startup_SignIn_IssueExplanation" xml:space="preserve">
+      <value>Se riscontri un problema durante l’accesso, prova le alternative qui sotto.
+Se il problema persiste, puoi contattarmi per ricevere assistenza.</value>
+    </data>
+    <data name="Startup_SignIn_IssueTitle" xml:space="preserve">
+      <value>Problema di accesso</value>
+    </data>
 </root>

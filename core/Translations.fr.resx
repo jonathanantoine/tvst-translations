@@ -3939,4 +3939,11 @@ Rappel : votre code est {0}.</value>
   <data name="Home_UserMenu_Signout_Content" xml:space="preserve">
       <value>Êtes-vous sûr de vouloir vous déconnecter ?</value>
   </data>
+  <data name="Startup_SignIn_IssueExplanation" xml:space="preserve">
+    <value>Si vous rencontrez un problème lors de la connexion, essayez les alternatives ci-dessous.
+Si le problème persiste, vous pouvez me contacter pour obtenir de l’aide.</value>
+  </data>
+  <data name="Startup_SignIn_IssueTitle" xml:space="preserve">
+    <value>Problème de connexion</value>
+  </data>
 </root>

@@ -1377,7 +1377,14 @@ deserves to be funny!</value>
     <value>REGISTER</value>
   </data>
   <data name="Startup_SignIn_Text" xml:space="preserve">
-    <value>SIGN IN</value>
+    <value>LOG IN</value>
+  </data>
+    <data name="Startup_SignIn_IssueExplanation" xml:space="preserve">
+    <value>If you encounter a sign-in issue, try the alternatives below.
+If the problem persists, feel free to contact me for assistance.</value>
+  </data>
+    <data name="Startup_SignIn_IssueTitle" xml:space="preserve">
+    <value>Sign-in problem</value>
   </data>
   <data name="StatusDisplay_ImportInProgressFormat" xml:space="preserve">
     <value>import in progress ({0}%)...</value>

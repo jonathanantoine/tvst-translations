@@ -3971,4 +3971,11 @@ Lembrete: o seu código é {0}.</value>
     <data name="Home_UserMenu_Signout_Content" xml:space="preserve">
         <value>Tem certeza de que deseja terminar a sessão?</value>
     </data>
+    <data name="Startup_SignIn_IssueExplanation" xml:space="preserve">
+        <value>Se você encontrar um problema ao iniciar sessão, tente as alternativas abaixo.
+Se o problema persistir, você pode entrar em contacto comigo para obter ajuda.</value>
+    </data>
+    <data name="Startup_SignIn_IssueTitle" xml:space="preserve">
+        <value>Problema de início de sessão</value>
+    </data>
 </root>
