@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
     <!--
     Microsoft ResX Schema
@@ -397,9 +397,9 @@ Você está usando a versão {0}</value>
     <data
         name="Search_GroupHeader_FoundOnTrakt"
         xml:space="preserve">
-    <value>ENCONTRADO NA TRAKT.TV
+        <value>ENCONTRADO NA
 </value>
-  </data>
+    </data>
     <data
         name="Donation_Button_RemoveAds_Text"
         xml:space="preserve">
@@ -4096,4 +4096,13 @@ Lembrete: o seu código é {0}.</value>
     <data name="Settings_ExportCsv_NoData" xml:space="preserve">
         <value>Nenhum dado para exportar</value>
     </data>
+  <data name="Search_Engine_Label" xml:space="preserve">
+    <value>Motor de busca</value>
+  </data>
+  <data name="Search_Engine_Tmdb" xml:space="preserve">
+    <value>TMDB</value>
+  </data>
+  <data name="Search_Engine_Trakt" xml:space="preserve">
+    <value>Trakt</value>
+  </data>
 </root>

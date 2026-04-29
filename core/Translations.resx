@@ -208,7 +208,7 @@ Click here and make donation!</value>
     <value>ALREADY IN YOUR COLLECTION</value>
   </data>
   <data name="Search_GroupHeader_FoundOnTrakt" xml:space="preserve">
-    <value>FOUND ON TRAKT.TV</value>
+      <value>FOUND ON</value>
   </data>
   <data name="Search_Tutorial_Text" xml:space="preserve">
     <value>Please type "full names", half-typed title won't be found by trakt.tv</value>
@@ -2828,5 +2828,14 @@ If you'd like to support the project, I'd really appreciate it 💖!</value>
   </data>
   <data name="Startup_DifferentAccountDetected_Continue" xml:space="preserve">
       <value>Continue and erase data</value>
+  </data>
+  <data name="Search_Engine_Label" xml:space="preserve">
+    <value>Search engine</value>
+  </data>
+  <data name="Search_Engine_Tmdb" xml:space="preserve">
+    <value>TMDB</value>
+  </data>
+  <data name="Search_Engine_Trakt" xml:space="preserve">
+    <value>Trakt</value>
   </data>
 </root>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
     <!--
     Microsoft ResX Schema
@@ -213,8 +213,8 @@ Estás usando la versión {0}</value>
     <value>Ya está en tu colección</value>
   </data>
     <data name="Search_GroupHeader_FoundOnTrakt" xml:space="preserve">
-    <value>ENCONTRADO EN TRAKT.TV</value>
-  </data>
+        <value>ENCONTRADO EN</value>
+    </data>
     <data name="Search_Tutorial_Text" xml:space="preserve">
     <value>Por favor, escribe el nombre completo, los títulos incompletos no mostrarán resultados de trakt.tv</value>
   </data>
@@ -2727,5 +2727,14 @@ Recordatorio: tu código es {0}.</value>
   </data>
   <data name="Startup_DifferentAccountDetected_Continue" xml:space="preserve">
       <value>Continuar y borrar datos</value>
+  </data>
+  <data name="Search_Engine_Label" xml:space="preserve">
+    <value>Motor de búsqueda</value>
+  </data>
+  <data name="Search_Engine_Tmdb" xml:space="preserve">
+    <value>TMDB</value>
+  </data>
+  <data name="Search_Engine_Trakt" xml:space="preserve">
+    <value>Trakt</value>
   </data>
 </root>

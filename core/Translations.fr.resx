@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!--
     Microsoft ResX Schema
@@ -366,7 +366,7 @@ Cliquez-ici pour faire une donation !</value>
   <data
       name     ="Search_GroupHeader_FoundOnTrakt"
       xml:space="preserve">
-    <value>TROUVÉ SUR TRAKT.TV</value>
+      <value>TROUVÉ SUR</value>
   </data>
   <data
       name     ="Donation_Button_RemoveAds_Text"
@@ -4060,5 +4060,14 @@ Rappel : votre code est {0}.</value>
   </data>
   <data name="TopShows_HiddenTag_Label" xml:space="preserve">
       <value>Masquée</value>
+  </data>
+  <data name="Search_Engine_Label" xml:space="preserve">
+    <value>Moteur de recherche</value>
+  </data>
+  <data name="Search_Engine_Tmdb" xml:space="preserve">
+    <value>TMDB</value>
+  </data>
+  <data name="Search_Engine_Trakt" xml:space="preserve">
+    <value>Trakt</value>
   </data>
 </root>
