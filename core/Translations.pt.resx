@@ -666,7 +666,7 @@ filhos e minha esposa.</value>
     <data
         name="ShowDetails_Code_NotAvailableOnTraktContent"
         xml:space="preserve">
-    <value>Esta série ainda não está disponível no Trakt. Vou abrir a página dela no TMDB mesmo assim.</value>
+    <value>Este conteúdo ainda não está disponível no Trakt. Vamos abrir a sua página no TMDB mesmo assim.</value>
   </data>
     <data
         name     ="ShowDetails_OpenInTmdb"

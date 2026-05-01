@@ -416,7 +416,7 @@ per i miei figli e mia moglie.</value>
     <value>NON DISPONIBILE SU TRAKT</value>
   </data>
     <data name="ShowDetails_Code_NotAvailableOnTraktContent" xml:space="preserve">
-    <value>Questa serie non è ancora disponibile su Trakt. Aprirò comunque la sua pagina TMDB.</value>
+    <value>Questo contenuto non è ancora disponibile su Trakt. Apriamo comunque la sua pagina TMDB.</value>
   </data>
     <data name="ShowDetails_OpenInTmdb" xml:space="preserve">
         <value>TMDB</value>

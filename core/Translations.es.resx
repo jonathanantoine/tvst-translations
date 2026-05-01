@@ -426,7 +426,7 @@ y la felicidad de mis hijos y mi mujer.</value>
     <value>NO DISPONIBLE EN TRAKT</value>
   </data>
     <data name="ShowDetails_Code_NotAvailableOnTraktContent" xml:space="preserve">
-    <value>Esta serie todavía no está disponible en Trakt. Abriré su página de TMDB de todos modos.</value>
+    <value>Este contenido todavía no está disponible en Trakt. Abramos su página de TMDB de todos modos.</value>
   </data>
     <data name="ShowDetails_OpenInTmdb" xml:space="preserve">
         <value>TMDB</value>

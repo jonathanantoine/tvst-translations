@@ -421,8 +421,9 @@ coffee and happiness from my kids and wife.</value>
     <value>NOT AVAILABLE ON TRAKT</value>
   </data>
   <data name="ShowDetails_Code_NotAvailableOnTraktContent" xml:space="preserve">
-    <value>This show is not available on Trakt yet. I'll open its TMDB page anyway.</value>
+    <value>This item is not available on Trakt yet. Let's open its TMDB page anyway.</value>
   </data>
+
   <data name="ShowDetails_OpenInTmdb" xml:space="preserve">
     <value>TMDB</value>
   </data>
