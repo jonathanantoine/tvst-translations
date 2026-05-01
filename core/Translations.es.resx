@@ -1677,6 +1677,9 @@ y tendencias mundiales!</value>
     <data name="SetAsSeenAtAGivenDate_Button_SetAsSeenShort" xml:space="preserve">
     <value>VISTO EN ESTA FECHA</value>
   </data>
+    <data name="SetAsSeenAtAGivenDate_NeverAskAgainForMovies" xml:space="preserve">
+    <value>No volver a preguntar para las próximas películas: usar la fecha y hora actuales (se puede cambiar en cualquier momento en ajustes)</value>
+  </data>
     <data name="Settings_DisplayLockRotation_Text" xml:space="preserve">
     <value>¿Bloquear el dispositivo en modo retrato?</value>
   </data>

@@ -2645,6 +2645,9 @@ d'être pleine de surprises !</value>
     name     ="SetAsSeenAtAGivenDate_Button_SetAsSeenShort"
     xml:space="preserve">
     <value>VU À CETTE DATE</value>
+  </data>
+  <data name="SetAsSeenAtAGivenDate_NeverAskAgainForMovies" xml:space="preserve">
+    <value>Ne plus me le demander pour les prochains films : utiliser la date et l'heure actuelles (modifiable à tout moment dans les paramètres)</value>
   </data><data
  name     ="Settings_DisplayLockRotation_Text"
  xml:space="preserve">
