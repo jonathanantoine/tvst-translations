@@ -2705,6 +2705,11 @@ Clique aqui e faça uma doação!</value>
     <value>Incluir conjuntos para começar a procurar no cálculo do número de episódios restantes do distintivo?</value>
   </data>
   <data
+        name="Common_Back"
+        xml:space="preserve">
+    <value>Voltar</value>
+  </data>
+  <data
         name="MediaItemDetails_AppBar_BackHome_Label"
         xml:space="preserve">
     <value>volte para a casa</value>
@@ -4263,5 +4268,20 @@ Lembrete: o seu código é {0}.</value>
   </data>
   <data name="Settings_Search_NoResultsHint" xml:space="preserve">
     <value>Tente com outra palavra-chave.</value>
+  </data>
+  <data name="Drawer_Header_AppSubtitle" xml:space="preserve">
+    <value>TV Show &amp; Movie Tracker</value>
+  </data>
+  <data name="Drawer_Section_QuickAccess" xml:space="preserve">
+    <value>Acesso rápido</value>
+  </data>
+  <data name="Drawer_Section_App" xml:space="preserve">
+    <value>App</value>
+  </data>
+  <data name="Drawer_Section_Help" xml:space="preserve">
+    <value>Ajuda</value>
+  </data>
+  <data name="Drawer_UserFallbackName" xml:space="preserve">
+    <value>Utilizador</value>
   </data>
 </root>

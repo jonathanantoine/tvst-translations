@@ -2673,6 +2673,10 @@ d'être pleine de surprises !</value>
  xml:space="preserve">
     <value>Inclure les séries à commencer dans le calcul du badge de l'icône de l'application ?</value>
   </data><data
+ name     ="Common_Back"
+ xml:space="preserve">
+    <value>Retour</value>
+  </data><data
  name     ="MediaItemDetails_AppBar_BackHome_Label"
  xml:space="preserve">
     <value>Revenir à l'accueil</value>
@@ -4228,5 +4232,20 @@ Rappel : votre code est {0}.</value>
   </data>
   <data name="Settings_Search_NoResultsHint" xml:space="preserve">
     <value>Essayez avec un autre mot-clé.</value>
+  </data>
+  <data name="Drawer_Header_AppSubtitle" xml:space="preserve">
+    <value>TV Show &amp; Movie Tracker</value>
+  </data>
+  <data name="Drawer_Section_QuickAccess" xml:space="preserve">
+    <value>Accès rapide</value>
+  </data>
+  <data name="Drawer_Section_App" xml:space="preserve">
+    <value>App</value>
+  </data>
+  <data name="Drawer_Section_Help" xml:space="preserve">
+    <value>Aide</value>
+  </data>
+  <data name="Drawer_UserFallbackName" xml:space="preserve">
+    <value>Utilisateur</value>
   </data>
 </root>
