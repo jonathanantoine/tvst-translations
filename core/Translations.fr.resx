@@ -4073,4 +4073,160 @@ Rappel : votre code est {0}.</value>
   <data name="Search_Engine_Trakt" xml:space="preserve">
     <value>Trakt</value>
   </data>
+  <data name="Settings_Modern_LanguageFormat_Subtitle" xml:space="preserve">
+    <value>Langue de l'app, des données et format des dates, heures et épisodes</value>
+  </data>
+  <data name="Settings_Modern_HomeSections_Subtitle" xml:space="preserve">
+    <value>Navigation, pages de démarrage et sections visibles</value>
+  </data>
+  <data name="Settings_Modern_Appearance_Title" xml:space="preserve">
+    <value>Apparence</value>
+  </data>
+  <data name="Settings_Modern_Appearance_Subtitle" xml:space="preserve">
+    <value>Thème, couleurs, police et options d'affichage</value>
+  </data>
+  <data name="Settings_Modern_DisplayLists_Subtitle" xml:space="preserve">
+    <value>Tri, regroupement, infos visibles et grille</value>
+  </data>
+  <data name="Settings_Modern_Notifications_Subtitle" xml:space="preserve">
+    <value>Alertes, délais et style de notification</value>
+  </data>
+  <data name="Settings_Modern_Sync_Subtitle" xml:space="preserve">
+    <value>Synchronisation en arrière-plan et mise à jour des données</value>
+  </data>
+  <data name="Settings_Category_Synchronization_Title" xml:space="preserve">
+    <value>Synchronisation</value>
+  </data>
+  <data name="Settings_Modern_Sync_Section_Main" xml:space="preserve">
+    <value>Synchronisation principale</value>
+  </data>
+  <data name="Settings_Modern_Sync_Section_Background" xml:space="preserve">
+    <value>Synchronisation en arrière-plan</value>
+  </data>
+  <data name="Settings_Modern_Sync_Section_Calendar" xml:space="preserve">
+    <value>Calendrier Android</value>
+  </data>
+  <data name="Settings_Modern_Sync_Section_Widgets" xml:space="preserve">
+    <value>Widgets et mises à jour</value>
+  </data>
+  <data name="Settings_Modern_Sync_Section_Data" xml:space="preserve">
+    <value>Données et resynchronisation</value>
+  </data>
+  <data name="Settings_Modern_Misc_Title" xml:space="preserve">
+    <value>Divers</value>
+  </data>
+  <data name="Settings_Modern_Misc_Subtitle" xml:space="preserve">
+    <value>Comportement, notation et options avancées</value>
+  </data>
+  <data name="Settings_Modern_BackupMaintenance_Subtitle" xml:space="preserve">
+    <value>Exporter, restaurer, optimiser et déboguer</value>
+  </data>
+  <data name="Settings_Modern_RecreateLocalData" xml:space="preserve">
+    <value>Reconstruire les données locales</value>
+  </data>
+  <data name="Settings_Home_IntroText" xml:space="preserve">
+    <value>Personnalise TVST selon ta façon de suivre tes séries et films.</value>
+  </data>
+  <data name="Settings_Modern_Badge_Premium" xml:space="preserve">
+    <value>Premium</value>
+  </data>
+  <data name="Settings_Modern_Badge_Permission" xml:space="preserve">
+    <value>Permission</value>
+  </data>
+  <data name="Settings_Modern_Badge_Restart" xml:space="preserve">
+    <value>Redémarrage</value>
+  </data>
+  <data name="Settings_Modern_Badge_Advanced" xml:space="preserve">
+    <value>Avancé</value>
+  </data>
+  <data name="Settings_Modern_Badge_Experimental" xml:space="preserve">
+    <value>Expérimental</value>
+  </data>
+  <data name="Settings_Modern_RestartRequiredToast" xml:space="preserve">
+    <value>Ce changement sera visible après le redémarrage de l'application.</value>
+  </data>
+  <data name="Settings_Modern_AdvancedSectionToggle" xml:space="preserve">
+    <value>Options avancées</value>
+  </data>
+  <data name="Settings_Modern_ShowAdvancedCount" xml:space="preserve">
+    <value>Afficher {0} réglages avancés</value>
+  </data>
+  <data name="Settings_Modern_ActionNotImplemented" xml:space="preserve">
+    <value>Cette action n'est pas encore disponible dans les nouveaux paramètres.</value>
+  </data>
+  <data name="Settings_WatchedActions_Header" xml:space="preserve">
+    <value>Actions de visionnage</value>
+  </data>
+  <data name="Settings_Category_AndroidIntegration_Title" xml:space="preserve">
+    <value>Intégration Android</value>
+  </data>
+  <data name="Settings_Category_AndroidIntegration_Subtitle" xml:space="preserve">
+    <value>Widgets, calendrier Android et fonctions système</value>
+  </data>
+  <data name="Settings_Section_AndroidCalendar_Title" xml:space="preserve">
+    <value>Calendrier Android</value>
+  </data>
+  <data name="Settings_Section_Widgets_Title" xml:space="preserve">
+    <value>Widgets</value>
+  </data>
+  <data name="Settings_Modern_Section_TrackingBehavior" xml:space="preserve">
+    <value>Comportement de suivi</value>
+  </data>
+  <data name="Settings_Modern_Section_WatchActions" xml:space="preserve">
+    <value>Actions de visionnage</value>
+  </data>
+  <data name="Settings_Modern_Section_StreamingPlatform" xml:space="preserve">
+    <value>Streaming platform</value>
+  </data>
+  <data name="Settings_Modern_Section_Export" xml:space="preserve">
+    <value>EXPORTER</value>
+  </data>
+  <data name="Settings_Modern_Section_Restore" xml:space="preserve">
+    <value>RESTAURER</value>
+  </data>
+  <data name="Settings_Modern_Section_AdvancedMaintenance" xml:space="preserve">
+    <value>MAINTENANCE AVANCÉE</value>
+  </data>
+  <data name="Settings_Backup_ExportCsv_Subtitle" xml:space="preserve">
+    <value>Crée un fichier lisible dans un tableur et import possible plus tard</value>
+  </data>
+  <data name="Settings_Backup_ExportDatabase_Subtitle" xml:space="preserve">
+    <value>Crée une sauvegarde complète de vos données locales pour DEBUG</value>
+  </data>
+  <data name="Settings_Backup_ExportSettings_Subtitle" xml:space="preserve">
+    <value>Sauvegarde vos préférences d’affichage et de comportement</value>
+  </data>
+  <data name="Settings_Backup_ImportCsv_Subtitle" xml:space="preserve">
+    <value>Ouvre l’aide d’import Trakt dans le navigateur</value>
+  </data>
+  <data name="Settings_Backup_RestoreSettings_Subtitle" xml:space="preserve">
+    <value>Importe une sauvegarde de vos préférences</value>
+  </data>
+  <data name="Settings_Backup_RestoreDatabase_Subtitle" xml:space="preserve">
+    <value>Importe une sauvegarde complète de vos données locales</value>
+  </data>
+  <data name="Settings_Backup_OptimizeDatabase_Subtitle" xml:space="preserve">
+    <value>Nettoie la base locale sans supprimer vos données</value>
+  </data>
+  <data name="Settings_Backup_RecreateLocalData_Subtitle" xml:space="preserve">
+    <value>Supprime la copie locale puis relance une synchronisation complète</value>
+  </data>
+  <data name="Settings_Backup_SendDiagnosticInfo_Subtitle" xml:space="preserve">
+    <value>Prépare un email avec les informations utiles au support</value>
+  </data>
+  <data name="Settings_Search_Placeholder" xml:space="preserve">
+    <value>Rechercher un réglage : widget, calendrier, note, langue, tri</value>
+  </data>
+  <data name="Settings_Search_ResultsHeader" xml:space="preserve">
+    <value>Résultats</value>
+  </data>
+  <data name="Settings_Search_ResultCount" xml:space="preserve">
+    <value>{0} réglage(s) trouvé(s)</value>
+  </data>
+  <data name="Settings_Search_NoResults" xml:space="preserve">
+    <value>Aucun réglage trouvé</value>
+  </data>
+  <data name="Settings_Search_NoResultsHint" xml:space="preserve">
+    <value>Essayez avec un autre mot-clé.</value>
+  </data>
 </root>
