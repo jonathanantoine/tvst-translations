@@ -2353,6 +2353,9 @@ Crea consigli personalizzati migliori per te.</value>
   <data name="Widget_RecentlyAired_PanelTitle_Short" xml:space="preserve">
     <value>Trasmessi</value>
   </data>
+  <data name="Widget_WatchlistMovies_PanelTitle_Short" xml:space="preserve">
+    <value>Lista</value>
+  </data>
     <data name="ShowDetails_EpisodeMenu_MarkAsSeenAgain_Content" xml:space="preserve">
     <value>Contrassegna questo episodio come visto di nuovo</value>
   </data>

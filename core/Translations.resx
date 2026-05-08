@@ -2575,6 +2575,9 @@ Come back later!</value>
   <data name="Widget_RecentlyAired_PanelTitle_Short" xml:space="preserve">
     <value>Recently aired</value>
   </data>
+  <data name="Widget_WatchlistMovies_PanelTitle_Short" xml:space="preserve">
+    <value>Watchlist</value>
+  </data>
   <data name="Global_EraseAccount_MenuItem" xml:space="preserve">
     <value>Account deletion</value>
   </data>
