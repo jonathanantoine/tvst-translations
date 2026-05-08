@@ -2335,6 +2335,16 @@ merece ser divertida!</value>
         xml:space="preserve">
     <value>Episódios futuros para ver</value>
   </data>
+  <data
+      name     ="Widget_NextEp_DisplayName"
+      xml:space="preserve">
+    <value>Próximos episódios</value>
+  </data>
+  <data
+      name     ="Widget_NextEp_Description"
+      xml:space="preserve">
+    <value>Mostra os seus próximos episódios para assistir</value>
+  </data>
     <data
         name="Global_AnAdWillBeDisplayed"
         xml:space="preserve">

@@ -1474,6 +1474,16 @@ merita di essere divertente!</value>
     <data name="Widget_NextEp_PanelTitle" xml:space="preserve">
     <value>prossimi episodi da vedere</value>
   </data>
+  <data
+      name     ="Widget_NextEp_DisplayName"
+      xml:space="preserve">
+    <value>Prossimi episodi</value>
+  </data>
+  <data
+      name     ="Widget_NextEp_Description"
+      xml:space="preserve">
+    <value>Mostra i tuoi prossimi episodi da vedere</value>
+  </data>
     <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
     <value>Apparirà una pubblicità.</value>
   </data>

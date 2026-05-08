@@ -2617,7 +2617,7 @@ To remove these restrictions, I encourage you to consider upgrading to a VIP sub
 </data>
 
   <data name="Changelog_FooterText" xml:space="preserve">
-    <value>Thank you for your feedback and suggestions! Your support means a lot to me.  💙</value>
+    <value>Thank you for your feedback and suggestions! Your support means a lot to me.  </value>
 </data>
 
   <data name="Global_OpenLink" xml:space="preserve">
@@ -2638,20 +2638,20 @@ To remove these restrictions, I encourage you to consider upgrading to a VIP sub
     <value> ➤ Current value</value>
 </data>
   <data name="IncitationToDonate_Title_Text" xml:space="preserve">
-  <value>🎉 100 days together!</value>
+  <value> 100 days together!</value>
 </data>
   <data name="IncitationToDonate_Content_Text" xml:space="preserve">
-  <value>To thank you, ads are gone for 2 weeks 😊.
+  <value>To thank you, ads are gone for 2 weeks .
 
-I build this app alone in my spare time (what’s left of it with 3 kids 😉).
+I build this app alone in my spare time (what’s left of it with 3 kids ).
 
-If you'd like to support the project, I'd really appreciate it 💖!</value>
+If you'd like to support the project, I'd really appreciate it !</value>
 </data>
   <data name="IncitationToDonate_Ok_Text" xml:space="preserve">
-  <value>Thanks 🙏</value>
+  <value>Thanks </value>
 </data>
   <data name="IncitationToDonate_Donate_Text" xml:space="preserve">
-  <value>I want to support 💖</value>
+  <value>I want to support </value>
 </data>
   <data name="DonationLink"
     xml:space="preserve">
@@ -2694,7 +2694,7 @@ If you'd like to support the project, I'd really appreciate it 💖!</value>
       <value>Pinch to zoom in or out to change the number of items per row.</value>
   </data>
   <data name="Global_UI_HintToastTitle" xml:space="preserve">
-      <value>💡 Tip</value>
+      <value> Tip</value>
   </data>
   <data name="Episode_SetAsUnseen_MultiplePlays_QuestionTitle" xml:space="preserve">
     <value>You’ve watched this episode multiple times!</value>
@@ -2725,7 +2725,7 @@ If you'd like to support the project, I'd really appreciate it 💖!</value>
       <value>Your Watching Stats</value>
   </data>
   <data name="Settings_DisplaySectionsWarning" xml:space="preserve">
-      <value>💡 You can display up to 5 sections at the same time, so keep only the ones that matter most to you. The "Your stats" section will be hidden automatically if you select more than 5.</value>
+      <value> You can display up to 5 sections at the same time, so keep only the ones that matter most to you. The "Your stats" section will be hidden automatically if you select more than 5.</value>
   </data>
   <data name="Home_UserStats_WatchedMoviesInLast6MonthsPlural" xml:space="preserve">
     <value>movies watched in the last 6 months in</value>
@@ -2755,7 +2755,7 @@ If you'd like to support the project, I'd really appreciate it 💖!</value>
       <value>Access Denied: you no more have access to this list.</value>
   </data>
   <data name="Settings_GridModeRowsWarning" xml:space="preserve">
-      <value>💡 On each page, pinch to zoom in or out to change the number of items per row.
+      <value> On each page, pinch to zoom in or out to change the number of items per row.
 </value>
   </data>
   <data name="MediaItem_WhereToWatchHeader" xml:space="preserve">
