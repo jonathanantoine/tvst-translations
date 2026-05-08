@@ -3722,7 +3722,7 @@ Cela crée de meilleures recommandations personnelles pour vous.</value>
     <value>Diffusés</value>
   </data>
   <data name="Widget_WatchlistMovies_PanelTitle_Short" xml:space="preserve">
-    <value>À voir</value>
+    <value>Films à voir</value>
   </data>
   <data name="ShowDetails_EpisodeMenu_MarkAsSeenAgain_Content" xml:space="preserve">
     <value>Marquer l'épisode comme vu à nouveau</value>

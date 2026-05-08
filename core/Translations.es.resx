@@ -2381,7 +2381,7 @@ Crea mejores recomendaciones personales para usted.</value>
     <value>Emitidos</value>
   </data>
   <data name="Widget_WatchlistMovies_PanelTitle_Short" xml:space="preserve">
-    <value>Lista</value>
+    <value>Películas por ver</value>
   </data>
     <data name="ShowDetails_EpisodeMenu_MarkAsSeenAgain_Content" xml:space="preserve">
     <value>Marcar este episodio como visto de nuevo</value>

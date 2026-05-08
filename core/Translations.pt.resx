@@ -3757,7 +3757,7 @@ Ele cria melhores recomendações pessoais para você.</value>
     <value>Exibidos</value>
   </data>
   <data name="Widget_WatchlistMovies_PanelTitle_Short" xml:space="preserve">
-    <value>Lista</value>
+    <value>Filmes a ver</value>
   </data>
   <data name="ShowDetails_EpisodeMenu_MarkAsSeenAgain_Content" xml:space="preserve">
     <value>Marcar este episódio como visto novamente</value>
