@@ -2377,6 +2377,12 @@ d'être pleine de surprises !</value>
       xml:space="preserve">
     <value>Prochains épisodes à voir</value>
   </data>
+  <data name="Widget_NextEp_PanelTitle_Short" xml:space="preserve">
+    <value>À voir</value>
+  </data>
+  <data name="Widget_IncomingEp_PanelTitle_Short" xml:space="preserve">
+    <value>À venir</value>
+  </data>
   <data
       name     ="Widget_NextEp_DisplayName"
       xml:space="preserve">

@@ -2335,6 +2335,12 @@ merece ser divertida!</value>
       xml:space="preserve">
     <value>Episódios futuros para ver</value>
   </data>
+  <data name="Widget_NextEp_PanelTitle_Short" xml:space="preserve">
+    <value>Para ver</value>
+  </data>
+  <data name="Widget_IncomingEp_PanelTitle_Short" xml:space="preserve">
+    <value>Em breve</value>
+  </data>
   <data
       name     ="Widget_NextEp_DisplayName"
       xml:space="preserve">

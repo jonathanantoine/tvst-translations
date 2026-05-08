@@ -1503,6 +1503,12 @@ y tendencias mundiales!</value>
     <data name="Widget_NextEp_PanelTitle" xml:space="preserve">
     <value>Próximos episodios para ver</value>
   </data>
+  <data name="Widget_NextEp_PanelTitle_Short" xml:space="preserve">
+    <value>Por ver</value>
+  </data>
+  <data name="Widget_IncomingEp_PanelTitle_Short" xml:space="preserve">
+    <value>Próximos</value>
+  </data>
   <data
       name     ="Widget_NextEp_DisplayName"
       xml:space="preserve">
