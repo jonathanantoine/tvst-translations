@@ -2377,6 +2377,9 @@ Crea mejores recomendaciones personales para usted.</value>
     <data name="Widget_RecentlyAiredEpisodes_Title" xml:space="preserve">
     <value>EPISODIOS EMITIDOS RECIENTEMENTE</value>
   </data>
+  <data name="Widget_RecentlyAired_PanelTitle_Short" xml:space="preserve">
+    <value>Emitidos</value>
+  </data>
     <data name="ShowDetails_EpisodeMenu_MarkAsSeenAgain_Content" xml:space="preserve">
     <value>Marcar este episodio como visto de nuevo</value>
   </data>
