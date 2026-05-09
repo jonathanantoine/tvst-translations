@@ -2947,8 +2947,17 @@ If you'd like to support the project, I'd really appreciate it !</value>
   <data name="Settings_Category_AndroidIntegration_Subtitle" xml:space="preserve">
     <value>Widgets, Android calendar and system features</value>
   </data>
+  <data name="Settings_Category_iOSIntegration_Title" xml:space="preserve">
+    <value>Apple integration</value>
+  </data>
+  <data name="Settings_Category_iOSIntegration_Subtitle" xml:space="preserve">
+    <value>App icon badge and iOS-specific features</value>
+  </data>
   <data name="Settings_Section_AndroidCalendar_Title" xml:space="preserve">
     <value>Android calendar</value>
+  </data>
+  <data name="Settings_Section_iOSBadge_Title" xml:space="preserve">
+    <value>App icon badge</value>
   </data>
   <data name="Settings_Section_Widgets_Title" xml:space="preserve">
     <value>Widgets</value>

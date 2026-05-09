@@ -2964,8 +2964,17 @@ t  <data name="Settings_Modern_Badge_Premium" xml:space="preserve">
   <data name="Settings_Category_AndroidIntegration_Subtitle" xml:space="preserve">
     <value>Widget, calendario Android e funzioni di sistema</value>
   </data>
+  <data name="Settings_Category_iOSIntegration_Title" xml:space="preserve">
+    <value>Integrazione Apple</value>
+  </data>
+  <data name="Settings_Category_iOSIntegration_Subtitle" xml:space="preserve">
+    <value>Badge dell'icona dell'app e funzioni specifiche di iOS</value>
+  </data>
   <data name="Settings_Section_AndroidCalendar_Title" xml:space="preserve">
     <value>Calendario Android</value>
+  </data>
+  <data name="Settings_Section_iOSBadge_Title" xml:space="preserve">
+    <value>Badge dell'icona dell'app</value>
   </data>
   <data name="Settings_Section_Widgets_Title" xml:space="preserve">
     <value>Widget</value>

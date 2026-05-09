@@ -2855,8 +2855,17 @@ Recordatorio: tu código es {0}.</value>
   <data name="Settings_Category_AndroidIntegration_Subtitle" xml:space="preserve">
     <value>Widgets, calendario de Android y funciones del sistema</value>
   </data>
+  <data name="Settings_Category_iOSIntegration_Title" xml:space="preserve">
+    <value>Integración con Apple</value>
+  </data>
+  <data name="Settings_Category_iOSIntegration_Subtitle" xml:space="preserve">
+    <value>Insignia del icono de la app y funciones específicas de iOS</value>
+  </data>
   <data name="Settings_Section_AndroidCalendar_Title" xml:space="preserve">
     <value>Calendario de Android</value>
+  </data>
+  <data name="Settings_Section_iOSBadge_Title" xml:space="preserve">
+    <value>Insignia del icono de la app</value>
   </data>
   <data name="Settings_Section_Widgets_Title" xml:space="preserve">
     <value>Widgets</value>
