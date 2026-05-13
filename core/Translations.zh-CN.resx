@@ -1,110 +1,52 @@
-<?xml version="1.0" encoding="utf-8"?>
-<root>
-  <!-- 
-    Microsoft ResX Schema 
-    
-    Version 2.0
-    
-    The primary goals of this format is to allow a simple XML format 
-    that is mostly human-readable. The generation and parsing of the 
-    various data types are done through the TypeConverter classes 
-    associated with the data types.
-    
-    Example:
-    
-    ... ado.net/XML headers & schema ...
-    <resheader name="resmimetype">text/microsoft-resx</resheader>
-    <resheader name="version">2.0</resheader>
-    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
-    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
-    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
-    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
-    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
-        <value>[base64 mime encoded serialized .NET Framework object]</value>
-    </data>
-    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
-        <comment>This is a comment</comment>
-    </data>
-                
-    There are any number of "resheader" rows that contain simple 
-    name/value pairs.
-    
-    Each data row contains a name, and value. The row also contains a 
-    type or mimetype. Type corresponds to a .NET class that support 
-    text/value conversion through the TypeConverter architecture. 
-    Classes that don't support this are serialized and stored with the 
-    mimetype set.
-    
-    The mimetype is used for serialized objects, and tells the 
-    ResXResourceReader how to depersist the object. This is currently not 
-    extensible. For a given mimetype the value must be set accordingly:
-    
-    Note - application/x-microsoft.net.object.binary.base64 is the format 
-    that the ResXResourceWriter will generate, however the reader can 
-    read any of the formats listed below.
-    
-    mimetype: application/x-microsoft.net.object.binary.base64
-    value   : The object must be serialized with 
-            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
-            : and then encoded with base64 encoding.
-    
-    mimetype: application/x-microsoft.net.object.soap.base64
-    value   : The object must be serialized with 
-            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
-            : and then encoded with base64 encoding.
-
-    mimetype: application/x-microsoft.net.object.bytearray.base64
-    value   : The object must be serialized into a byte array 
-            : using a System.ComponentModel.TypeConverter
-            : and then encoded with base64 encoding.
-    -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
-    <xsd:element name="root" msdata:IsDataSet="true">
-      <xsd:complexType>
-        <xsd:choice maxOccurs="unbounded">
-          <xsd:element name="metadata">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" />
-              </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string" />
-              <xsd:attribute name="type" type="xsd:string" />
-              <xsd:attribute name="mimetype" type="xsd:string" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="assembly">
-            <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string" />
-              <xsd:attribute name="name" type="xsd:string" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="data">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="resheader">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" />
-            </xsd:complexType>
-          </xsd:element>
-        </xsd:choice>
-      </xsd:complexType>
-    </xsd:element>
-  </xsd:schema>
+<?xml version='1.0' encoding='utf-8'?>
+<root xmlns:ns1="urn:schemas-microsoft-com:xml-msdata" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  
+  <xs:schema id="root">
+    <xs:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xs:element name="root" ns1:IsDataSet="true">
+      <xs:complexType>
+        <xs:choice maxOccurs="unbounded">
+          <xs:element name="metadata">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="value" type="xsd:string" minOccurs="0" />
+              </xs:sequence>
+              <xs:attribute name="name" use="required" type="xsd:string" />
+              <xs:attribute name="type" type="xsd:string" />
+              <xs:attribute name="mimetype" type="xsd:string" />
+              <xs:attribute ref="xml:space" />
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="assembly">
+            <xs:complexType>
+              <xs:attribute name="alias" type="xsd:string" />
+              <xs:attribute name="name" type="xsd:string" />
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="data">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="value" type="xsd:string" minOccurs="0" ns1:Ordinal="1" />
+                <xs:element name="comment" type="xsd:string" minOccurs="0" ns1:Ordinal="2" />
+              </xs:sequence>
+              <xs:attribute name="name" type="xsd:string" use="required" ns1:Ordinal="1" />
+              <xs:attribute name="type" type="xsd:string" ns1:Ordinal="3" />
+              <xs:attribute name="mimetype" type="xsd:string" ns1:Ordinal="4" />
+              <xs:attribute ref="xml:space" />
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="resheader">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="value" type="xsd:string" minOccurs="0" ns1:Ordinal="1" />
+              </xs:sequence>
+              <xs:attribute name="name" type="xsd:string" use="required" />
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
   <resheader name="resmimetype">
     <value>text/microsoft-resx</value>
   </resheader>
@@ -132,7 +74,7 @@
 点击此处了解详情</value>
   </data>
   <data name="AdCrossPromo_BooksTracker_Title" xml:space="preserve">
-    <value>Books Tracker · 来自同一开发者</value>
+    <value>Books Tracker · 同一开发者出品</value>
   </data>
   <data name="AdCrossPromo_BooksTracker_Subtitle" xml:space="preserve">
     <value>像追踪剧集一样追踪你的书籍</value>
@@ -153,7 +95,7 @@
     <value>查看</value>
   </data>
   <data name="Cast_Code_UnknowAge" xml:space="preserve">
-    <value>未知年龄</value>
+    <value>年龄不详</value>
   </data>
   <data name="RateAnEpisode_ActionButton_Content" xml:space="preserve">
     <value>给本集评分</value>
@@ -195,7 +137,7 @@
     <value>重建数据库</value>
   </data>
   <data name="Settings_Various_RecreateDbExplanation" xml:space="preserve">
-    <value>应用将重启，你需要执行一次完全同步。</value>
+    <value>应用将重启，需要重新同步所有数据</value>
   </data>
   <data name="CheckinEpisodeView_YouAreAlreadyWatchingSomething_Text" xml:space="preserve">
     <value>你正在观看：</value>
@@ -210,12 +152,12 @@
       <value>在Trakt上找到</value>
   </data>
   <data name="Search_Tutorial_Text" xml:space="preserve">
-    <value>请输入完整名称，不完整的标题将不会被找到。
+    <value>请输入完整名称，不完整的标题 trakt.tv 搜不到。
 
 如果你输入《绝命毒师》（Breaking Bad），"Breaking"不会被找到。请搜索"Breaking Bad"。</value>
   </data>
   <data name="Search_CannotLoadFromTrakt" xml:space="preserve">
-    <value>无法在 trakt.tv 上搜索，请检查网络连接后重试。</value>
+    <value>搜索失败，请检查网络后重试</value>
   </data>
   <data name="Donation_Button_Combo_Text" xml:space="preserve">
     <value>一体包！</value>
@@ -279,16 +221,16 @@
     <value>筛选</value>
   </data>
   <data name="Episode_Code_Add_QuestionContent" xml:space="preserve">
-    <value>将此集标记为已看后，该剧集将被加入你的收藏。确定要添加吗？</value>
+    <value>标记这集为已看后，这部剧就会加入你的收藏。确认添加吗？</value>
   </data>
   <data name="Episode_Code_Add_QuestionTitle" xml:space="preserve">
-    <value>添加该剧集？</value>
+    <value>添加这部剧？</value>
   </data>
   <data name="Episode_Code_UpdateSeenInfo_ErrorMarkingAsNotSeen" xml:space="preserve">
-    <value>无法将此集标记为未看，请检查网络后重试。</value>
+    <value>标记未看失败，请检查网络后重试</value>
   </data>
   <data name="Episode_Code_UpdateSeenInfo_ErrorMarkingAsSeen" xml:space="preserve">
-    <value>无法将此集标记为已看，请检查网络后重试。</value>
+    <value>标记已看失败，请检查网络后重试</value>
   </data>
   <data name="Error_GenericText_Part1_Text" xml:space="preserve">
     <value>发生了意外错误，请检查网络连接后重试。</value>
@@ -312,7 +254,7 @@
     <value>首页分区位置</value>
   </data>
   <data name="HomeNavigationSystem_Responsive" xml:space="preserve">
-    <value>自适应：小屏幕在底部，宽屏幕在顶部</value>
+    <value>自适应布局：小屏置底，宽屏置顶</value>
   </data>
   <data name="HomeNavigationSystem_Bottom" xml:space="preserve">
     <value>始终在屏幕底部</value>
@@ -343,7 +285,7 @@
     <value>{0}天后</value>
   </data>
   <data name="Home_Code_Incoming_Later" xml:space="preserve">
-    <value>或未公布</value>
+    <value>待定</value>
   </data>
   <data name="Home_Code_Incoming_Today" xml:space="preserve">
     <value>今天</value>
@@ -400,7 +342,7 @@
     <value>{0} - 最热门</value>
   </data>
   <data name="Billing_CannotConnectYouToTheStore" xml:space="preserve">
-    <value>当前无法连接到商店，请稍后再试。</value>
+    <value>连接商店失败，请稍后再试</value>
   </data>
   <data name="Home_Code_Popular_HowToDisplayActions" xml:space="preserve">
     <value>提示：长按剧集可显示操作菜单：添加、隐藏等。</value>
@@ -719,16 +661,16 @@
     <value>你的想法如何？</value>
   </data>
   <data name="RateEpisode_Code_Error" xml:space="preserve">
-    <value>暂时无法给此集评分，请稍后再试。</value>
+    <value>评分失败，请稍后再试</value>
   </data>
   <data name="RateMe_Code_MailSubjectFormat" xml:space="preserve">
-    <value>关于电视剧 Tracker v{0}</value>
+    <value>关于 TV Show Tracker v{0}</value>
   </data>
   <data name="RateMeToast_Code_Content_Text" xml:space="preserve">
-    <value>愿意recommend 电视剧 Tracker吗？</value>
+    <value>愿意推荐 TV Show Tracker 吗？</value>
   </data>
   <data name="RateMe_Content_Text" xml:space="preserve">
-    <value>现在你已经了解电视剧 Tracker 了
+    <value>现在你已经了解 TV Show Tracker 了
 我很想听听你的想法！
 
 畅所欲言吧！</value>
@@ -750,7 +692,7 @@
     <value>你的意见很重要</value>
   </data>
   <data name="RateShow_Code_Error" xml:space="preserve">
-    <value>暂时无法给此剧集评分，请稍后再试。</value>
+    <value>评分失败，请稍后再试</value>
   </data>
   <data name="Search_AddingMediaItem_Text" xml:space="preserve">
     <value>此项目正在添加</value>
@@ -848,7 +790,7 @@
     <value>应用 语言</value>
   </data>
   <data name="Settings_Display_AddMyLanguage_Text" xml:space="preserve">
-    <value>我想添加我的语言</value>
+    <value>添加语言偏好</value>
   </data>
   <data name="Settings_Display_AddMyLanguage_Explanation" xml:space="preserve">
     <value>你将被重定向到一个网站，可以在那里添加新的应用语言。</value>
@@ -857,7 +799,7 @@
     <value>应用数据语言</value>
   </data>
   <data name="Settings_Display_Code_AvailableOnNextLaunchReminder" xml:space="preserve">
-    <value>你已更改设置（字体、颜色、语言），将在下次启动时生效。</value>
+    <value>你已更改设置（字体、颜色、语言），将在下次启动 TV Show Tracker 时生效。</value>
   </data>
   <data name="Settings_Display_Code_NotificationDelay_12Hours" xml:space="preserve">
     <value>12 小时 之前</value>
@@ -1057,7 +999,7 @@
     <value>浅色</value>
   </data>
   <data name="Settings_UI_Code_NeedToBuyIAPContent" xml:space="preserve">
-    <value>要执行此操作，你需要在商店购买应用内产品。
+    <value>此功能需要购买应用内商品
 
 这帮助支持应用开发。
 
@@ -1172,10 +1114,10 @@
     <value>警告：这将从Trakt.tv中移除与此剧集相关的所有数据：收藏、想看列表、观看历史等。</value>
   </data>
   <data name="ShowDetails_Code_AskRemovingTitle" xml:space="preserve">
-    <value>移除该剧集？</value>
+    <value>移除这部剧？</value>
   </data>
   <data name="ShowDetails_Code_CannotRemoveFormat" xml:space="preserve">
-    <value>抱歉，目前无法从收藏中移除剧集"{0}"。</value>
+    <value>暂时无法移除「{0}」，请稍后再试</value>
   </data>
   <data name="ShowDetails_Code_Episode_AiredEpisodesPlural" xml:space="preserve">
     <value>已播出 集</value>
@@ -1205,7 +1147,7 @@
     <value>来看看"{1}"的第{0}集：{2}</value>
   </data>
   <data name="ShowDetails_Code_Share_DiscoveredWith" xml:space="preserve">
-    <value>使用电视剧和电影 Tracker 发现 #TVSTT</value>
+    <value>使用 TV Show &amp; Movie Tracker 发现 #TVSTT</value>
   </data>
   <data name="ShowDetails_Code_ShowInfo_ErrorWhenHidingRecommendation" xml:space="preserve">
     <value>从推荐中隐藏此剧集时出错</value>
@@ -1430,13 +1372,13 @@
     <value>导入中 ({0}%)...</value>
   </data>
   <data name="StatusDisplay_SyncFailure" xml:space="preserve">
-    <value>同步失败：请检查网络连接</value>
+    <value>同步失败，请检查网络</value>
   </data>
   <data name="StatusDisplay_SyncFailureBecauseOfTrakt" xml:space="preserve">
-    <value>错误：Trakt.tv 当前无法访问</value>
+    <value>Trakt 服务暂时不可用</value>
   </data>
   <data name="Global_Error_SyncFailureBecauseOfTrakt" xml:space="preserve">
-    <value>Trakt.tv 似乎暂时无法访问。这不是你的网络或应用的问题，请稍后再试。</value>
+    <value>Trakt 服务暂时不可用，请稍后再试</value>
   </data>
   <data name="Global_Error_NoMoreSpaceOnDeviceException" xml:space="preserve">
     <value>错误：设备空间不足。</value>
@@ -1495,7 +1437,7 @@
     <value>允许标记尚未播出的剧集为已看。</value>
   </data>
   <data name="Trakt_LostAuthorizationContent" xml:space="preserve">
-    <value>电视剧 Tracker 失去了对您账户的访问权限。数据不会丢失，但您需要重新登录。</value>
+    <value>TV Show Tracker 失去了对你账户的访问权限。数据不会丢失，但你需要重新登录。</value>
   </data>
   <data name="Trakt_LostAuthorizationTitle" xml:space="preserve">
     <value>授权已丢失</value>
@@ -1564,7 +1506,7 @@ de  <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
     <value>加载中...</value>
   </data>
   <data name="Global_DoingTheOperation" xml:space="preserve">
-    <value>正在执行操作...</value>
+    <value>处理中...</value>
   </data>
   <data name="Global_ShowStatus_Canceled" xml:space="preserve">
     <value>已取消</value>
@@ -1630,7 +1572,7 @@ de  <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
     <value>捐赠</value>
   </data>
   <data name="Donation_SupportProject_Description" xml:space="preserve">
-    <value>如果你愿意帮助电视剧 Tracker 持续发展，你也可以支持该项目。</value>
+    <value>如果你愿意帮助 TV Show Tracker 持续发展，你也可以支持该项目。</value>
   </data>
   <data name="Donation_SupportProject_Header" xml:space="preserve">
     <value>支持项目</value>
@@ -1782,7 +1724,7 @@ de  <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
     <value>来看看这部电影"{0}"：{1}</value>
   </data>
   <data name="MovieDetails_Code_Share_DiscoveredWith" xml:space="preserve">
-    <value>使用电视剧和电影 Tracker 发现 #TVSTT</value>
+    <value>使用 TV Show &amp; Movie Tracker 发现 #TVSTT</value>
   </data>
   <data name="MovieDetails_AppBar_Remove_Label" xml:space="preserve">
     <value>移除这部电影</value>
@@ -2168,8 +2110,7 @@ de  <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
   <data name="Trakt_AccountLockedContent" xml:space="preserve">
     <value>您的账户因长时间未使用已被停用。请登录Trakt.tv重新激活。</value>
   </data>
-  <data name ="Trakt_AccountLockedContactButton"
-      xml:space="preserve">
+  <data name="Trakt_AccountLockedContactButton" xml:space="preserve">
     <value>CONTACT THEM</value>
   </data>
   <data name="Trakt_AccountLockedOpenLink" xml:space="preserve">
@@ -2179,7 +2120,7 @@ de  <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
     <value>账户已停用</value>
   </data>
   <data name="ProcessItemsToBeSetAsSeen_CantBeDoneNow" xml:space="preserve">
-    <value>无法将最新的更改发送到Trakt，但别担心，我们会稍后再试！</value>
+    <value>同步失败，稍后会自动重试</value>
   </data>
   <data name="Settings_OpenMovieWorldInsteadOfTVShow" xml:space="preserve">
     <value>启动时打开电影页面而非电视剧？</value>
@@ -2569,7 +2510,7 @@ de  <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
   </data>
 
   <data name="DemoMode_CantDoThis" xml:space="preserve">
-    <value>演示模式下无法执行此操作。</value>
+    <value>演示模式不可用</value>
   </data>
 
   <data name="Global_Error_AccountLimitExceededTitle" xml:space="preserve">
@@ -2603,8 +2544,7 @@ de  <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
   <data name="Episode_SetAsWatchedSuccess" xml:space="preserve">
   <value>集已标记为已看！</value>
 </data>
-  <data name="Global_AvailableOptions_CurrentValuePrefix"
-        xml:space="preserve">
+  <data name="Global_AvailableOptions_CurrentValuePrefix" xml:space="preserve">
     <value>➤ 当前值</value>
 </data>
   <data name="IncitationToDonate_Title_Text" xml:space="preserve">
@@ -2623,8 +2563,7 @@ de  <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
   <data name="IncitationToDonate_Donate_Text" xml:space="preserve">
   <value>我想支持</value>
 </data>
-  <data name="DonationLink"
-    xml:space="preserve">
+  <data name="DonationLink" xml:space="preserve">
     <value>https://gofund.me/8e291670</value>
   </data>
   <data name="Calendar_IsSeasonFinaleIndicatorText" xml:space="preserve">
@@ -2956,7 +2895,7 @@ de  <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
     <value>导入本地数据的完整备份</value>
   </data>
   <data name="Settings_Backup_OptimizeDatabase_Subtitle" xml:space="preserve">
-    <value>清理本地数据库而不删除数据</value>
+    <value>清理缓存，保留所有数据</value>
   </data>
   <data name="Settings_Backup_RecreateLocalData_Subtitle" xml:space="preserve">
     <value>删除本地副本并开始完全同步</value>
@@ -2974,13 +2913,13 @@ de  <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
     <value>{0} 设置 已找到</value>
   </data>
   <data name="Settings_Search_NoResults" xml:space="preserve">
-    <value>未找到设置</value>
+    <value>没有找到相关设置</value>
   </data>
   <data name="Settings_Search_NoResultsHint" xml:space="preserve">
     <value>尝试其他关键词</value>
   </data>
   <data name="Drawer_Header_AppSubtitle" xml:space="preserve">
-    <value>电视剧和电影 Tracker</value>
+    <value>TV Show &amp; Movie Tracker</value>
   </data>
   <data name="Drawer_Section_QuickAccess" xml:space="preserve">
     <value>快速访问</value>
