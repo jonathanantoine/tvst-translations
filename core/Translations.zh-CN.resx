@@ -77,7 +77,7 @@
     <value>Books Tracker · 同一开发者出品</value>
   </data>
   <data name="AdCrossPromo_BooksTracker_Subtitle" xml:space="preserve">
-    <value>像追踪剧集一样追踪你的书籍</value>
+    <value>像追踪剧一样追踪你的书籍</value>
   </data>
   <data name="AdCrossPromo_BooksTracker_Cta" xml:space="preserve">
     <value>查看</value>
@@ -89,7 +89,7 @@
     <value>Podcast Tracker · 来自同一开发者</value>
   </data>
   <data name="AdCrossPromo_PodcastTracker_Subtitle" xml:space="preserve">
-    <value>收听并追踪你的播客，就像追踪剧集一样。</value>
+    <value>收听并追踪你的播客，就像追踪剧一样。</value>
   </data>
   <data name="AdCrossPromo_PodcastTracker_Cta" xml:space="preserve">
     <value>查看</value>
@@ -113,7 +113,7 @@
     <value>启用首页列表分组折叠/展开？</value>
   </data>
   <data name="Settings_Data_HideHiddenItems_Text" xml:space="preserve">
-    <value>完全隐藏已隐藏的剧集？</value>
+    <value>完全隐藏已隐藏的剧？</value>
   </data>
   <data name="Changelog_CurrentVersionFormat" xml:space="preserve">
     <value>你正在使用版本 {0}</value>
@@ -276,7 +276,7 @@
     <value>，</value>
   </data>
   <data name="Home_Code_Incoming_DaySymbol" xml:space="preserve">
-    <value>天</value>
+    <value>D</value>
   </data>
   <data name="Home_Code_Incoming_XDaysAgoPlural" xml:space="preserve">
     <value>{0}天前</value>
@@ -303,37 +303,37 @@
     <value>最新剧集</value>
   </data>
   <data name="Home_Code_MyShowPanelHeader_Default" xml:space="preserve">
-    <value>你的剧集</value>
+    <value>你的剧</value>
   </data>
   <data name="Home_Code_MyShowPanelHeader_MultipleShowFormat" xml:space="preserve">
-    <value>你的 {0} 部剧集</value>
+    <value>你的 {0} 部剧</value>
   </data>
   <data name="Home_Code_MyShowPanelHeader_OneShowOnly" xml:space="preserve">
-    <value>你在追的唯一一档</value>
+    <value>唯一在追的剧</value>
   </data>
   <data name="Home_Code_MyShowsHiddenGroupHeader_Plural" xml:space="preserve">
-    <value>{0} 部隐藏的剧集</value>
+    <value>{0} 部隐藏的剧</value>
   </data>
   <data name="Home_Code_MyShowToStartGroupHeaderPlural" xml:space="preserve">
-    <value>{0} 部需要开始观看的剧集</value>
+    <value>{0} 部待看剧</value>
   </data>
   <data name="Home_Code_MyShowToStartGroupHeaderSingular" xml:space="preserve">
-    <value>1 部需要开始观看的剧集</value>
+    <value>1 部待看剧</value>
   </data>
   <data name="Home_Code_MyShowWithEpisodeToSeeButEndedGroupHeader_Plural" xml:space="preserve">
-    <value>{0} 部有未看剧集的完结剧</value>
+    <value>{0} 部有未看集的完结剧</value>
   </data>
   <data name="Home_Code_MyShowWithEpisodeToSeeGroupHeader_Plural" xml:space="preserve">
-    <value>{0} 部有未看剧集的剧</value>
+    <value>{0} 部有未看集的剧</value>
   </data>
   <data name="Home_Code_MyShowWithEpisodeToSeeNotEndedGroupHeader_Plural" xml:space="preserve">
-    <value>{0} 部有未看剧集的连载剧</value>
+    <value>{0} 部有未看集的连载剧</value>
   </data>
   <data name="Home_Code_MyShowWithNoEpisodeToSeeEndedGroupHeader_Plural" xml:space="preserve">
     <value>{0} 部已看完的完结剧</value>
   </data>
   <data name="Home_Code_MyShowWithNoEpisodeToSeeGroupHeader_Plural" xml:space="preserve">
-    <value>{0} 部全部看完的连载剧</value>
+    <value>{0} 部已看完的连载剧</value>
   </data>
   <data name="Home_Code_Popular_Popular" xml:space="preserve">
     <value>最热门</value>
@@ -345,7 +345,7 @@
     <value>连接商店失败，请稍后再试</value>
   </data>
   <data name="Home_Code_Popular_HowToDisplayActions" xml:space="preserve">
-    <value>提示：长按剧集可显示操作菜单：添加、隐藏等。</value>
+    <value>提示：长按剧可显示操作菜单：添加、隐藏等。</value>
   </data>
   <data name="Global_Code_LearnMore" xml:space="preserve">
     <value>了解更多</value>
@@ -354,10 +354,10 @@
     <value>为你推荐</value>
   </data>
   <data name="Home_Code_Popular_ReleasedThisMonthFormat" xml:space="preserve">
-    <value>{0}本月播出的剧集</value>
+    <value>{0}本月播出的剧</value>
   </data>
   <data name="ShowDetails_Code_SimilarToThisShow" xml:space="preserve">
-    <value>你可能也喜欢这些剧集</value>
+    <value>你可能也喜欢这些剧</value>
   </data>
   <data name="ShowDetails_Code_NotAvailableOnTraktTitle" xml:space="preserve">
     <value>Trakt上暂无此内容</value>
@@ -385,8 +385,8 @@
     <value>欢迎 {0}</value>
   </data>
   <data name="Home_Incoming_EmptyPlaceHolder_Text" xml:space="preserve">
-    <value>没有即将播出的剧集
-因为你的收藏中没有剧集
+    <value>没有即将播出的集
+因为你的收藏中没有剧
 
 试试添加一部吧 :-)</value>
   </data>
@@ -395,7 +395,7 @@
     <value>On</value>
   </data>
   <data name="Home_Incoming_PanelTitle_Header" xml:space="preserve">
-    <value>即将播出 集</value>
+    <value>即将播出集</value>
   </data>
   <data name="Home_Menu_AppSetting_Text" xml:space="preserve">
     <value>设置</value>
@@ -416,7 +416,7 @@
     <value>不再显示此消息</value>
   </data>
   <data name="Home_Menu_ContactMe_Reason_WannaTalk" xml:space="preserve">
-    <value>功能 请求</value>
+    <value>功能请求</value>
   </data>
   <data name="Home_Menu_ContactMe_Reason_OtherReason" xml:space="preserve">
     <value>其他原因</value>
@@ -435,13 +435,13 @@
 让我们找些什么看看吧</value>
   </data>
   <data name="Home_MyShow_EmptyPlaceHolder_AddAShow_Content" xml:space="preserve">
-    <value>添加剧集</value>
+    <value>添加剧</value>
   </data>
   <data name="Home_Movie_EmptyPlaceHolder_AddAMovie_Content" xml:space="preserve">
     <value>添加电影</value>
   </data>
   <data name="Home_Popular_IsInError_Text" xml:space="preserve">
-    <value>热门和流行剧集
+    <value>热门和流行剧
 需要网络连接才能查看</value>
   </data>
   <data name="Home_Popular_RecommandationsBeingRemoved_Text" xml:space="preserve">
@@ -482,7 +482,7 @@
     <value>关于应用</value>
   </data>
   <data name="Home_UserMenu_AppSetting_Content" xml:space="preserve">
-    <value>应用 设置</value>
+    <value>应用设置</value>
   </data>
   <data name="Home_UserMenu_ChangeLog_Content" xml:space="preserve">
     <value>发布说明 - 更新内容</value>
@@ -508,31 +508,31 @@
     <value>你和你的好友</value>
   </data>
   <data name="Home_UserStats_Code_TotalShowCountSuffixLabelPlural" xml:space="preserve">
-    <value>剧集</value>
+    <value>剧</value>
   </data>
   <data name="Home_UserStats_Code_TotalShowCountSuffixLabelSingular" xml:space="preserve">
-    <value>剧集</value>
+    <value>剧</value>
   </data>
   <data name="Home_UserStats_Code_AllSeenShowCountSuffixLabelPlural" xml:space="preserve">
-    <value>剧集 已完成</value>
+    <value>剧已完成</value>
   </data>
   <data name="Home_UserStats_Code_AllSeenShowCountSuffixLabelSingular" xml:space="preserve">
-    <value>剧集 已完成</value>
+    <value>剧已完成</value>
   </data>
   <data name="Home_UserStats_Code_NotAllSeenShowCountSuffixLabelPlural" xml:space="preserve">
-    <value>部剧集有待看集数</value>
+    <value>部剧有待看集数</value>
   </data>
   <data name="Global_You" xml:space="preserve">
-    <value>You</value>
+    <value>你</value>
   </data>
   <data name="Home_UserStats_Code_NotAllSeenShowCountSuffixLabelSingular" xml:space="preserve">
-    <value>部剧集有待看集数</value>
+    <value>部剧有待看集数</value>
   </data>
   <data name="Home_UserStats_Code_NoTimeSpent" xml:space="preserve">
-    <value>此剧集尚未花费时间</value>
+    <value>此剧尚未花费时间</value>
   </data>
   <data name="Home_UserStats_Code_PercentEpToWatchFormat" xml:space="preserve">
-    <value>{0}% ep to  watch</value>
+    <value>{0}% 待看</value>
   </data>
   <data name="Home_UserStats_Code_PercentEpWatchedFormat" xml:space="preserve">
     <value>集已看</value>
@@ -541,7 +541,7 @@
     <value>{0} 集待看</value>
   </data>
   <data name="Home_UserStats_Code_WatchedEpisodeLabelPlural" xml:space="preserve">
-    <value>{0} 集 已看</value>
+    <value>{0} 集已看</value>
   </data>
   <data name="Home_UserStats_EmptyPlaceHolder_Text" xml:space="preserve">
     <value>你至少需要添加
@@ -549,10 +549,10 @@
 才能查看统计</value>
   </data>
   <data name="Home_UserStats_Genres_GroupHeader_Text" xml:space="preserve">
-    <value>电视剧 类型</value>
+    <value>电视剧类型</value>
   </data>
   <data name="Home_UserStats_Networks_GroupHeader_Text" xml:space="preserve">
-    <value>电视剧 网络</value>
+    <value>电视剧网络</value>
   </data>
   <data name="Home_UserStats_LastMonthEmpty_Text" xml:space="preserve">
     <value>过去30天没有观看记录</value>
@@ -570,16 +570,16 @@
     <value>你的进度</value>
   </data>
   <data name="Home_UserStats_TopShow_GroupHeader_Text" xml:space="preserve">
-    <value>你的热门剧集</value>
+    <value>你的热门剧</value>
   </data>
   <data name="Home_UserStats_SeeAll_Text" xml:space="preserve">
-    <value>查看 全部</value>
+    <value>查看全部</value>
   </data>
   <data name="Home_UserStats_AllTimeTopShows_Title" xml:space="preserve">
-    <value>All-time 顶部 剧集</value>
+    <value>All-time 顶部剧</value>
   </data>
   <data name="Home_UserStats_LastMonthTopShows_Title" xml:space="preserve">
-    <value>最后 30 日 顶部 剧集</value>
+    <value>过去30天热门剧</value>
   </data>
   <data name="TopShows_HiddenTag_Label" xml:space="preserve">
     <value>已隐藏</value>
@@ -604,11 +604,11 @@
     <value>剩余电影数</value>
   </data>
   <data name="Import_Code_BackupRetrieved" xml:space="preserve">
-    <value>备份已获取，正在读取你的剧集</value>
+    <value>备份已获取，正在读取你的剧</value>
   </data>
 
   <data name="LiveTile_Code_NoShowHere" xml:space="preserve">
-    <value>这里没有剧集 :(</value>
+    <value>这里没有剧 :(</value>
   </data>
   <data name="People_Code_ActingAsFormat" xml:space="preserve">
     <value>饰演 {0}</value>
@@ -623,10 +623,10 @@
     <value>参演 {0} 部电视剧</value>
   </data>
   <data name="People_Code_AsCastNumberPlural" xml:space="preserve">
-    <value>{0} 演员 积分</value>
+    <value>{0} 演员积分</value>
   </data>
   <data name="People_Code_AsCrewNumberPlural" xml:space="preserve">
-    <value>{0} 剧组 积分</value>
+    <value>{0} 剧组积分</value>
   </data>
   <data name="People_Code_CrewingInXMoviesPlural" xml:space="preserve">
     <value>参与 {0} 部电影的剧组</value>
@@ -655,7 +655,7 @@
     <value>给本剧评分</value>
   </data>
   <data name="RateAShow_Title_Text" xml:space="preserve">
-    <value>你给这个剧集打几分？</value>
+    <value>你给这个剧打几分？</value>
   </data>
   <data name="Global_WhatDoYouThinkOfIt" xml:space="preserve">
     <value>你的想法如何？</value>
@@ -709,7 +709,7 @@
     <value>启用后台同步？</value>
   </data>
   <data name="Settings_SetAsSeenBehavior_Text" xml:space="preserve">
-    <value>当我标记剧集为已看时：</value>
+    <value>当我标记集为已看时：</value>
   </data>
   <data name="SetAsSeenBehavior_WhatToDoQuestion" xml:space="preserve">
     <value>使用哪个日期？</value>
@@ -721,7 +721,7 @@
     <value>使用当前日期和时间</value>
   </data>
   <data name="Settings_SetAsSeenBehavior_Code_SetAsSeenAtAiredDate" xml:space="preserve">
-    <value>使用剧集的播出日期</value>
+    <value>使用该集的播出日期</value>
   </data>
   <data name="Settings_SetAsSeenBehavior_Code_SetAsSeenAtAGivenDate" xml:space="preserve">
     <value>向我询问日期</value>
@@ -754,7 +754,7 @@
     <value>每6小时</value>
   </data>
   <data name="Settings_BackgroundSyncHeader_Text" xml:space="preserve">
-    <value>后台 同步</value>
+    <value>后台同步</value>
   </data>
   <data name="Settings_Code_ChangingLanguage" xml:space="preserve">
     <value>正在切换至英文...</value>
@@ -764,17 +764,17 @@
     <value>当标记整季或超过15集为已看时，告知Trakt是在很久以前看的。</value>
   </data>
   <data name="Settings_Data_PutAllShowWithEpToSeeInSameGroup_Text" xml:space="preserve">
-    <value>将有集待看的剧集（不论是否完结）放在首页同一分组。</value>
+    <value>将有集待看的剧（不论是否完结）放在首页同一分组</value>
   </data>
   <data name="Settings_Data_PutShowToStartInASeparateGroup_Text" xml:space="preserve">
-    <value>将未看过的剧集放在首页独立分组。</value>
+    <value>将未看剧放在首页独立分组</value>
   </data>
 
   <data name="Settings_DisplayHeader_Text" xml:space="preserve">
     <value>要显示的数据</value>
   </data>
   <data name="Settings_DisplayIncomingHeader_Text" xml:space="preserve">
-    <value>在首页和剧集详情页显示即将播出的集</value>
+    <value>在首页和剧详情页显示即将播出的集</value>
     <comment>Settings_MainUiCustomizationHeader</comment>
   </data>
   <data name="Settings_DisplaySection_Discover" xml:space="preserve">
@@ -787,7 +787,7 @@
     <value>显示电影栏目？</value>
   </data>
   <data name="Settings_Display_AppLanguage_Text" xml:space="preserve">
-    <value>应用 语言</value>
+    <value>应用语言</value>
   </data>
   <data name="Settings_Display_AddMyLanguage_Text" xml:space="preserve">
     <value>添加语言偏好</value>
@@ -802,58 +802,58 @@
     <value>你已更改设置（字体、颜色、语言），将在下次启动 TV Show Tracker 时生效。</value>
   </data>
   <data name="Settings_Display_Code_NotificationDelay_12Hours" xml:space="preserve">
-    <value>12 小时 之前</value>
+    <value>12 小时之前</value>
   </data>
   <data name="Settings_Display_Code_NotificationDelay_12HoursAfter" xml:space="preserve">
-    <value>12 小时 之后</value>
+    <value>12 小时之后</value>
   </data>
   <data name="Settings_Display_Code_NotificationDelay_15Minutes" xml:space="preserve">
-    <value>15 分钟 之前</value>
+    <value>15 分钟之前</value>
   </data>
   <data name="Settings_Display_Code_NotificationDelay_15MinutesAfter" xml:space="preserve">
-    <value>15 分钟 之后</value>
+    <value>15 分钟之后</value>
   </data>
   <data name="Settings_Display_Code_NotificationDelay_5Minutes" xml:space="preserve">
-    <value>5 分钟 之前</value>
+    <value>5 分钟之前</value>
   </data>
   <data name="Settings_Display_Code_NotificationDelay_5MinutesAfter" xml:space="preserve">
-    <value>5 分钟 之后</value>
+    <value>5 分钟之后</value>
   </data>
   <data name="Settings_Display_Code_NotificationDelay_60Minutes" xml:space="preserve">
-    <value>60 分钟 之前</value>
+    <value>60 分钟之前</value>
   </data>
   <data name="Settings_Display_Code_NotificationDelay_60MinutesAfter" xml:space="preserve">
-    <value>60 分钟 之后</value>
+    <value>60 分钟之后</value>
   </data>
   <data name="Settings_Display_Code_NotificationDelay_2HoursAfter" xml:space="preserve">
-    <value>2 小时 之后</value>
+    <value>2 小时之后</value>
   </data>
   <data name="Settings_Display_Code_NotificationDelay_2Hours" xml:space="preserve">
-    <value>2 小时 之前</value>
+    <value>2 小时之前</value>
   </data>
   <data name="Settings_Display_Code_NotificationDelay_3Hours" xml:space="preserve">
-    <value>3 小时 之前</value>
+    <value>3 小时之前</value>
   </data>
   <data name="Settings_Display_Code_NotificationDelay_6Hours" xml:space="preserve">
-    <value>6 小时 之前</value>
+    <value>6 小时之前</value>
   </data>
   <data name="Settings_Display_Code_NotificationDelay_8Hours" xml:space="preserve">
-    <value>8 小时 之前</value>
+    <value>8 小时之前</value>
   </data>
   <data name="Settings_Display_Code_NotificationDelay_10Hours" xml:space="preserve">
-    <value>10 小时 之前</value>
+    <value>10 小时之前</value>
   </data>
   <data name="Settings_Display_Code_NotificationDelay_ADay" xml:space="preserve">
-    <value>24 小时 之前</value>
+    <value>24 小时之前</value>
   </data>
   <data name="Settings_Display_Code_NotificationDelay_ADayAfter" xml:space="preserve">
-    <value>24 小时 之后</value>
+    <value>24 小时之后</value>
   </data>
   <data name="Settings_Display_Code_NotificationDelay_AWeek" xml:space="preserve">
-    <value>A 周 之前</value>
+    <value>A 周之前</value>
   </data>
   <data name="Settings_Display_Code_NotificationDelay_AWeekAfter" xml:space="preserve">
-    <value>A 周 之后</value>
+    <value>A 周之后</value>
   </data>
   <data name="Settings_Display_Code_NotificationDelay_None" xml:space="preserve">
     <value>当集播出时</value>
@@ -890,7 +890,7 @@
     <comment>Settings_DisplayHeader.Text</comment>
   </data>
   <data name="Settings_Display_HideEndedAndSeenShowsFromHome_Text" xml:space="preserve">
-    <value>在首页隐藏已完结且无待看集数的剧集</value>
+    <value>在首页隐藏已完结且无待看集数的剧</value>
   </data>
 
   <data name="Settings_Display_DateFormatLabel_Text" xml:space="preserve">
@@ -903,7 +903,7 @@
     <value>24小时制？</value>
   </data>
   <data name="Settings_Display_NotificationDelayHeader_Text" xml:space="preserve">
-    <value>已播出 集 通知</value>
+    <value>已播出集通知</value>
   </data>
   <data name="Settings_Display_TranslationsHeader_Text" xml:space="preserve">
     <value>翻译</value>
@@ -916,7 +916,7 @@
   </data>
 
   <data name="Settings_MainDisplayHeader_Header" xml:space="preserve">
-    <value>列表 &amp; 数据 显示</value>
+    <value>列表 &amp; 数据显示</value>
   </data>
   <data name="Settings_MainUiCustomizationHeader_Header" xml:space="preserve">
       <value>主题颜色和字体</value>
@@ -929,7 +929,7 @@
     <value>当季的发布日期公布时显示通知？</value>
   </data>
   <data name="Settings_Notifications_CreateNotificationsForShowStatusChange_Text" xml:space="preserve">
-    <value>当剧集状态变更时显示通知？</value>
+    <value>当剧状态变更时显示通知？</value>
   </data>
   <data name="Settings_Other_Header" xml:space="preserve">
     <value>其他</value>
@@ -941,14 +941,14 @@
     <value>设置</value>
   </data>
   <data name="Settings_RaterAfterWatchedHeader_Text" xml:space="preserve">
-    <value>标记为已看后提示评分（剧集）</value>
+    <value>标记为已看后提示评分（剧）</value>
   </data>
 
     <data name="Settings_RaterAfterMovieWatchedHeader_Text" xml:space="preserve">
     <value>标记为已看后提示评分（电影）</value>
   </data>
   <data name="Settings_SortHeader_Text" xml:space="preserve">
-    <value>电视剧 排序</value>
+    <value>电视剧排序</value>
   </data>
   <data name="Settings_SortHeaderWithNOEpToSee_Text" xml:space="preserve">
     <value>无待看集数的分组</value>
@@ -966,7 +966,7 @@
     <value>忽略当天观看超过20集的日子</value>
   </data>
   <data name="Settings_SubGroup_Synchronisation_Text" xml:space="preserve">
-    <value>自动 同步</value>
+    <value>自动同步</value>
   </data>
   <data name="Settings_SyncTrigger_Code_12Hours" xml:space="preserve">
     <value>12小时未同步后</value>
@@ -1011,10 +1011,10 @@
   </data>
 
   <data name="ShowDetails_AppBar_Add_Label" xml:space="preserve">
-    <value>添加此剧集</value>
+    <value>添加此剧</value>
   </data>
   <data name="Home_AppBar_Add_Label" xml:space="preserve">
-    <value>添加剧集</value>
+    <value>添加剧</value>
   </data>
   <data name="ShowDetails_AppBar_AddComment_Label" xml:space="preserve">
     <value>添加评论</value>
@@ -1046,10 +1046,10 @@
   </data>
 
   <data name="ShowDetails_AppBar_RateShow_Label" xml:space="preserve">
-    <value>给此剧集评分</value>
+    <value>给此剧评分</value>
   </data>
   <data name="ShowDetails_AppBar_Remove_Label" xml:space="preserve">
-    <value>移除此剧集</value>
+    <value>移除此剧</value>
   </data>
   
   <data name="ShowDetails_AppBar_Search_Label" xml:space="preserve">
@@ -1059,10 +1059,10 @@
     <value>分享</value>
   </data>
   <data name="ShowDetails_AppBar_UnHide_Label" xml:space="preserve">
-    <value>恢复/取消隐藏此剧集</value>
+    <value>恢复/取消隐藏此剧</value>
   </data>
   <data name="ShowDetails_Similar_PanelHeader_Header" xml:space="preserve">
-    <value>相关 剧集</value>
+    <value>相关剧</value>
   </data>
   <data name="Show_List_AddToAList_Label" xml:space="preserve">
     <value>添加到列表</value>
@@ -1084,7 +1084,7 @@
     <value>你的列表</value>
   </data>
   <data name="Home_UserLists_Code_LikedLists" xml:space="preserve">
-    <value>已喜欢 列表</value>
+    <value>已喜欢列表</value>
   </data>
   <data name="Global_Delete_Text" xml:space="preserve">
     <value>删除</value>
@@ -1105,13 +1105,13 @@
     <value>选择下方将此系列列在其中</value>
   </data>
   <data name="ShowDetails_Calendar_EmptyPlaceholder_Text" xml:space="preserve">
-    <value>此剧集暂无即将播出的集。</value>
+    <value>此剧暂无即将播出的集。</value>
   </data>
   <data name="ShowDetails_Calendar_PanelHeader_Header" xml:space="preserve">
     <value>日历</value>
   </data>
   <data name="ShowDetails_Code_AskRemovingContent" xml:space="preserve">
-    <value>警告：这将从Trakt.tv中移除与此剧集相关的所有数据：收藏、想看列表、观看历史等。</value>
+    <value>警告：这将从Trakt.tv中移除与此剧相关的所有数据：收藏、想看列表、观看历史等。</value>
   </data>
   <data name="ShowDetails_Code_AskRemovingTitle" xml:space="preserve">
     <value>移除这部剧？</value>
@@ -1120,7 +1120,7 @@
     <value>暂时无法移除「{0}」，请稍后再试</value>
   </data>
   <data name="ShowDetails_Code_Episode_AiredEpisodesPlural" xml:space="preserve">
-    <value>已播出 集</value>
+    <value>已播出集</value>
   </data>
   <data name="ShowDetails_Code_EpisodePlural" xml:space="preserve">
     <value>集</value>
@@ -1132,7 +1132,7 @@
     <value>季</value>
   </data>
   <data name="ShowDetails_Code_Removing" xml:space="preserve">
-    <value>正在移除此剧集</value>
+    <value>正在移除此剧</value>
   </data>
   <data name="ShowDetails_Code_SeasonGroup_Season" xml:space="preserve">
     <value>季</value>
@@ -1141,7 +1141,7 @@
     <value>特别篇</value>
   </data>
   <data name="ShowDetails_Code_Share_CheckOutThisShowFormat" xml:space="preserve">
-    <value>来看看这部电视剧"{0}"：{1}</value>
+    <value>来看看这部剧"{0}"：{1}</value>
   </data>
   <data name="ShowDetails_Code_Share_CheckOutThisEpisodeFormat" xml:space="preserve">
     <value>来看看"{1}"的第{0}集：{2}</value>
@@ -1150,7 +1150,7 @@
     <value>使用 TV Show &amp; Movie Tracker 发现 #TVSTT</value>
   </data>
   <data name="ShowDetails_Code_ShowInfo_ErrorWhenHidingRecommendation" xml:space="preserve">
-    <value>从推荐中隐藏此剧集时出错</value>
+    <value>从推荐中隐藏此剧时出错</value>
   </data>
   <data name="ShowDetails_EpisodeMenu_Checkin_Content" xml:space="preserve">
     <value>签到</value>
@@ -1195,7 +1195,7 @@
     <value>分享此季</value>
   </data>
   <data name="ShowDetails_ShowComments_Code_CommentMadeAtDuringSeasonFormat" xml:space="preserve">
-    <value>{0} - during  season {1}</value>
+    <value>{0} - 第{1}季期间</value>
   </data>
   <data name="ShowDetails_ShowComments_Code_ReplyNumberPlural" xml:space="preserve">
     <value>回复</value>
@@ -1219,7 +1219,7 @@
     <value>剧透预警：仍要显示</value>
   </data>
   <data name="MediaItemDetails_Comments_Code_LoadingComments" xml:space="preserve">
-    <value>加载中 评论</value>
+    <value>加载评论</value>
   </data>
   <data name="MediaItemDetails_Comments_Code_TotalCommentsNumberLabelPlural" xml:space="preserve">
     <value>共有 {0} 条评论</value>
@@ -1235,11 +1235,11 @@
     <value>播出 :</value>
   </data>
   <data name="ShowDetails_ShowInfo_AirAt_Text" xml:space="preserve">
-    <value>At</value>
+    <value>播出时间：</value>
     <comment>espaces autour</comment>
   </data>
   <data name="ShowDetails_ShowInfo_CastGroupHeader_Text" xml:space="preserve">
-    <value>暂无演员信息</value>
+    <value>演员</value>
   </data>
 
   <data name="ShowDetails_ShowInfo_CastOrCrewEmpty_Text" xml:space="preserve">
@@ -1252,16 +1252,16 @@
     <value>预告片</value>
   </data>
   <data name="ShowDetails_ShowInfo_CrewGroupHeader_Text" xml:space="preserve">
-    <value>暂无剧组信息</value>
+    <value>剧组</value>
   </data>
   <data name="ShowDetails_ShowInfo_FirstYear_Text" xml:space="preserve">
-    <value>第一 年份 :</value>
+    <value>首播年份：</value>
   </data>
   <data name="ShowDetails_ShowInfo_HideRecommendation_Text" xml:space="preserve">
     <value>不再推荐此内容</value>
   </data>
   <data name="ShowDetails_ShowInfo_PanelHeader_Header" xml:space="preserve">
-      <value>选中后，不会收集匿名使用数据。这有助于开发者了解应用的使用情况，做出更好的决策。</value>
+      <value>信息</value>
   </data>
   <data name="EpisodeDetails_YourRatingFormat" xml:space="preserve">
     <value>你的评分：{0} - {1}</value>
@@ -1308,7 +1308,7 @@
     <value>时长 :</value>
   </data>
   <data name="ShowDetails_ShowInfo_SeasonsRatingGroupHeader_Text" xml:space="preserve">
-    <value>季 评分</value>
+    <value>季评分</value>
   </data>
   <data name="ShowDetails_ShowInfo_Status_Text" xml:space="preserve">
     <value>状态 :</value>
@@ -1321,7 +1321,7 @@
     <value>全屏显示海报</value>
   </data>
   <data name="ShowDetails_ShowNews_NoNewsToDisplay_Text" xml:space="preserve">
-    <value>此剧集暂无新闻。</value>
+    <value>此剧暂无新闻。</value>
   </data>
   <data name="ShowDetails_ShowNews_PanelHeader_Header" xml:space="preserve">
     <value>新闻</value>
@@ -1393,19 +1393,19 @@
     <value>正在获取评分</value>
   </data>
   <data name="StatusDisplay_SyncingImages" xml:space="preserve">
-      <value>正在获取剧集图片</value>
+      <value>正在获取剧图片</value>
   </data>
   <data name="StatusDisplay_SyncingCalendar" xml:space="preserve">
-    <value>同步中 日历</value>
+    <value>同步日历</value>
   </data>
   <data name="StatusDisplay_SyncingSeasonsAndEpisodes" xml:space="preserve">
     <value>正在获取季和集</value>
   </data>
   <data name="StatusDisplay_SyncingShowInfos" xml:space="preserve">
-    <value>正在获取剧集信息</value>
+    <value>正在获取剧信息</value>
   </data>
   <data name="StatusDisplay_SyncingShows" xml:space="preserve">
-    <value>正在获取你的剧集</value>
+    <value>正在获取你的剧</value>
   </data>
   <data name="StatusDisplay_SyncingTranslations" xml:space="preserve">
     <value>正在获取翻译...</value>
@@ -1416,7 +1416,7 @@
   </data>
 
   <data name="ToastNotifications_Code_Win8EpisodeAiredTitle" xml:space="preserve">
-    <value>新建 集 已播出</value>
+    <value>新集已播出</value>
   </data>
   <data name="ToastNotifications_Code_Win8EpisodeAiredTitleFuture" xml:space="preserve">
     <value>集将在 {0} {1} 后播出</value>
@@ -1434,7 +1434,7 @@
     <value>第{0}季的发布日期已公布</value>
   </data>
   <data name="Settings_Data_LetMeMarkNotAiredEpisodeAsSeen_Text" xml:space="preserve">
-    <value>允许标记尚未播出的剧集为已看。</value>
+    <value>允许标记尚未播出的集为已看。</value>
   </data>
   <data name="Trakt_LostAuthorizationContent" xml:space="preserve">
     <value>TV Show Tracker 失去了对你账户的访问权限。数据不会丢失，但你需要重新登录。</value>
@@ -1452,7 +1452,7 @@
     <value>恢复我的购买</value>
   </data>
   <data name="Menu_ShowNumberPlural" xml:space="preserve">
-    <value>{0} 剧集 已关注</value>
+    <value>{0} 剧已关注</value>
   </data>
   <data name="Global_TabSection_Calendar" xml:space="preserve">
     <value>日历</value>
@@ -1464,19 +1464,19 @@
     <value>发现</value>
   </data>
   <data name="Global_TabSection_Shows" xml:space="preserve">
-    <value>剧集</value>
+    <value>剧</value>
   </data>
   <data name="Global_TabSection_Movies" xml:space="preserve">
     <value>电影</value>
   </data>
   <data name="Global_TabSection_YourShows" xml:space="preserve">
-    <value>你的剧集</value>
+    <value>你的剧</value>
   </data>
   <data name="Global_TabSection_Stats" xml:space="preserve">
     <value>个人统计</value>
   </data>
   <data name="Widget_NextEp_PanelTitle" xml:space="preserve">
-    <value>待看剧集</value>
+    <value>待看集</value>
   </data>
    <data name="Widget_NextEp_PanelTitle_Short" xml:space="preserve">
     <value>待看</value>
@@ -1554,7 +1554,7 @@ de  <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
     <value>退出演示模式</value>
   </data>
   <data name="Settings_Data_TrackingTargetLabel" xml:space="preserve">
-    <value>你的剧集添加到哪里？</value>
+    <value>你的剧添加到哪里？</value>
   </data>
   <data name="Settings_Data_TrackingTarget_Both" xml:space="preserve">
     <value>收藏和想看列表</value>
@@ -1628,22 +1628,22 @@ de  <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
     <value>最新优先</value>
   </data>
   <data name="Settings_SortEpisodesHeader" xml:space="preserve">
-    <value>集 排序</value>
+    <value>集排序</value>
   </data>
   <data name="Settings_SortCommentHeader" xml:space="preserve">
     <value>评论排序</value>
   </data>
   <data name="Settings_SortCommentPAGEHeader" xml:space="preserve">
-    <value>评论 排序</value>
+    <value>评论排序</value>
   </data>
   <data name="ShowDetails_ShowInfo_TmdbRatingHeader" xml:space="preserve">
     <value>TMDB 用户评分</value>
   </data>
   <data name="ShowDetails_ShowInfo_OriginalNameHeader" xml:space="preserve">
-    <value>原始 名称</value>
+    <value>原名</value>
   </data>
   <data name="ShowDetails_ShowInfo_OriginalCountryHeader" xml:space="preserve">
-    <value>原创国家</value>
+    <value>出品国家</value>
   </data>
   <data name="Settings_WidgetTransparency_Header" xml:space="preserve">
     <value>小组件背景透明度</value>
@@ -1652,7 +1652,7 @@ de  <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
     <value>设为在指定日期已看</value>
   </data>
   <data name="Settings_Display_HideSeenEpFromPastEpisodesTab_Text" xml:space="preserve">
-    <value>在日历页面隐藏已看过的剧集和电影</value>
+    <value>在日历页面隐藏已看过的剧和电影</value>
   </data>
   <data name="Settings_AppSection_Text" xml:space="preserve">
     <value>应用栏目</value>
@@ -1688,16 +1688,16 @@ de  <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
     <value>禁用遥测</value>
   </data>
   <data name="Settings_Various_ForceAdsDisplay_Text" xml:space="preserve">
-    <value>力量 广告 显示</value>
+    <value>强制显示广告</value>
   </data>
   <data name="Settings_Various_SwipeToMarkAsSeen_Text" xml:space="preserve">
     <value>启用滑动标记下一集为已看？（列表模式）</value>
   </data>
   <data name="Settings_WidgetCounterIncludesShowsToStart" xml:space="preserve">
-    <value>在剩余集数小组件计数中包含待开始观看的剧集</value>
+    <value>在剩余集数小组件计数中包含待看剧</value>
   </data>
   <data name="Settings_BadgeCounterIncludesShowsToStart" xml:space="preserve">
-    <value>在集数角标计数中包含待开始观看的剧集</value>
+    <value>在集数角标计数中包含待看剧</value>
   </data>
   <data name="Common_Back" xml:space="preserve">
     <value>返回</value>
@@ -1736,7 +1736,7 @@ de  <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
     <value>添加到列表</value>
   </data>
   <data name="MovieDetails_Similar_PanelHeader_Header" xml:space="preserve">
-    <value>相关 和 相似 电影</value>
+    <value>相关和相似电影</value>
   </data>
   <data name="MovieDetails_MovieInfo_FirstYear_Text" xml:space="preserve">
     <value>年份 :</value>
@@ -1811,7 +1811,7 @@ de  <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
     <value>电影</value>
   </data>
   <data name="Home_UserMenu_Shows" xml:space="preserve">
-    <value>剧集</value>
+    <value>剧</value>
   </data>
   <data name="MoviesLists_PanelHeader_Watched" xml:space="preserve">
     <value>已看过</value>
@@ -1868,7 +1868,7 @@ de  <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
     <value>发布日期倒序</value>
   </data>
   <data name="MoviesLists_SortChoice_SortOption_ReleaseDate" xml:space="preserve">
-    <value>发布 日期</value>
+    <value>发布日期</value>
   </data>
   <data name="MediaItem_YourRatingFormat" xml:space="preserve">
     <value>你的评分：{0}</value>
@@ -1883,7 +1883,7 @@ de  <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
     <value>{0}本月上映电影</value>
   </data>
   <data name="Home_Code_Popular_MoviePopular" xml:space="preserve">
-    <value>大多数 热门</value>
+    <value>大多数热门</value>
   </data>
   <data name="Home_Code_Popular_MovieTrending" xml:space="preserve">
     <value>正流行</value>
@@ -1892,7 +1892,7 @@ de  <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
     <value>电影页面：默认标签页</value>
   </data>
   <data name="Settings_Display_ShowDetailsStartupPage_Text" xml:space="preserve">
-    <value>剧集详情页面：默认标签页</value>
+    <value>剧详情页面：默认标签页</value>
   </data>
   <data name="Settings_Various_SendTokenToDev" xml:space="preserve">
     <value>发送调试信息给 Jonathan！</value>
@@ -1901,7 +1901,7 @@ de  <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
     <value>签到</value>
   </data>
   <data name="Home_AppBar_FullRefresh_Label" xml:space="preserve">
-    <value>完整 同步</value>
+    <value>完整同步</value>
   </data>
   <data name="Home_AppBar_Home_Label" xml:space="preserve">
     <value>首页</value>
@@ -1916,7 +1916,7 @@ de  <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
     <value>使用哪个国家？</value>
   </data>
   <data name="Notifications_Settings_WhichStyleHeader" xml:space="preserve">
-    <value>通知 风格</value>
+    <value>通知风格</value>
   </data>
   <data name="Notifications_Style_Android" xml:space="preserve">
     <value>Android 原生</value>
@@ -1961,7 +1961,7 @@ de  <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
     <value>发布年份倒序</value>
   </data>
   <data name="ListContent_SortChoice_SortOption_Year" xml:space="preserve">
-    <value>发布 年份</value>
+    <value>发布年份</value>
   </data>
   <data name="ListContent_SortChoice_SortOption_ListedAtReverse" xml:space="preserve">
     <value>添加日期倒序</value>
@@ -2016,7 +2016,7 @@ de  <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
     <value>从不</value>
   </data>
   <data name="Home_Code_MyShowsHiddenGroupHeader_Single" xml:space="preserve">
-    <value>{0} 已隐藏 剧集</value>
+    <value>{0} 已隐藏剧</value>
   </data>
   <data name="Home_Code_Incoming_XDaysAgoSingle" xml:space="preserve">
     <value>{0} 天前</value>
@@ -2037,13 +2037,13 @@ de  <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
     <value>{0} 部已看完的完结剧</value>
   </data>
   <data name="Home_Code_MyShowWithNoEpisodeToSeeGroupHeader_Single" xml:space="preserve">
-    <value>{0} 部全部看完的连载剧</value>
+    <value>{0} 部已看完的连载剧</value>
   </data>
   <data name="Home_UserStats_Code_ToWatchEpisodeLabelSingle" xml:space="preserve">
     <value>{0} 集待看</value>
   </data>
   <data name="Home_UserStats_Code_WatchedEpisodeLabelSingle" xml:space="preserve">
-    <value>{0} 集 已看</value>
+    <value>{0} 集已看</value>
   </data>
   <data name="People_Code_ActingInXEpisodeSingle" xml:space="preserve">
     <value>{0} 集</value>
@@ -2055,10 +2055,10 @@ de  <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
     <value>参演 {0} 部电视剧</value>
   </data>
   <data name="People_Code_AsCastNumberSingle" xml:space="preserve">
-    <value>{0} 演员 积分</value>
+    <value>{0} 演员积分</value>
   </data>
   <data name="People_Code_AsCrewNumberSingle" xml:space="preserve">
-    <value>{0} 剧组 积分</value>
+    <value>{0} 剧组积分</value>
   </data>
   <data name="People_Code_CrewingInXMoviesSingle" xml:space="preserve">
     <value>参与 {0} 部电影的剧组</value>
@@ -2073,7 +2073,7 @@ de  <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
     <value>共有 {0} 条评论</value>
   </data>
   <data name="Menu_ShowNumberSingle" xml:space="preserve">
-    <value>{0} 剧集 已关注</value>
+    <value>{0} 剧已关注</value>
   </data>
   <data name="Incoming_InXDaySingle" xml:space="preserve">
     <value>{0} 天后</value>
@@ -2086,7 +2086,7 @@ de  <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
     <value>票</value>
   </data>
   <data name="ShowDetails_Code_Episode_AiredEpisodesSingle" xml:space="preserve">
-    <value>已播出 集</value>
+    <value>已播出集</value>
   </data>
   <data name="ShowDetails_Code_EpisodeSingle" xml:space="preserve">
     <value>集</value>
@@ -2108,10 +2108,10 @@ de  <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
     <value>取消隐藏此季</value>
   </data>
   <data name="Trakt_AccountLockedContent" xml:space="preserve">
-    <value>您的账户因长时间未使用已被停用。请登录Trakt.tv重新激活。</value>
+    <value>你的账户因长时间未使用已被停用。请登录Trakt.tv重新激活。</value>
   </data>
   <data name="Trakt_AccountLockedContactButton" xml:space="preserve">
-    <value>CONTACT THEM</value>
+    <value>联系他们</value>
   </data>
   <data name="Trakt_AccountLockedOpenLink" xml:space="preserve">
     <value>打开 TRAKT.TV</value>
@@ -2159,7 +2159,7 @@ de  <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
     <value>最后更新日期倒序</value>
   </data>
   <data name="UserLists_SortChoice_SortOption_UpdatedAt" xml:space="preserve">
-    <value>最后 更新 日期</value>
+    <value>最后更新日期</value>
   </data>
   <data name="SearchView_OpenKeyboardOnSearch" xml:space="preserve">
     <value>打开搜索时显示键盘</value>
@@ -2171,19 +2171,19 @@ de  <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
     <value>全部类型</value>
   </data>
   <data name="SearchView_Network_All" xml:space="preserve">
-    <value>全部 网络</value>
+    <value>全部网络</value>
   </data>
   <data name="SearchView_Years_All" xml:space="preserve">
     <value>全部年份</value>
   </data>
   <data name="SearchView_Ratings_All" xml:space="preserve">
-    <value>全部 评分</value>
+    <value>全部评分</value>
   </data>
   <data name="Search_Rating_MoreThanFormat" xml:space="preserve">
     <value>超过 {0}/10</value>
   </data>
   <data name="Home_Popular_TopByGenreSectionHeader" xml:space="preserve">
-    <value>按类型的热门剧集</value>
+    <value>按类型的热门剧</value>
   </data>
   <data name="ShowDetails_ShowInfo_Genre" xml:space="preserve">
     <value>类型</value>
@@ -2210,7 +2210,7 @@ de  <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
     <value>导入 CSV</value>
   </data>
   <data name="Settings_CsvExport_Explanation" xml:space="preserve">
-    <value>此导出将不包含自定义列表内容，除了想看列表或隐藏项目。仅电影和剧集。</value>
+    <value>此导出将不包含自定义列表内容，除了想看列表或隐藏项目。仅电影和剧。</value>
   </data>
   <data name="Settings_CsvImport_Explanation" xml:space="preserve">
     <value>你将被重定向到Trakt网站以导入CSV。最好在电脑上操作。</value>
@@ -2243,7 +2243,7 @@ de  <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
     <value>返回第一个项目</value>
   </data>
   <data name="Recommendations_NextItem" xml:space="preserve">
-    <value>下一个 推荐</value>
+    <value>下一个推荐</value>
   </data>
   <data name="Recommendations_HidingRecommendation" xml:space="preserve">
     <value>隐藏此推荐</value>
@@ -2252,7 +2252,7 @@ de  <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
     <value>更多个性化推荐</value>
   </data>
   <data name="ShowDetails_ShowInfo_TotalRuntime" xml:space="preserve">
-    <value>总计 时长</value>
+    <value>总时长</value>
   </data>
   <data name="GenreName_biography" xml:space="preserve">
     <value>传记</value>
@@ -2392,10 +2392,10 @@ de  <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
     <value>备份与恢复</value>
   </data>
   <data name="Show_RecommendThis" xml:space="preserve">
-    <value>推荐此剧集</value>
+    <value>推荐此剧</value>
   </data>
   <data name="Show_UnrecommendThis" xml:space="preserve">
-    <value>不推荐此剧集</value>
+    <value>不推荐此剧</value>
   </data>
   <data name="Movie_RecommendThis" xml:space="preserve">
     <value>推荐这部电影</value>
@@ -2407,7 +2407,7 @@ de  <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
     <value>想看列表</value>
   </data>
   <data name="Watchlist_Description" xml:space="preserve">
-    <value>我计划观看的电影和剧集</value>
+    <value>我计划观看的电影和剧</value>
   </data>
   <data name="ToastNotifications_Code_MovieReleased" xml:space="preserve">
     <value>这部电影今天上映！</value>
@@ -2422,19 +2422,19 @@ de  <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
     <value>未知</value>
   </data>
   <data name="Recommendations_SwitchToMovies" xml:space="preserve">
-    <value>显示 电影 推荐</value>
+    <value>显示电影推荐</value>
   </data>
   <data name="Recommendations_SwitchToShows" xml:space="preserve">
-    <value>显示 剧集 推荐</value>
+    <value>显示剧推荐</value>
   </data>
   <data name="Settings_DisplayUserRatingOnMainList" xml:space="preserve">
-    <value>在剧集和电影列表中显示你的评分？</value>
+    <value>在剧和电影列表中显示你的评分？</value>
   </data>
   <data name="Settings_DisplayMainListsConfigHeader" xml:space="preserve">
     <value>你的电视剧和电影的主列表</value>
   </data>
   <data name="Settings_DisplayIsRecommendedOnMainList" xml:space="preserve">
-    <value>在剧集和电影列表中显示个人推荐状态</value>
+    <value>在剧和电影列表中显示个人推荐状态</value>
   </data>
   <data name="MovieInList_ReleaseAtFormat" xml:space="preserve">
     <value>上映于
@@ -2456,7 +2456,7 @@ de  <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
     <value>我不再推荐此项目</value>
   </data>
   <data name="Settings_DisplayProgressOnMainList" xml:space="preserve">
-    <value>在剧集列表中显示你的进度</value>
+    <value>在剧列表中显示你的进度</value>
   </data>
   <data name="Settings_AvailableGridModeItemsByRow_Default" xml:space="preserve">
     <value>默认 - 让应用为我选择</value>
@@ -2494,7 +2494,7 @@ de  <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
     <value>很抱歉要告别了，请前往Trakt.tv。点击下一页的"删除账户"。</value>
   </data>
   <data name="Settings_EnableNotifications" xml:space="preserve">
-    <value>启用 通知</value>
+    <value>启用通知</value>
   </data>
   <data name="Android_FixNotificationLabel" xml:space="preserve">
     <value>默认情况下通知已禁用，你需要明确启用它们以接收新剧集通知。</value>
@@ -2518,9 +2518,15 @@ de  <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
 </data>
 
   <data name="Global_Error_AccountLimitExceededContent" xml:space="preserve">
-      <value>你已经达到了 Trakt 免费账户的限制之一
-- 收藏最多100个项目
-- 等等。</value>
+      <value>你已经达到了 Trakt 免费账户的限制之一：
+- 想看列表最多100个项目
+- 最多10个自定义列表
+
+很抱歉带来不便，但这些限制由Trakt设定，非我所能控制。
+
+不过，你仍然可以通过标记某集为已看的方式来添加剧——这不计入限制。
+
+要解除这些限制，建议你升级Trakt VIP订阅。</value>
   </data>
 
   <data name="Global_Error_AccountLimitExceededGoToVip" xml:space="preserve">
@@ -2603,7 +2609,7 @@ de  <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
       <value>捏合可缩放，改变每行项目数。</value>
   </data>
   <data name="Global_UI_HintToastTitle" xml:space="preserve">
-      <value>Tip</value>
+      <value>小提示</value>
   </data>
   <data name="Episode_SetAsUnseen_MultiplePlays_QuestionTitle" xml:space="preserve">
     <value>你已多次观看此集</value>
@@ -2649,7 +2655,7 @@ de  <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
       <value>自己的 + 好友的</value>
   </data>
   <data name="Settings_Display_ItemsByRowHeader_Home" xml:space="preserve">
-      <value>显示剧集</value>
+      <value>显示剧</value>
   </data>
   <data name="Settings_Display_ItemsByRowHeader_MovieList" xml:space="preserve">
       <value>显示电影</value>
@@ -2711,7 +2717,7 @@ de  <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
   </data>
 
   <data name="PhotoGallery_Download" xml:space="preserve">
-      <value>下载 图片</value>
+      <value>下载图片</value>
   </data>
   <data name="PhotoGallery_IsPreferred" xml:space="preserve">
       <value>自定义缩略图</value>
@@ -2754,7 +2760,7 @@ de  <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
     <value>Trakt</value>
   </data>
   <data name="Settings_Modern_LanguageFormat_Subtitle" xml:space="preserve">
-    <value>应用 语言 数据 日期 和 时间 格式 和 集</value>
+    <value>应用语言、数据、日期时间格式和集</value>
   </data>
   <data name="Settings_Modern_HomeSections_Subtitle" xml:space="preserve">
     <value>导航、启动页面和可见栏目</value>
@@ -2772,7 +2778,7 @@ de  <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
     <value>提醒、延迟和通知风格</value>
   </data>
   <data name="Settings_Modern_Sync_Subtitle" xml:space="preserve">
-    <value>后台 同步 和 数据 更新</value>
+    <value>后台同步和数据更新</value>
   </data>
   <data name="Settings_Category_Synchronization_Title" xml:space="preserve">
     <value>同步</value>
@@ -2781,7 +2787,7 @@ de  <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
     <value>主同步</value>
   </data>
   <data name="Settings_Modern_Sync_Section_Background" xml:space="preserve">
-    <value>后台 同步</value>
+    <value>后台同步</value>
   </data>
   <data name="Settings_Modern_Sync_Section_Calendar" xml:space="preserve">
     <value>Android 日历</value>
@@ -2805,7 +2811,7 @@ de  <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
     <value>重建本地数据</value>
   </data>
   <data name="Settings_Home_IntroText" xml:space="preserve">
-    <value>自定义TVST，让它符合你关注剧集和电影的方式</value>
+    <value>自定义TVST，让它符合你关注剧和电影的方式</value>
   </data>
   <data name="Settings_Modern_Badge_Premium" xml:space="preserve">
     <value>高级版</value>
@@ -2910,7 +2916,7 @@ de  <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
     <value>结果</value>
   </data>
   <data name="Settings_Search_ResultCount" xml:space="preserve">
-    <value>{0} 设置 已找到</value>
+    <value>{0} 个设置已找到</value>
   </data>
   <data name="Settings_Search_NoResults" xml:space="preserve">
     <value>没有找到相关设置</value>
