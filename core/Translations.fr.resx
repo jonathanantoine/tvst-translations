@@ -3856,6 +3856,21 @@ Si vous voulez soutenir le projet, ce serait super apprécié 💖!</value>
   <data name="Calendar_IsSeasonPremiereIndicatorText" xml:space="preserve">
       <value>DÉBUT DE SAISON</value>
   </data>
+  <data name="Home_Badge_SeasonPremiere_Text" xml:space="preserve">
+      <value>SEASON PREMIERE</value>
+  </data>
+  <data name="Home_Badge_SeasonReady_Text" xml:space="preserve">
+      <value>SAISON DISPO</value>
+  </data>
+  <data name="Home_Badge_SeasonReady_Format" xml:space="preserve">
+      <value>S{0:00} DISPO</value>
+  </data>
+  <data name="Home_Badge_SeasonReady_ContentDescription_Format" xml:space="preserve">
+      <value>Saison {0} entièrement disponible</value>
+  </data>
+  <data name="Home_Badge_NewSeasonReady_Text" xml:space="preserve">
+      <value>NOUVELLE SAISON DISPO</value>
+  </data>
   <data name="Home_UserStats_NumberOfPlaysLabelPlural" xml:space="preserve">
       <value>lectures d’épisode:</value>
   </data>
@@ -3993,6 +4008,12 @@ Si vous voulez soutenir le projet, ce serait super apprécié 💖!</value>
   </data>
   <data name="Settings_DisplayShowSeasonPremiereOnHomePage" xml:space="preserve">
       <value>Afficher une étiquette pour la première de saison dans la liste des séries ?</value>
+  </data>
+  <data name="Settings_DisplayShowSeasonReadyOnHomePage" xml:space="preserve">
+      <value>Afficher les saisons déjà disponibles</value>
+  </data>
+  <data name="Settings_DisplayShowSeasonReadyOnHomePage_Subtitle" xml:space="preserve">
+      <value>Affiche une icône quand tous les épisodes de la prochaine saison à voir sont déjà diffusés.</value>
   </data>
   <data name="ShowCommentsHeader_Sentiment_Header" xml:space="preserve">
       <value>PERCEPTION DE LA COMMUNAUTÉ</value>

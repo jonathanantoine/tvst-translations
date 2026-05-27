@@ -2065,6 +2065,12 @@ Do you confirm ?
   <data name="Settings_DisplayShowSeasonPremiereOnHomePage" xml:space="preserve">
     <value>Display season premiere tag on main list?</value>
   </data>
+  <data name="Settings_DisplayShowSeasonReadyOnHomePage" xml:space="preserve">
+    <value>Show fully available seasons</value>
+  </data>
+  <data name="Settings_DisplayShowSeasonReadyOnHomePage_Subtitle" xml:space="preserve">
+    <value>Shows an icon when every episode of the next season to watch has already aired.</value>
+  </data>
   
   <data name="MediaItemDetails_ShowInfo_CertificationHeader" xml:space="preserve">
     <value>Certification</value>
@@ -2674,6 +2680,21 @@ If you'd like to support the project, I'd really appreciate it !</value>
   </data>
   <data name="Calendar_IsSeasonPremiereIndicatorText" xml:space="preserve">
       <value>SEASON PREMIERE</value>
+  </data>
+  <data name="Home_Badge_SeasonPremiere_Text" xml:space="preserve">
+      <value>SEASON PREMIERE</value>
+  </data>
+  <data name="Home_Badge_SeasonReady_Text" xml:space="preserve">
+      <value>SEASON READY</value>
+  </data>
+  <data name="Home_Badge_SeasonReady_Format" xml:space="preserve">
+      <value>S{0:00} READY</value>
+  </data>
+  <data name="Home_Badge_SeasonReady_ContentDescription_Format" xml:space="preserve">
+      <value>Season {0} fully available</value>
+  </data>
+  <data name="Home_Badge_NewSeasonReady_Text" xml:space="preserve">
+      <value>NEW SEASON READY</value>
   </data>
   <data name="Home_UserStats_NumberOfPlaysLabelPlural" xml:space="preserve">
       <value>episode plays:</value>
