@@ -3649,6 +3649,33 @@ plus</value>
   <data name="Settings_DisplayIsRecommendedOnMainList" xml:space="preserve">
         <value>Afficher si recommandé personnellement dans les listes de séries et de films ?</value>
     </data>
+  <data name="Settings_MainListItemAppearance_Title" xml:space="preserve">
+        <value>Apparence des éléments des listes</value>
+    </data>
+  <data name="Settings_MainListItemAppearance_Subtitle" xml:space="preserve">
+        <value>Notes, progression, chaîne, badges et gestes</value>
+    </data>
+  <data name="Settings_HomeItemAppearance_PreviewTitle" xml:space="preserve">
+        <value>Aperçu</value>
+    </data>
+  <data name="Settings_MainListItemAppearance_SharedHeader" xml:space="preserve">
+        <value>Commun aux séries et aux films</value>
+    </data>
+  <data name="Settings_MainListItemAppearance_TvShowsOnlyHeader" xml:space="preserve">
+        <value>Séries uniquement</value>
+    </data>
+  <data name="Settings_MainListItemAppearance_MoviesOnlyHeader" xml:space="preserve">
+        <value>Films uniquement</value>
+    </data>
+  <data name="Settings_MainListItemAppearance_GesturesHeader" xml:space="preserve">
+        <value>Gestes</value>
+    </data>
+  <data name="Settings_MainListItemAppearance_PreviewModeGrid" xml:space="preserve">
+        <value>Grille</value>
+    </data>
+  <data name="Settings_MainListItemAppearance_PreviewModeList" xml:space="preserve">
+        <value>Liste</value>
+    </data>
   <data name="MovieInList_ReleaseAtFormat" xml:space="preserve">
         <value>Sortie le
 {0}</value>
@@ -3671,6 +3698,9 @@ plus</value>
     </data>
   <data name="Settings_DisplayProgressOnMainList" xml:space="preserve">
         <value>Afficher votre progression dans les listes de séries ?</value>
+    </data>
+  <data name="Settings_DisplayProgressOnMainList_Subtitle" xml:space="preserve">
+        <value>Affiche une barre de progression sur la vignette de la série.</value>
     </data>
   <data name="Settings_AvailableGridModeItemsByRow_Default" xml:space="preserve">
         <value>Par défaut - laissez l'application choisir pour moi</value>
@@ -4013,7 +4043,7 @@ Si vous voulez soutenir le projet, ce serait super apprécié 💖!</value>
       <value>Afficher les saisons déjà disponibles</value>
   </data>
   <data name="Settings_DisplayShowSeasonReadyOnHomePage_Subtitle" xml:space="preserve">
-      <value>Affiche une icône quand tous les épisodes de la prochaine saison à voir sont déjà diffusés.</value>
+      <value>Affiche un badge quand tous les épisodes de la prochaine saison à voir sont déjà diffusés.</value>
   </data>
   <data name="ShowCommentsHeader_Sentiment_Header" xml:space="preserve">
       <value>PERCEPTION DE LA COMMUNAUTÉ</value>

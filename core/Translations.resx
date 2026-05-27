@@ -2069,7 +2069,7 @@ Do you confirm ?
     <value>Show fully available seasons</value>
   </data>
   <data name="Settings_DisplayShowSeasonReadyOnHomePage_Subtitle" xml:space="preserve">
-    <value>Shows an icon when every episode of the next season to watch has already aired.</value>
+    <value>Shows a badge when every episode of the next season to watch has already aired.</value>
   </data>
   
   <data name="MediaItemDetails_ShowInfo_CertificationHeader" xml:space="preserve">
@@ -2533,6 +2533,34 @@ Reminder: your code is {0}.</value>
   <data name="Settings_DisplayIsRecommendedOnMainList" xml:space="preserve">
     <value>Display personal recommendation status in shows and movies lists?</value>
   </data>
+  <data name="Settings_MainListItemAppearance_Title" xml:space="preserve">
+    <value>Main list item appearance</value>
+  </data>
+  <data name="Settings_MainListItemAppearance_Subtitle" xml:space="preserve">
+    <value>Ratings, progress, network, badges and swipe actions</value>
+  </data>
+  <data name="Settings_HomeItemAppearance_PreviewTitle" xml:space="preserve">
+    <value>Preview</value>
+  </data>
+  <data name="Settings_MainListItemAppearance_SharedHeader" xml:space="preserve">
+    <value>Shared on shows and movies</value>
+  </data>
+  <data name="Settings_MainListItemAppearance_TvShowsOnlyHeader" xml:space="preserve">
+    <value>TV shows only</value>
+  </data>
+  <data name="Settings_MainListItemAppearance_MoviesOnlyHeader" xml:space="preserve">
+    <value>Movies only</value>
+  </data>
+  <data name="Settings_MainListItemAppearance_GesturesHeader" xml:space="preserve">
+    <value>Gestures</value>
+  </data>
+  <data name="Settings_MainListItemAppearance_PreviewModeGrid" xml:space="preserve">
+    <value>Grid</value>
+  </data>
+  <data name="Settings_MainListItemAppearance_PreviewModeList" xml:space="preserve">
+    <value>List</value>
+  </data>
+
   <data name="MovieInList_ReleaseAtFormat" xml:space="preserve">
     <value>Released on
 {0}</value>
@@ -2555,6 +2583,10 @@ Reminder: your code is {0}.</value>
   <data name="Settings_DisplayProgressOnMainList" xml:space="preserve">
     <value>Display your progress in shows lists?</value>
   </data>
+  <data name="Settings_DisplayProgressOnMainList_Subtitle" xml:space="preserve">
+    <value>Shows a progress bar on the show tile.</value>
+  </data>
+
   <data name="Settings_AvailableGridModeItemsByRow_Default" xml:space="preserve">
     <value>Default - let the app choose for me</value>
   </data>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
     <!--
     Microsoft ResX Schema
@@ -2278,6 +2278,33 @@ Se non riesci ancora ad accedere al tuo account dopo l'accesso, contattaci Trakt
     <data name="Settings_DisplayIsRecommendedOnMainList" xml:space="preserve">
         <value>Visualizzare lo stato dei consigli personali nelle serie e negli elenchi di film?</value>
     </data>
+    <data name="Settings_MainListItemAppearance_Title" xml:space="preserve">
+        <value>Aspetto degli elementi delle liste</value>
+    </data>
+    <data name="Settings_MainListItemAppearance_Subtitle" xml:space="preserve">
+        <value>Voti, avanzamento, canale, badge e gesti</value>
+    </data>
+    <data name="Settings_HomeItemAppearance_PreviewTitle" xml:space="preserve">
+        <value>Anteprima</value>
+    </data>
+    <data name="Settings_MainListItemAppearance_SharedHeader" xml:space="preserve">
+        <value>Comune a serie e film</value>
+    </data>
+    <data name="Settings_MainListItemAppearance_TvShowsOnlyHeader" xml:space="preserve">
+        <value>Solo serie</value>
+    </data>
+    <data name="Settings_MainListItemAppearance_MoviesOnlyHeader" xml:space="preserve">
+        <value>Solo film</value>
+    </data>
+    <data name="Settings_MainListItemAppearance_GesturesHeader" xml:space="preserve">
+        <value>Gesti</value>
+    </data>
+    <data name="Settings_MainListItemAppearance_PreviewModeGrid" xml:space="preserve">
+        <value>Griglia</value>
+    </data>
+    <data name="Settings_MainListItemAppearance_PreviewModeList" xml:space="preserve">
+        <value>Lista</value>
+    </data>
     <data name="MovieInList_ReleaseAtFormat" xml:space="preserve">
         <value>Rilasciato il
 {0}</value>
@@ -2299,6 +2326,9 @@ Se non riesci ancora ad accedere al tuo account dopo l'accesso, contattaci Trakt
     </data>
     <data name="Settings_DisplayProgressOnMainList" xml:space="preserve">
         <value>Mostra i tuoi progressi negli elenchi delle serie?</value>
+    </data>
+    <data name="Settings_DisplayProgressOnMainList_Subtitle" xml:space="preserve">
+        <value>Mostra una barra di avanzamento sul riquadro della serie.</value>
     </data>
     <data name="Settings_AvailableGridModeItemsByRow_Default" xml:space="preserve">
         <value>Predefinito: lascia che l'app scelga per me</value>

@@ -2308,6 +2308,33 @@ Si aún no puedes acceder a tu cuenta después de iniciar sesión, contáctanos 
     <data name="Settings_DisplayIsRecommendedOnMainList" xml:space="preserve">
         <value>¿Mostrar el estado de recomendación personal en listas de programas y películas?</value>
     </data>
+    <data name="Settings_MainListItemAppearance_Title" xml:space="preserve">
+        <value>Apariencia de los elementos de las listas</value>
+    </data>
+    <data name="Settings_MainListItemAppearance_Subtitle" xml:space="preserve">
+        <value>Notas, progreso, cadena, insignias y gestos</value>
+    </data>
+    <data name="Settings_HomeItemAppearance_PreviewTitle" xml:space="preserve">
+        <value>Vista previa</value>
+    </data>
+    <data name="Settings_MainListItemAppearance_SharedHeader" xml:space="preserve">
+        <value>Común a series y películas</value>
+    </data>
+    <data name="Settings_MainListItemAppearance_TvShowsOnlyHeader" xml:space="preserve">
+        <value>Solo series</value>
+    </data>
+    <data name="Settings_MainListItemAppearance_MoviesOnlyHeader" xml:space="preserve">
+        <value>Solo películas</value>
+    </data>
+    <data name="Settings_MainListItemAppearance_GesturesHeader" xml:space="preserve">
+        <value>Gestos</value>
+    </data>
+    <data name="Settings_MainListItemAppearance_PreviewModeGrid" xml:space="preserve">
+        <value>Cuadrícula</value>
+    </data>
+    <data name="Settings_MainListItemAppearance_PreviewModeList" xml:space="preserve">
+        <value>Lista</value>
+    </data>
     <data name="MovieInList_ReleaseAtFormat" xml:space="preserve">
         <value>Publicado el
 {0}</value>
@@ -2330,9 +2357,12 @@ Si aún no puedes acceder a tu cuenta después de iniciar sesión, contáctanos 
     <data name="Settings_DisplayProgressOnMainList" xml:space="preserve">
         <value>¿Muestra su progreso en las listas de series?</value>
     </data>
-    <data name="Settings_AvailableGridModeItemsByRow_Default" xml:space="preserve">
-        <value>Predeterminado - deja que la aplicación elija para mí</value>
+    <data name="Settings_DisplayProgressOnMainList_Subtitle" xml:space="preserve">
+        <value>Muestra una barra de progreso en la tarjeta de la serie.</value>
     </data>
+  <data name="Settings_AvailableGridModeItemsByRow_Default">
+    <value>Predeterminado - deja que la aplicación elija para mí</value>
+  </data>
     <data name="Settings_Display_ItemsByRowHeader_MainHeader" xml:space="preserve">
         <value>Número de artículo por fila en modo de cuadrícula</value>
     </data>
@@ -2667,7 +2697,7 @@ Si quieres apoyar el proyecto, lo agradecería mucho 💖!</value>
         <value>Mostrar temporadas ya disponibles</value>
     </data>
     <data name="Settings_DisplayShowSeasonReadyOnHomePage_Subtitle" xml:space="preserve">
-        <value>Muestra un icono cuando todos los episodios de la próxima temporada por ver ya se han emitido.</value>
+        <value>Muestra un distintivo cuando todos los episodios de la próxima temporada por ver ya se han emitido.</value>
     </data>
     <data name="ShowCommentsHeader_Sentiment_Header" xml:space="preserve">
         <value>SENTIMIENTO DE LA COMUNIDAD</value>

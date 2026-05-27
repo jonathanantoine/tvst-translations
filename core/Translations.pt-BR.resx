@@ -3667,6 +3667,33 @@ Se ainda não conseguir acessar sua conta após o login, entre em contato Trakt 
     <data name="Settings_DisplayIsRecommendedOnMainList" xml:space="preserve">
         <value>Exibir status de recomendação pessoal em listas de programas e filmes?</value>
     </data>
+    <data name="Settings_MainListItemAppearance_Title" xml:space="preserve">
+        <value>Aparência dos itens das listas</value>
+    </data>
+    <data name="Settings_MainListItemAppearance_Subtitle" xml:space="preserve">
+        <value>Avaliações, progresso, canal, selos e gestos</value>
+    </data>
+    <data name="Settings_HomeItemAppearance_PreviewTitle" xml:space="preserve">
+        <value>Prévia</value>
+    </data>
+    <data name="Settings_MainListItemAppearance_SharedHeader" xml:space="preserve">
+        <value>Comum a séries e filmes</value>
+    </data>
+    <data name="Settings_MainListItemAppearance_TvShowsOnlyHeader" xml:space="preserve">
+        <value>Apenas séries</value>
+    </data>
+    <data name="Settings_MainListItemAppearance_MoviesOnlyHeader" xml:space="preserve">
+        <value>Apenas filmes</value>
+    </data>
+    <data name="Settings_MainListItemAppearance_GesturesHeader" xml:space="preserve">
+        <value>Gestos</value>
+    </data>
+    <data name="Settings_MainListItemAppearance_PreviewModeGrid" xml:space="preserve">
+        <value>Grade</value>
+    </data>
+    <data name="Settings_MainListItemAppearance_PreviewModeList" xml:space="preserve">
+        <value>Lista</value>
+    </data>
     <data name="MovieInList_ReleaseAtFormat" xml:space="preserve">
         <value>Lançado em
 {0}</value>
@@ -3688,6 +3715,9 @@ Se ainda não conseguir acessar sua conta após o login, entre em contato Trakt 
     </data>
     <data name="Settings_DisplayProgressOnMainList" xml:space="preserve">
         <value>Mostrar seu progresso nas listas das séries?</value>
+    </data>
+    <data name="Settings_DisplayProgressOnMainList_Subtitle" xml:space="preserve">
+        <value>Exibe uma barra de progresso no cartão da série.</value>
     </data>
     <data name="Settings_AvailableGridModeItemsByRow_Default" xml:space="preserve">
         <value>Padrão - deixe o aplicativo escolher por mim</value>
@@ -4047,7 +4077,7 @@ Se quiser apoiar o projeto, seria muito bem-vindo 💖!</value>
         <value>Mostrar temporadas já disponíveis</value>
     </data>
     <data name="Settings_DisplayShowSeasonReadyOnHomePage_Subtitle" xml:space="preserve">
-        <value>Mostra um ícone quando todos os episódios da próxima temporada para assistir já foram exibidos.</value>
+        <value>Mostra um distintivo quando todos os episódios da próxima temporada para assistir já foram exibidos.</value>
     </data>
     <data name="ShowCommentsHeader_Sentiment_Header" xml:space="preserve">
         <value>SENTIMENTO DA COMUNIDADE</value>
