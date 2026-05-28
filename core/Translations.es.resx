@@ -2312,7 +2312,7 @@ Si aún no puedes acceder a tu cuenta después de iniciar sesión, contáctanos 
         <value>Apariencia de los elementos de las listas</value>
     </data>
     <data name="Settings_MainListItemAppearance_Subtitle" xml:space="preserve">
-        <value>Notas, progreso, cadena, insignias y gestos</value>
+        <value>Valoraciones, progreso, red, insignias en los elementos de la lista principal</value>
     </data>
     <data name="Settings_HomeItemAppearance_PreviewTitle" xml:space="preserve">
         <value>Vista previa</value>

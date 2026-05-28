@@ -3671,7 +3671,7 @@ Se ainda não conseguir acessar sua conta após o login, entre em contato Trakt 
         <value>Aparência dos itens das listas</value>
     </data>
     <data name="Settings_MainListItemAppearance_Subtitle" xml:space="preserve">
-        <value>Avaliações, progresso, canal, selos e gestos</value>
+        <value>Avaliações, progresso, canal, selos nos elementos da lista principal</value>
     </data>
     <data name="Settings_HomeItemAppearance_PreviewTitle" xml:space="preserve">
         <value>Prévia</value>

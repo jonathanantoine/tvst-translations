@@ -2282,7 +2282,7 @@ Se non riesci ancora ad accedere al tuo account dopo l'accesso, contattaci Trakt
         <value>Aspetto degli elementi delle liste</value>
     </data>
     <data name="Settings_MainListItemAppearance_Subtitle" xml:space="preserve">
-        <value>Voti, avanzamento, canale, badge e gesti</value>
+        <value>Voti, avanzamento, canale, badge sugli elementi della lista principale</value>
     </data>
     <data name="Settings_HomeItemAppearance_PreviewTitle" xml:space="preserve">
         <value>Anteprima</value>

@@ -2537,7 +2537,7 @@ Reminder: your code is {0}.</value>
     <value>Main list item appearance</value>
   </data>
   <data name="Settings_MainListItemAppearance_Subtitle" xml:space="preserve">
-    <value>Ratings, progress, network, badges and swipe actions</value>
+    <value>Ratings, progress, network, badges on the main list items</value>
   </data>
   <data name="Settings_HomeItemAppearance_PreviewTitle" xml:space="preserve">
     <value>Preview</value>
