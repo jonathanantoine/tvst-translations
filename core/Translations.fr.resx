@@ -1189,6 +1189,16 @@ Exprimez-vous !</value>
 :-(</value>
   </data>
   <data
+      name     ="Search_MissingShowLink_Text"
+      xml:space="preserve">
+    <value>Série manquante ? Cliquez ici pour l'ajouter !</value>
+  </data>
+  <data
+      name     ="Search_MissingMovieLink_Text"
+      xml:space="preserve">
+    <value>Film manquant ? Cliquez ici pour l'ajouter !</value>
+  </data>
+  <data
       name     ="Search_PlaceHolder_Content"
       xml:space="preserve">
     <value>Rechercher une série</value>

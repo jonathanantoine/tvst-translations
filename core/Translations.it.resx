@@ -755,6 +755,12 @@ Esprimi il tuo parere!</value>
 corrisponda a questa ricerca
 :-(</value>
   </data>
+    <data name="Search_MissingShowLink_Text" xml:space="preserve">
+    <value>Serie mancante? Tocca qui per aggiungerla!</value>
+  </data>
+    <data name="Search_MissingMovieLink_Text" xml:space="preserve">
+    <value>Film mancante? Tocca qui per aggiungerlo!</value>
+  </data>
     <data name="Search_PlaceHolder_Content" xml:space="preserve">
     <value>Cerca SERIE TV per parole chiave.</value>
   </data>

@@ -767,6 +767,12 @@ Express yourself!</value>
 matches this search
 :-(</value>
   </data>
+  <data name="Search_MissingShowLink_Text" xml:space="preserve">
+    <value>Missing show? Click here to add it!</value>
+  </data>
+  <data name="Search_MissingMovieLink_Text" xml:space="preserve">
+    <value>Missing movie? Click here to add it!</value>
+  </data>
   <data name="Search_PlaceHolder_Content" xml:space="preserve">
     <value>Search items by keyword</value>
   </data>

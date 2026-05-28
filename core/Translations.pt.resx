@@ -1181,6 +1181,16 @@ corresponde à essa pesquisa
 :-(</value>
   </data>
   <data
+      name="Search_MissingShowLink_Text"
+      xml:space="preserve">
+    <value>Série em falta? Clique aqui para a adicionar!</value>
+  </data>
+  <data
+      name="Search_MissingMovieLink_Text"
+      xml:space="preserve">
+    <value>Filme em falta? Clique aqui para o adicionar!</value>
+  </data>
+  <data
       name="Search_PlaceHolder_Content"
       xml:space="preserve">
     <value>Pesquise séries por palavras-chave.</value>

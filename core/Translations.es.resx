@@ -745,6 +745,12 @@ me gustaría saber tu opinión.
 aparece en esta búsqueda
 :-(</value>
   </data>
+    <data name="Search_MissingShowLink_Text" xml:space="preserve">
+    <value>¿Falta una serie? Pulsa aquí para añadirla.</value>
+  </data>
+    <data name="Search_MissingMovieLink_Text" xml:space="preserve">
+    <value>¿Falta una película? Pulsa aquí para añadirla.</value>
+  </data>
     <data name="Search_PlaceHolder_Content" xml:space="preserve">
     <value>Buscar serie por keyword</value>
   </data>
