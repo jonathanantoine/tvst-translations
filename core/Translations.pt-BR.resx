@@ -4157,7 +4157,34 @@ Lembrete: o seu código é {0}.</value>
     <data name="ShowDetails_ShowInfo_TrailerEmpty" xml:space="preserve">
         <value>Nenhum trailer disponível no momento…</value>
     </data>
--    <data name="Settings_Various_ExportCsv" xml:space="preserve">
+  <data name="Settings_SeasonBadges_ChipLabel" xml:space="preserve">
+  <value>Indicadores de temporada</value>
+</data>
+  <data name="Settings_SeasonBadges_BottomSheet_Title" xml:space="preserve">
+  <value>Indicadores de temporada</value>
+</data>
+  <data name="Settings_SeasonBadges_BottomSheet_Subtitle" xml:space="preserve">
+  <value>Entenda quando uma temporada completa está pronta ou quando apenas uma season premiere está disponível.</value>
+</data>
+  <data name="Settings_SeasonBadges_Ready_Label" xml:space="preserve">
+  <value>S05 READY</value>
+</data>
+  <data name="Settings_SeasonBadges_Ready_Description" xml:space="preserve">
+  <value>Todos os episódios da 5ª temporada já foram ao ar e estão prontos para assistir.</value>
+</data>
+  <data name="Settings_SeasonBadges_CompleteSeason_Label" xml:space="preserve">
+  <value>Ícone de temporada completa</value>
+</data>
+  <data name="Settings_SeasonBadges_CompleteSeason_Description" xml:space="preserve">
+  <value>Uma temporada completa está pronta para assistir, e você já começou a vê-la.</value>
+</data>
+  <data name="Settings_SeasonBadges_Premiere_Label" xml:space="preserve">
+  <value>SEASON PREMIERE</value>
+</data>
+  <data name="Settings_SeasonBadges_Premiere_Description" xml:space="preserve">
+  <value>O próximo episódio para assistir é o primeiro de uma temporada, mas a temporada ainda não foi totalmente ao ar.</value>
+</data>
+    <data name="Settings_Various_ExportCsv" xml:space="preserve">
         <value>Exportar como CSV</value>
     </data>
     <data name="Settings_Various_ImportCsv" xml:space="preserve">

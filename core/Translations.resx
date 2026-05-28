@@ -2560,8 +2560,36 @@ Reminder: your code is {0}.</value>
   <data name="Settings_MainListItemAppearance_PreviewModeList" xml:space="preserve">
     <value>List</value>
   </data>
+  <data name="Settings_SeasonBadges_ChipLabel" xml:space="preserve">
+  <value>Season badges</value>
+</data>
+  <data name="Settings_SeasonBadges_BottomSheet_Title" xml:space="preserve">
+  <value>Season badges</value>
+</data>
+  <data name="Settings_SeasonBadges_BottomSheet_Subtitle" xml:space="preserve">
+  <value>Understand when a full season is ready or when only a season premiere is available.</value>
+</data>
 
-  <data name="MovieInList_ReleaseAtFormat" xml:space="preserve">
+  <data name="Settings_SeasonBadges_Ready_Label" xml:space="preserve">
+  <value>S05 READY</value>
+</data>
+  <data name="Settings_SeasonBadges_Ready_Description" xml:space="preserve">
+  <value>Every episode of season 5 has already aired and is ready to watch.</value>
+</data>
+  <data name="Settings_SeasonBadges_CompleteSeason_Label" xml:space="preserve">
+  <value>Full season icon</value>
+</data>
+  <data name="Settings_SeasonBadges_CompleteSeason_Description" xml:space="preserve">
+  <value>A full season is ready to watch, and you have already started it.</value>
+</data>
+  <data name="Settings_SeasonBadges_Premiere_Label" xml:space="preserve">
+  <value>SEASON PREMIERE</value>
+</data>
+  <data name="Settings_SeasonBadges_Premiere_Description" xml:space="preserve">
+  <value>The next episode to watch is the first episode of a season, but the season has not fully aired yet.</value>
+</data>
+
+  <data name="MovieInList_ReleaseAtFormat"  xml:space="preserve">
     <value>Released on
 {0}</value>
   </data>

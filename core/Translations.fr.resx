@@ -3676,7 +3676,35 @@ plus</value>
   <data name="Settings_MainListItemAppearance_PreviewModeList" xml:space="preserve">
         <value>Liste</value>
     </data>
-  <data name="MovieInList_ReleaseAtFormat" xml:space="preserve">
+  <data name="Settings_SeasonBadges_ChipLabel" xml:space="preserve">
+  <value>Badges de saison</value>
+</data>
+  <data name="Settings_SeasonBadges_BottomSheet_Title" xml:space="preserve">
+  <value>Badges de saison</value>
+</data>
+  <data name="Settings_SeasonBadges_BottomSheet_Subtitle" xml:space="preserve">
+  <value>Comprenez quand une saison complète est prête ou quand seule une season premiere est disponible.</value>
+</data>
+  <data name="Settings_SeasonBadges_Ready_Label" xml:space="preserve">
+  <value>S05 READY</value>
+</data>
+  <data name="Settings_SeasonBadges_Ready_Description" xml:space="preserve">
+  <value>Tous les épisodes de la saison 5 ont déjà été diffusés et sont prêts à regarder.</value>
+</data>
+  <data name="Settings_SeasonBadges_CompleteSeason_Label" xml:space="preserve">
+  <value>Icône saison complète</value>
+</data>
+  <data name="Settings_SeasonBadges_CompleteSeason_Description" xml:space="preserve">
+  <value>Une saison complète est prête à regarder, et vous l’avez déjà commencée.</value>
+</data>
+  <data name="Settings_SeasonBadges_Premiere_Label" xml:space="preserve">
+  <value>SEASON PREMIERE</value>
+</data>
+  <data name="Settings_SeasonBadges_Premiere_Description" xml:space="preserve">
+  <value>Le prochain épisode à regarder est le premier épisode d’une saison, mais la saison n’a pas encore été entièrement diffusée.</value>
+</data>
+
+  <data name="MovieInList_ReleaseAtFormat"  xml:space="preserve">
         <value>Sortie le
 {0}</value>
     </data>

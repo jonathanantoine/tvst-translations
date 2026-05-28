@@ -2305,7 +2305,35 @@ Se non riesci ancora ad accedere al tuo account dopo l'accesso, contattaci Trakt
     <data name="Settings_MainListItemAppearance_PreviewModeList" xml:space="preserve">
         <value>Lista</value>
     </data>
-    <data name="MovieInList_ReleaseAtFormat" xml:space="preserve">
+  <data name="Settings_SeasonBadges_ChipLabel" xml:space="preserve">
+  <value>Badge stagione</value>
+</data>
+  <data name="Settings_SeasonBadges_BottomSheet_Title" xml:space="preserve">
+  <value>Badge stagione</value>
+</data>
+  <data name="Settings_SeasonBadges_BottomSheet_Subtitle" xml:space="preserve">
+  <value>Capisci quando una stagione completa è pronta o quando è disponibile solo una season premiere.</value>
+</data>
+  <data name="Settings_SeasonBadges_Ready_Label" xml:space="preserve">
+  <value>S05 READY</value>
+</data>
+  <data name="Settings_SeasonBadges_Ready_Description" xml:space="preserve">
+  <value>Tutti gli episodi della stagione 5 sono già andati in onda e sono pronti da guardare.</value>
+</data>
+  <data name="Settings_SeasonBadges_CompleteSeason_Label" xml:space="preserve">
+  <value>Icona stagione completa</value>
+</data>
+  <data name="Settings_SeasonBadges_CompleteSeason_Description" xml:space="preserve">
+  <value>Una stagione completa è pronta da guardare e hai già iniziato a vederla.</value>
+</data>
+  <data name="Settings_SeasonBadges_Premiere_Label" xml:space="preserve">
+  <value>SEASON PREMIERE</value>
+</data>
+  <data name="Settings_SeasonBadges_Premiere_Description" xml:space="preserve">
+  <value>Il prossimo episodio da guardare è il primo di una stagione, ma la stagione non è ancora andata in onda completamente.</value>
+</data>
+
+    <data name="MovieInList_ReleaseAtFormat"  xml:space="preserve">
         <value>Rilasciato il
 {0}</value>
     </data>
