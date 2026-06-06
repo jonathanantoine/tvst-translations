@@ -3693,7 +3693,7 @@ plus</value>
   <value>Badges de saison</value>
 </data>
   <data name="Settings_SeasonBadges_BottomSheet_Subtitle" xml:space="preserve">
-  <value>Comprenez quand une saison complète est prête ou quand seule une season premiere est disponible.</value>
+  <value>Comprenez quand une saison complète est prête ou quand une season premiere est disponible.</value>
 </data>
   <data name="Settings_SeasonBadges_Ready_Label" xml:space="preserve">
   <value>S05 READY</value>
@@ -3710,8 +3710,9 @@ plus</value>
   <data name="Settings_SeasonBadges_Premiere_Label" xml:space="preserve">
   <value>SEASON PREMIERE</value>
 </data>
-  <data name="Settings_SeasonBadges_Premiere_Description" xml:space="preserve">
-  <value>Le prochain épisode à regarder est le premier épisode d’une saison, mais la saison n’a pas encore été entièrement diffusée.</value>
+  <data name="
+" xml:space="preserve">
+  <value>Le prochain épisode à regarder est le premier épisode diffusé d’une saison.</value>
 </data>
 
   <data name="MovieInList_ReleaseAtFormat"  xml:space="preserve">

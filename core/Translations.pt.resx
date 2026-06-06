@@ -3716,7 +3716,7 @@ Se ainda não conseguir acessar sua conta após o login, entre em contato Trakt 
   <value>Indicadores de temporada</value>
 </data>
   <data name="Settings_SeasonBadges_BottomSheet_Subtitle" xml:space="preserve">
-  <value>Entenda quando uma temporada completa está pronta ou quando apenas uma season premiere está disponível.</value>
+  <value>Entenda quando uma temporada completa está pronta ou quando uma season premiere está disponível.</value>
 </data>
   <data name="Settings_SeasonBadges_Ready_Label" xml:space="preserve">
   <value>S05 READY</value>
@@ -3734,7 +3734,7 @@ Se ainda não conseguir acessar sua conta após o login, entre em contato Trakt 
   <value>SEASON PREMIERE</value>
 </data>
   <data name="Settings_SeasonBadges_Premiere_Description" xml:space="preserve">
-  <value>O próximo episódio a ver é o primeiro de uma temporada, mas a temporada ainda não foi transmitida por completo.</value>
+  <value>O próximo episódio a ver é o primeiro episódio transmitido de uma temporada.</value>
 </data>
 
   <data name="MovieInList_ReleaseAtFormat"  xml:space="preserve">

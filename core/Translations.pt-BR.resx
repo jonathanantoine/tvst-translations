@@ -4174,7 +4174,7 @@ Lembrete: o seu código é {0}.</value>
   <value>Indicadores de temporada</value>
 </data>
   <data name="Settings_SeasonBadges_BottomSheet_Subtitle" xml:space="preserve">
-  <value>Entenda quando uma temporada completa está pronta ou quando apenas uma season premiere está disponível.</value>
+  <value>Entenda quando uma temporada completa está pronta ou quando uma season premiere está disponível.</value>
 </data>
   <data name="Settings_SeasonBadges_Ready_Label" xml:space="preserve">
   <value>S05 READY</value>
@@ -4192,7 +4192,7 @@ Lembrete: o seu código é {0}.</value>
   <value>SEASON PREMIERE</value>
 </data>
   <data name="Settings_SeasonBadges_Premiere_Description" xml:space="preserve">
-  <value>O próximo episódio para assistir é o primeiro de uma temporada, mas a temporada ainda não foi totalmente ao ar.</value>
+  <value>O próximo episódio para assistir é o primeiro episódio exibido de uma temporada.</value>
 </data>
     <data name="Settings_Various_ExportCsv" xml:space="preserve">
         <value>Exportar como CSV</value>

@@ -2348,7 +2348,7 @@ Si aún no puedes acceder a tu cuenta después de iniciar sesión, contáctanos 
   <value>Insignias de temporada</value>
 </data>
   <data name="Settings_SeasonBadges_BottomSheet_Subtitle" xml:space="preserve">
-  <value>Comprende cuándo una temporada completa está lista o cuándo solo hay una season premiere disponible.</value>
+  <value>Comprende cuándo una temporada completa está lista o cuándo hay una season premiere disponible.</value>
 </data>
   <data name="Settings_SeasonBadges_Ready_Label" xml:space="preserve">
   <value>S05 READY</value>
@@ -2366,7 +2366,7 @@ Si aún no puedes acceder a tu cuenta después de iniciar sesión, contáctanos 
   <value>SEASON PREMIERE</value>
 </data>
   <data name="Settings_SeasonBadges_Premiere_Description" xml:space="preserve">
-  <value>El próximo episodio para ver es el primero de una temporada, pero la temporada aún no se ha emitido por completo.</value>
+  <value>El próximo episodio para ver es el primer episodio emitido de una temporada.</value>
 </data>
     <data name="MovieInList_ReleaseAtFormat"  xml:space="preserve">
         <value>Publicado el
