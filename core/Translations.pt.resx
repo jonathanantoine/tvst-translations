@@ -2421,6 +2421,25 @@ merece ser divertida!</value>
       xml:space="preserve">
     <value>Série retornando</value>
   </data>
+  <data name="Global_ShowStatus_Short_Canceled" xml:space="preserve">
+    <value>Cancelado</value>
+  </data>
+  <data name="Global_ShowStatus_Short_Ended" xml:space="preserve">
+    <value>Terminou</value>
+  </data>
+  <data name="Global_ShowStatus_Short_InProduction" xml:space="preserve">
+    <value>Produção</value>
+  </data>
+  <data name="Global_ShowStatus_Short_Planned" xml:space="preserve">
+    <value>Planejado</value>
+  </data>
+  <data name="Global_ShowStatus_Short_Released" xml:space="preserve">
+    <value>Liberado</value>
+  </data>
+  <data name="Global_ShowStatus_Short_Returning" xml:space="preserve">
+    <value>Retornando</value>
+  </data>
+
   <data
       name="Incoming_InXDayPlural"
       xml:space="preserve">
@@ -3190,7 +3209,7 @@ xml:space="preserve">
   <data
   name="Settings_DisplayShowChannelOnHomePage"
   xml:space="preserve">
-    <value>Exibir canal de exibição de programa de TV na lista principal?</value>
+    <value>Exibir canal de exibição?</value>
   </data>
   <data
         name="MediaItemDetails_ShowInfo_CertificationHeader"
@@ -3762,6 +3781,12 @@ Se ainda não conseguir acessar sua conta após o login, entre em contato Trakt 
   <data name="Settings_DisplayProgressOnMainList_Subtitle" xml:space="preserve">
         <value>Exibe uma barra de progresso no cartão da série.</value>
     </data>
+  <data name="Settings_DisplayShowStatusOnMainList" xml:space="preserve">
+        <value>Mostrar o estado?</value>
+    </data>
+  <data name="Settings_DisplayShowStatusOnMainList_Subtitle" xml:space="preserve">
+        <value>Exibe se a série está a decorrer, terminada, cancelada, etc. no cartão.</value>
+    </data>
   <data name="Settings_AvailableGridModeItemsByRow_Default" xml:space="preserve">
         <value>Padrão - deixe o aplicativo escolher por mim</value>
     </data>
@@ -4114,7 +4139,10 @@ Se quiser apoiar o projeto, seria muito bem-vindo 💖!</value>
         <value>Grátis</value>
     </data>
   <data name="Settings_DisplayShowSeasonPremiereOnHomePage" xml:space="preserve">
-        <value>Exibir uma etiqueta para a estreia da temporada na lista principal?</value>
+        <value>Exibir etiqueta de estreia de temporada?</value>
+    </data>
+  <data name="Settings_DisplayShowSeasonPremiereOnHomePage_Subtitle" xml:space="preserve">
+        <value>Exibe um selo quando o próximo episódio a ver é a estreia de temporada.</value>
     </data>
   <data name="Settings_DisplayShowSeasonReadyOnHomePage" xml:space="preserve">
         <value>Mostrar temporadas já disponíveis</value>

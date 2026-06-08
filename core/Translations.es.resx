@@ -1564,6 +1564,24 @@ y tendencias mundiales!</value>
     <data name="Global_ShowStatus_Returning" xml:space="preserve">
     <value>serie de regreso</value>
   </data>
+    <data name="Global_ShowStatus_Short_Canceled" xml:space="preserve">
+    <value>Cancelada</value>
+  </data>
+    <data name="Global_ShowStatus_Short_Ended" xml:space="preserve">
+    <value>Finalizada</value>
+  </data>
+    <data name="Global_ShowStatus_Short_InProduction" xml:space="preserve">
+    <value>En producción</value>
+  </data>
+    <data name="Global_ShowStatus_Short_Planned" xml:space="preserve">
+    <value>Planeada</value>
+  </data>
+    <data name="Global_ShowStatus_Short_Released" xml:space="preserve">
+    <value>Publicado</value>
+  </data>
+    <data name="Global_ShowStatus_Short_Returning" xml:space="preserve">
+    <value>Regreso</value>
+  </data>
     <data name="Incoming_InXDayPlural" xml:space="preserve">
     <value>en {0} días</value>
   </data>
@@ -2014,7 +2032,7 @@ y tendencias mundiales!</value>
     <value>Dinámico, basado en su procedencia - valor por defecto</value>
   </data>
     <data name="Settings_DisplayShowChannelOnHomePage" xml:space="preserve">
-    <value>¿Mostrar el canal de emisión del programa de televisión en la lista principal?</value>
+    <value>¿Mostrar canal en emisión?</value>
   </data>
 
     <data name="MediaItemDetails_ShowInfo_CertificationHeader" xml:space="preserve">
@@ -2393,6 +2411,12 @@ Si aún no puedes acceder a tu cuenta después de iniciar sesión, contáctanos 
     <data name="Settings_DisplayProgressOnMainList_Subtitle" xml:space="preserve">
         <value>Muestra una barra de progreso en la tarjeta de la serie.</value>
     </data>
+    <data name="Settings_DisplayShowStatusOnMainList" xml:space="preserve">
+        <value>¿Mostrar el estado?</value>
+    </data>
+    <data name="Settings_DisplayShowStatusOnMainList_Subtitle" xml:space="preserve">
+        <value>Muestra si la serie sigue en emisión, finalizada, cancelada, etc. en la tarjeta.</value>
+    </data>
   <data name="Settings_AvailableGridModeItemsByRow_Default">
     <value>Predeterminado - deja que la aplicación elija para mí</value>
   </data>
@@ -2724,7 +2748,10 @@ Si quieres apoyar el proyecto, lo agradecería mucho 💖!</value>
         <value>Gratis</value>
     </data>
     <data name="Settings_DisplayShowSeasonPremiereOnHomePage" xml:space="preserve">
-        <value>¿Mostrar una etiqueta para el estreno de temporada en la lista principal?</value>
+        <value>¿Mostrar etiqueta de estreno de temporada?</value>
+    </data>
+    <data name="Settings_DisplayShowSeasonPremiereOnHomePage_Subtitle" xml:space="preserve">
+        <value>Muestra una insignia cuando el próximo episodio a ver es el estreno de temporada.</value>
     </data>
     <data name="Settings_DisplayShowSeasonReadyOnHomePage" xml:space="preserve">
         <value>Mostrar temporadas ya disponibles</value>

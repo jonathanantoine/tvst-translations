@@ -1602,6 +1602,24 @@ de  <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
   <data name="Global_ShowStatus_Returning" xml:space="preserve">
     <value>returning series</value>
   </data>
+  <data name="Global_ShowStatus_Short_Canceled" xml:space="preserve">
+    <value>Canceled</value>
+  </data>
+  <data name="Global_ShowStatus_Short_Ended" xml:space="preserve">
+    <value>Ended</value>
+  </data>
+  <data name="Global_ShowStatus_Short_InProduction" xml:space="preserve">
+    <value>In Production</value>
+  </data>
+  <data name="Global_ShowStatus_Short_Planned" xml:space="preserve">
+    <value>Planned</value>
+  </data>
+  <data name="Global_ShowStatus_Short_Released" xml:space="preserve">
+    <value>Released</value>
+  </data>
+  <data name="Global_ShowStatus_Short_Returning" xml:space="preserve">
+    <value>Returning</value>
+  </data>
   <data name="Incoming_InXDayPlural" xml:space="preserve">
     <value>in {0} days</value>
   </data>
@@ -2066,11 +2084,15 @@ Do you confirm ?
     <value>Dynamic, based on where you come from - default</value>
   </data>
   <data name="Settings_DisplayShowChannelOnHomePage" xml:space="preserve">
-    <value>Display tv show airing channel on main list?</value>
+    <value>Display airing channel?</value>
   </data>
   <data name="Settings_DisplayShowSeasonPremiereOnHomePage" xml:space="preserve">
-    <value>Display season premiere tag on main list?</value>
+    <value>Display season premiere tag?</value>
   </data>
+    <data name="Settings_DisplayShowSeasonPremiereOnHomePage_Subtitle" xml:space="preserve">
+    <value>Shows a badge when the next episode to watch is the season premiere.</value>
+  </data>
+
   <data name="Settings_DisplayShowSeasonReadyOnHomePage" xml:space="preserve">
     <value>Show fully available seasons</value>
   </data>
@@ -2619,6 +2641,12 @@ Reminder: your code is {0}.</value>
   </data>
   <data name="Settings_DisplayProgressOnMainList_Subtitle" xml:space="preserve">
     <value>Shows a progress bar on the show tile.</value>
+  </data>
+  <data name="Settings_DisplayShowStatusOnMainList" xml:space="preserve">
+    <value>Display status?</value>
+  </data>
+  <data name="Settings_DisplayShowStatusOnMainList_Subtitle" xml:space="preserve">
+    <value>Shows whether the series is still airing, ended, cancelled, etc. on the show tile.</value>
   </data>
 
   <data name="Settings_AvailableGridModeItemsByRow_Default" xml:space="preserve">

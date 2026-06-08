@@ -2453,6 +2453,24 @@ d'être pleine de surprises !</value>
       xml:space="preserve">
     <value>en cours</value>
   </data>
+  <data name="Global_ShowStatus_Short_Canceled" xml:space="preserve">
+    <value>Annulée</value>
+  </data>
+  <data name="Global_ShowStatus_Short_Ended" xml:space="preserve">
+    <value>Terminée</value>
+  </data>
+  <data name="Global_ShowStatus_Short_InProduction" xml:space="preserve">
+    <value>Production</value>
+  </data>
+  <data name="Global_ShowStatus_Short_Planned" xml:space="preserve">
+    <value>Planifiée</value>
+  </data>
+  <data name="Global_ShowStatus_Short_Released" xml:space="preserve">
+    <value>Sorti</value>
+  </data>
+  <data name="Global_ShowStatus_Short_Returning" xml:space="preserve">
+    <value>En cours</value>
+  </data>
   <data
       name     ="Home_UserLists_Code_NumberOfElementPlural"
       xml:space="preserve">
@@ -3124,7 +3142,7 @@ xml:space="preserve">
   <data
   name="Settings_DisplayShowChannelOnHomePage"
   xml:space="preserve">
-    <value>Afficher la chaîne de diffusion dans la liste de séries ?</value>
+    <value>Afficher la chaîne de diffusion ?</value>
   </data>
   <data
         name="MediaItemDetails_ShowInfo_CertificationHeader"
@@ -3741,6 +3759,12 @@ plus</value>
   <data name="Settings_DisplayProgressOnMainList_Subtitle" xml:space="preserve">
         <value>Affiche une barre de progression sur la vignette de la série.</value>
     </data>
+  <data name="Settings_DisplayShowStatusOnMainList" xml:space="preserve">
+        <value>Afficher le statut ?</value>
+    </data>
+  <data name="Settings_DisplayShowStatusOnMainList_Subtitle" xml:space="preserve">
+        <value>Indique si la série est en cours, terminée, annulée, etc. sur la vignette.</value>
+    </data>
   <data name="Settings_AvailableGridModeItemsByRow_Default" xml:space="preserve">
         <value>Par défaut - laissez l'application choisir pour moi</value>
     </data>
@@ -4076,7 +4100,10 @@ Si vous voulez soutenir le projet, ce serait super apprécié 💖!</value>
       <value>Gratuit</value>
   </data>
   <data name="Settings_DisplayShowSeasonPremiereOnHomePage" xml:space="preserve">
-      <value>Afficher une étiquette pour la première de saison dans la liste des séries ?</value>
+      <value>Afficher l'étiquette de première de saison ?</value>
+  </data>
+  <data name="Settings_DisplayShowSeasonPremiereOnHomePage_Subtitle" xml:space="preserve">
+      <value>Affiche un badge lorsque le prochain épisode à regarder est la première de saison.</value>
   </data>
   <data name="Settings_DisplayShowSeasonReadyOnHomePage" xml:space="preserve">
       <value>Afficher les saisons déjà disponibles</value>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
     <!--
     Microsoft ResX Schema
@@ -1526,6 +1526,24 @@ merita di essere divertente!</value>
     <data name="Global_ShowStatus_Returning" xml:space="preserve">
     <value>SERIE TV in arrivo</value>
   </data>
+    <data name="Global_ShowStatus_Short_Canceled" xml:space="preserve">
+    <value>Annullata</value>
+  </data>
+    <data name="Global_ShowStatus_Short_Ended" xml:space="preserve">
+    <value>Terminata</value>
+  </data>
+    <data name="Global_ShowStatus_Short_InProduction" xml:space="preserve">
+    <value>Produzione</value>
+  </data>
+    <data name="Global_ShowStatus_Short_Planned" xml:space="preserve">
+    <value>Pianificata</value>
+  </data>
+    <data name="Global_ShowStatus_Short_Released" xml:space="preserve">
+    <value>Rilasciato</value>
+  </data>
+    <data name="Global_ShowStatus_Short_Returning" xml:space="preserve">
+    <value>In arrivo</value>
+  </data>
     <data name="Home_UserLists_Code_NumberOfElementPlural" xml:space="preserve">
     <value>{0} SERIE TV in questo elenco</value>
   </data>
@@ -2005,7 +2023,7 @@ Confermi?
   </data>
 
     <data name="Settings_DisplayShowChannelOnHomePage" xml:space="preserve">
-    <value>Mostra il canale della Serie TV nell'elenco principale?</value>
+        <value>Mostrare il canale in onda?</value>
   </data>
     <data name="MediaItemDetails_ShowInfo_CertificationHeader" xml:space="preserve">
     <value>Certificazione</value>
@@ -2363,6 +2381,12 @@ Se non riesci ancora ad accedere al tuo account dopo l'accesso, contattaci Trakt
     </data>
     <data name="Settings_DisplayProgressOnMainList_Subtitle" xml:space="preserve">
         <value>Mostra una barra di avanzamento sul riquadro della serie.</value>
+    </data>
+    <data name="Settings_DisplayShowStatusOnMainList" xml:space="preserve">
+        <value>Mostrare lo stato?</value>
+    </data>
+    <data name="Settings_DisplayShowStatusOnMainList_Subtitle" xml:space="preserve">
+        <value>Indica se la serie è in corso, terminata, cancellata, ecc. sul riquadro.</value>
     </data>
     <data name="Settings_AvailableGridModeItemsByRow_Default" xml:space="preserve">
         <value>Predefinito: lascia che l'app scelga per me</value>
@@ -2804,7 +2828,10 @@ Se vuoi sostenere il progetto, lo apprezzerei tantissimo 💖!</value>
         <value>Gratis</value>
     </data>
     <data name="Settings_DisplayShowSeasonPremiereOnHomePage" xml:space="preserve">
-        <value>Mostrare un’etichetta per la il primo episodio della stagione nella lista principale?</value>
+        <value>Mostrare l’etichetta premiere di stagione?</value>
+    </data>
+    <data name="Settings_DisplayShowSeasonPremiereOnHomePage_Subtitle" xml:space="preserve">
+        <value>Mostra un badge quando il prossimo episodio da vedere u{00E8} la premiere della stagione.</value>
     </data>
     <data name="Settings_DisplayShowSeasonReadyOnHomePage" xml:space="preserve">
         <value>Mostra le stagioni già disponibili</value>
