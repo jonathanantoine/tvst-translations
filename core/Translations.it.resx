@@ -1412,6 +1412,9 @@ merita di essere divertente!</value>
     <data name="StatusDisplay_SyncingCalendar" xml:space="preserve">
     <value>Aggiornamento del calendario...</value>
   </data>
+  <data name="StatusDisplay_SyncingPersonalNotes" xml:space="preserve">
+    <value>Sincronizzazione delle note personali...</value>
+  </data>
     <data name="StatusDisplay_SyncingSeasonsAndEpisodes" xml:space="preserve">
         <value>Caricamento stagioni ed episodi...</value>
     </data>
@@ -2564,6 +2567,9 @@ Se vuoi sostenere il progetto, lo apprezzerei tantissimo 💖!</value>
     </data>
     <data name="Home_Badge_SeasonPremiere_Text" xml:space="preserve">
         <value>SEASON PREMIERE</value>
+    </data>
+    <data name="Home_Badge_SeasonPremiere_Format" xml:space="preserve">
+        <value>S{0:00} PREMIERE</value>
     </data>
     <data name="Home_Badge_SeasonReady_Text" xml:space="preserve">
         <value>STAGIONE PRONTA</value>

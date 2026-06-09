@@ -1474,6 +1474,9 @@ deserves to be funny!</value>
   <data name="StatusDisplay_SyncingCalendar" xml:space="preserve">
     <value>syncing calendar...</value>
   </data>
+  <data name="StatusDisplay_SyncingPersonalNotes" xml:space="preserve">
+    <value>syncing personal notes...</value>
+  </data>
   <data name="StatusDisplay_SyncingSeasonsAndEpisodes" xml:space="preserve">
     <value>retrieving seasons and episodes...</value>
   </data>
@@ -2777,6 +2780,9 @@ If you'd like to support the project, I'd really appreciate it !</value>
   </data>
   <data name="Home_Badge_SeasonPremiere_Text" xml:space="preserve">
       <value>SEASON PREMIERE</value>
+  </data>
+  <data name="Home_Badge_SeasonPremiere_Format" xml:space="preserve">
+      <value>S{0:00} PREMIERE</value>
   </data>
   <data name="Home_Badge_SeasonReady_Text" xml:space="preserve">
       <value>SEASON READY</value>

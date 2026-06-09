@@ -1432,6 +1432,9 @@ y tendencias mundiales!</value>
     <data name="StatusDisplay_SyncingCalendar" xml:space="preserve">
     <value>Sincronizando calendario…</value>
   </data>
+  <data name="StatusDisplay_SyncingPersonalNotes" xml:space="preserve">
+    <value>Sincronizando notas personales…</value>
+  </data>
     <data name="StatusDisplay_SyncingSeasonsAndEpisodes" xml:space="preserve">
     <value>Recuperando temporadas y episodios…</value>
   </data>
@@ -2594,6 +2597,9 @@ Si quieres apoyar el proyecto, lo agradecería mucho 💖!</value>
     </data>
     <data name="Home_Badge_SeasonPremiere_Text" xml:space="preserve">
         <value>SEASON PREMIERE</value>
+    </data>
+    <data name="Home_Badge_SeasonPremiere_Format" xml:space="preserve">
+        <value>T{0:00} PREMIERE</value>
     </data>
     <data name="Home_Badge_SeasonReady_Text" xml:space="preserve">
         <value>TEMPORADA LISTA</value>

@@ -2276,6 +2276,11 @@ d'être pleine de surprises !</value>
     <value>synchronisation du calendrier...</value>
   </data>
   <data
+      name     ="StatusDisplay_SyncingPersonalNotes"
+      xml:space="preserve">
+    <value>synchronisation des notes personnelles...</value>
+  </data>
+  <data
       name     ="StatusDisplay_SyncingSeasonsAndEpisodes"
       xml:space="preserve">
     <value>récupération des saisons et des épisodes...</value>
@@ -3951,6 +3956,9 @@ Si vous voulez soutenir le projet, ce serait super apprécié 💖!</value>
   </data>
   <data name="Home_Badge_SeasonPremiere_Text" xml:space="preserve">
       <value>SEASON PREMIERE</value>
+  </data>
+  <data name="Home_Badge_SeasonPremiere_Format" xml:space="preserve">
+      <value>S{0:00} PREMIERE</value>
   </data>
   <data name="Home_Badge_SeasonReady_Text" xml:space="preserve">
       <value>SAISON DISPO</value>
