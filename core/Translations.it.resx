@@ -2583,6 +2583,12 @@ Se vuoi sostenere il progetto, lo apprezzerei tantissimo 💖!</value>
     <data name="Home_Badge_NewSeasonReady_Text" xml:space="preserve">
         <value>NUOVA STAGIONE PRONTA</value>
     </data>
+    <data name="Home_Chip_SeasonRemaining_One" xml:space="preserve">
+        <value>S{0}: manca {1} ep.</value>
+    </data>
+    <data name="Home_Chip_SeasonRemaining_Other" xml:space="preserve">
+        <value>S{0}: mancano {1} ep.</value>
+    </data>
     <data name="Home_UserStats_NumberOfPlaysLabelPlural" xml:space="preserve">
         <value>riproduzioni degli episodi:</value>
     </data>
@@ -2844,6 +2850,18 @@ Se vuoi sostenere il progetto, lo apprezzerei tantissimo 💖!</value>
     </data>
     <data name="Settings_DisplayShowSeasonReadyOnHomePage_Subtitle" xml:space="preserve">
         <value>Mostra un’icona quando tutti gli episodi della prossima stagione da guardare sono già andati in onda.</value>
+    </data>
+    <data name="Settings_DisplaySeasonRemainingOnMainList" xml:space="preserve">
+        <value>Mostrare gli episodi rimanenti della stagione?</value>
+    </data>
+    <data name="Settings_DisplaySeasonRemainingOnMainList_Subtitle" xml:space="preserve">
+        <value>Mostra gli episodi non visti rimanenti nella stagione corrente.</value>
+    </data>
+    <data name="Settings_DisplayPersonalNotesOnMainList" xml:space="preserve">
+        <value>Mostrare le note personali?</value>
+    </data>
+    <data name="Settings_DisplayPersonalNotesOnMainList_Subtitle" xml:space="preserve">
+        <value>Mostra i primi caratteri della tua nota personale.</value>
     </data>
     <data name="ShowCommentsHeader_Sentiment_Header" xml:space="preserve">
         <value>MOOD DELLA COMMUNITY</value>

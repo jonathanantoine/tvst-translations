@@ -2102,6 +2102,18 @@ Do you confirm ?
   <data name="Settings_DisplayShowSeasonReadyOnHomePage_Subtitle" xml:space="preserve">
     <value>Shows a badge when every episode of the next season to watch has already aired.</value>
   </data>
+  <data name="Settings_DisplaySeasonRemainingOnMainList" xml:space="preserve">
+    <value>Display season remaining count?</value>
+  </data>
+  <data name="Settings_DisplaySeasonRemainingOnMainList_Subtitle" xml:space="preserve">
+    <value>Shows remaining unseen episodes in the current season.</value>
+  </data>
+  <data name="Settings_DisplayPersonalNotesOnMainList" xml:space="preserve">
+    <value>Display personal notes?</value>
+  </data>
+  <data name="Settings_DisplayPersonalNotesOnMainList_Subtitle" xml:space="preserve">
+    <value>Shows the first characters of your personal note as a chip.</value>
+  </data>
   
   <data name="MediaItemDetails_ShowInfo_CertificationHeader" xml:space="preserve">
     <value>Certification</value>
@@ -2795,6 +2807,12 @@ If you'd like to support the project, I'd really appreciate it !</value>
   </data>
   <data name="Home_Badge_NewSeasonReady_Text" xml:space="preserve">
       <value>NEW SEASON READY</value>
+  </data>
+  <data name="Home_Chip_SeasonRemaining_One" xml:space="preserve">
+      <value>S{0}: {1} ep. left</value>
+  </data>
+  <data name="Home_Chip_SeasonRemaining_Other" xml:space="preserve">
+      <value>S{0}: {1} ep. left</value>
   </data>
   <data name="Home_UserStats_NumberOfPlaysLabelPlural" xml:space="preserve">
       <value>episode plays:</value>

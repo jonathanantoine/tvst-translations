@@ -3972,6 +3972,12 @@ Si vous voulez soutenir le projet, ce serait super apprécié 💖!</value>
   <data name="Home_Badge_NewSeasonReady_Text" xml:space="preserve">
       <value>NOUVELLE SAISON DISPO</value>
   </data>
+  <data name="Home_Chip_SeasonRemaining_One" xml:space="preserve">
+      <value>S{0}: {1} à voir</value>
+  </data>
+  <data name="Home_Chip_SeasonRemaining_Other" xml:space="preserve">
+      <value>S{0}: {1} à voir</value>
+  </data>
   <data name="Home_UserStats_NumberOfPlaysLabelPlural" xml:space="preserve">
       <value>lectures d’épisode:</value>
   </data>
@@ -4118,6 +4124,18 @@ Si vous voulez soutenir le projet, ce serait super apprécié 💖!</value>
   </data>
   <data name="Settings_DisplayShowSeasonReadyOnHomePage_Subtitle" xml:space="preserve">
       <value>Affiche un badge quand tous les épisodes de la prochaine saison à voir sont déjà diffusés.</value>
+  </data>
+  <data name="Settings_DisplaySeasonRemainingOnMainList" xml:space="preserve">
+      <value>Afficher les épisodes restants de la saison ?</value>
+  </data>
+  <data name="Settings_DisplaySeasonRemainingOnMainList_Subtitle" xml:space="preserve">
+      <value>Affiche les épisodes non vus restants dans la saison en cours.</value>
+  </data>
+  <data name="Settings_DisplayPersonalNotesOnMainList" xml:space="preserve">
+      <value>Afficher les notes personnelles ?</value>
+  </data>
+  <data name="Settings_DisplayPersonalNotesOnMainList_Subtitle" xml:space="preserve">
+      <value>Affiche les premiers caractères de votre note personnelle.</value>
   </data>
   <data name="ShowCommentsHeader_Sentiment_Header" xml:space="preserve">
       <value>PERCEPTION DE LA COMMUNAUTÉ</value>
