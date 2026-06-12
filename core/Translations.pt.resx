@@ -4458,4 +4458,10 @@ Lembrete: o seu código é {0}.</value>
   <data name="Drawer_UserFallbackName" xml:space="preserve">
     <value>Utilizador</value>
   </data>
+  <data name="Database_RecreatedAfterCorruptionTitle" xml:space="preserve">
+    <value>Cache local reposta</value>
+  </data>
+  <data name="Database_RecreatedAfterCorruptionContent" xml:space="preserve">
+    <value>Os dados armazenados no seu dispositivo estavam corrompidos e foram repostos. As suas informações serão sincronizadas novamente automaticamente.</value>
+  </data>
 </root>

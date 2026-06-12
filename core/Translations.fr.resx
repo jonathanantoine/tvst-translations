@@ -4422,4 +4422,10 @@ Rappel : votre code est {0}.</value>
   <data name="Drawer_UserFallbackName" xml:space="preserve">
     <value>Utilisateur</value>
   </data>
+  <data name="Database_RecreatedAfterCorruptionTitle" xml:space="preserve">
+    <value>Cache local réinitialisé</value>
+  </data>
+  <data name="Database_RecreatedAfterCorruptionContent" xml:space="preserve">
+    <value>Les données enregistrées sur votre appareil étaient corrompues et ont été réinitialisées. Vos informations vont être resynchronisées automatiquement.</value>
+  </data>
 </root>

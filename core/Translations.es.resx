@@ -3080,4 +3080,10 @@ Recordatorio: tu código es {0}.</value>
   <data name="Drawer_UserFallbackName" xml:space="preserve">
     <value>Usuario</value>
   </data>
+  <data name="Database_RecreatedAfterCorruptionTitle" xml:space="preserve">
+    <value>Caché local restablecida</value>
+  </data>
+  <data name="Database_RecreatedAfterCorruptionContent" xml:space="preserve">
+    <value>Los datos almacenados en su dispositivo estaban dañados y se han restablecido. Su información se volverá a sincronizar automáticamente.</value>
+  </data>
 </root>

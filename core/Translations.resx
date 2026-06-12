@@ -3176,4 +3176,10 @@ If you'd like to support the project, I'd really appreciate it !</value>
   <data name="Drawer_UserFallbackName" xml:space="preserve">
     <value>User</value>
   </data>
+  <data name="Database_RecreatedAfterCorruptionTitle" xml:space="preserve">
+    <value>Local cache reset</value>
+  </data>
+  <data name="Database_RecreatedAfterCorruptionContent" xml:space="preserve">
+    <value>The data stored on your device was corrupted and has been reset. Your information will be re-synchronized automatically.</value>
+  </data>
 </root>

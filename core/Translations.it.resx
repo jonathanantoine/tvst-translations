@@ -3190,4 +3190,10 @@ t  <data name="Settings_Modern_Badge_Premium" xml:space="preserve">
   <data name="Drawer_UserFallbackName" xml:space="preserve">
     <value>Utente</value>
   </data>
+  <data name="Database_RecreatedAfterCorruptionTitle" xml:space="preserve">
+    <value>Cache locale reimpostata</value>
+  </data>
+  <data name="Database_RecreatedAfterCorruptionContent" xml:space="preserve">
+    <value>I dati memorizzati sul suo dispositivo erano danneggiati e sono stati reimpostati. Le sue informazioni verranno sincronizzate di nuovo automaticamente.</value>
+  </data>
 </root>

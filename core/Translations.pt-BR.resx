@@ -3139,4 +3139,10 @@ Lembrete: o seu código é {0}.</value>
     <data name="Settings_Search_NoResultsHint" xml:space="preserve">
     <value>Tente com outra palavra-chave.</value>
   </data>
+  <data name="Database_RecreatedAfterCorruptionTitle" xml:space="preserve">
+    <value>Cache local redefinido</value>
+  </data>
+  <data name="Database_RecreatedAfterCorruptionContent" xml:space="preserve">
+    <value>Os dados armazenados no seu dispositivo estavam corrompidos e foram redefinidos. Suas informações serão sincronizadas novamente automaticamente.</value>
+  </data>
 </root>
