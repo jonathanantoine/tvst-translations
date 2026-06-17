@@ -2808,6 +2808,34 @@ Se vuoi sostenere il progetto, lo apprezzerei tantissimo 💖!</value>
     <data name="UserLists_AccessDenied" xml:space="preserve">
         <value>Accesso negato: non ha più accesso a questa lista.</value>
     </data>
+  <data name="UserLists_Card_EmptyMessage" xml:space="preserve">
+      <value>Nessun elemento in questa lista al momento.</value>
+  </data>
+  <data name="UserLists_Card_RenameMenuItem" xml:space="preserve">
+      <value>Modifica le informazioni della lista</value>
+  </data>
+  <data name="UserLists_Card_AccessDeniedBanner" xml:space="preserve">
+      <value>Accesso negato. Contatta il proprietario per richiedere l’accesso.</value>
+  </data>
+  <data name="UserLists_Card_ConfirmDeleteTitle" xml:space="preserve">
+      <value>ELIMINARE QUESTA LISTA?</value>
+  </data>
+  <data name="UserLists_Card_ConfirmDeleteContent" xml:space="preserve">
+      <value>Questa azione eliminerà definitivamente la lista e tutto il suo contenuto su Trakt.tv.
+
+Confermi?</value>
+  </data>
+  <data name="UserLists_Card_ConfirmUnlikeTitle" xml:space="preserve">
+      <value>NON TI PIACE PIÙ QUESTA LISTA?</value>
+  </data>
+  <data name="UserLists_Card_ConfirmUnlikeContent" xml:space="preserve">
+      <value>La lista verrà rimossa dalle tue liste preferite.
+
+Confermi?</value>
+  </data>
+  <data name="UserLists_Card_OpenContentMenuItem" xml:space="preserve">
+      <value>Vedi il contenuto della lista</value>
+  </data>
     <data name="Settings_GridModeRowsWarning" xml:space="preserve">
         <value>💡 In ogni pagina, pizzica per ingrandire o ridurre e cambiare il numero di elementi per riga.
 </value>
@@ -3195,5 +3223,35 @@ t  <data name="Settings_Modern_Badge_Premium" xml:space="preserve">
   </data>
   <data name="Database_RecreatedAfterCorruptionContent" xml:space="preserve">
     <value>I dati memorizzati sul suo dispositivo erano danneggiati e sono stati reimpostati. Le sue informazioni verranno sincronizzate di nuovo automaticamente.</value>
+  </data>
+  <data name="Lists_EmptyList" xml:space="preserve">
+    <value>Lista vuota</value>
+  </data>
+  <data name="Lists_AddShows" xml:space="preserve">
+    <value>Aggiungi serie</value>
+  </data>
+  <data name="Lists_Privacy_Private" xml:space="preserve">
+    <value>Privato</value>
+  </data>
+  <data name="Lists_Privacy_Friends" xml:space="preserve">
+    <value>Solo amici</value>
+  </data>
+  <data name="Lists_Privacy_Link" xml:space="preserve">
+    <value>Condiviso tramite link</value>
+  </data>
+  <data name="Lists_Privacy_Public" xml:space="preserve">
+    <value>Pubblico</value>
+  </data>
+  <data name="Lists_Likes_ContentDescription" xml:space="preserve">
+    <value>Mi piace</value>
+  </data>
+  <data name="Lists_Items_ContentDescription" xml:space="preserve">
+    <value>Elementi</value>
+  </data>
+  <data name="Lists_ChangePrivacy_Title" xml:space="preserve">
+    <value>Modifica privacy</value>
+  </data>
+  <data name="Lists_Unlike" xml:space="preserve">
+    <value>Non mi piace più</value>
   </data>
 </root>
