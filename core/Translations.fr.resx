@@ -368,6 +368,9 @@ Cliquez-ici pour faire une donation !</value>
       xml:space="preserve">
       <value>TROUVÉ SUR</value>
   </data>
+  <data name="Search_People_BirthdayThisMonth" xml:space="preserve">
+    <value>ANNIVERSAIRES CE MOIS-CI</value>
+  </data>
   <data
       name     ="Donation_Button_RemoveAds_Text"
       xml:space="preserve">
@@ -4485,5 +4488,17 @@ Rappel : votre code est {0}.</value>
   </data>
   <data name="Lists_Unlike" xml:space="preserve">
     <value>Ne plus aimer</value>
+  </data>
+  <data name="Search_Tab_Lists" xml:space="preserve">
+    <value>Listes</value>
+  </data>
+  <data name="Search_Tab_People" xml:space="preserve">
+    <value>Personnes</value>
+  </data>
+  <data name="Search_List_LikedConfirmationFormat" xml:space="preserve">
+    <value>« {0} » ajoutée à vos listes likées</value>
+  </data>
+  <data name="Search_List_UnlikedConfirmationFormat" xml:space="preserve">
+    <value>« {0} » retirée de vos listes aimées</value>
   </data>
 </root>

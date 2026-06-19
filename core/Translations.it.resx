@@ -240,6 +240,9 @@ Clicca qui e fai una donazione!</value>
     <data name="Search_GroupHeader_FoundOnTrakt" xml:space="preserve">
         <value>TROVATO SU</value>
     </data>
+    <data name="Search_People_BirthdayThisMonth" xml:space="preserve">
+      <value>COMPLEANNI QUESTO MESE</value>
+    </data>
     <data name="Donation_Button_RemoveAds_Text" xml:space="preserve">
     <value>RIMUOVI LA PUBBLICITÀ!</value>
   </data>
@@ -3253,5 +3256,17 @@ t  <data name="Settings_Modern_Badge_Premium" xml:space="preserve">
   </data>
   <data name="Lists_Unlike" xml:space="preserve">
     <value>Non mi piace più</value>
+  </data>
+  <data name="Search_Tab_Lists" xml:space="preserve">
+    <value>Liste</value>
+  </data>
+  <data name="Search_Tab_People" xml:space="preserve">
+    <value>Persone</value>
+  </data>
+  <data name="Search_List_LikedConfirmationFormat" xml:space="preserve">
+    <value>"{0}" aggiunta alle tue liste preferite</value>
+  </data>
+  <data name="Search_List_UnlikedConfirmationFormat" xml:space="preserve">
+    <value>"{0}" rimossa dalle tue liste preferite</value>
   </data>
 </root>

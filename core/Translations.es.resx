@@ -215,6 +215,9 @@ Estás usando la versión {0}</value>
     <data name="Search_GroupHeader_FoundOnTrakt" xml:space="preserve">
         <value>ENCONTRADO EN</value>
     </data>
+    <data name="Search_People_BirthdayThisMonth" xml:space="preserve">
+      <value>CUMPLEAÑOS ESTE MES</value>
+    </data>
     <data name="Search_Tutorial_Text" xml:space="preserve">
     <value>Por favor, escribe el nombre completo, los títulos incompletos no mostrarán resultados de trakt.tv</value>
   </data>
@@ -3143,5 +3146,17 @@ Recordatorio: tu código es {0}.</value>
   </data>
   <data name="Lists_Unlike" xml:space="preserve">
     <value>Ya no me gusta</value>
+  </data>
+  <data name="Search_Tab_Lists" xml:space="preserve">
+    <value>Listas</value>
+  </data>
+  <data name="Search_Tab_People" xml:space="preserve">
+    <value>Personas</value>
+  </data>
+  <data name="Search_List_LikedConfirmationFormat" xml:space="preserve">
+    <value>"{0}" añadida a tus listas favoritas</value>
+  </data>
+  <data name="Search_List_UnlikedConfirmationFormat" xml:space="preserve">
+    <value>"{0}" eliminada de tus listas favoritas</value>
   </data>
 </root>

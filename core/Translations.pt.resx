@@ -400,6 +400,9 @@ Você está usando a versão {0}</value>
         <value>ENCONTRADO NA
 </value>
     </data>
+  <data name="Search_People_BirthdayThisMonth" xml:space="preserve">
+    <value>ANIVERSÁRIOS ESTE MÊS</value>
+  </data>
   <data
       name="Donation_Button_RemoveAds_Text"
       xml:space="preserve">
@@ -4521,5 +4524,17 @@ Lembrete: o seu código é {0}.</value>
   </data>
   <data name="Lists_Unlike" xml:space="preserve">
     <value>Remover gosto</value>
+  </data>
+  <data name="Search_Tab_Lists" xml:space="preserve">
+    <value>Listas</value>
+  </data>
+  <data name="Search_Tab_People" xml:space="preserve">
+    <value>Pessoas</value>
+  </data>
+  <data name="Search_List_LikedConfirmationFormat" xml:space="preserve">
+    <value>"{0}" adicionada às suas listas curtidas</value>
+  </data>
+  <data name="Search_List_UnlikedConfirmationFormat" xml:space="preserve">
+    <value>"{0}" removida das suas listas curtidas</value>
   </data>
 </root>

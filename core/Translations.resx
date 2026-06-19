@@ -210,6 +210,9 @@ Click here and make donation!</value>
   <data name="Search_GroupHeader_FoundOnTrakt" xml:space="preserve">
       <value>FOUND ON</value>
   </data>
+  <data name="Search_People_BirthdayThisMonth" xml:space="preserve">
+    <value>BIRTHDAYS THIS MONTH</value>
+  </data>
   <data name="Search_Tutorial_Text" xml:space="preserve">
     <value>Please type "full names", half-typed title won't be found by trakt.tv</value>
   </data>
@@ -3239,5 +3242,17 @@ Do you confirm?</value>
   </data>
   <data name="Lists_Unlike" xml:space="preserve">
     <value>Unlike</value>
+  </data>
+  <data name="Search_Tab_Lists" xml:space="preserve">
+    <value>Lists</value>
+  </data>
+  <data name="Search_Tab_People" xml:space="preserve">
+    <value>People</value>
+  </data>
+  <data name="Search_List_LikedConfirmationFormat" xml:space="preserve">
+    <value>"{0}" added to your liked lists</value>
+  </data>
+  <data name="Search_List_UnlikedConfirmationFormat" xml:space="preserve">
+    <value>"{0}" removed from your liked lists</value>
   </data>
 </root>
