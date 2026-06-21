@@ -3255,4 +3255,10 @@ Do you confirm?</value>
   <data name="Search_List_UnlikedConfirmationFormat" xml:space="preserve">
     <value>"{0}" removed from your liked lists</value>
   </data>
+  <data name="ListContent_Code_CreatedDateChip" xml:space="preserve">
+    <value>Created {0}</value>
+  </data>
+  <data name="ListContent_Code_UpdatedDateChip" xml:space="preserve">
+    <value>Updated {0}</value>
+  </data>
 </root>

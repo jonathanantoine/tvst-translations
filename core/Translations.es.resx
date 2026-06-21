@@ -3159,4 +3159,10 @@ Recordatorio: tu código es {0}.</value>
   <data name="Search_List_UnlikedConfirmationFormat" xml:space="preserve">
     <value>"{0}" eliminada de tus listas favoritas</value>
   </data>
+  <data name="ListContent_Code_CreatedDateChip" xml:space="preserve">
+    <value>Creado el {0}</value>
+  </data>
+  <data name="ListContent_Code_UpdatedDateChip" xml:space="preserve">
+    <value>Actualizado el {0}</value>
+  </data>
 </root>

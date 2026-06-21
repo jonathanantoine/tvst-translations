@@ -3218,4 +3218,10 @@ Lembrete: o seu código é {0}.</value>
   <data name="Search_List_UnlikedConfirmationFormat" xml:space="preserve">
     <value>"{0}" removida das suas listas curtidas</value>
   </data>
+  <data name="ListContent_Code_CreatedDateChip" xml:space="preserve">
+    <value>Criado em {0}</value>
+  </data>
+  <data name="ListContent_Code_UpdatedDateChip" xml:space="preserve">
+    <value>Atualizado em {0}</value>
+  </data>
 </root>

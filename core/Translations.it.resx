@@ -3269,4 +3269,10 @@ t  <data name="Settings_Modern_Badge_Premium" xml:space="preserve">
   <data name="Search_List_UnlikedConfirmationFormat" xml:space="preserve">
     <value>"{0}" rimossa dalle tue liste preferite</value>
   </data>
+  <data name="ListContent_Code_CreatedDateChip" xml:space="preserve">
+    <value>Creato il {0}</value>
+  </data>
+  <data name="ListContent_Code_UpdatedDateChip" xml:space="preserve">
+    <value>Aggiornato il {0}</value>
+  </data>
 </root>
