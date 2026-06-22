@@ -4507,4 +4507,7 @@ Rappel : votre code est {0}.</value>
   <data name="ListContent_Code_UpdatedDateChip" xml:space="preserve">
     <value>Modifié le {0}</value>
   </data>
+  <data name="ListContent_WatchBadge_AlreadyTracked" xml:space="preserve">
+    <value>Déjà suivi</value>
+  </data>
 </root>

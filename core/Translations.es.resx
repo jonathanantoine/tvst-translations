@@ -3165,4 +3165,7 @@ Recordatorio: tu código es {0}.</value>
   <data name="ListContent_Code_UpdatedDateChip" xml:space="preserve">
     <value>Actualizado el {0}</value>
   </data>
+  <data name="ListContent_WatchBadge_AlreadyTracked" xml:space="preserve">
+    <value>Seguido</value>
+  </data>
 </root>

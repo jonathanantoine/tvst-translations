@@ -3275,4 +3275,7 @@ t  <data name="Settings_Modern_Badge_Premium" xml:space="preserve">
   <data name="ListContent_Code_UpdatedDateChip" xml:space="preserve">
     <value>Aggiornato il {0}</value>
   </data>
+  <data name="ListContent_WatchBadge_AlreadyTracked" xml:space="preserve">
+    <value>Seguito</value>
+  </data>
 </root>

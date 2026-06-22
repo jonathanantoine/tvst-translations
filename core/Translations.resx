@@ -3261,4 +3261,7 @@ Do you confirm?</value>
   <data name="ListContent_Code_UpdatedDateChip" xml:space="preserve">
     <value>Updated {0}</value>
   </data>
+  <data name="ListContent_WatchBadge_AlreadyTracked" xml:space="preserve">
+    <value>Tracked</value>
+  </data>
 </root>
