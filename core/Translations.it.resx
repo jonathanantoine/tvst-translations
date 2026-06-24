@@ -1556,6 +1556,9 @@ merita di essere divertente!</value>
     <data name="Global_Delete_Text" xml:space="preserve">
     <value>Cancella</value>
   </data>
+    <data name="UserList_RemoveItemFromList" xml:space="preserve">
+    <value>Rimuovi questo elemento dalla lista</value>
+  </data>
     <data name="Show_List_Edit_Text" xml:space="preserve">
     <value>Modifica</value>
   </data>

@@ -1164,6 +1164,9 @@ Rules: English only, 5+ words, no support requests, mark spoilers!</value>
   <data name="Global_Delete_Text" xml:space="preserve">
     <value>Delete</value>
   </data>
+  <data name="UserList_RemoveItemFromList" xml:space="preserve">
+    <value>Remove this item from the list</value>
+  </data>
   <data name="Show_List_Edit_Text" xml:space="preserve">
     <value>Edit</value>
   </data>

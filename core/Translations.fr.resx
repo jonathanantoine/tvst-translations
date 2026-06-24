@@ -2490,6 +2490,11 @@ d'être pleine de surprises !</value>
     <value>Supprimer</value>
   </data>
   <data
+      name     ="UserList_RemoveItemFromList"
+      xml:space="preserve">
+    <value>Enlever cet élément de la liste</value>
+  </data>
+  <data
       name     ="Show_List_Edit_Text"
       xml:space="preserve">
     <value>Modifier</value>

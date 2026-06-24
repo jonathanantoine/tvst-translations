@@ -1136,6 +1136,9 @@ Normas: Solo en inglés, más de 5 palabras, no hacer peticiones de soporte, avi
     <data name="Global_Delete_Text" xml:space="preserve">
     <value>Eliminar</value>
   </data>
+    <data name="UserList_RemoveItemFromList" xml:space="preserve">
+    <value>Eliminar este elemento de la lista</value>
+  </data>
     <data name="Show_List_Edit_Text" xml:space="preserve">
     <value>Editar</value>
   </data>

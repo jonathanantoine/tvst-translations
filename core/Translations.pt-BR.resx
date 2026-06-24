@@ -1101,6 +1101,9 @@ Regras: Somente em inglês, 5 ou mais palavras, sem solicitações de suporte, m
     <data name="Global_Delete_Text" xml:space="preserve">
     <value>Apague</value>
   </data>
+    <data name="UserList_RemoveItemFromList" xml:space="preserve">
+    <value>Remover este item da lista</value>
+  </data>
     <data name="Show_List_Edit_Text" xml:space="preserve">
     <value>Editar</value>
   </data>
