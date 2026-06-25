@@ -1868,13 +1868,13 @@ This data helps us improve the app and fix issues. No personal information is ev
     <value>Released</value>
   </data>
   <data name="MovieDetails_Menu_AddToTVST" xml:space="preserve">
-    <value>Add</value>
+    <value>Add to TVST</value>
   </data>
     <data name="MovieDetails_Menu_AdddingWhereSubtitleFormat" xml:space="preserve">
     <value>Adding "{0}"</value>
   </data>
   <data name="MovieDetails_Menu_RemoveFromTVST" xml:space="preserve">
-    <value>Remove</value>
+    <value>Remove from TVST</value>
   </data>
   <data name="MovieDetails_Menu_SetAsNotSeen" xml:space="preserve">
     <value>Remove from history</value>

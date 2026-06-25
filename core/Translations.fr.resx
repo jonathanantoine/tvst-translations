@@ -2813,11 +2813,11 @@ d'être pleine de surprises !</value>
   </data><data
  name     ="MovieDetails_Menu_AddToTVST"
  xml:space="preserve">
-    <value>Ajouter ce film</value>
+     <value>Ajouter à TVST</value>
   </data><data
  name     ="MovieDetails_Menu_RemoveFromTVST"
  xml:space="preserve">
-    <value>Supprimer ce film</value>
+     <value>Supprimer ce film de TVST</value>
   </data><data
  name     ="MovieDetails_Menu_SetAsNotSeen"
  xml:space="preserve">
