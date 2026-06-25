@@ -1707,16 +1707,16 @@ merita di essere divertente!</value>
     </data>
 
     <data name="SetAsSeenAtAGivenDate_Button_SetAsSeen" xml:space="preserve">
-    <value>VISTO IN UNA DATA SPECIFICA</value>
+    <value>Visto in una data specifica</value>
   </data>
     <data name="SetAsSeenAtAGivenDate_Button_SetAsSeenShort" xml:space="preserve">
-    <value>VISTO IN UNA DATA SPECIFICA</value>
+    <value>Visto in una data specifica</value>
   </data>
     <data name="SetAsSeenAtAGivenDate_NeverAskAgainForMovies" xml:space="preserve">
     <value>Non chiedere più per i prossimi film: usa la data e l'ora attuali (modificabile in qualsiasi momento nelle impostazioni)</value>
   </data>
   <data name="SetAsSeenAtAGivenDate_Option_ReleaseDate" xml:space="preserve">
-    <value>USA LA DATA DI USCITA: {0}</value>
+    <value>Usa la data di uscita: {0}</value>
   </data>
     <data name="Settings_DisplayLockRotation_Text" xml:space="preserve">
     <value>Blocca la visualizzazione verticale</value>

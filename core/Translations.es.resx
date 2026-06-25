@@ -1721,16 +1721,16 @@ y tendencias mundiales!</value>
       <value>¿Mostrar la sección "Calendario"?</value>
     </data>
     <data name="SetAsSeenAtAGivenDate_Button_SetAsSeen" xml:space="preserve">
-    <value>MARCAR COMO VISTO EN ESTA FECHA</value>
+    <value>Marcar como visto en esta fecha</value>
   </data>
     <data name="SetAsSeenAtAGivenDate_Button_SetAsSeenShort" xml:space="preserve">
-    <value>VISTO EN ESTA FECHA</value>
+    <value>Visto en esta fecha</value>
   </data>
     <data name="SetAsSeenAtAGivenDate_NeverAskAgainForMovies" xml:space="preserve">
     <value>No volver a preguntar para las próximas películas: usar la fecha y hora actuales (se puede cambiar en cualquier momento en ajustes)</value>
   </data>
   <data name="SetAsSeenAtAGivenDate_Option_ReleaseDate" xml:space="preserve">
-    <value>USAR LA FECHA DE ESTRENO: {0}</value>
+    <value>Usar la fecha de estreno: {0}</value>
   </data>
     <data name="Settings_DisplayLockRotation_Text" xml:space="preserve">
     <value>¿Bloquear el dispositivo en modo retrato?</value>

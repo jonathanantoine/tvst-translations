@@ -2696,18 +2696,18 @@ d'être pleine de surprises !</value>
   </data><data
  name     ="SetAsSeenAtAGivenDate_Button_SetAsSeen"
  xml:space="preserve">
-    <value>MARQUER COMME VU À CETTE DATE</value>
+    <value>Marquer comme vu à cette date</value>
   </data>
   ><data
     name     ="SetAsSeenAtAGivenDate_Button_SetAsSeenShort"
     xml:space="preserve">
-    <value>VU À CETTE DATE</value>
+    <value>Vu à cette date</value>
   </data>
   <data name="SetAsSeenAtAGivenDate_NeverAskAgainForMovies" xml:space="preserve">
     <value>Ne plus me le demander pour les prochains films : utiliser la date et l'heure actuelles (modifiable à tout moment dans les paramètres)</value>
   </data>
   <data name="SetAsSeenAtAGivenDate_Option_ReleaseDate" xml:space="preserve">
-    <value>UTILISER LA DATE DE SORTIE : {0}</value>
+    <value>Utiliser la date de sortie : {0}</value>
   </data><data
  name     ="Settings_DisplayLockRotation_Text"
  xml:space="preserve">

@@ -1767,16 +1767,16 @@ Subscription automatically renews until you cancel it in your Google Play Accoun
     <value>Display the "Calendar" section?</value>
   </data>
   <data name="SetAsSeenAtAGivenDate_Button_SetAsSeen" xml:space="preserve">
-    <value>SET AS WATCHED AT THIS DATE</value>
+    <value>Set as watched at this date</value>
   </data>
   <data name="SetAsSeenAtAGivenDate_Button_SetAsSeenShort" xml:space="preserve">
-    <value>WATCHED AT THIS DATE</value>
+    <value>Watched at this date</value>
   </data>
   <data name="SetAsSeenAtAGivenDate_NeverAskAgainForMovies" xml:space="preserve">
     <value>Don't ask again for next movies: use current date and time (can be changed at any time in settings)</value>
   </data>
   <data name="SetAsSeenAtAGivenDate_Option_ReleaseDate" xml:space="preserve">
-    <value>USE THE RELEASE DATE: {0}</value>
+    <value>Use the release date: {0}</value>
   </data>
   <data name="Settings_DisplayLockRotation_Text" xml:space="preserve">
     <value>Lock the display in portrait mode?</value>

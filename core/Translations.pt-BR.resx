@@ -1687,16 +1687,16 @@ Clique aqui e faça uma doação!</value>
   </data>
 
     <data name="SetAsSeenAtAGivenDate_Button_SetAsSeen" xml:space="preserve">
-    <value>ASSISTIDO EM UMA DATA DETERMINADA</value>
+    <value>Assistido em uma data determinada</value>
   </data>
     <data name="SetAsSeenAtAGivenDate_Button_SetAsSeenShort" xml:space="preserve">
-    <value>ASSISTIDO EM UMA DATA DETERMINADA</value>
+    <value>Assistido em uma data determinada</value>
   </data>
     <data name="SetAsSeenAtAGivenDate_NeverAskAgainForMovies" xml:space="preserve">
     <value>Não perguntar mais para os próximos filmes: usar a data e hora atuais (pode ser alterado a qualquer momento nas configurações)</value>
   </data>
   <data name="SetAsSeenAtAGivenDate_Option_ReleaseDate" xml:space="preserve">
-    <value>USAR A DATA DE LANÇAMENTO: {0}</value>
+    <value>Usar a data de lançamento: {0}</value>
   </data>
     <data name="Settings_DisplayLockRotation_Text" xml:space="preserve">
     <value>Bloqueando a exibição no modo retrato?</value>
