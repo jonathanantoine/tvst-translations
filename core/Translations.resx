@@ -1775,6 +1775,9 @@ Subscription automatically renews until you cancel it in your Google Play Accoun
   <data name="SetAsSeenAtAGivenDate_NeverAskAgainForMovies" xml:space="preserve">
     <value>Don't ask again for next movies: use current date and time (can be changed at any time in settings)</value>
   </data>
+  <data name="SetAsSeenAtAGivenDate_Option_ReleaseDate" xml:space="preserve">
+    <value>Release date: {0}</value>
+  </data>
   <data name="Settings_DisplayLockRotation_Text" xml:space="preserve">
     <value>Lock the display in portrait mode?</value>
   </data>

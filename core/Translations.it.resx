@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
     <!--
     Microsoft ResX Schema
@@ -1714,6 +1714,9 @@ merita di essere divertente!</value>
   </data>
     <data name="SetAsSeenAtAGivenDate_NeverAskAgainForMovies" xml:space="preserve">
     <value>Non chiedere più per i prossimi film: usa la data e l'ora attuali (modificabile in qualsiasi momento nelle impostazioni)</value>
+  </data>
+  <data name="SetAsSeenAtAGivenDate_Option_ReleaseDate" xml:space="preserve">
+    <value>Data di uscita: {0}</value>
   </data>
     <data name="Settings_DisplayLockRotation_Text" xml:space="preserve">
     <value>Blocca la visualizzazione verticale</value>

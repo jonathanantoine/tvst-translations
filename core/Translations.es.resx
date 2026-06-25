@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
     <!--
     Microsoft ResX Schema
@@ -1728,6 +1728,9 @@ y tendencias mundiales!</value>
   </data>
     <data name="SetAsSeenAtAGivenDate_NeverAskAgainForMovies" xml:space="preserve">
     <value>No volver a preguntar para las próximas películas: usar la fecha y hora actuales (se puede cambiar en cualquier momento en ajustes)</value>
+  </data>
+  <data name="SetAsSeenAtAGivenDate_Option_ReleaseDate" xml:space="preserve">
+    <value>Fecha de estreno: {0}</value>
   </data>
     <data name="Settings_DisplayLockRotation_Text" xml:space="preserve">
     <value>¿Bloquear el dispositivo en modo retrato?</value>

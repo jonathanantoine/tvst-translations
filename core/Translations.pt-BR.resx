@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
     <!--
     Microsoft ResX Schema
@@ -1694,6 +1694,9 @@ Clique aqui e faça uma doação!</value>
   </data>
     <data name="SetAsSeenAtAGivenDate_NeverAskAgainForMovies" xml:space="preserve">
     <value>Não perguntar mais para os próximos filmes: usar a data e hora atuais (pode ser alterado a qualquer momento nas configurações)</value>
+  </data>
+  <data name="SetAsSeenAtAGivenDate_Option_ReleaseDate" xml:space="preserve">
+    <value>Data de lançamento: {0}</value>
   </data>
     <data name="Settings_DisplayLockRotation_Text" xml:space="preserve">
     <value>Bloqueando a exibição no modo retrato?</value>
