@@ -2707,7 +2707,7 @@ d'être pleine de surprises !</value>
     <value>Ne plus me le demander pour les prochains films : utiliser la date et l'heure actuelles (modifiable à tout moment dans les paramètres)</value>
   </data>
   <data name="SetAsSeenAtAGivenDate_Option_ReleaseDate" xml:space="preserve">
-    <value>Date de sortie : {0}</value>
+    <value>UTILISER LA DATE DE SORTIE : {0}</value>
   </data><data
  name     ="Settings_DisplayLockRotation_Text"
  xml:space="preserve">
