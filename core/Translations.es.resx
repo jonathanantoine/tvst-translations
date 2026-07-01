@@ -581,6 +581,24 @@ conexión a internet.</value>
     <data name="Home_UserStats_Code_NotAllSeenShowCountSuffixLabelSingular" xml:space="preserve">
     <value>serie sin episodios por ver</value>
   </data>
+    <data name="Home_UserStats_Code_VisibleShowCountSuffixLabelPlural" xml:space="preserve">
+    <value>series visibles</value>
+  </data>
+    <data name="Home_UserStats_Code_VisibleShowCountSuffixLabelSingular" xml:space="preserve">
+    <value>serie visible</value>
+  </data>
+    <data name="Home_UserStats_Code_HiddenShowCountSuffixLabelPlural" xml:space="preserve">
+    <value>series ocultas</value>
+  </data>
+    <data name="Home_UserStats_Code_HiddenShowCountSuffixLabelSingular" xml:space="preserve">
+    <value>serie oculta</value>
+  </data>
+    <data name="Home_UserStats_Code_VisibleAndHiddenShowCountPrefix" xml:space="preserve">
+    <value>de las cuales</value>
+  </data>
+    <data name="Home_UserStats_Code_VisibleAndHiddenShowCountJoiner" xml:space="preserve">
+    <value>y</value>
+  </data>
     <data name="Home_UserStats_Code_NoTimeSpent" xml:space="preserve">
     <value>No has pasado tiempo viendo esta serie todavía</value>
   </data>

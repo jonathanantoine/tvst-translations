@@ -595,6 +595,24 @@ internet connection.</value>
   <data name="Home_UserStats_Code_NotAllSeenShowCountSuffixLabelSingular" xml:space="preserve">
     <value>show with episodes left to watch</value>
   </data>
+  <data name="Home_UserStats_Code_VisibleShowCountSuffixLabelPlural" xml:space="preserve">
+    <value>visible shows</value>
+  </data>
+  <data name="Home_UserStats_Code_VisibleShowCountSuffixLabelSingular" xml:space="preserve">
+    <value>visible show</value>
+  </data>
+  <data name="Home_UserStats_Code_HiddenShowCountSuffixLabelPlural" xml:space="preserve">
+    <value>hidden shows</value>
+  </data>
+  <data name="Home_UserStats_Code_HiddenShowCountSuffixLabelSingular" xml:space="preserve">
+    <value>hidden show</value>
+  </data>
+  <data name="Home_UserStats_Code_VisibleAndHiddenShowCountPrefix" xml:space="preserve">
+    <value>including</value>
+  </data>
+  <data name="Home_UserStats_Code_VisibleAndHiddenShowCountJoiner" xml:space="preserve">
+    <value>and</value>
+  </data>
   <data name="Home_UserStats_Code_NoTimeSpent" xml:space="preserve">
     <value>no time spent on this show yet</value>
   </data>

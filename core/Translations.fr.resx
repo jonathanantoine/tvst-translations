@@ -949,6 +949,36 @@ qu'avec une connexion internet.</value>
     <value>série avec des épisodes à voir</value>
   </data>
   <data
+      name     ="Home_UserStats_Code_VisibleShowCountSuffixLabelPlural"
+      xml:space="preserve">
+    <value>séries visibles</value>
+  </data>
+  <data
+      name     ="Home_UserStats_Code_VisibleShowCountSuffixLabelSingular"
+      xml:space="preserve">
+    <value>série visible</value>
+  </data>
+  <data
+      name     ="Home_UserStats_Code_HiddenShowCountSuffixLabelPlural"
+      xml:space="preserve">
+    <value>séries masquées</value>
+  </data>
+  <data
+      name     ="Home_UserStats_Code_HiddenShowCountSuffixLabelSingular"
+      xml:space="preserve">
+    <value>série masquée</value>
+  </data>
+  <data
+      name     ="Home_UserStats_Code_VisibleAndHiddenShowCountPrefix"
+      xml:space="preserve">
+    <value>dont</value>
+  </data>
+  <data
+      name     ="Home_UserStats_Code_VisibleAndHiddenShowCountJoiner"
+      xml:space="preserve">
+    <value>et</value>
+  </data>
+  <data
       name     ="Home_UserStats_Code_NoTimeSpent"
       xml:space="preserve">
     <value>aucun épisode vu pour le moment</value>
