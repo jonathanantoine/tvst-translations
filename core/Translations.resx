@@ -2801,6 +2801,13 @@ I build this app alone in my spare time (what’s left of it with 3 kids ).
 
 If you'd like to support the project, I'd really appreciate it !</value>
 </data>
+      <data name="IncitationToDonate_Content_AdsAlreadyRemoved_Text" xml:space="preserve">
+  <value>Thank you so much for already supporting the app and removing ads 💖!
+
+I build this app alone in my spare time (what’s left of it with 3 kids 😉), and your support really helps keep it going.
+
+If you'd like to give an extra boost, the donation link is right here and always available from the “{0}” page. Thank you!</value>
+</data>
   <data name="IncitationToDonate_Ok_Text" xml:space="preserve">
   <value>Thanks </value>
 </data>

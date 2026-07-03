@@ -3979,6 +3979,13 @@ Je développe cette app seul sur mon temps libre (ce qu’il en reste avec 3 enf
 
 Si vous voulez soutenir le projet, ce serait super apprécié 💖!</value>
 </data>
+  <data name="IncitationToDonate_Content_AdsAlreadyRemoved_Text" xml:space="preserve">
+  <value>Merci beaucoup d’avoir déjà soutenu l’app et retiré les pubs 💖 !
+
+Je développe cette app seul sur mon temps libre (ce qu’il en reste avec 3 enfants 😉), et votre soutien aide vraiment à la faire vivre.
+
+Si vous souhaitez donner un coup de pouce supplémentaire, le lien de donation est ici et reste toujours disponible depuis la page « {0} ». Merci !</value>
+</data>
   <data name="IncitationToDonate_Ok_Text" xml:space="preserve">
   <value>Merci 🙏</value>
 </data>

@@ -4013,6 +4013,13 @@ Desenvolvo este app sozinho no meu tempo livre (o pouco que sobra com 3 filhos �
 
 Se quiser apoiar o projeto, seria muito bem-vindo 💖!</value>
 </data>
+  <data name="IncitationToDonate_Content_AdsAlreadyRemoved_Text" xml:space="preserve">
+  <value>Muito obrigado por já apoiar o app e remover os anúncios 💖!
+
+Desenvolvo este app sozinho no meu tempo livre (o pouco que sobra com 3 filhos 😉), e o seu apoio ajuda muito a mantê-lo vivo.
+
+Se quiser dar um apoio extra, o link de doação está aqui e fica sempre disponível na página «{0}». Obrigado!</value>
+</data>
   <data name="IncitationToDonate_Ok_Text" xml:space="preserve">
   <value>Obrigado 🙏</value>
 </data>
