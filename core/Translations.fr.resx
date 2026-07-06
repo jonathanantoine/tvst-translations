@@ -871,6 +871,11 @@ qu'avec une connexion internet.</value>
     <value>Ceux de vos amis</value>
   </data>
   <data
+      name     ="Home_UserHistory_DemoMode_Empty_Text"
+      xml:space="preserve">
+    <value>Retrouvez ici votre historique de visionnage une fois sorti du mode démo.</value>
+  </data>
+  <data
       name     ="Home_UserHistory_Filter_OnlyYours"
       xml:space="preserve">
     <value>Seulement les vôtres</value>

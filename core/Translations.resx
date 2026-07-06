@@ -545,6 +545,9 @@ internet connection.</value>
   <data name="Home_FriendsHistory_SegmentHeader" xml:space="preserve">
     <value>Those of your friends</value>
   </data>
+  <data name="Home_UserHistory_DemoMode_Empty_Text" xml:space="preserve">
+    <value>Your watch history will appear here once you exit demo mode.</value>
+  </data>
   <data name="Home_UserMenu_About_Content" xml:space="preserve">
     <value>About the app</value>
   </data>

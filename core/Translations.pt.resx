@@ -844,6 +844,11 @@ uma conexão com a internet.</value>
     <value>De amigos</value>
   </data>
   <data
+      name="Home_UserHistory_DemoMode_Empty_Text"
+      xml:space="preserve">
+    <value>O seu histórico de visualização aparecerá aqui assim que sair do modo de demonstração.</value>
+  </data>
+  <data
       name="Home_UserHistory_Filter_OnlyYours"
       xml:space="preserve">
     <value>Só o seu</value>
