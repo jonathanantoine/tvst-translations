@@ -1677,6 +1677,9 @@ de  <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
   <data name="Global_ExitDemo" xml:space="preserve">
     <value>Exit DEMO mode</value>
   </data>
+  <data name="Global_ExitDemo_Content" xml:space="preserve">
+    <value>Are you sure you want to leave demo mode? Your demo progress will be lost.</value>
+  </data>
   <data name="Settings_Data_TrackingTargetLabel" xml:space="preserve">
     <value>WHERE TO ADD YOUR TV SHOWS?</value>
   </data>

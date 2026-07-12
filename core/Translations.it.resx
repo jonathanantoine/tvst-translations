@@ -3312,4 +3312,7 @@ t  <data name="Settings_Modern_Badge_Premium" xml:space="preserve">
   <data name="ListContent_WatchBadge_AlreadyTracked" xml:space="preserve">
     <value>Seguito</value>
   </data>
+  <data name="Global_ExitDemo_Content" xml:space="preserve">
+    <value>Sei sicuro di voler uscire dalla modalità demo? I tuoi progressi nella demo andranno persi.</value>
+  </data>
 </root>

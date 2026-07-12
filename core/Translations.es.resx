@@ -3202,4 +3202,7 @@ Recordatorio: tu código es {0}.</value>
   <data name="ListContent_WatchBadge_AlreadyTracked" xml:space="preserve">
     <value>Seguido</value>
   </data>
+  <data name="Global_ExitDemo_Content" xml:space="preserve">
+    <value>¿Está seguro de que desea salir del modo demo? Su progreso en la demo se perderá.</value>
+  </data>
 </root>

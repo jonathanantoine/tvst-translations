@@ -4560,4 +4560,7 @@ Rappel : votre code est {0}.</value>
   <data name="ListContent_WatchBadge_AlreadyTracked" xml:space="preserve">
     <value>Déjà suivi</value>
   </data>
+  <data name="Global_ExitDemo_Content" xml:space="preserve">
+    <value>Êtes-vous sûr de vouloir quitter le mode démo ? Votre progression en démo sera perdue.</value>
+  </data>
 </root>
