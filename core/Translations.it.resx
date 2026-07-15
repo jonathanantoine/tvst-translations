@@ -3315,4 +3315,7 @@ t  <data name="Settings_Modern_Badge_Premium" xml:space="preserve">
   <data name="Global_ExitDemo_Content" xml:space="preserve">
     <value>Sei sicuro di voler uscire dalla modalità demo? I tuoi progressi nella demo andranno persi.</value>
   </data>
+  <data name="Startup_Menu_SendDebugInfo_Text" xml:space="preserve">
+    <value>Invia informazioni di debug complete</value>
+  </data>
 </root>

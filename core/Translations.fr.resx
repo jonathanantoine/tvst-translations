@@ -4563,4 +4563,7 @@ Rappel : votre code est {0}.</value>
   <data name="Global_ExitDemo_Content" xml:space="preserve">
     <value>Êtes-vous sûr de vouloir quitter le mode démo ? Votre progression en démo sera perdue.</value>
   </data>
+  <data name="Startup_Menu_SendDebugInfo_Text" xml:space="preserve">
+    <value>Envoyer les informations de débogage complètes</value>
+  </data>
 </root>

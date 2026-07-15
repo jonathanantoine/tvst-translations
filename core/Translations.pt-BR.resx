@@ -3264,4 +3264,7 @@ Lembrete: o seu código é {0}.</value>
   <data name="Global_ExitDemo_Content" xml:space="preserve">
     <value>Tem certeza de que deseja sair do modo demonstração? Seu progresso na demonstração será perdido.</value>
   </data>
+  <data name="Startup_Menu_SendDebugInfo_Text" xml:space="preserve">
+    <value>Enviar informações de depuração completas</value>
+  </data>
 </root>

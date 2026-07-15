@@ -3301,4 +3301,7 @@ Do you confirm?</value>
   <data name="ListContent_WatchBadge_AlreadyTracked" xml:space="preserve">
     <value>Tracked</value>
   </data>
+  <data name="Startup_Menu_SendDebugInfo_Text" xml:space="preserve">
+    <value>Send complete debug info</value>
+  </data>
 </root>

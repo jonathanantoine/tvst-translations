@@ -4599,4 +4599,7 @@ Lembrete: o seu código é {0}.</value>
   <data name="Global_ExitDemo_Content" xml:space="preserve">
     <value>Tem a certeza de que pretende sair do modo de demonstração? O seu progresso na demonstração será perdido.</value>
   </data>
+  <data name="Startup_Menu_SendDebugInfo_Text" xml:space="preserve">
+    <value>Enviar informações de depuração completas</value>
+  </data>
 </root>
