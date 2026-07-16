@@ -1763,6 +1763,9 @@ Subscription automatically renews until you cancel it in your Google Play Accoun
   <data name="Settings_SortCommentHeader" xml:space="preserve">
     <value>SORT COMMENTS BY</value>
   </data>
+  <data name="Settings_SortCommentsAndEpisodesHeader" xml:space="preserve">
+    <value>COMMENTS AND EPISODES SORTING</value>
+  </data>
   <data name="Settings_SortCommentPAGEHeader" xml:space="preserve">
     <value>COMMENTS SORTING</value>
   </data>

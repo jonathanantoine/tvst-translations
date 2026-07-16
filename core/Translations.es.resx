@@ -1713,6 +1713,9 @@ y tendencias mundiales!</value>
   </data>
     <data name="Settings_SortCommentHeader" xml:space="preserve">
     <value>ORDENAR EPISODIOS POR</value>
+    </data>
+    <data name="Settings_SortCommentsAndEpisodesHeader" xml:space="preserve">
+    <value>ORDENACIÓN DE COMENTARIOS Y EPISODIOS</value>
   </data>
     <data name="Settings_SortCommentPAGEHeader" xml:space="preserve">
     <value>ORDEN DE LOS COMENTARIOS</value>

@@ -2689,6 +2689,10 @@ d'être pleine de surprises !</value>
  xml:space="preserve">
     <value>TRI DES COMMENTAIRES</value>
   </data><data
+ name     ="Settings_SortCommentsAndEpisodesHeader"
+ xml:space="preserve">
+    <value>TRI DES COMMENTAIRES ET DES ÉPISODES</value>
+  </data><data
  name     ="Settings_SortCommentPAGEHeader"
  xml:space="preserve">
     <value>TRI DES COMMENTAIRES</value>

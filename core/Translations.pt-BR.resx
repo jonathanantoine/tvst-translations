@@ -1643,6 +1643,9 @@ merece ser divertida!</value>
     <data name="Settings_SortCommentHeader" xml:space="preserve">
     <value>CLASSIFICAÇÃO DE COMENTÁRIOS</value>
   </data>
+    <data name="Settings_SortCommentsAndEpisodesHeader" xml:space="preserve">
+    <value>ORDENAÇÃO DE COMENTÁRIOS E EPISÓDIOS</value>
+  </data>
     <data name="ShowDetails_ShowInfo_TmdbRatingHeader" xml:space="preserve">
     <value>Classificação TMDB</value>
   </data>
