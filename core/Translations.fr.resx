@@ -2685,6 +2685,14 @@ d'être pleine de surprises !</value>
  xml:space="preserve">
     <value>TRI DES ÉPISODES</value>
   </data><data
+ name     ="Settings_SortEpisodesSectionHeader"
+ xml:space="preserve">
+    <value>TRI DE L'ONGLET ÉPISODES</value>
+  </data><data
+ name     ="Settings_SortEpisodesSectionSubtitle"
+ xml:space="preserve">
+    <value>Détermine l'ordre des épisodes et des saisons dans l'onglet Épisodes de la page d'une série.</value>
+  </data><data
  name     ="Settings_SortCommentHeader"
  xml:space="preserve">
     <value>TRI DES COMMENTAIRES</value>

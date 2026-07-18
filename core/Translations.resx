@@ -1760,6 +1760,12 @@ Subscription automatically renews until you cancel it in your Google Play Accoun
   <data name="Settings_SortEpisodesHeader" xml:space="preserve">
     <value>EPISODES SORTING</value>
   </data>
+  <data name="Settings_SortEpisodesSectionHeader" xml:space="preserve">
+    <value>EPISODE TAB SORTING</value>
+  </data>
+  <data name="Settings_SortEpisodesSectionSubtitle" xml:space="preserve">
+    <value>Controls how episodes and seasons are ordered in the Episodes tab of a show's details page.</value>
+  </data>
   <data name="Settings_SortCommentHeader" xml:space="preserve">
     <value>SORT COMMENTS BY</value>
   </data>

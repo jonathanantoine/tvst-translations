@@ -1720,6 +1720,12 @@ merita di essere divertente!</value>
     <data name="Settings_SortEpisodesHeader" xml:space="preserve">
     <value>CLASSIFICAZIONE degli Episodi</value>
   </data>
+    <data name="Settings_SortEpisodesSectionHeader" xml:space="preserve">
+    <value>ORDINAMENTO SCHEDA EPISODI</value>
+  </data>
+    <data name="Settings_SortEpisodesSectionSubtitle" xml:space="preserve">
+    <value>Determina l'ordine di episodi e stagioni nella scheda Episodi della pagina dei dettagli di una serie.</value>
+  </data>
     <data name="Settings_Display_HideSeenEpFromPastEpisodesTab_Text" xml:space="preserve">
         <value>Nascondi gli episodi e film visti dalla pagina del calendario.</value>
     </data>

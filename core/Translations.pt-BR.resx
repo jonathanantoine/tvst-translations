@@ -1673,6 +1673,12 @@ merece ser divertida!</value>
     <data name="Settings_SortEpisodesHeader" xml:space="preserve">
     <value>CLASSIFICAÇÃO DE EPISÓDIOS</value>
   </data>
+    <data name="Settings_SortEpisodesSectionHeader" xml:space="preserve">
+    <value>ORDENAÇÃO DA ABA EPISÓDIOS</value>
+  </data>
+    <data name="Settings_SortEpisodesSectionSubtitle" xml:space="preserve">
+    <value>Determina a ordem dos episódios e das temporadas na aba Episódios da página de detalhes de uma série.</value>
+  </data>
     <data name="Settings_Display_HideSeenEpFromPastEpisodesTab_Text" xml:space="preserve">
         <value>Ocultar episódios e filmes vistos da página do calendário.</value>
     </data>
