@@ -2790,6 +2790,9 @@ Se quiser dar uma força extra, o link de doação está aqui e fica sempre disp
     <data name="Episode_SetAsUnseen_MultiplePlays_QuestionTitle" xml:space="preserve">
         <value>Você assistiu a este episódio várias vezes!</value>
     </data>
+    <data name="Movie_SetAsUnseen_MultiplePlays_QuestionTitle" xml:space="preserve">
+        <value>Você assistiu a este filme várias vezes!</value>
+    </data>
     <data name="MovieDetails_Menu_AdddingWhereSubtitleFormat" xml:space="preserve"> 
   <value>Adicionando "{0}"</value>
 </data>

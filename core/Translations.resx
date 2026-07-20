@@ -2902,6 +2902,9 @@ If you'd like to give an extra boost, the donation link is right here and always
   <data name="Episode_SetAsUnseen_MultiplePlays_QuestionTitle" xml:space="preserve">
     <value>You’ve watched this episode multiple times!</value>
   </data>
+  <data name="Movie_SetAsUnseen_MultiplePlays_QuestionTitle" xml:space="preserve">
+    <value>You’ve watched this movie multiple times!</value>
+  </data>
   <data name="Episode_SetAsUnseen_MultiplePlays_QuestionContent" xml:space="preserve">
     <value>Which viewing(s) would you like to remove from your history?</value>
   </data>

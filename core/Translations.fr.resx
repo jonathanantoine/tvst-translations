@@ -4085,6 +4085,9 @@ Si vous souhaitez donner un coup de pouce supplémentaire, le lien de donation e
   <data name="Episode_SetAsUnseen_MultiplePlays_QuestionTitle" xml:space="preserve">
     <value>Vous avez vu cet épisode plusieurs fois!</value>
   </data>
+  <data name="Movie_SetAsUnseen_MultiplePlays_QuestionTitle" xml:space="preserve">
+    <value>Vous avez vu ce film plusieurs fois!</value>
+  </data>
   <data name="Episode_SetAsUnseen_MultiplePlays_QuestionContent" xml:space="preserve">
     <value>Quel(s) visionnage(s) voulez-vous supprimer de votre historique ?</value>
   </data>
