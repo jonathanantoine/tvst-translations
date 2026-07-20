@@ -221,6 +221,9 @@ Estás usando la versión {0}</value>
     <data name="Search_Tutorial_Text" xml:space="preserve">
     <value>Por favor, escribe el nombre completo, los títulos incompletos no mostrarán resultados de trakt.tv</value>
   </data>
+    <data name="Search_NoMoreResults_RefineOrSwitchEngine" xml:space="preserve">
+    <value>No hay más resultados. Intenta afinar tu búsqueda, o cambia a TMDB como motor de búsqueda desde el menú en la esquina superior derecha.</value>
+  </data>
     <data name="Search_CannotLoadFromTrakt" xml:space="preserve">
     <value>No se puede hacer la búsqueda en trakt.tv, por favor comprueba tu conexión a internet e inténtalo de nuevo.</value>
   </data>

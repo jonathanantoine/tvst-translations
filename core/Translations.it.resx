@@ -225,6 +225,9 @@ Clicca qui e fai una donazione!</value>
     <data name="Search_Tutorial_Text" xml:space="preserve">
     <value>Inserisci "nomi completi", il titolo della Serie TV con poche lettere non sarà trovato da Trakt.tv</value>
   </data>
+    <data name="Search_NoMoreResults_RefineOrSwitchEngine" xml:space="preserve">
+    <value>Nessun altro risultato. Prova ad affinare la ricerca, oppure passa a TMDB come motore di ricerca dal menu in alto a destra.</value>
+  </data>
     <data name="ToastNotifications_Code_SeasonReleaseDateAnnouncedFormat" xml:space="preserve">
     <value>Data di uscita della stagione {0} annunciata</value>
   </data>
