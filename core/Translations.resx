@@ -214,10 +214,10 @@ Click here and make donation!</value>
     <value>BIRTHDAYS THIS MONTH</value>
   </data>
   <data name="Search_Tutorial_Text" xml:space="preserve">
-    <value>Please type "full names", half-typed title won't be found by trakt.tv</value>
+    <value>Please type "full names", half-typed titles might not be found</value>
   </data>
   <data name="Search_NoMoreResults_RefineOrSwitchEngine" xml:space="preserve">
-    <value>No more results. Try refining your search, or switch to TMDB as the search engine from the menu in the top right corner.</value>
+    <value>No more results. Try refining your search, or switch the search engine from the menu in the top right corner.</value>
   </data>
   <data name="Search_CannotLoadFromTrakt" xml:space="preserve">
     <value>Cannot perform a search on trakt.tv, please check your internet connection and retry.</value>

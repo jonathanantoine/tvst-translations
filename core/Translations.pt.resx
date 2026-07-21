@@ -387,12 +387,12 @@ Você está usando a versão {0}</value>
   <data
       name="Search_Tutorial_Text"
       xml:space="preserve">
-    <value>Por favor, digite "nomes completos", o título do show com poucas letras não será encontrado pelo Trakt.tv</value>
+    <value>Por favor, digite "nomes completos", títulos parciais podem não ser encontrados</value>
   </data>
   <data
       name="Search_NoMoreResults_RefineOrSwitchEngine"
       xml:space="preserve">
-    <value>Não há mais resultados. Tente refinar a sua pesquisa, ou mude para o TMDB como motor de pesquisa no menu no canto superior direito.</value>
+    <value>Não há mais resultados. Tente refinar a sua pesquisa, ou mude o motor de pesquisa no menu no canto superior direito.</value>
   </data>
   <data
       name="Search_GroupHeader_AlreayInYourCollection"

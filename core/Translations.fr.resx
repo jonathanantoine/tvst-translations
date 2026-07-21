@@ -341,12 +341,12 @@ Cliquez-ici pour faire une donation !</value>
   <data
       name     ="Search_Tutorial_Text"
       xml:space="preserve">
-    <value>Merci de taper le titre complet, les recherches partielles sont mal reconnues par Trakt.tv</value>
+    <value>Merci de taper le titre complet, les recherches partielles sont mal reconnues</value>
   </data>
   <data
       name     ="Search_NoMoreResults_RefineOrSwitchEngine"
       xml:space="preserve">
-    <value>Plus aucun résultat. Essayez d'affiner votre recherche, ou passez sur TMDB comme moteur de recherche depuis le menu en haut à droite.</value>
+    <value>Plus aucun résultat. Essayez d'affiner votre recherche, ou changez de moteur de recherche depuis le menu en haut à droite.</value>
   </data>
   <data
       name     ="ToastNotifications_Code_SeasonReleaseDateAnnouncedFormat"
