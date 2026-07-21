@@ -387,6 +387,11 @@ Cliquez-ici pour faire une donation !</value>
     <value>DIRE MERCI !</value>
   </data>
   <data
+      name     ="Donation_Button_SayBiggerThankYou_Text"
+      xml:space="preserve">
+    <value>DIRE ENCORE PLUS MERCI !</value>
+  </data>
+  <data
       name     ="Global_Filters"
       xml:space="preserve">
     <value>Filtres</value>

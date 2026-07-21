@@ -251,6 +251,9 @@ Estás usando la versión {0}</value>
     <data name="Donation_Button_SayThankYou_Text" xml:space="preserve">
     <value>¡DA LAS GRACIAS!</value>
   </data>
+    <data name="Donation_Button_SayBiggerThankYou_Text" xml:space="preserve">
+    <value>¡DA LAS GRACIAS EL DOBLE!</value>
+  </data>
     <data name="Donation_Button_UICustomize_Text" xml:space="preserve">
     <value>CAMBIA EL COLOR Y LA FUENTE DE LA APP</value>
   </data>

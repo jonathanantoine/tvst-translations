@@ -246,6 +246,9 @@ Click here and make donation!</value>
   <data name="Donation_Button_SayThankYou_Text" xml:space="preserve">
     <value>SAY THANK YOU!</value>
   </data>
+  <data name="Donation_Button_SayBiggerThankYou_Text" xml:space="preserve">
+    <value>GIVE AN EXTRA THANK YOU!</value>
+  </data>
   <data name="Donation_Button_UICustomize_Text" xml:space="preserve">
     <value>CHOOSE APP'S FONT AND COLOR!</value>
   </data>

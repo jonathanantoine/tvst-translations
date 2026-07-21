@@ -252,6 +252,9 @@ Clicca qui e fai una donazione!</value>
     <data name="Donation_Button_SayThankYou_Text" xml:space="preserve">
     <value>RINGRAZIA!</value>
   </data>
+    <data name="Donation_Button_SayBiggerThankYou_Text" xml:space="preserve">
+    <value>RINGRAZIA ANCORA DI PIÙ!</value>
+  </data>
     <data name="Global_Filters" xml:space="preserve">
     <value>Filtri</value>
   </data>

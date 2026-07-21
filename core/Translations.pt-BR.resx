@@ -269,6 +269,9 @@ Você está usando a versão {0}</value>
     <data name="Donation_Button_SayThankYou_Text" xml:space="preserve">
     <value>DIGA OBRIGADO!</value>
   </data>
+    <data name="Donation_Button_SayBiggerThankYou_Text" xml:space="preserve">
+    <value>DIGA MUITO OBRIGADO!</value>
+  </data>
     <data name="Global_Error_NoMoreSpaceOnDeviceException" xml:space="preserve">
     <value>Erro, parece que não há mais espaço no seu dispositivo...</value>
   </data>
