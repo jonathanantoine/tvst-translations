@@ -3226,4 +3226,13 @@ Recordatorio: tu código es {0}.</value>
   <data name="Startup_Menu_SendDebugInfo_Text" xml:space="preserve">
     <value>Enviar información de depuración completa</value>
   </data>
+  <data name="Global_NoBrowserAvailableTitle" xml:space="preserve">
+    <value>No hay ningún navegador disponible</value>
+  </data>
+  <data name="Global_NoBrowserAvailableContent" xml:space="preserve">
+    <value>No hay ningún navegador web disponible o permitido en este dispositivo. Puede copiar el enlace para terminar de iniciar sesión desde otro dispositivo, o permitir un navegador y volver a intentarlo.</value>
+  </data>
+  <data name="Global_LinkCopied" xml:space="preserve">
+    <value>Enlace copiado</value>
+  </data>
 </root>

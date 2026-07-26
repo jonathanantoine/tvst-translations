@@ -4591,4 +4591,13 @@ Rappel : votre code est {0}.</value>
   <data name="Startup_Menu_SendDebugInfo_Text" xml:space="preserve">
     <value>Envoyer les informations de débogage complètes</value>
   </data>
+  <data name="Global_NoBrowserAvailableTitle" xml:space="preserve">
+    <value>Aucun navigateur disponible</value>
+  </data>
+  <data name="Global_NoBrowserAvailableContent" xml:space="preserve">
+    <value>Aucune application de navigation web n’est disponible ou autorisée sur cet appareil. Vous pouvez copier le lien pour terminer la connexion depuis un autre appareil, ou autoriser un navigateur puis réessayer.</value>
+  </data>
+  <data name="Global_LinkCopied" xml:space="preserve">
+    <value>Lien copié</value>
+  </data>
 </root>

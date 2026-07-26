@@ -3336,4 +3336,13 @@ t  <data name="Settings_Modern_Badge_Premium" xml:space="preserve">
   <data name="Startup_Menu_SendDebugInfo_Text" xml:space="preserve">
     <value>Invia informazioni di debug complete</value>
   </data>
+  <data name="Global_NoBrowserAvailableTitle" xml:space="preserve">
+    <value>Nessun browser disponibile</value>
+  </data>
+  <data name="Global_NoBrowserAvailableContent" xml:space="preserve">
+    <value>Nessun browser web è disponibile o consentito su questo dispositivo. Può copiare il link per completare l’accesso da un altro dispositivo, oppure consentire un browser e riprovare.</value>
+  </data>
+  <data name="Global_LinkCopied" xml:space="preserve">
+    <value>Link copiato</value>
+  </data>
 </root>

@@ -3322,4 +3322,13 @@ Do you confirm?</value>
   <data name="Startup_Menu_SendDebugInfo_Text" xml:space="preserve">
     <value>Send complete debug info</value>
   </data>
+  <data name="Global_NoBrowserAvailableTitle" xml:space="preserve">
+    <value>No browser available</value>
+  </data>
+  <data name="Global_NoBrowserAvailableContent" xml:space="preserve">
+    <value>No web browser is available or allowed on this device. You can copy the link to finish signing in from another device, or allow a browser and try again.</value>
+  </data>
+  <data name="Global_LinkCopied" xml:space="preserve">
+    <value>Link copied</value>
+  </data>
 </root>

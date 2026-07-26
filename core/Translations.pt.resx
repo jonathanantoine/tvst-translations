@@ -4630,4 +4630,13 @@ Lembrete: o seu código é {0}.</value>
   <data name="Startup_Menu_SendDebugInfo_Text" xml:space="preserve">
     <value>Enviar informações de depuração completas</value>
   </data>
+  <data name="Global_NoBrowserAvailableTitle" xml:space="preserve">
+    <value>Nenhum navegador disponível</value>
+  </data>
+  <data name="Global_NoBrowserAvailableContent" xml:space="preserve">
+    <value>Não existe nenhum navegador web disponível ou autorizado neste dispositivo. Pode copiar a ligação para terminar a autenticação a partir de outro dispositivo, ou autorizar um navegador e tentar novamente.</value>
+  </data>
+  <data name="Global_LinkCopied" xml:space="preserve">
+    <value>Ligação copiada</value>
+  </data>
 </root>
