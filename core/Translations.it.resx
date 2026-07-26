@@ -3345,4 +3345,16 @@ t  <data name="Settings_Modern_Badge_Premium" xml:space="preserve">
   <data name="Global_LinkCopied" xml:space="preserve">
     <value>Link copiato</value>
   </data>
+  <data name="StatusDisplay_SyncPausedRateLimited" xml:space="preserve">
+    <value>Trakt sta limitando le richieste — ripresa tra {0}</value>
+  </data>
+  <data name="StatusDisplay_SyncingMovieInfosCount" xml:space="preserve">
+    <value>recupero delle informazioni sui film ({0}/{1})...</value>
+  </data>
+  <data name="Movies_PartialSyncPending" xml:space="preserve">
+    <value>{0} film sono ancora in attesa di sincronizzazione. La ripresa è automatica.</value>
+  </data>
+  <data name="Sync_RateLimitStillActiveToast" xml:space="preserve">
+    <value>Trakt sta ancora limitando le richieste. Riprovi tra {0}.</value>
+  </data>
 </root>
