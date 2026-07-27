@@ -3238,9 +3238,6 @@ Recordatorio: tu código es {0}.</value>
   <data name="StatusDisplay_SyncPausedRateLimited" xml:space="preserve">
     <value>Trakt está limitando las solicitudes — se reanudará en {0}</value>
   </data>
-  <data name="StatusDisplay_SyncingMovieInfosCount" xml:space="preserve">
-    <value>obteniendo la información de las películas ({0}/{1})...</value>
-  </data>
   <data name="Movies_PartialSyncPending" xml:space="preserve">
     <value>{0} películas siguen pendientes de sincronización. Se reanudará automáticamente.</value>
   </data>

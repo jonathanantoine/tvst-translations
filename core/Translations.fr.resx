@@ -4603,9 +4603,6 @@ Rappel : votre code est {0}.</value>
   <data name="StatusDisplay_SyncPausedRateLimited" xml:space="preserve">
     <value>Trakt limite les requêtes — reprise dans {0}</value>
   </data>
-  <data name="StatusDisplay_SyncingMovieInfosCount" xml:space="preserve">
-    <value>récupération des informations sur les films ({0}/{1})...</value>
-  </data>
   <data name="Movies_PartialSyncPending" xml:space="preserve">
     <value>{0} films sont encore en attente de synchronisation. La reprise est automatique.</value>
   </data>

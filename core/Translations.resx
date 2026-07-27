@@ -3334,9 +3334,6 @@ Do you confirm?</value>
   <data name="StatusDisplay_SyncPausedRateLimited" xml:space="preserve">
     <value>Trakt is limiting requests — resuming in {0}</value>
   </data>
-  <data name="StatusDisplay_SyncingMovieInfosCount" xml:space="preserve">
-    <value>retrieving movies information ({0}/{1})...</value>
-  </data>
   <data name="Movies_PartialSyncPending" xml:space="preserve">
     <value>{0} movies are still waiting to be synchronised. This will resume automatically.</value>
   </data>

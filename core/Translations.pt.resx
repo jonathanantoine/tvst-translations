@@ -4642,9 +4642,6 @@ Lembrete: o seu código é {0}.</value>
   <data name="StatusDisplay_SyncPausedRateLimited" xml:space="preserve">
     <value>O Trakt está a limitar os pedidos — retoma dentro de {0}</value>
   </data>
-  <data name="StatusDisplay_SyncingMovieInfosCount" xml:space="preserve">
-    <value>a obter informações dos filmes ({0}/{1})...</value>
-  </data>
   <data name="Movies_PartialSyncPending" xml:space="preserve">
     <value>{0} filmes ainda aguardam sincronização. A retoma é automática.</value>
   </data>
