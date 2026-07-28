@@ -4648,4 +4648,16 @@ Lembrete: o seu código é {0}.</value>
   <data name="Sync_RateLimitStillActiveToast" xml:space="preserve">
     <value>O Trakt ainda está a limitar os pedidos. Tente novamente dentro de {0}.</value>
   </data>
+  <data name="Settings_Various_CopyLogsToClipboard" xml:space="preserve">
+    <value>Copiar os registos recentes</value>
+  </data>
+  <data name="Settings_Backup_CopyLogsToClipboard_Subtitle" xml:space="preserve">
+    <value>Copia as últimas {0} linhas de registo para a área de transferência</value>
+  </data>
+  <data name="Settings_Various_LogsCopiedToClipboard" xml:space="preserve">
+    <value>Registos copiados para a área de transferência</value>
+  </data>
+  <data name="Settings_Various_NoLogsToCopy" xml:space="preserve">
+    <value>Nenhum registo para copiar</value>
+  </data>
 </root>

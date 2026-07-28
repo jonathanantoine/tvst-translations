@@ -3340,4 +3340,16 @@ Do you confirm?</value>
   <data name="Sync_RateLimitStillActiveToast" xml:space="preserve">
     <value>Trakt is still limiting requests. Please try again in {0}.</value>
   </data>
+  <data name="Settings_Various_CopyLogsToClipboard" xml:space="preserve">
+    <value>Copy the recent logs</value>
+  </data>
+  <data name="Settings_Backup_CopyLogsToClipboard_Subtitle" xml:space="preserve">
+    <value>Copies the last {0} log lines to the clipboard</value>
+  </data>
+  <data name="Settings_Various_LogsCopiedToClipboard" xml:space="preserve">
+    <value>Logs copied to the clipboard</value>
+  </data>
+  <data name="Settings_Various_NoLogsToCopy" xml:space="preserve">
+    <value>No log to copy</value>
+  </data>
 </root>

@@ -4609,4 +4609,16 @@ Rappel : votre code est {0}.</value>
   <data name="Sync_RateLimitStillActiveToast" xml:space="preserve">
     <value>Trakt limite encore les requêtes. Veuillez réessayer dans {0}.</value>
   </data>
+  <data name="Settings_Various_CopyLogsToClipboard" xml:space="preserve">
+    <value>Copier les logs récents</value>
+  </data>
+  <data name="Settings_Backup_CopyLogsToClipboard_Subtitle" xml:space="preserve">
+    <value>Copie les {0} dernières lignes de log dans le presse-papiers</value>
+  </data>
+  <data name="Settings_Various_LogsCopiedToClipboard" xml:space="preserve">
+    <value>Logs copiés dans le presse-papiers</value>
+  </data>
+  <data name="Settings_Various_NoLogsToCopy" xml:space="preserve">
+    <value>Aucun log à copier</value>
+  </data>
 </root>

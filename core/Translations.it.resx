@@ -3354,4 +3354,16 @@ t  <data name="Settings_Modern_Badge_Premium" xml:space="preserve">
   <data name="Sync_RateLimitStillActiveToast" xml:space="preserve">
     <value>Trakt sta ancora limitando le richieste. Riprovi tra {0}.</value>
   </data>
+  <data name="Settings_Various_CopyLogsToClipboard" xml:space="preserve">
+    <value>Copia i log recenti</value>
+  </data>
+  <data name="Settings_Backup_CopyLogsToClipboard_Subtitle" xml:space="preserve">
+    <value>Copia le ultime {0} righe di log negli appunti</value>
+  </data>
+  <data name="Settings_Various_LogsCopiedToClipboard" xml:space="preserve">
+    <value>Log copiati negli appunti</value>
+  </data>
+  <data name="Settings_Various_NoLogsToCopy" xml:space="preserve">
+    <value>Nessun log da copiare</value>
+  </data>
 </root>

@@ -3303,4 +3303,16 @@ Lembrete: o seu código é {0}.</value>
   <data name="Sync_RateLimitStillActiveToast" xml:space="preserve">
     <value>O Trakt ainda está limitando as requisições. Tente novamente em {0}.</value>
   </data>
+  <data name="Settings_Various_CopyLogsToClipboard" xml:space="preserve">
+    <value>Copiar os registros recentes</value>
+  </data>
+  <data name="Settings_Backup_CopyLogsToClipboard_Subtitle" xml:space="preserve">
+    <value>Copia as últimas {0} linhas de registro para a área de transferência</value>
+  </data>
+  <data name="Settings_Various_LogsCopiedToClipboard" xml:space="preserve">
+    <value>Registros copiados para a área de transferência</value>
+  </data>
+  <data name="Settings_Various_NoLogsToCopy" xml:space="preserve">
+    <value>Nenhum registro para copiar</value>
+  </data>
 </root>
