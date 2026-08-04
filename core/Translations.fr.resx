@@ -4621,4 +4621,10 @@ Rappel : votre code est {0}.</value>
   <data name="Settings_Various_NoLogsToCopy" xml:space="preserve">
     <value>Aucun log à copier</value>
   </data>
+  <data name="Donation_Link_TermsOfUse" xml:space="preserve">
+    <value>Conditions d'utilisation</value>
+  </data>
+  <data name="Donation_Link_PrivacyPolicy" xml:space="preserve">
+    <value>Politique de confidentialité</value>
+  </data>
 </root>

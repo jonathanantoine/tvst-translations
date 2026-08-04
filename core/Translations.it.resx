@@ -3366,4 +3366,10 @@ t  <data name="Settings_Modern_Badge_Premium" xml:space="preserve">
   <data name="Settings_Various_NoLogsToCopy" xml:space="preserve">
     <value>Nessun log da copiare</value>
   </data>
+  <data name="Donation_Link_TermsOfUse" xml:space="preserve">
+    <value>Termini di utilizzo</value>
+  </data>
+  <data name="Donation_Link_PrivacyPolicy" xml:space="preserve">
+    <value>Informativa sulla privacy</value>
+  </data>
 </root>

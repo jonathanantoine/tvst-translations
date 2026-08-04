@@ -3315,4 +3315,10 @@ Lembrete: o seu código é {0}.</value>
   <data name="Settings_Various_NoLogsToCopy" xml:space="preserve">
     <value>Nenhum registro para copiar</value>
   </data>
+  <data name="Donation_Link_TermsOfUse" xml:space="preserve">
+    <value>Termos de uso</value>
+  </data>
+  <data name="Donation_Link_PrivacyPolicy" xml:space="preserve">
+    <value>Política de privacidade</value>
+  </data>
 </root>

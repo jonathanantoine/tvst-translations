@@ -3352,4 +3352,10 @@ Do you confirm?</value>
   <data name="Settings_Various_NoLogsToCopy" xml:space="preserve">
     <value>No log to copy</value>
   </data>
+  <data name="Donation_Link_TermsOfUse" xml:space="preserve">
+    <value>Terms of Use</value>
+  </data>
+  <data name="Donation_Link_PrivacyPolicy" xml:space="preserve">
+    <value>Privacy Policy</value>
+  </data>
 </root>
