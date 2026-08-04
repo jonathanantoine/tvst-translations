@@ -392,6 +392,12 @@ y la felicidad de mis hijos y mi mujer.</value>
     <data name="Home_Code_MyShowToStartGroupHeaderSingular" xml:space="preserve">
     <value>1 SERIE PARA COMENZAR A VER</value>
   </data>
+    <data name="Home_Code_MyShowToStartWithoutNextEpisodeGroupHeaderPlural" xml:space="preserve">
+    <value>{0} SERIES SIN PRÓXIMO EPISODIO</value>
+  </data>
+    <data name="Home_Code_MyShowToStartWithoutNextEpisodeGroupHeaderSingular" xml:space="preserve">
+    <value>1 SERIE SIN PRÓXIMO EPISODIO</value>
+  </data>
     <data name="Home_Code_MyShowWithEpisodeToSeeButEndedGroupHeader_Plural" xml:space="preserve">
         <value>{0} PROGRAMAS FINALIZADOS CON EPISODIOS NO VISTOS</value>
     </data>
@@ -839,6 +845,9 @@ aparece en esta búsqueda
     <value>Traduciendo al inglés…</value>
   </data>
 
+    <data name="Settings_Data_GroupShowsWithoutNextEpisode_Text" xml:space="preserve">
+    <value>Poner las series por empezar sin próximo episodio conocido en un grupo separado en la página de inicio.</value>
+  </data>
     <data name="Settings_Data_MarkBatchAsSeenALongTimeAgo_Text" xml:space="preserve">
     <value>Cuando marque una temporada entera como vista, decirle a Trakt que fue hace mucho tiempo.</value>
   </data>
@@ -2090,6 +2099,9 @@ y tendencias mundiales!</value>
     <data name="Home_Code_Popular_Anticipated" xml:space="preserve">
     <value>PELÍCULAS MÁS ANTICIPADAS</value>
   </data>
+  <data name="Home_Code_Popular_AnticipatedShows" xml:space="preserve">
+    <value>SERIES MÁS ANTICIPADAS</value>
+  </data>
     <data name="Settings_Data_EnableSeasonsGroupCollapsing_Text" xml:space="preserve">
     <value>¿Permitir la expansión y el colapso de las temporadas de un serie?</value>
   </data>
@@ -2294,8 +2306,7 @@ Si aún no puedes acceder a tu cuenta después de iniciar sesión, contáctanos 
         <value>Más de {0}/10</value>
     </data>
     <data name="Home_Popular_TopByGenreSectionHeader" xml:space="preserve">
-        <value>ARRIBA POR TIPO
-</value>
+        <value>ARRIBA POR TIPO</value>
     </data>
     <data name="ShowDetails_ShowInfo_Genre" xml:space="preserve">
         <value>Tipos</value>
@@ -2340,17 +2351,17 @@ Si aún no puedes acceder a tu cuenta después de iniciar sesión, contáctanos 
         <value>Creadores</value>
     </data>
     <data name="Show_RecommendThis" xml:space="preserve">
-        <value>Recomendar esta serie</value>
+        <value>Añadir esta serie a mis favoritos</value>
     </data>
     <data name="Show_UnrecommendThis" xml:space="preserve">
-        <value>Ya no recomiendo esta serie
+        <value>Quitar esta serie de mis favoritos
 </value>
     </data>
     <data name="Movie_RecommendThis" xml:space="preserve">
-        <value>Recomendar esta película</value>
+        <value>Añadir esta película a mis favoritos</value>
     </data>
     <data name="Movie_UnrecommendThis" xml:space="preserve">
-        <value>No recomiendo esta película de nuevo</value>
+        <value>Quitar esta película de mis favoritos</value>
     </data>
     <data name="ToastNotifications_Code_MovieReleased" xml:space="preserve">
         <value>¡Esta película se estrena hoy!</value>
@@ -2378,7 +2389,7 @@ Si aún no puedes acceder a tu cuenta después de iniciar sesión, contáctanos 
         <value>LISTA DE SU SERIE</value>
     </data>
     <data name="Settings_DisplayIsRecommendedOnMainList" xml:space="preserve">
-        <value>¿Mostrar el estado de recomendación personal en listas de programas y películas?</value>
+        <value>¿Mostrar el estado de favorito en las listas de series y películas?</value>
     </data>
     <data name="Settings_MainListItemAppearance_Title" xml:space="preserve">
         <value>Apariencia de los elementos de las listas</value>
@@ -2439,10 +2450,10 @@ Si aún no puedes acceder a tu cuenta después de iniciar sesión, contáctanos 
 {0}</value>
     </data>
     <data name="MyRecommendations_Name" xml:space="preserve">
-        <value>Mis recomendaciones</value>
+        <value>Mis favoritos</value>
     </data>
     <data name="MyRecommendations_Description" xml:space="preserve">
-        <value>Las series y películas que recomiendo ver</value>
+        <value>Las series y películas que he marcado como favoritas.</value>
     </data>
     <data name="InAppPurchasePaymentPending_Message" xml:space="preserve">
         <value>Gracias, tendrá acceso a esta función cuando se complete el pago.</value>
@@ -2451,7 +2462,7 @@ Si aún no puedes acceder a tu cuenta después de iniciar sesión, contáctanos 
         <value>¡Gracias, significa mucho para mí contar con su apoyo!</value>
     </data>
     <data name="MediaItem_DoNotRecommendThisAnymore" xml:space="preserve">
-        <value>Ya no recomiendo este artículo</value>
+        <value>Quitar de mis favoritos</value>
     </data>
     <data name="Settings_DisplayProgressOnMainList" xml:space="preserve">
         <value>¿Muestra su progreso en las listas de series?</value>
@@ -2495,16 +2506,15 @@ Parece que no hay ninguno en este momento.
 ¡Vuelve mas tarde!</value>
     </data>
     <data name="PersonalRecomendation_TooMuchExplanation" xml:space="preserve">
-        <value>Solo puedes añadir 50 recomendaciones personales. ¡Elimine uno antes de agregar este!</value>
+        <value>Solo puedes añadir 50 favoritos. ¡Elimina uno antes de agregar este!</value>
     </data>
     <data name="Home_Menu_ContactMe_Reason_WhatIsThunderbolt" xml:space="preserve">
-        <value>¿Qué hace el botón "relámpago"?</value>
+        <value>¿Qué hace el botón "favorito"?</value>
     </data>
     <data name="Thunderbolt_Explanation" xml:space="preserve">
         <value>Si solo tuviera 50 películas y programas de televisión para llevar a una isla desierta, ¿cuáles serían?
 
-Agrega el programa a la lista de elementos que recomienda personalmente.
-Crea mejores recomendaciones personales para usted.</value>
+Agrega el programa a su lista de favoritos y ayuda a crear mejores recomendaciones personales para usted.</value>
     </data>
     <data name="Thunderbolt_Explanation_DoNotShowAgain" xml:space="preserve">
         <value>No volver a mostrar este mensaje</value>
@@ -2905,6 +2915,9 @@ Si desea dar un impulso adicional, el enlace de donación está aquí y siempre 
     <data name="Settings_SortHeaderWithShowToStartWatching_Text" xml:space="preserve">
         <value>Grupos con series para empezar a ver</value>
     </data>
+    <data name="Settings_SortHeaderWithShowToStartWatchingWithoutNextEpisode_Text" xml:space="preserve">
+    <value>Grupos con series para empezar sin próximo episodio conocido</value>
+  </data>
     <data name="Startup_ConnectionDevicodeCodeModeButton" xml:space="preserve">
         <value>Opción alternativa 1: iniciar sesión con un código</value>
     </data>

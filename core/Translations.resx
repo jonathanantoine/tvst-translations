@@ -387,6 +387,12 @@ coffee and happiness from my kids and wife.</value>
   <data name="Home_Code_MyShowToStartGroupHeaderSingular" xml:space="preserve">
     <value>1 SHOW TO START WATCHING</value>
   </data>
+  <data name="Home_Code_MyShowToStartWithoutNextEpisodeGroupHeaderPlural" xml:space="preserve">
+    <value>{0} SHOWS WITH NO UPCOMING EPISODE</value>
+  </data>
+  <data name="Home_Code_MyShowToStartWithoutNextEpisodeGroupHeaderSingular" xml:space="preserve">
+    <value>1 SHOW WITH NO UPCOMING EPISODE</value>
+  </data>
   <data name="Home_Code_MyShowWithEpisodeToSeeButEndedGroupHeader_Plural" xml:space="preserve">
     <value>{0} ENDED SHOWS WITH UNSEEN EPISODES</value>
   </data>
@@ -475,12 +481,12 @@ Try adding one :-)</value>
     <value>Some data is not up to date</value>
   </data>
   <data name="Home_Menu_ContactMe_Reason_WhatIsThunderbolt" xml:space="preserve">
-    <value>What does the "lightning" button do?</value>
+    <value>What does the "favorite" button do?</value>
   </data>
   <data name="Thunderbolt_Explanation" xml:space="preserve">
-    <value>If you only had 50 movies and TV shows to bring with them on a desert island, what would they be?
+    <value>If you only had 50 movies and TV shows to bring with you on a desert island, what would they be?
 
-It does add the show to the list of items your personally recommend and creates better personal recommendations for you.
+It adds the show to your list of favorites and helps build better personal recommendations for you.
 </value>
   </data>
   <data name="Thunderbolt_Explanation_DoNotShowAgain" xml:space="preserve">
@@ -861,6 +867,9 @@ matches this search
     <value>Translating to english...</value>
   </data>
 
+  <data name="Settings_Data_GroupShowsWithoutNextEpisode_Text" xml:space="preserve">
+    <value>Put shows to start with no known next episode in a separate group on home page.</value>
+  </data>
   <data name="Settings_Data_MarkBatchAsSeenALongTimeAgo_Text" xml:space="preserve">
     <value>When I mark full seasons or more than 15 episodes as watched, tell Trakt it was a long time ago ?</value>
   </data>
@@ -1056,6 +1065,9 @@ matches this search
   </data>
   <data name="Settings_SortHeaderWithShowToStartWatching_Text" xml:space="preserve">
       <value>Groups with TV Shows to start watching</value>
+  </data>
+  <data name="Settings_SortHeaderWithShowToStartWatchingWithoutNextEpisode_Text" xml:space="preserve">
+    <value>Groups with shows to start watching with no known next episode</value>
   </data>
   <data name="Settings_SortHeaderWithEpToSee_Text" xml:space="preserve">
     <value>Groups with episode to watch</value>
@@ -2169,6 +2181,9 @@ Do you confirm ?
   <data name="Home_Code_Popular_Anticipated" xml:space="preserve">
     <value>MOST ANTICIPATED MOVIES</value>
   </data>
+  <data name="Home_Code_Popular_AnticipatedShows" xml:space="preserve">
+    <value>MOST ANTICIPATED SHOWS</value>
+  </data>
   <data name="Settings_Data_EnableSeasonsGroupCollapsing_Text" xml:space="preserve">
     <value>Enable the collapse/expand of the seasons?</value>
   </data>
@@ -2361,8 +2376,7 @@ If you are still unable to access your account after logging in, please contact 
     <value>More than {0}/10</value>
   </data>
   <data name="Home_Popular_TopByGenreSectionHeader" xml:space="preserve">
-    <value>MOST POPULAR SHOWS BY GENRE
-</value>
+    <value>MOST POPULAR SHOWS BY GENRE</value>
   </data>
   <data name="ShowDetails_ShowInfo_Genre" xml:space="preserve">
     <value>Genres</value>
@@ -2577,16 +2591,16 @@ Reminder: your code is {0}.</value>
     <value>Backup &amp; Restore</value>
   </data>
   <data name="Show_RecommendThis" xml:space="preserve">
-    <value>Recommend this show</value>
+    <value>Add this show to my favorites</value>
   </data>
   <data name="Show_UnrecommendThis" xml:space="preserve">
-    <value>Do not recommend this show</value>
+    <value>Remove this show from my favorites</value>
   </data>
   <data name="Movie_RecommendThis" xml:space="preserve">
-    <value>Recommend this movie</value>
+    <value>Add this movie to my favorites</value>
   </data>
   <data name="Movie_UnrecommendThis" xml:space="preserve">
-    <value>Do not recommend this movie</value>
+    <value>Remove this movie from my favorites</value>
   </data>
   <data name="Watchlist_Name" xml:space="preserve">
     <value>Watchlist</value>
@@ -2622,7 +2636,7 @@ Reminder: your code is {0}.</value>
     <value>MAIN LIST OF YOUR TV SHOWS AND MOVIES</value>
   </data>
   <data name="Settings_DisplayIsRecommendedOnMainList" xml:space="preserve">
-    <value>Display personal recommendation status in shows and movies lists?</value>
+    <value>Display favorite status in shows and movies lists?</value>
   </data>
   <data name="Settings_MainListItemAppearance_Title" xml:space="preserve">
     <value>Main list item appearance</value>
@@ -2685,10 +2699,10 @@ Reminder: your code is {0}.</value>
 {0}</value>
   </data>
   <data name="MyRecommendations_Name" xml:space="preserve">
-    <value>Recommendations I made</value>
+    <value>My Favorites</value>
   </data>
   <data name="MyRecommendations_Description" xml:space="preserve">
-    <value>TV shows and movies I recommend you watch.</value>
+    <value>TV shows and movies I've marked as favorites.</value>
   </data>
   <data name="InAppPurchasePaymentPending_Message" xml:space="preserve">
     <value>Thanks, you will have access to this feature when the payment completes.</value>
@@ -2697,7 +2711,7 @@ Reminder: your code is {0}.</value>
     <value>Thank-you, it means a lot to me to have your support !</value>
   </data>
   <data name="MediaItem_DoNotRecommendThisAnymore" xml:space="preserve">
-    <value>I no longer recommend this item</value>
+    <value>Remove from my favorites</value>
   </data>
   <data name="Settings_DisplayProgressOnMainList" xml:space="preserve">
     <value>Display your progress in shows lists?</value>
@@ -2730,7 +2744,7 @@ It seems that there are none at the moment.
 Come back later!</value>
   </data>
   <data name="PersonalRecomendation_TooMuchExplanation" xml:space="preserve">
-    <value>You can only add 50 personal recommendations. Remove one before adding this one !</value>
+    <value>You can only add 50 favorites. Remove one before adding this one !</value>
   </data>
   <data name="Widget_RecentlyAiredEpisodes_Title" xml:space="preserve">
     <value>RECENTLY AIRED EPISODES</value>

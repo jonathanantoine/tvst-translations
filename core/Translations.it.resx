@@ -397,6 +397,12 @@ per i miei figli e mia moglie.</value>
     <data name="Home_Code_MyShowToStartGroupHeaderSingular" xml:space="preserve">
     <value>1 SERIE TV IN ARRIVO</value>
   </data>
+    <data name="Home_Code_MyShowToStartWithoutNextEpisodeGroupHeaderPlural" xml:space="preserve">
+    <value>{0} SERIE SENZA PROSSIMO EPISODIO</value>
+  </data>
+    <data name="Home_Code_MyShowToStartWithoutNextEpisodeGroupHeaderSingular" xml:space="preserve">
+    <value>1 SERIE SENZA PROSSIMO EPISODIO</value>
+  </data>
     <data name="Home_Code_MyShowWithEpisodeToSeeButEndedGroupHeader_Plural" xml:space="preserve">
     <value>{0} SERIE TV TERMINATE CON EPISODI NON VISTI</value>
   </data>
@@ -845,7 +851,10 @@ corrisponda a questa ricerca
     <data name="Settings_Code_ChangingLanguage" xml:space="preserve">
     <value>Applicazione della nuova lingua ...</value>
   </data>
- 
+
+    <data name="Settings_Data_GroupShowsWithoutNextEpisode_Text" xml:space="preserve">
+    <value>Metti le serie da iniziare senza un prossimo episodio noto in un gruppo separato nella home page.</value>
+  </data>
     <data name="Settings_Data_MarkBatchAsSeenALongTimeAgo_Text" xml:space="preserve">
     <value>Quando contrassegno stagioni complete come viste, è per informare Trakt che è passato molto tempo?</value>
   </data>
@@ -2079,6 +2088,9 @@ Confermi?
     <data name="Home_Code_Popular_Anticipated" xml:space="preserve">
     <value>TRAILERS FILM</value>
   </data>
+  <data name="Home_Code_Popular_AnticipatedShows" xml:space="preserve">
+    <value>SERIE PIÙ ATTESE</value>
+  </data>
 
     <data name="Settings_Data_EnableSeasonsGroupCollapsing_Text" xml:space="preserve">
     <value>Maggiori informazioni sulle stagioni</value>
@@ -2311,16 +2323,16 @@ Se non riesci ancora ad accedere al tuo account dopo l'accesso, contattaci Trakt
         <value>Creatore</value>
     </data>
     <data name="Show_RecommendThis" xml:space="preserve">
-        <value>Consiglia questa serie</value>
+        <value>Aggiungi questa serie ai preferiti</value>
     </data>
     <data name="Show_UnrecommendThis" xml:space="preserve">
-        <value>Non consiglio più questa serie</value>
+        <value>Rimuovi questa serie dai preferiti</value>
     </data>
     <data name="Movie_RecommendThis" xml:space="preserve">
-        <value>Consiglia questo film</value>
+        <value>Aggiungi questo film ai preferiti</value>
     </data>
     <data name="Movie_UnrecommendThis" xml:space="preserve">
-        <value>Non consiglio di nuovo questo film</value>
+        <value>Rimuovi questo film dai preferiti</value>
     </data>
     <data name="ToastNotifications_Code_MovieReleased" xml:space="preserve">
         <value>Questo film è uscito oggi!</value>
@@ -2348,7 +2360,7 @@ Se non riesci ancora ad accedere al tuo account dopo l'accesso, contattaci Trakt
         <value>ELENCO DELLE TUE SERIE TV E FILM</value>
     </data>
     <data name="Settings_DisplayIsRecommendedOnMainList" xml:space="preserve">
-        <value>Visualizzare lo stato dei consigli personali nelle serie e negli elenchi di film?</value>
+        <value>Visualizzare lo stato di preferito nelle serie e negli elenchi di film?</value>
     </data>
     <data name="Settings_MainListItemAppearance_Title" xml:space="preserve">
         <value>Aspetto degli elementi delle liste</value>
@@ -2410,10 +2422,10 @@ Se non riesci ancora ad accedere al tuo account dopo l'accesso, contattaci Trakt
 {0}</value>
     </data>
     <data name="MyRecommendations_Name" xml:space="preserve">
-        <value>I miei consigli</value>
+        <value>I miei preferiti</value>
     </data>
     <data name="MyRecommendations_Description" xml:space="preserve">
-        <value>Le serie e i film che consiglio di vedere</value>
+        <value>Le serie e i film che ho aggiunto ai preferiti.</value>
     </data>
     <data name="InAppPurchasePaymentPending_Message" xml:space="preserve">
         <value>Grazie, avrai accesso a questa funzione una volta completato il pagamento.</value>
@@ -2422,7 +2434,7 @@ Se non riesci ancora ad accedere al tuo account dopo l'accesso, contattaci Trakt
         <value>Grazie, significa molto per me avere il tuo supporto!</value>
     </data>
     <data name="MediaItem_DoNotRecommendThisAnymore" xml:space="preserve">
-        <value>Non consiglio più questo articolo</value>
+        <value>Rimuovi dai preferiti</value>
     </data>
     <data name="Settings_DisplayProgressOnMainList" xml:space="preserve">
         <value>Mostra i tuoi progressi negli elenchi delle serie?</value>
@@ -2469,16 +2481,15 @@ Sembra che al momento non ce ne siano.
 Torna più tardi!</value>
     </data>
     <data name="PersonalRecomendation_TooMuchExplanation" xml:space="preserve">
-        <value>Puoi aggiungere solo 50 consigli personali. Rimuovine uno prima di aggiungere questo!</value>
+        <value>Puoi aggiungere solo 50 preferiti. Rimuovine uno prima di aggiungere questo!</value>
     </data>
     <data name="Home_Menu_ContactMe_Reason_WhatIsThunderbolt" xml:space="preserve">
-        <value>Cosa sta facendo l'icona fulmine?</value>
+        <value>A cosa serve il pulsante "preferiti"?</value>
     </data>
     <data name="Thunderbolt_Explanation" xml:space="preserve">
         <value>Se avessi solo 50 film e serie TV da portare con te su un'isola deserta, quali sarebbero?
 
-Aggiunge la serie all'elenco di articoli che consigli personalmente.
-Crea consigli personalizzati migliori per te.</value>
+Aggiunge la serie alla tua lista dei preferiti e aiuta a creare consigli personalizzati migliori per te.</value>
     </data>
     <data name="Thunderbolt_Explanation_DoNotShowAgain" xml:space="preserve">
         <value>Non mostrare più questo messaggio</value>
@@ -2985,6 +2996,9 @@ Confermi?</value>
     <data name="Settings_SortHeaderWithShowToStartWatching_Text" xml:space="preserve">
         <value>Gruppi con serie da iniziare a vedere</value>
     </data>
+    <data name="Settings_SortHeaderWithShowToStartWatchingWithoutNextEpisode_Text" xml:space="preserve">
+    <value>Gruppi con serie da iniziare senza un prossimo episodio noto</value>
+  </data>
     <data name="Startup_ConnectionDevicodeCodeModeButton" xml:space="preserve">
         <value>Metodo alternativo 1: accesso con un codice</value>
     </data>

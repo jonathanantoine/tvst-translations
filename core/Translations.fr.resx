@@ -626,6 +626,16 @@ femme et mes enfants.</value>
     <value>1 SÉRIE À COMMENCER</value>
   </data>
   <data
+      name     ="Home_Code_MyShowToStartWithoutNextEpisodeGroupHeaderPlural"
+      xml:space="preserve">
+    <value>{0} SÉRIES SANS PROCHAIN ÉPISODE</value>
+  </data>
+  <data
+      name     ="Home_Code_MyShowToStartWithoutNextEpisodeGroupHeaderSingular"
+      xml:space="preserve">
+    <value>1 SÉRIE SANS PROCHAIN ÉPISODE</value>
+  </data>
+  <data
       name     ="Home_Code_MyShowWithEpisodeToSeeButEndedGroupHeader_Plural"
       xml:space="preserve">
     <value>{0} SÉRIES TERMINÉES AVEC DES ÉP. À VOIR</value>
@@ -1337,6 +1347,11 @@ Exprimez-vous !</value>
     <value>Passage en français...</value>
   </data>
 
+  <data
+      name     ="Settings_Data_GroupShowsWithoutNextEpisode_Text"
+      xml:space="preserve">
+    <value>Mettre les séries à commencer sans prochain épisode connu dans un groupe séparé sur la page d'accueil.</value>
+  </data>
   <data
       name     ="Settings_Data_MarkBatchAsSeenALongTimeAgo_Text"
       xml:space="preserve">
@@ -3227,6 +3242,11 @@ xml:space="preserve">
         xml:space="preserve">
     <value>FILMS LES PLUS ANTICIPÉS</value>
   </data>
+  <data
+        name="Home_Code_Popular_AnticipatedShows"
+        xml:space="preserve">
+    <value>SÉRIES LES PLUS ANTICIPÉES</value>
+  </data>
 
   <data
         name="Settings_Data_EnableSeasonsGroupCollapsing_Text"
@@ -3706,16 +3726,16 @@ plus</value>
         <value>Sauvegarde &amp; Restauration</value>
     </data>
   <data name="Show_RecommendThis" xml:space="preserve">
-        <value>Recommander cette série</value>
+        <value>Ajouter cette série à mes favoris</value>
     </data>
   <data name="Show_UnrecommendThis" xml:space="preserve">
-        <value>Ne pas recommander cette série</value>
+        <value>Retirer cette série de mes favoris</value>
     </data>
   <data name="Movie_RecommendThis" xml:space="preserve">
-        <value>Recommander ce film</value>
+        <value>Ajouter ce film à mes favoris</value>
     </data>
   <data name="Movie_UnrecommendThis" xml:space="preserve">
-        <value>Ne plus recommander ce film</value>
+        <value>Retirer ce film de mes favoris</value>
     </data>
   <data name="Watchlist_Name" xml:space="preserve">
         <value>À voir</value>
@@ -3748,7 +3768,7 @@ plus</value>
         <value>LISTES DE VOS SÉRIES ET FILMS</value>
     </data>
   <data name="Settings_DisplayIsRecommendedOnMainList" xml:space="preserve">
-        <value>Afficher si recommandé personnellement dans les listes de séries et de films ?</value>
+        <value>Afficher le statut de favori dans les listes de séries et de films ?</value>
     </data>
   <data name="Settings_MainListItemAppearance_Title" xml:space="preserve">
         <value>Apparence des éléments des listes</value>
@@ -3811,10 +3831,10 @@ plus</value>
 {0}</value>
     </data>
   <data name="MyRecommendations_Name" xml:space="preserve">
-        <value>Mes recommendations</value>
+        <value>Mes favoris</value>
     </data>
   <data name="MyRecommendations_Description" xml:space="preserve">
-        <value>Les séries et films que je recommande de regarder</value>
+        <value>Les séries et films que j'ai ajoutés à mes favoris.</value>
     </data>
   <data name="InAppPurchasePaymentPending_Message" xml:space="preserve">
         <value>Merci, vous aurez accès à cette fonctionnalité une fois le paiement terminé.
@@ -3824,7 +3844,7 @@ plus</value>
         <value>Merci, cela signifie beaucoup pour moi d'avoir votre soutien!</value>
     </data>
   <data name="MediaItem_DoNotRecommendThisAnymore" xml:space="preserve">
-        <value>Ne plus recommander cet élément</value>
+        <value>Retirer de mes favoris</value>
     </data>
   <data name="Settings_DisplayProgressOnMainList" xml:space="preserve">
         <value>Afficher votre progression dans les listes de séries ?</value>
@@ -3866,17 +3886,17 @@ Il semble qu'il n'y en ait pas pour l'instant.
 Revenez plus tard !</value>
   </data>
   <data name="PersonalRecomendation_TooMuchExplanation" xml:space="preserve">
-        <value>Vous ne pouvez ajouter que 50 recommandations personnelles. Supprimez-en une avant d'ajouter celle-ci !
+        <value>Vous ne pouvez ajouter que 50 favoris. Supprimez-en un avant d'ajouter celui-ci !
 </value>
     </data>
   <data name="Home_Menu_ContactMe_Reason_WhatIsThunderbolt" xml:space="preserve">
-        <value>Mais que fait le bouton "éclair" ?</value>
+        <value>Mais que fait le bouton "favori" ?</value>
     </data>
   <data name="Thunderbolt_Explanation" xml:space="preserve">
         <value>Si vous n'aviez que 50 films et séries à emporter sur une île déserte, quels seraient-ils ?
 
-Le bouton "éclair" ajoute les séries/Films à la liste des éléments que vous recommandez personnellement.
-Cela crée de meilleures recommandations personnelles pour vous.</value>
+Le bouton "favori" ajoute la série ou le film à votre liste de favoris.
+Cela permet de créer de meilleures recommandations personnelles pour vous.</value>
     </data>
   <data name="Thunderbolt_Explanation_DoNotShowAgain" xml:space="preserve">
     <value>Ne plus afficher ce message</value>
@@ -4281,6 +4301,9 @@ Confirmez-vous ?</value>
   </data>
   <data name="Settings_SortHeaderWithShowToStartWatching_Text" xml:space="preserve">
       <value>Groupes avec des séries à commencer</value>
+  </data>
+  <data name="Settings_SortHeaderWithShowToStartWatchingWithoutNextEpisode_Text" xml:space="preserve">
+    <value>Groupes avec des séries à commencer sans prochain épisode connu</value>
   </data>
   <data name="Startup_ConnectionDevicodeCodeModeButton" xml:space="preserve">
       <value>Solution de secours 1 : connexion avec un code</value>

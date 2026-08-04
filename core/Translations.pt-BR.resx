@@ -397,6 +397,12 @@ filhos e minha esposa.</value>
     <data name="Home_Code_MyShowToStartGroupHeaderSingular" xml:space="preserve">
     <value>1 SÉRIE PARA COMEÇAR</value>
   </data>
+    <data name="Home_Code_MyShowToStartWithoutNextEpisodeGroupHeaderPlural" xml:space="preserve">
+    <value>{0} SÉRIES SEM PRÓXIMO EPISÓDIO</value>
+  </data>
+    <data name="Home_Code_MyShowToStartWithoutNextEpisodeGroupHeaderSingular" xml:space="preserve">
+    <value>1 SÉRIE SEM PRÓXIMO EPISÓDIO</value>
+  </data>
     <data name="Home_Code_MyShowWithEpisodeToSeeButEndedGroupHeader_Plural" xml:space="preserve">
     <value>{0} SÉRIES FINALIZADAS COM EPISÓDIOS NÃO VISTOS</value>
   </data>
@@ -812,6 +818,9 @@ corresponde à essa pesquisa
     <value>Aplicando o novo idioma...</value>
   </data>
 
+    <data name="Settings_Data_GroupShowsWithoutNextEpisode_Text" xml:space="preserve">
+    <value>Colocar as séries a começar sem próximo episódio conhecido num grupo separado na página inicial.</value>
+  </data>
     <data name="Settings_Data_MarkBatchAsSeenALongTimeAgo_Text" xml:space="preserve">
     <value>Quando eu marco temporadas completas ou mais de 15 episódios como assistidos, é para deixar o Trakt saber que foi há muito tempo?</value>
   </data>
@@ -2074,6 +2083,9 @@ Você confirma?
     <data name="Home_Code_Popular_Anticipated" xml:space="preserve">
     <value>FILMES MAIS ANTECIPADOS</value>
   </data>
+  <data name="Home_Code_Popular_AnticipatedShows" xml:space="preserve">
+    <value>SÉRIES MAIS ANTECIPADAS</value>
+  </data>
     <data name="Settings_Data_EnableSeasonsGroupCollapsing_Text" xml:space="preserve">
     <value>Permitir recolhimento / expansão das temporadas de um programa?</value>
   </data>
@@ -2427,16 +2439,16 @@ Se ainda não conseguir acessar sua conta após o login, entre em contato Trakt 
         <value>Criadores</value>
     </data>
     <data name="Show_RecommendThis" xml:space="preserve">
-        <value>Recomende este séries</value>
+        <value>Adicionar esta série aos favoritos</value>
     </data>
     <data name="Show_UnrecommendThis" xml:space="preserve">
-        <value>Não recomendo mais esta série</value>
+        <value>Remover esta série dos favoritos</value>
     </data>
     <data name="Movie_RecommendThis" xml:space="preserve">
-        <value>Recomende este filme</value>
+        <value>Adicionar este filme aos favoritos</value>
     </data>
     <data name="Movie_UnrecommendThis" xml:space="preserve">
-        <value>Não recomendo este filme novamente</value>
+        <value>Remover este filme dos favoritos</value>
     </data>
     <data name="Watchlist_Description" xml:space="preserve">
         <value>Filmes e séries que pretendo assistir.</value>
@@ -2466,7 +2478,7 @@ Se ainda não conseguir acessar sua conta após o login, entre em contato Trakt 
         <value>LISTA DE SEUS PROGRAMAS DE TV E FILMES</value>
     </data>
     <data name="Settings_DisplayIsRecommendedOnMainList" xml:space="preserve">
-        <value>Exibir status de recomendação pessoal em listas de programas e filmes?</value>
+        <value>Exibir status de favorito nas listas de séries e filmes?</value>
     </data>
     <data name="Settings_MainListItemAppearance_Title" xml:space="preserve">
         <value>Aparência dos itens das listas</value>
@@ -2500,10 +2512,10 @@ Se ainda não conseguir acessar sua conta após o login, entre em contato Trakt 
 {0}</value>
     </data>
     <data name="MyRecommendations_Name" xml:space="preserve">
-        <value>Minhas recomendações</value>
+        <value>Meus favoritos</value>
     </data>
     <data name="MyRecommendations_Description" xml:space="preserve">
-        <value>As séries e filmes que recomendo assistir</value>
+        <value>As séries e filmes que marquei como favoritos.</value>
     </data>
     <data name="InAppPurchasePaymentPending_Message" xml:space="preserve">
         <value>Obrigado, você terá acesso a este recurso quando o pagamento for concluído.</value>
@@ -2512,7 +2524,7 @@ Se ainda não conseguir acessar sua conta após o login, entre em contato Trakt 
         <value>Obrigado, significa muito para mim ter o seu apoio!</value>
     </data>
     <data name="MediaItem_DoNotRecommendThisAnymore" xml:space="preserve">
-        <value>Eu não recomendo mais este item</value>
+        <value>Remover dos favoritos</value>
     </data>
     <data name="Settings_DisplayProgressOnMainList" xml:space="preserve">
         <value>Mostrar seu progresso nas listas das séries?</value>
@@ -2568,16 +2580,15 @@ Parece que não há nenhum no momento.
 Volte mais tarde!</value>
     </data>
     <data name="PersonalRecomendation_TooMuchExplanation" xml:space="preserve">
-        <value>Você só pode adicionar 50 recomendações pessoais. Remova um antes de adicionar este!</value>
+        <value>Você só pode adicionar 50 favoritos. Remova um antes de adicionar este!</value>
     </data>
     <data name="Home_Menu_ContactMe_Reason_WhatIsThunderbolt" xml:space="preserve">
-        <value>O que o botão "relâmpago" faz?</value>
+        <value>O que o botão "favorito" faz?</value>
     </data>
     <data name="Thunderbolt_Explanation" xml:space="preserve">
         <value>Se você tivesse apenas 50 filmes e programas de TV para levar para uma ilha deserta, quais seriam?
 
-Ele adiciona o show à lista de itens que você recomenda pessoalmente.
-Ele cria melhores recomendações pessoais para você.</value>
+Ele adiciona o item à sua lista de favoritos e ajuda a criar recomendações pessoais melhores para você.</value>
     </data>
     <data name="Thunderbolt_Explanation_DoNotShowAgain" xml:space="preserve">
         <value>Não mostrar esta mensagem novamente</value>
@@ -2967,6 +2978,9 @@ Confirma?</value>
     <data name="Settings_SortHeaderWithShowToStartWatching_Text" xml:space="preserve">
         <value>Grupos com séries para começar a assistir</value>
     </data>
+    <data name="Settings_SortHeaderWithShowToStartWatchingWithoutNextEpisode_Text" xml:space="preserve">
+    <value>Grupos com séries para começar sem próximo episódio conhecido</value>
+  </data>
     <data name="Startup_ConnectionDevicodeCodeModeButton" xml:space="preserve">
         <value>Opção alternativa 1: entrar com um código</value>
     </data>
