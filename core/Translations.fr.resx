@@ -2398,7 +2398,7 @@ d'être pleine de surprises !</value>
   <data
       name     ="Trakt_LostAuthorizationContent"
       xml:space="preserve">
-    <value>TV Show Tracker a perdu l'autorisation d'accéder à votre compte. Aucune donnée ne sera perdue mais il faut vous connecter à nouveau.</value>
+    <value>TV Show Tracker a perdu l'autorisation d'accéder à votre compte. Aucune donnée ne sera perdue : reconnectez-vous maintenant, ou continuez à utiliser l'application avec vos données locales et reconnectez-vous plus tard.</value>
   </data>
   <data
       name     ="Trakt_LostAuthorizationTitle"
@@ -4649,5 +4649,38 @@ Rappel : votre code est {0}.</value>
   </data>
   <data name="Donation_Link_PrivacyPolicy" xml:space="preserve">
     <value>Politique de confidentialité</value>
+  </data>
+  <data name="Trakt_Reconnect_PopupReconnectButton" xml:space="preserve">
+    <value>Se reconnecter maintenant</value>
+  </data>
+  <data name="Trakt_Reconnect_PopupLaterButton" xml:space="preserve">
+    <value>Plus tard</value>
+  </data>
+  <data name="Trakt_Reconnect_BannerText" xml:space="preserve">
+    <value>Connexion à Trakt perdue — touchez pour vous reconnecter</value>
+  </data>
+  <data name="Trakt_Reconnect_MenuItem" xml:space="preserve">
+    <value>Se reconnecter à Trakt</value>
+  </data>
+  <data name="Trakt_Reconnect_DrawerSubtitle" xml:space="preserve">
+    <value>Connexion à Trakt perdue</value>
+  </data>
+  <data name="Trakt_Reconnect_ActionImpossibleToast" xml:space="preserve">
+    <value>Action impossible : veuillez d'abord vous reconnecter à Trakt.</value>
+  </data>
+  <data name="Trakt_Reconnect_SettingsSubtitle" xml:space="preserve">
+    <value>Votre autorisation Trakt a été perdue. Reconnectez-vous pour reprendre la synchronisation.</value>
+  </data>
+  <data name="Settings_Various_SimulateReconnectionPostponed_Text" xml:space="preserve">
+    <value>Simuler une reconnexion reportée</value>
+  </data>
+  <data name="Settings_Various_ForceUnauthorizedState_Text" xml:space="preserve">
+    <value>Forcer l'état non autorisé</value>
+  </data>
+  <data name="Settings_Various_ForceUnauthorizedState_Subtitle" xml:space="preserve">
+    <value>Déconnecte de Trakt et déclenche le scénario de perte d'autorisation. Vous devrez vous reconnecter.</value>
+  </data>
+  <data name="Settings_Various_ShowAuthorizationLostPopup_Text" xml:space="preserve">
+    <value>Afficher la popup de perte d'autorisation</value>
   </data>
 </root>
