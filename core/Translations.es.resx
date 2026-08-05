@@ -1215,6 +1215,12 @@ Confirmas ?
     <data name="ShowDetails_Code_EpisodePlural" xml:space="preserve">
     <value>episodios</value>
   </data>
+    <data name="ShowDetails_Code_SeasonHeader_EpisodeLeftSingle" xml:space="preserve">
+    <value>{0} ep. restante</value>
+  </data>
+    <data name="ShowDetails_Code_SeasonHeader_EpisodeLeftPlural" xml:space="preserve">
+    <value>{0} ep. restantes</value>
+  </data>
     <data name="ShowDetails_Code_Episode_TotalEpisodeLeftPlural" xml:space="preserve">
     <value>EP. POR VER</value>
   </data>
