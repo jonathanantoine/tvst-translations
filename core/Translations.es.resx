@@ -3308,4 +3308,7 @@ Recordatorio: tu código es {0}.</value>
   <data name="Settings_Various_ShowAuthorizationLostPopup_Text" xml:space="preserve">
     <value>Mostrar la ventana de pérdida de autorización</value>
   </data>
+  <data name="Startup_SignInWithAnotherAccount_Text" xml:space="preserve">
+    <value>Iniciar sesión con otra cuenta</value>
+  </data>
 </root>

@@ -3405,4 +3405,7 @@ Do you confirm?</value>
   <data name="Settings_Various_ShowAuthorizationLostPopup_Text" xml:space="preserve">
     <value>Show authorization lost popup</value>
   </data>
+  <data name="Startup_SignInWithAnotherAccount_Text" xml:space="preserve">
+    <value>Sign in with a different account</value>
+  </data>
 </root>

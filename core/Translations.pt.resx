@@ -4721,4 +4721,7 @@ Lembrete: o seu código é {0}.</value>
   <data name="Settings_Various_ShowAuthorizationLostPopup_Text" xml:space="preserve">
     <value>Mostrar o pop-up de perda de autorização</value>
   </data>
+  <data name="Startup_SignInWithAnotherAccount_Text" xml:space="preserve">
+    <value>Iniciar sessão com outra conta</value>
+  </data>
 </root>

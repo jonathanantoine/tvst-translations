@@ -4683,4 +4683,7 @@ Rappel : votre code est {0}.</value>
   <data name="Settings_Various_ShowAuthorizationLostPopup_Text" xml:space="preserve">
     <value>Afficher la popup de perte d'autorisation</value>
   </data>
+  <data name="Startup_SignInWithAnotherAccount_Text" xml:space="preserve">
+    <value>Se connecter avec un autre compte</value>
+  </data>
 </root>

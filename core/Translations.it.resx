@@ -3419,4 +3419,7 @@ t  <data name="Settings_Modern_Badge_Premium" xml:space="preserve">
   <data name="Settings_Various_ShowAuthorizationLostPopup_Text" xml:space="preserve">
     <value>Mostra il popup di perdita dell'autorizzazione</value>
   </data>
+  <data name="Startup_SignInWithAnotherAccount_Text" xml:space="preserve">
+    <value>Accedi con un altro account</value>
+  </data>
 </root>
