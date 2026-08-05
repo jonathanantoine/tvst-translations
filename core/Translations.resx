@@ -2633,16 +2633,16 @@ Reminder: your code is {0}.</value>
     <value>Display your rating in shows and movies lists ?</value>
   </data>
   <data name="Settings_DisplayMainListsConfigHeader" xml:space="preserve">
-    <value>MAIN LIST OF YOUR TV SHOWS AND MOVIES</value>
+    <value>YOUR LISTS OF TV SHOWS AND MOVIES</value>
   </data>
   <data name="Settings_DisplayIsRecommendedOnMainList" xml:space="preserve">
     <value>Display favorite status in shows and movies lists?</value>
   </data>
   <data name="Settings_MainListItemAppearance_Title" xml:space="preserve">
-    <value>Main list item appearance</value>
+    <value>List item appearance</value>
   </data>
   <data name="Settings_MainListItemAppearance_Subtitle" xml:space="preserve">
-    <value>Ratings, progress, network, badges on the main list items</value>
+    <value>Ratings, progress, network, badges on the items of all your lists</value>
   </data>
   <data name="Settings_HomeItemAppearance_PreviewTitle" xml:space="preserve">
     <value>Preview</value>

@@ -3774,7 +3774,7 @@ plus</value>
         <value>Apparence des éléments des listes</value>
     </data>
   <data name="Settings_MainListItemAppearance_Subtitle" xml:space="preserve">
-        <value>Notes, progression, chaîne, badges sur les éléments de la liste principale</value>
+        <value>Notes, progression, chaîne, badges sur les éléments de toutes vos listes</value>
     </data>
   <data name="Settings_HomeItemAppearance_PreviewTitle" xml:space="preserve">
         <value>Aperçu</value>

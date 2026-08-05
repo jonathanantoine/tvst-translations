@@ -2475,7 +2475,7 @@ Se ainda não conseguir acessar sua conta após o login, entre em contato Trakt 
         <value>Mostrar suas avaliações nas listas de séries e filmes?</value>
     </data>
     <data name="Settings_DisplayMainListsConfigHeader" xml:space="preserve">
-        <value>LISTA DE SEUS PROGRAMAS DE TV E FILMES</value>
+        <value>LISTAS DOS SEUS PROGRAMAS DE TV E FILMES</value>
     </data>
     <data name="Settings_DisplayIsRecommendedOnMainList" xml:space="preserve">
         <value>Exibir status de favorito nas listas de séries e filmes?</value>
@@ -2484,7 +2484,7 @@ Se ainda não conseguir acessar sua conta após o login, entre em contato Trakt 
         <value>Aparência dos itens das listas</value>
     </data>
     <data name="Settings_MainListItemAppearance_Subtitle" xml:space="preserve">
-        <value>Avaliações, progresso, canal, selos nos elementos da lista principal</value>
+        <value>Avaliações, progresso, canal, selos nos elementos de todas as suas listas</value>
     </data>
     <data name="Settings_HomeItemAppearance_PreviewTitle" xml:space="preserve">
         <value>Prévia</value>

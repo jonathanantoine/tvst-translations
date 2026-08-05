@@ -2386,7 +2386,7 @@ Si aún no puedes acceder a tu cuenta después de iniciar sesión, contáctanos 
         <value>¿Muestra sus calificaciones en las listas de series y películas?</value>
     </data>
     <data name="Settings_DisplayMainListsConfigHeader" xml:space="preserve">
-        <value>LISTA DE SU SERIE</value>
+        <value>LISTAS DE SUS SERIES Y PELÍCULAS</value>
     </data>
     <data name="Settings_DisplayIsRecommendedOnMainList" xml:space="preserve">
         <value>¿Mostrar el estado de favorito en las listas de series y películas?</value>
@@ -2395,7 +2395,7 @@ Si aún no puedes acceder a tu cuenta después de iniciar sesión, contáctanos 
         <value>Apariencia de los elementos de las listas</value>
     </data>
     <data name="Settings_MainListItemAppearance_Subtitle" xml:space="preserve">
-        <value>Valoraciones, progreso, red, insignias en los elementos de la lista principal</value>
+        <value>Valoraciones, progreso, red, insignias en los elementos de todas sus listas</value>
     </data>
     <data name="Settings_HomeItemAppearance_PreviewTitle" xml:space="preserve">
         <value>Vista previa</value>

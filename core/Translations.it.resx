@@ -2357,7 +2357,7 @@ Se non riesci ancora ad accedere al tuo account dopo l'accesso, contattaci Trakt
 </value>
     </data>
     <data name="Settings_DisplayMainListsConfigHeader" xml:space="preserve">
-        <value>ELENCO DELLE TUE SERIE TV E FILM</value>
+        <value>ELENCHI DELLE TUE SERIE TV E FILM</value>
     </data>
     <data name="Settings_DisplayIsRecommendedOnMainList" xml:space="preserve">
         <value>Visualizzare lo stato di preferito nelle serie e negli elenchi di film?</value>
@@ -2366,7 +2366,7 @@ Se non riesci ancora ad accedere al tuo account dopo l'accesso, contattaci Trakt
         <value>Aspetto degli elementi delle liste</value>
     </data>
     <data name="Settings_MainListItemAppearance_Subtitle" xml:space="preserve">
-        <value>Voti, avanzamento, canale, badge sugli elementi della lista principale</value>
+        <value>Voti, avanzamento, canale, badge sugli elementi di tutte le tue liste</value>
     </data>
     <data name="Settings_HomeItemAppearance_PreviewTitle" xml:space="preserve">
         <value>Anteprima</value>
