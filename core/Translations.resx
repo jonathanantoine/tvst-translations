@@ -868,16 +868,16 @@ matches this search
   </data>
 
   <data name="Settings_Data_GroupShowsWithoutNextEpisode_Text" xml:space="preserve">
-    <value>Put shows to start with no episode available yet in a separate group on home page.</value>
+    <value>A separate group for shows to start with no episode available yet.</value>
   </data>
   <data name="Settings_Data_MarkBatchAsSeenALongTimeAgo_Text" xml:space="preserve">
     <value>When I mark full seasons or more than 15 episodes as watched, tell Trakt it was a long time ago ?</value>
   </data>
   <data name="Settings_Data_PutAllShowWithEpToSeeInSameGroup_Text" xml:space="preserve">
-    <value>Put shows with episodes to see (ended or not) in the same group on home page.</value>
+    <value>One group for all shows with episodes to see, ended or not.</value>
   </data>
   <data name="Settings_Data_PutShowToStartInASeparateGroup_Text" xml:space="preserve">
-    <value>Put shows to start (no episode seen) in a separate group on home page.</value>
+    <value>A separate group for shows to start (no episode seen).</value>
   </data>
 
   <data name="Settings_DisplayHeader_Text" xml:space="preserve">
@@ -3416,5 +3416,11 @@ Do you confirm?</value>
   </data>
   <data name="PendingActions_FavoriteCancelled_QuotaReached" xml:space="preserve">
     <value>{0} could not be added to your favorites: the Trakt limit was reached. The change has been undone.</value>
+  </data>
+  <data name="Settings_HomeGroupsSectionHeader" xml:space="preserve">
+    <value>HOME PAGE GROUPS</value>
+  </data>
+  <data name="Settings_HomeGroupsSectionSubtitle" xml:space="preserve">
+    <value>Choose which groups of TV shows are created on the home page.</value>
   </data>
 </root>

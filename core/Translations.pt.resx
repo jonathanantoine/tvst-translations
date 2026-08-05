@@ -1312,7 +1312,7 @@ corresponde à essa pesquisa
   <data
       name="Settings_Data_GroupShowsWithoutNextEpisode_Text"
       xml:space="preserve">
-    <value>Colocar as séries a começar sem episódio disponível num grupo separado na página inicial.</value>
+    <value>Um grupo separado para as séries a começar sem episódio disponível.</value>
   </data>
   <data
       name="Settings_Data_MarkBatchAsSeenALongTimeAgo_Text"
@@ -1322,12 +1322,12 @@ corresponde à essa pesquisa
   <data
       name="Settings_Data_PutAllShowWithEpToSeeInSameGroup_Text"
       xml:space="preserve">
-    <value>Colocar as séries com episódios para assistir (finalizadas ou não) no mesmo grupo na página inicial?</value>
+    <value>Um único grupo para as séries com episódios para ver, terminadas ou não.</value>
   </data>
   <data
       name="Settings_Data_PutShowToStartInASeparateGroup_Text"
       xml:space="preserve">
-    <value>Definir as séries a começar (nenhum episódio visto) em um grupo separado?</value>
+    <value>Um grupo separado para as séries a começar (nenhum episódio visto).</value>
   </data>
 
   <data
@@ -4736,5 +4736,11 @@ Lembrete: o seu código é {0}.</value>
   </data>
   <data name="PendingActions_FavoriteCancelled_QuotaReached" xml:space="preserve">
     <value>{0} não pôde ser adicionado aos seus favoritos: o limite do Trakt foi atingido. A alteração foi anulada.</value>
+  </data>
+  <data name="Settings_HomeGroupsSectionHeader" xml:space="preserve">
+    <value>GRUPOS DA PÁGINA INICIAL</value>
+  </data>
+  <data name="Settings_HomeGroupsSectionSubtitle" xml:space="preserve">
+    <value>Escolha que grupos de séries são criados na página inicial.</value>
   </data>
 </root>

@@ -853,16 +853,16 @@ corrisponda a questa ricerca
   </data>
 
     <data name="Settings_Data_GroupShowsWithoutNextEpisode_Text" xml:space="preserve">
-    <value>Metti le serie da iniziare senza episodi disponibili in un gruppo separato nella home page.</value>
+    <value>Un gruppo separato per le serie da iniziare senza episodi disponibili.</value>
   </data>
     <data name="Settings_Data_MarkBatchAsSeenALongTimeAgo_Text" xml:space="preserve">
     <value>Quando contrassegno stagioni complete come viste, è per informare Trakt che è passato molto tempo?</value>
   </data>
     <data name="Settings_Data_PutAllShowWithEpToSeeInSameGroup_Text" xml:space="preserve">
-    <value>Mostra SERIE TV con episodi da vedere (terminata o meno) nello stesso gruppo sulla home page?</value>
+    <value>Un solo gruppo per le serie con episodi da vedere, terminate o meno.</value>
   </data>
     <data name="Settings_Data_PutShowToStartInASeparateGroup_Text" xml:space="preserve">
-    <value>Mostra le SERIE TV da seguire (nessun episodio visto) in un gruppo separato</value>
+    <value>Un gruppo separato per le serie da iniziare (nessun episodio visto).</value>
   </data>
     <data name="Settings_Data_HideAndIgnoreSpecialEpisodes_Text" xml:space="preserve">
     <value>Ignora e nascondi episodi speciali</value>
@@ -3430,5 +3430,11 @@ t  <data name="Settings_Modern_Badge_Premium" xml:space="preserve">
   </data>
   <data name="PendingActions_FavoriteCancelled_QuotaReached" xml:space="preserve">
     <value>{0} non è stato aggiunto ai preferiti: è stato raggiunto il limite di Trakt. La modifica è stata annullata.</value>
+  </data>
+  <data name="Settings_HomeGroupsSectionHeader" xml:space="preserve">
+    <value>GRUPPI DELLA PAGINA PRINCIPALE</value>
+  </data>
+  <data name="Settings_HomeGroupsSectionSubtitle" xml:space="preserve">
+    <value>Scegli quali gruppi di serie vengono creati nella pagina principale.</value>
   </data>
 </root>

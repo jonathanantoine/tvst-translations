@@ -1350,7 +1350,7 @@ Exprimez-vous !</value>
   <data
       name     ="Settings_Data_GroupShowsWithoutNextEpisode_Text"
       xml:space="preserve">
-    <value>Mettre les séries à commencer sans épisode disponible dans un groupe séparé sur la page d'accueil.</value>
+    <value>Un groupe séparé pour les séries à commencer sans épisode disponible.</value>
   </data>
   <data
       name     ="Settings_Data_MarkBatchAsSeenALongTimeAgo_Text"
@@ -1360,12 +1360,12 @@ Exprimez-vous !</value>
   <data
       name     ="Settings_Data_PutAllShowWithEpToSeeInSameGroup_Text"
       xml:space="preserve">
-      <value>Regrouper sur la page d’accueil les séries avec des épisodes à voir (terminées ou non).</value>
+      <value>Un seul groupe pour les séries avec des épisodes à voir, terminées ou non.</value>
   </data>
   <data
       name     ="Settings_Data_PutShowToStartInASeparateGroup_Text"
       xml:space="preserve">
-    <value>Placer les séries à commencer (aucun épisode vu) dans un groupe séparé ?</value>
+    <value>Un groupe séparé pour les séries à commencer (aucun épisode vu).</value>
   </data>
   <data
       name     ="Settings_Data_HideAndIgnoreSpecialEpisodes_Text"
@@ -4698,5 +4698,11 @@ Rappel : votre code est {0}.</value>
   </data>
   <data name="PendingActions_FavoriteCancelled_QuotaReached" xml:space="preserve">
     <value>{0} n'a pas pu être ajouté à vos favoris : la limite Trakt est atteinte. La modification a été annulée.</value>
+  </data>
+  <data name="Settings_HomeGroupsSectionHeader" xml:space="preserve">
+    <value>GROUPES DE LA PAGE D'ACCUEIL</value>
+  </data>
+  <data name="Settings_HomeGroupsSectionSubtitle" xml:space="preserve">
+    <value>Choisissez les groupes de séries créés sur la page d'accueil.</value>
   </data>
 </root>

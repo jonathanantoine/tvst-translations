@@ -846,16 +846,16 @@ aparece en esta búsqueda
   </data>
 
     <data name="Settings_Data_GroupShowsWithoutNextEpisode_Text" xml:space="preserve">
-    <value>Poner las series por empezar sin episodio disponible en un grupo separado en la página de inicio.</value>
+    <value>Un grupo separado para las series por empezar sin episodio disponible.</value>
   </data>
     <data name="Settings_Data_MarkBatchAsSeenALongTimeAgo_Text" xml:space="preserve">
     <value>Cuando marque una temporada entera como vista, decirle a Trakt que fue hace mucho tiempo.</value>
   </data>
     <data name="Settings_Data_PutAllShowWithEpToSeeInSameGroup_Text" xml:space="preserve">
-    <value>Poner las series con episodios por ver (finalizadas o no) en el mismo grupo en la página de inicio.</value>
+    <value>Un solo grupo para las series con episodios por ver, finalizadas o no.</value>
   </data>
     <data name="Settings_Data_PutShowToStartInASeparateGroup_Text" xml:space="preserve">
-    <value>Poner las series para empezar (sin episodios vistos) en un grupo separado en la página de inicio.</value>
+    <value>Un grupo separado para las series por empezar (sin episodios vistos).</value>
   </data>
   
     <data name="Settings_DisplayHeader_Text" xml:space="preserve">
@@ -3319,5 +3319,11 @@ Recordatorio: tu código es {0}.</value>
   </data>
   <data name="PendingActions_FavoriteCancelled_QuotaReached" xml:space="preserve">
     <value>{0} no se ha podido añadir a sus favoritos: se ha alcanzado el límite de Trakt. El cambio se ha deshecho.</value>
+  </data>
+  <data name="Settings_HomeGroupsSectionHeader" xml:space="preserve">
+    <value>GRUPOS DE LA PÁGINA DE INICIO</value>
+  </data>
+  <data name="Settings_HomeGroupsSectionSubtitle" xml:space="preserve">
+    <value>Elija qué grupos de series se crean en la página de inicio.</value>
   </data>
 </root>
