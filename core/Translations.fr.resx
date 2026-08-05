@@ -628,12 +628,12 @@ femme et mes enfants.</value>
   <data
       name     ="Home_Code_MyShowToStartWithoutNextEpisodeGroupHeaderPlural"
       xml:space="preserve">
-    <value>{0} SÉRIES SANS PROCHAIN ÉPISODE</value>
+    <value>{0} SÉRIES SANS ÉPISODE DISPONIBLE</value>
   </data>
   <data
       name     ="Home_Code_MyShowToStartWithoutNextEpisodeGroupHeaderSingular"
       xml:space="preserve">
-    <value>1 SÉRIE SANS PROCHAIN ÉPISODE</value>
+    <value>1 SÉRIE SANS ÉPISODE DISPONIBLE</value>
   </data>
   <data
       name     ="Home_Code_MyShowWithEpisodeToSeeButEndedGroupHeader_Plural"
@@ -1350,7 +1350,7 @@ Exprimez-vous !</value>
   <data
       name     ="Settings_Data_GroupShowsWithoutNextEpisode_Text"
       xml:space="preserve">
-    <value>Mettre les séries à commencer sans prochain épisode connu dans un groupe séparé sur la page d'accueil.</value>
+    <value>Mettre les séries à commencer sans épisode disponible dans un groupe séparé sur la page d'accueil.</value>
   </data>
   <data
       name     ="Settings_Data_MarkBatchAsSeenALongTimeAgo_Text"
@@ -4313,7 +4313,7 @@ Confirmez-vous ?</value>
       <value>Groupes avec des séries à commencer</value>
   </data>
   <data name="Settings_SortHeaderWithShowToStartWatchingWithoutNextEpisode_Text" xml:space="preserve">
-    <value>Groupes avec des séries à commencer sans prochain épisode connu</value>
+    <value>Groupes avec des séries à commencer sans épisode disponible</value>
   </data>
   <data name="Startup_ConnectionDevicodeCodeModeButton" xml:space="preserve">
       <value>Solution de secours 1 : connexion avec un code</value>
@@ -4695,5 +4695,8 @@ Rappel : votre code est {0}.</value>
   </data>
   <data name="Startup_SignInWithAnotherAccount_Text" xml:space="preserve">
     <value>Se connecter avec un autre compte</value>
+  </data>
+  <data name="PendingActions_FavoriteCancelled_QuotaReached" xml:space="preserve">
+    <value>{0} n'a pas pu être ajouté à vos favoris : la limite Trakt est atteinte. La modification a été annulée.</value>
   </data>
 </root>

@@ -393,10 +393,10 @@ y la felicidad de mis hijos y mi mujer.</value>
     <value>1 SERIE PARA COMENZAR A VER</value>
   </data>
     <data name="Home_Code_MyShowToStartWithoutNextEpisodeGroupHeaderPlural" xml:space="preserve">
-    <value>{0} SERIES SIN PRÓXIMO EPISODIO</value>
+    <value>{0} SERIES SIN EPISODIO DISPONIBLE</value>
   </data>
     <data name="Home_Code_MyShowToStartWithoutNextEpisodeGroupHeaderSingular" xml:space="preserve">
-    <value>1 SERIE SIN PRÓXIMO EPISODIO</value>
+    <value>1 SERIE SIN EPISODIO DISPONIBLE</value>
   </data>
     <data name="Home_Code_MyShowWithEpisodeToSeeButEndedGroupHeader_Plural" xml:space="preserve">
         <value>{0} PROGRAMAS FINALIZADOS CON EPISODIOS NO VISTOS</value>
@@ -846,7 +846,7 @@ aparece en esta búsqueda
   </data>
 
     <data name="Settings_Data_GroupShowsWithoutNextEpisode_Text" xml:space="preserve">
-    <value>Poner las series por empezar sin próximo episodio conocido en un grupo separado en la página de inicio.</value>
+    <value>Poner las series por empezar sin episodio disponible en un grupo separado en la página de inicio.</value>
   </data>
     <data name="Settings_Data_MarkBatchAsSeenALongTimeAgo_Text" xml:space="preserve">
     <value>Cuando marque una temporada entera como vista, decirle a Trakt que fue hace mucho tiempo.</value>
@@ -2922,7 +2922,7 @@ Si desea dar un impulso adicional, el enlace de donación está aquí y siempre 
         <value>Grupos con series para empezar a ver</value>
     </data>
     <data name="Settings_SortHeaderWithShowToStartWatchingWithoutNextEpisode_Text" xml:space="preserve">
-    <value>Grupos con series para empezar sin próximo episodio conocido</value>
+    <value>Grupos con series para empezar sin episodio disponible</value>
   </data>
     <data name="Startup_ConnectionDevicodeCodeModeButton" xml:space="preserve">
         <value>Opción alternativa 1: iniciar sesión con un código</value>
@@ -3316,5 +3316,8 @@ Recordatorio: tu código es {0}.</value>
   </data>
   <data name="Startup_SignInWithAnotherAccount_Text" xml:space="preserve">
     <value>Iniciar sesión con otra cuenta</value>
+  </data>
+  <data name="PendingActions_FavoriteCancelled_QuotaReached" xml:space="preserve">
+    <value>{0} no se ha podido añadir a sus favoritos: se ha alcanzado el límite de Trakt. El cambio se ha deshecho.</value>
   </data>
 </root>

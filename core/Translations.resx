@@ -388,10 +388,10 @@ coffee and happiness from my kids and wife.</value>
     <value>1 SHOW TO START WATCHING</value>
   </data>
   <data name="Home_Code_MyShowToStartWithoutNextEpisodeGroupHeaderPlural" xml:space="preserve">
-    <value>{0} SHOWS WITH NO UPCOMING EPISODE</value>
+    <value>{0} SHOWS WITH NO EPISODE AVAILABLE YET</value>
   </data>
   <data name="Home_Code_MyShowToStartWithoutNextEpisodeGroupHeaderSingular" xml:space="preserve">
-    <value>1 SHOW WITH NO UPCOMING EPISODE</value>
+    <value>1 SHOW WITH NO EPISODE AVAILABLE YET</value>
   </data>
   <data name="Home_Code_MyShowWithEpisodeToSeeButEndedGroupHeader_Plural" xml:space="preserve">
     <value>{0} ENDED SHOWS WITH UNSEEN EPISODES</value>
@@ -868,7 +868,7 @@ matches this search
   </data>
 
   <data name="Settings_Data_GroupShowsWithoutNextEpisode_Text" xml:space="preserve">
-    <value>Put shows to start with no known next episode in a separate group on home page.</value>
+    <value>Put shows to start with no episode available yet in a separate group on home page.</value>
   </data>
   <data name="Settings_Data_MarkBatchAsSeenALongTimeAgo_Text" xml:space="preserve">
     <value>When I mark full seasons or more than 15 episodes as watched, tell Trakt it was a long time ago ?</value>
@@ -1067,7 +1067,7 @@ matches this search
       <value>Groups with TV Shows to start watching</value>
   </data>
   <data name="Settings_SortHeaderWithShowToStartWatchingWithoutNextEpisode_Text" xml:space="preserve">
-    <value>Groups with shows to start watching with no known next episode</value>
+    <value>Groups with shows to start watching with no episode available yet</value>
   </data>
   <data name="Settings_SortHeaderWithEpToSee_Text" xml:space="preserve">
     <value>Groups with episode to watch</value>
@@ -3413,5 +3413,8 @@ Do you confirm?</value>
   </data>
   <data name="Startup_SignInWithAnotherAccount_Text" xml:space="preserve">
     <value>Sign in with a different account</value>
+  </data>
+  <data name="PendingActions_FavoriteCancelled_QuotaReached" xml:space="preserve">
+    <value>{0} could not be added to your favorites: the Trakt limit was reached. The change has been undone.</value>
   </data>
 </root>

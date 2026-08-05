@@ -398,10 +398,10 @@ per i miei figli e mia moglie.</value>
     <value>1 SERIE TV IN ARRIVO</value>
   </data>
     <data name="Home_Code_MyShowToStartWithoutNextEpisodeGroupHeaderPlural" xml:space="preserve">
-    <value>{0} SERIE SENZA PROSSIMO EPISODIO</value>
+    <value>{0} SERIE SENZA EPISODI DISPONIBILI</value>
   </data>
     <data name="Home_Code_MyShowToStartWithoutNextEpisodeGroupHeaderSingular" xml:space="preserve">
-    <value>1 SERIE SENZA PROSSIMO EPISODIO</value>
+    <value>1 SERIE SENZA EPISODI DISPONIBILI</value>
   </data>
     <data name="Home_Code_MyShowWithEpisodeToSeeButEndedGroupHeader_Plural" xml:space="preserve">
     <value>{0} SERIE TV TERMINATE CON EPISODI NON VISTI</value>
@@ -853,7 +853,7 @@ corrisponda a questa ricerca
   </data>
 
     <data name="Settings_Data_GroupShowsWithoutNextEpisode_Text" xml:space="preserve">
-    <value>Metti le serie da iniziare senza un prossimo episodio noto in un gruppo separato nella home page.</value>
+    <value>Metti le serie da iniziare senza episodi disponibili in un gruppo separato nella home page.</value>
   </data>
     <data name="Settings_Data_MarkBatchAsSeenALongTimeAgo_Text" xml:space="preserve">
     <value>Quando contrassegno stagioni complete come viste, è per informare Trakt che è passato molto tempo?</value>
@@ -3003,7 +3003,7 @@ Confermi?</value>
         <value>Gruppi con serie da iniziare a vedere</value>
     </data>
     <data name="Settings_SortHeaderWithShowToStartWatchingWithoutNextEpisode_Text" xml:space="preserve">
-    <value>Gruppi con serie da iniziare senza un prossimo episodio noto</value>
+    <value>Gruppi con serie da iniziare senza episodi disponibili</value>
   </data>
     <data name="Startup_ConnectionDevicodeCodeModeButton" xml:space="preserve">
         <value>Metodo alternativo 1: accesso con un codice</value>
@@ -3427,5 +3427,8 @@ t  <data name="Settings_Modern_Badge_Premium" xml:space="preserve">
   </data>
   <data name="Startup_SignInWithAnotherAccount_Text" xml:space="preserve">
     <value>Accedi con un altro account</value>
+  </data>
+  <data name="PendingActions_FavoriteCancelled_QuotaReached" xml:space="preserve">
+    <value>{0} non è stato aggiunto ai preferiti: è stato raggiunto il limite di Trakt. La modifica è stata annullata.</value>
   </data>
 </root>

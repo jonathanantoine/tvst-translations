@@ -633,12 +633,12 @@ filhos e minha esposa.</value>
   <data
       name="Home_Code_MyShowToStartWithoutNextEpisodeGroupHeaderPlural"
       xml:space="preserve">
-    <value>{0} SÉRIES SEM PRÓXIMO EPISÓDIO</value>
+    <value>{0} SÉRIES SEM EPISÓDIO DISPONÍVEL</value>
   </data>
   <data
       name="Home_Code_MyShowToStartWithoutNextEpisodeGroupHeaderSingular"
       xml:space="preserve">
-    <value>1 SÉRIE SEM PRÓXIMO EPISÓDIO</value>
+    <value>1 SÉRIE SEM EPISÓDIO DISPONÍVEL</value>
   </data>
   <data
       name="Home_Code_MyShowWithEpisodeToSeeButEndedGroupHeader_Plural"
@@ -1312,7 +1312,7 @@ corresponde à essa pesquisa
   <data
       name="Settings_Data_GroupShowsWithoutNextEpisode_Text"
       xml:space="preserve">
-    <value>Colocar as séries a começar sem próximo episódio conhecido num grupo separado na página inicial.</value>
+    <value>Colocar as séries a começar sem episódio disponível num grupo separado na página inicial.</value>
   </data>
   <data
       name="Settings_Data_MarkBatchAsSeenALongTimeAgo_Text"
@@ -4354,7 +4354,7 @@ Confirma?</value>
         <value>Grupos com séries para começar a assistir</value>
     </data>
   <data name="Settings_SortHeaderWithShowToStartWatchingWithoutNextEpisode_Text" xml:space="preserve">
-    <value>Grupos com séries para começar sem próximo episódio conhecido</value>
+    <value>Grupos com séries para começar sem episódio disponível</value>
   </data>
   <data name="Startup_ConnectionDevicodeCodeModeButton" xml:space="preserve">
         <value>Opção alternativa 1: entrar com um código</value>
@@ -4733,5 +4733,8 @@ Lembrete: o seu código é {0}.</value>
   </data>
   <data name="Startup_SignInWithAnotherAccount_Text" xml:space="preserve">
     <value>Iniciar sessão com outra conta</value>
+  </data>
+  <data name="PendingActions_FavoriteCancelled_QuotaReached" xml:space="preserve">
+    <value>{0} não pôde ser adicionado aos seus favoritos: o limite do Trakt foi atingido. A alteração foi anulada.</value>
   </data>
 </root>
