@@ -1891,7 +1891,7 @@ para essa série</value>
   <data
       name="ShowDetails_Code_Episode_AiredEpisodesPlural"
       xml:space="preserve">
-    <value>EPISÓDIO EXIBIDO</value>
+    <value>EPISÓDIOS EXIBIDOS</value>
   </data>
   <data
       name="ShowDetails_Code_EpisodePlural"
@@ -2002,6 +2002,26 @@ para essa série</value>
       name="ShowDetails_SeasonMenu_MarkSeasonAndPreviousAsSeen_Content"
       xml:space="preserve">
     <value>Marcar atual e anteriores como vistos</value>
+  </data>
+  <data
+      name="ShowDetails_SeasonMenu_MarkSeasonAndPreviousAsRewatched_Content"
+      xml:space="preserve">
+    <value>Marcar esta e as anteriores como revistas</value>
+  </data>
+  <data
+      name="ShowDetails_SeasonMenu_MarkSeasonAsRewatched_Content"
+      xml:space="preserve">
+    <value>Marcar temporada como revista</value>
+  </data>
+  <data
+      name="ShowDetails_SeasonMenu_Rewatch_DoneToastPlural"
+      xml:space="preserve">
+    <value>{0} visualizações adicionadas.</value>
+  </data>
+  <data
+      name="ShowDetails_SeasonMenu_Rewatch_DoneToastSingle"
+      xml:space="preserve">
+    <value>1 visualização adicionada.</value>
   </data>
   <data
       name="ShowDetails_SeasonMenu_MarkSeasonAsNOTsSeen_Content"
@@ -3497,7 +3517,7 @@ xml:space="preserve">
   <data
     name="ShowDetails_Code_Episode_AiredEpisodesSingle"
     xml:space="preserve">
-    <value>EPISÓDIO EXIBID</value>
+    <value>EPISÓDIO EXIBIDO</value>
   </data>
   <data
       name="ShowDetails_Code_EpisodeSingle"
@@ -3609,10 +3629,13 @@ Se ainda não conseguir acessar sua conta após o login, entre em contato Trakt 
         <value>Mais de {0}/10</value>
     </data>
   <data name="Home_Popular_TopByGenreSectionHeader" xml:space="preserve">
-        <value>MELHOR POR TIPO</value>
+        <value>MELHOR POR GÉNERO</value>
+    </data>
+  <data name="Genre_ChangeGenre_Label" xml:space="preserve">
+        <value>Mudar de género</value>
     </data>
   <data name="ShowDetails_ShowInfo_Genre" xml:space="preserve">
-        <value>Gêneros</value>
+        <value>Géneros</value>
     </data>
   <data name="Settings_Various_RemoveAnimeFromRecommendations" xml:space="preserve">
         <value>Remover animado de minhas recomendações pessoais?</value>
@@ -4020,6 +4043,9 @@ Você quer fazer isso agora?</value>
 {0}, cancele a qualquer momento.
 A assinatura renova automaticamente até que você a cancele em sua Conta do Google Play a qualquer momento antes do término do período de cobrança atual.</value>
     </data>
+  <data name="Donation_SubscriptionExplanation_Windows" xml:space="preserve">
+    <value>Subscrição recorrente faturada a cada 3 meses. Pode cancelá-la a qualquer momento na página Serviços e subscrições da sua conta Microsoft.</value>
+  </data>
 
   <data name="DemoMode_CantDoThis" xml:space="preserve">
     <value>Ação impossível no modo de demonstração.</value>
@@ -4148,6 +4174,15 @@ Se quiser dar um apoio extra, o link de doação está aqui e fica sempre dispon
   <data name="Global_UI_HintToastTitle" xml:space="preserve">
         <value>💡 Dica</value>
     </data>
+  <data name="Global_UI_DisplayAsGrid" xml:space="preserve">
+        <value>Mostrar em grelha</value>
+  </data>
+  <data name="Global_UI_DisplayAsList" xml:space="preserve">
+        <value>Mostrar em lista</value>
+  </data>
+  <data name="Global_UI_HintOfCtrlWheelPossibleContent" xml:space="preserve">
+        <value>Mantenha Ctrl premido e use a roda do rato para alterar o número de elementos por linha.</value>
+  </data>
   <data name="Settings_LanguageAndFormatHeader_Text" xml:space="preserve">
         <value>Idioma e formato</value>
     </data>
@@ -4679,6 +4714,9 @@ Lembrete: o seu código é {0}.</value>
   </data>
   <data name="Sync_RateLimitStillActiveToast" xml:space="preserve">
     <value>O Trakt ainda está a limitar os pedidos. Tente novamente dentro de {0}.</value>
+  </data>
+  <data name="Movies_NotAvailableOnWindowsYet" xml:space="preserve">
+    <value>Os filmes chegam em breve ao Windows: esta parte da aplicação ainda está a ser adaptada.</value>
   </data>
   <data name="Settings_Various_CopyLogsToClipboard" xml:space="preserve">
     <value>Copiar os registos recentes</value>

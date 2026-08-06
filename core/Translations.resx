@@ -1312,6 +1312,18 @@ Do you confirm ?
   <data name="ShowDetails_SeasonMenu_MarkSeasonAndPreviousAsSeen_Content" xml:space="preserve">
       <value>Mark this and previous seasons as watched</value>
   </data>
+  <data name="ShowDetails_SeasonMenu_MarkSeasonAndPreviousAsRewatched_Content" xml:space="preserve">
+      <value>Mark this and previous seasons as watched again</value>
+  </data>
+  <data name="ShowDetails_SeasonMenu_MarkSeasonAsRewatched_Content" xml:space="preserve">
+      <value>Mark season as watched again</value>
+  </data>
+  <data name="ShowDetails_SeasonMenu_Rewatch_DoneToastPlural" xml:space="preserve">
+      <value>{0} plays added.</value>
+  </data>
+  <data name="ShowDetails_SeasonMenu_Rewatch_DoneToastSingle" xml:space="preserve">
+      <value>1 play added.</value>
+  </data>
   <data name="ShowDetails_SeasonMenu_MarkSeasonAsNOTsSeen_Content" xml:space="preserve">
       <value>Mark this season as unwatched</value>
   </data>
@@ -1735,6 +1747,9 @@ de  <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
 7-day free trial then converted to paid subscription.
 
 Subscription automatically renews until you cancel it in your Google Play Account anytime before the current billing period ends.</value>
+  </data>
+  <data name="Donation_SubscriptionExplanation_Windows" xml:space="preserve">
+    <value>Recurring subscription billed every 3 months. You can cancel it at any time from the Services &amp; subscriptions page of your Microsoft account.</value>
   </data>
   <data name="ListCreation_NameMandatoryToast" xml:space="preserve">
     <value>Please provide a name for this list.</value>
@@ -2384,6 +2399,9 @@ If you are still unable to access your account after logging in, please contact 
   <data name="Home_Popular_TopByGenreSectionHeader" xml:space="preserve">
     <value>MOST POPULAR SHOWS BY GENRE</value>
   </data>
+  <data name="Genre_ChangeGenre_Label" xml:space="preserve">
+    <value>Change genre</value>
+  </data>
   <data name="ShowDetails_ShowInfo_Genre" xml:space="preserve">
     <value>Genres</value>
   </data>
@@ -2920,7 +2938,16 @@ If you'd like to give an extra boost, the donation link is right here and always
       <value>Pinch to zoom in or out to change the number of items per row.</value>
   </data>
   <data name="Global_UI_HintToastTitle" xml:space="preserve">
-      <value> Tip</value>
+      <value>💡 Tip</value>
+  </data>
+  <data name="Global_UI_DisplayAsGrid" xml:space="preserve">
+      <value>Display as grid</value>
+  </data>
+  <data name="Global_UI_DisplayAsList" xml:space="preserve">
+      <value>Display as list</value>
+  </data>
+  <data name="Global_UI_HintOfCtrlWheelPossibleContent" xml:space="preserve">
+      <value>Hold Ctrl and scroll the mouse wheel to change the number of items per row.</value>
   </data>
   <data name="Episode_SetAsUnseen_MultiplePlays_QuestionTitle" xml:space="preserve">
     <value>You’ve watched this episode multiple times!</value>
@@ -3359,6 +3386,9 @@ Do you confirm?</value>
   </data>
   <data name="Sync_RateLimitStillActiveToast" xml:space="preserve">
     <value>Trakt is still limiting requests. Please try again in {0}.</value>
+  </data>
+  <data name="Movies_NotAvailableOnWindowsYet" xml:space="preserve">
+    <value>Movies are coming soon to Windows: this part of the app is still being ported.</value>
   </data>
   <data name="Settings_Various_CopyLogsToClipboard" xml:space="preserve">
     <value>Copy the recent logs</value>

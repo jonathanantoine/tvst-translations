@@ -1267,6 +1267,18 @@ per questa SERIE TV</value>
     <data name="ShowDetails_SeasonMenu_MarkSeasonAndPreviousAsSeen_Content" xml:space="preserve">
     <value>Contrassegna questa stagione e quella passata come già viste</value>
   </data>
+    <data name="ShowDetails_SeasonMenu_MarkSeasonAndPreviousAsRewatched_Content" xml:space="preserve">
+    <value>Contrassegna questa stagione e le precedenti come riviste</value>
+  </data>
+    <data name="ShowDetails_SeasonMenu_MarkSeasonAsRewatched_Content" xml:space="preserve">
+    <value>Contrassegna la stagione come rivista</value>
+  </data>
+    <data name="ShowDetails_SeasonMenu_Rewatch_DoneToastPlural" xml:space="preserve">
+    <value>{0} visioni aggiunte.</value>
+  </data>
+    <data name="ShowDetails_SeasonMenu_Rewatch_DoneToastSingle" xml:space="preserve">
+    <value>1 visione aggiunta.</value>
+  </data>
     <data name="ShowDetails_SeasonMenu_MarkSeasonAsNOTsSeen_Content" xml:space="preserve">
     <value>Contrassegna la stagione come NON vista</value>
   </data>
@@ -2286,6 +2298,9 @@ Se non riesci ancora ad accedere al tuo account dopo l'accesso, contattaci Trakt
     <data name="Home_Popular_TopByGenreSectionHeader" xml:space="preserve">
         <value>TOP PER GENERE</value>
     </data>
+    <data name="Genre_ChangeGenre_Label" xml:space="preserve">
+        <value>Cambia genere</value>
+    </data>
     <data name="ShowDetails_ShowInfo_Genre" xml:space="preserve">
         <value>Generi</value>
     </data>
@@ -2567,6 +2582,9 @@ Vuoi farlo ora?</value>
 
 L'abbonamento si rinnova automaticamente fino alla disdetta effettuata tramite il tuo account Google Play in qualsiasi momento prima della fine del periodo di fatturazione corrente.</value>
     </data>
+  <data name="Donation_SubscriptionExplanation_Windows" xml:space="preserve">
+    <value>Abbonamento ricorrente fatturato ogni 3 mesi. Puoi annullarlo in qualsiasi momento dalla pagina Servizi e abbonamenti del tuo account Microsoft.</value>
+  </data>
 
     <data name="DemoMode_CantDoThis" xml:space="preserve">
     <value>Azione impossibile nella modalità demo.</value>
@@ -2690,6 +2708,15 @@ Se vuoi dare una spinta in più, il link per la donazione è qui e resta sempre 
     </data>
     <data name="Global_UI_HintToastTitle" xml:space="preserve">
         <value>💡 Suggerimento</value>
+    </data>
+    <data name="Global_UI_DisplayAsGrid" xml:space="preserve">
+        <value>Mostra a griglia</value>
+    </data>
+    <data name="Global_UI_DisplayAsList" xml:space="preserve">
+        <value>Mostra a elenco</value>
+    </data>
+    <data name="Global_UI_HintOfCtrlWheelPossibleContent" xml:space="preserve">
+        <value>Tieni premuto Ctrl e usa la rotellina del mouse per cambiare il numero di elementi per riga.</value>
     </data>
     <data name="Settings_LanguageAndFormatHeader_Text" xml:space="preserve">
         <value>Lingua e formato</value>
@@ -3373,6 +3400,9 @@ t  <data name="Settings_Modern_Badge_Premium" xml:space="preserve">
   </data>
   <data name="Sync_RateLimitStillActiveToast" xml:space="preserve">
     <value>Trakt sta ancora limitando le richieste. Riprovi tra {0}.</value>
+  </data>
+  <data name="Movies_NotAvailableOnWindowsYet" xml:space="preserve">
+    <value>I film arriveranno presto su Windows: questa parte dell'app è ancora in fase di adattamento.</value>
   </data>
   <data name="Settings_Various_CopyLogsToClipboard" xml:space="preserve">
     <value>Copia i log recenti</value>

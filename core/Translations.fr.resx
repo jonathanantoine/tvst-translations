@@ -1086,6 +1086,15 @@ pour voir vos stats</value>
       xml:space="preserve">
     <value>VOTRE TOP DE SÉRIES</value>
   </data>
+  <data name="Home_UserStats_SeeAll_Text" xml:space="preserve">
+    <value>Tout voir</value>
+  </data>
+  <data name="Home_UserStats_AllTimeTopShows_Title" xml:space="preserve">
+    <value>Meilleures séries de tous les temps</value>
+  </data>
+  <data name="Home_UserStats_LastMonthTopShows_Title" xml:space="preserve">
+    <value>Meilleures séries des 30 derniers jours</value>
+  </data>
   <data
       name     ="Home_UserStats_WatchTime_EpLeftToSeeIn_Text"
       xml:space="preserve">
@@ -2035,6 +2044,26 @@ Confirmez-vous ?
       name     ="ShowDetails_SeasonMenu_MarkSeasonAndPreviousAsSeen_Content"
       xml:space="preserve">
       <value>Marquer comme vues avec les précédentes</value>
+  </data>
+  <data
+      name     ="ShowDetails_SeasonMenu_MarkSeasonAndPreviousAsRewatched_Content"
+      xml:space="preserve">
+      <value>Marquer comme revues avec les précédentes</value>
+  </data>
+  <data
+      name     ="ShowDetails_SeasonMenu_MarkSeasonAsRewatched_Content"
+      xml:space="preserve">
+      <value>Marquer la saison comme revue</value>
+  </data>
+  <data
+      name     ="ShowDetails_SeasonMenu_Rewatch_DoneToastPlural"
+      xml:space="preserve">
+      <value>{0} visionnages ajoutés.</value>
+  </data>
+  <data
+      name     ="ShowDetails_SeasonMenu_Rewatch_DoneToastSingle"
+      xml:space="preserve">
+      <value>1 visionnage ajouté.</value>
   </data>
   <data
       name     ="ShowDetails_SeasonMenu_MarkSeasonAsNOTsSeen_Content"
@@ -3543,6 +3572,9 @@ Si vous ne pouvez toujours pas accéder à votre compte après la connexion, veu
   <data name="Home_Popular_TopByGenreSectionHeader" xml:space="preserve">
         <value>SÉRIES LES PLUS POPULAIRES PAR GENRE</value>
     </data>
+  <data name="Genre_ChangeGenre_Label" xml:space="preserve">
+        <value>Changer de genre</value>
+    </data>
   <data name="ShowDetails_ShowInfo_Genre" xml:space="preserve">
         <value>Genres</value>
     </data>
@@ -3831,8 +3863,7 @@ plus</value>
   <data name="Settings_SeasonBadges_Premiere_Label" xml:space="preserve">
   <value>SEASON PREMIERE</value>
 </data>
-  <data name="
-" xml:space="preserve">
+  <data name="Settings_SeasonBadges_Premiere_Description" xml:space="preserve">
   <value>Le prochain épisode à regarder est le premier épisode diffusé d’une saison.</value>
 </data>
 
@@ -3982,6 +4013,9 @@ Voulez-vous le faire maintenant ?</value>
 
 L'abonnement se renouvelle automatiquement jusqu'à ce que vous l'annuliez dans votre compte Google Play à tout moment avant la fin de la période de facturation en cours.</value>
     </data>
+  <data name="Donation_SubscriptionExplanation_Windows" xml:space="preserve">
+    <value>Abonnement récurrent facturé tous les 3 mois. Vous pouvez l'annuler à tout moment depuis la page Services et abonnements de votre compte Microsoft.</value>
+  </data>
   <data name="DemoMode_CantDoThis" xml:space="preserve">
     <value>Action impossible dans le mode démo</value>
   </data>
@@ -4116,6 +4150,15 @@ Si vous souhaitez donner un coup de pouce supplémentaire, le lien de donation e
   </data>
   <data name="Global_UI_HintToastTitle" xml:space="preserve">
       <value>💡 Astuce</value>
+  </data>
+  <data name="Global_UI_DisplayAsGrid" xml:space="preserve">
+      <value>Afficher en grille</value>
+  </data>
+  <data name="Global_UI_DisplayAsList" xml:space="preserve">
+      <value>Afficher en liste</value>
+  </data>
+  <data name="Global_UI_HintOfCtrlWheelPossibleContent" xml:space="preserve">
+      <value>Maintenez Ctrl et utilisez la molette pour changer le nombre d’éléments par ligne.</value>
   </data>
   <data name="Episode_SetAsUnseen_MultiplePlays_QuestionTitle" xml:space="preserve">
     <value>Vous avez vu cet épisode plusieurs fois!</value>
@@ -4641,6 +4684,9 @@ Rappel : votre code est {0}.</value>
   </data>
   <data name="Sync_RateLimitStillActiveToast" xml:space="preserve">
     <value>Trakt limite encore les requêtes. Veuillez réessayer dans {0}.</value>
+  </data>
+  <data name="Movies_NotAvailableOnWindowsYet" xml:space="preserve">
+    <value>Les films arrivent bientôt sur Windows : cette partie de l'application est encore en cours de portage.</value>
   </data>
   <data name="Settings_Various_CopyLogsToClipboard" xml:space="preserve">
     <value>Copier les logs récents</value>

@@ -1278,6 +1278,18 @@ Confirmas ?
     <data name="ShowDetails_SeasonMenu_MarkSeasonAndPreviousAsSeen_Content" xml:space="preserve">
     <value>Marcar este y los anteriores como vistos</value>
   </data>
+    <data name="ShowDetails_SeasonMenu_MarkSeasonAndPreviousAsRewatched_Content" xml:space="preserve">
+    <value>Marcar esta y las anteriores como revistas</value>
+  </data>
+    <data name="ShowDetails_SeasonMenu_MarkSeasonAsRewatched_Content" xml:space="preserve">
+    <value>Marcar la temporada como revista</value>
+  </data>
+    <data name="ShowDetails_SeasonMenu_Rewatch_DoneToastPlural" xml:space="preserve">
+    <value>{0} visualizaciones añadidas.</value>
+  </data>
+    <data name="ShowDetails_SeasonMenu_Rewatch_DoneToastSingle" xml:space="preserve">
+    <value>1 visualización añadida.</value>
+  </data>
     <data name="ShowDetails_SeasonMenu_MarkSeasonAsNOTsSeen_Content" xml:space="preserve">
     <value>Marcar temporada como no vista</value>
   </data>
@@ -2314,6 +2326,9 @@ Si aún no puedes acceder a tu cuenta después de iniciar sesión, contáctanos 
     <data name="Home_Popular_TopByGenreSectionHeader" xml:space="preserve">
         <value>ARRIBA POR TIPO</value>
     </data>
+    <data name="Genre_ChangeGenre_Label" xml:space="preserve">
+        <value>Cambiar de tipo</value>
+    </data>
     <data name="ShowDetails_ShowInfo_Genre" xml:space="preserve">
         <value>Tipos</value>
     </data>
@@ -2349,6 +2364,114 @@ Si aún no puedes acceder a tu cuenta después de iniciar sesión, contáctanos 
     </data>
     <data name="ShowDetails_ShowInfo_TotalRuntime" xml:space="preserve">
         <value>Tiempo de ejecución total</value>
+    </data>
+    <data name="GenreName_biography" xml:space="preserve">
+        <value>Biografía</value>
+    </data>
+    <data name="GenreName_children" xml:space="preserve">
+        <value>Infantil</value>
+    </data>
+    <data name="GenreName_comedy" xml:space="preserve">
+        <value>Comedia</value>
+    </data>
+    <data name="GenreName_crime" xml:space="preserve">
+        <value>Crimen</value>
+    </data>
+    <data name="GenreName_documentary" xml:space="preserve">
+        <value>Documental</value>
+    </data>
+    <data name="GenreName_drama" xml:space="preserve">
+        <value>Drama</value>
+    </data>
+    <data name="GenreName_family" xml:space="preserve">
+        <value>Familiar</value>
+    </data>
+    <data name="GenreName_fantasy" xml:space="preserve">
+        <value>Fantasía</value>
+    </data>
+    <data name="GenreName_game_show" xml:space="preserve">
+        <value>Concursos</value>
+    </data>
+    <data name="GenreName_history" xml:space="preserve">
+        <value>Historia</value>
+    </data>
+    <data name="GenreName_holiday" xml:space="preserve">
+        <value>Festividades</value>
+    </data>
+    <data name="GenreName_home_and_garden" xml:space="preserve">
+        <value>Hogar y jardín</value>
+    </data>
+    <data name="GenreName_horror" xml:space="preserve">
+        <value>Terror</value>
+    </data>
+    <data name="GenreName_music" xml:space="preserve">
+        <value>Música</value>
+    </data>
+    <data name="GenreName_musical" xml:space="preserve">
+        <value>Musical</value>
+    </data>
+    <data name="GenreName_mystery" xml:space="preserve">
+        <value>Misterio</value>
+    </data>
+    <data name="GenreName_news" xml:space="preserve">
+        <value>Noticias</value>
+    </data>
+    <data name="GenreName_none" xml:space="preserve">
+        <value>Ninguno</value>
+    </data>
+    <data name="GenreName_reality" xml:space="preserve">
+        <value>Telerrealidad</value>
+    </data>
+    <data name="GenreName_romance" xml:space="preserve">
+        <value>Romance</value>
+    </data>
+    <data name="GenreName_science_fiction" xml:space="preserve">
+        <value>Ciencia ficción</value>
+    </data>
+    <data name="GenreName_short" xml:space="preserve">
+        <value>Cortometraje</value>
+    </data>
+    <data name="GenreName_soap" xml:space="preserve">
+        <value>Telenovela</value>
+    </data>
+    <data name="GenreName_special_interest" xml:space="preserve">
+        <value>Interés especial</value>
+    </data>
+    <data name="GenreName_sporting_event" xml:space="preserve">
+        <value>Eventos deportivos</value>
+    </data>
+    <data name="GenreName_superhero" xml:space="preserve">
+        <value>Superhéroe</value>
+    </data>
+    <data name="GenreName_suspense" xml:space="preserve">
+        <value>Suspense</value>
+    </data>
+    <data name="GenreName_action" xml:space="preserve">
+        <value>Acción</value>
+    </data>
+    <data name="GenreName_adventure" xml:space="preserve">
+        <value>Aventura</value>
+    </data>
+    <data name="GenreName_animation" xml:space="preserve">
+        <value>Animación</value>
+    </data>
+    <data name="GenreName_anime" xml:space="preserve">
+        <value>Anime</value>
+    </data>
+    <data name="GenreName_talk_show" xml:space="preserve">
+        <value>Programa de entrevistas</value>
+    </data>
+    <data name="GenreName_thriller" xml:space="preserve">
+        <value>Thriller</value>
+    </data>
+    <data name="GenreName_war" xml:space="preserve">
+        <value>Guerra</value>
+    </data>
+    <data name="GenreName_western" xml:space="preserve">
+        <value>Western</value>
+    </data>
+    <data name="GenreName_tv_show" xml:space="preserve">
+        <value>Programa de TV</value>
     </data>
     <data name="ShowDetails_Info_Creator_Single" xml:space="preserve">
         <value>Creador</value>
@@ -2592,6 +2715,9 @@ Puedes hacerlo en cualquier momento más tarde en la configuración de la aplica
 
 La suscripción se renueva automáticamente hasta que la canceles en tu cuenta de Google Play en cualquier momento antes de que finalice el período de facturación actual.</value>
     </data>
+  <data name="Donation_SubscriptionExplanation_Windows" xml:space="preserve">
+    <value>Suscripción periódica facturada cada 3 meses. Puedes cancelarla en cualquier momento desde la página Servicios y suscripciones de tu cuenta Microsoft.</value>
+  </data>
 
   <data name="DemoMode_CantDoThis" xml:space="preserve">
     <value>Acción imposible en el modo de demostración.</value>
@@ -2719,6 +2845,15 @@ Si desea dar un impulso adicional, el enlace de donación está aquí y siempre 
     </data>
     <data name="Global_UI_HintToastTitle" xml:space="preserve">
         <value>💡 Consejo</value>
+    </data>
+    <data name="Global_UI_DisplayAsGrid" xml:space="preserve">
+        <value>Mostrar en cuadrícula</value>
+    </data>
+    <data name="Global_UI_DisplayAsList" xml:space="preserve">
+        <value>Mostrar en lista</value>
+    </data>
+    <data name="Global_UI_HintOfCtrlWheelPossibleContent" xml:space="preserve">
+        <value>Mantén pulsado Ctrl y usa la rueda del ratón para cambiar el número de elementos por fila.</value>
     </data>
     <data name="Settings_LanguageAndFormatHeader_Text" xml:space="preserve">
       <value>Idioma y formato</value>
@@ -3262,6 +3397,9 @@ Recordatorio: tu código es {0}.</value>
   </data>
   <data name="Sync_RateLimitStillActiveToast" xml:space="preserve">
     <value>Trakt sigue limitando las solicitudes. Vuelva a intentarlo en {0}.</value>
+  </data>
+  <data name="Movies_NotAvailableOnWindowsYet" xml:space="preserve">
+    <value>Las películas llegarán pronto a Windows: esta parte de la aplicación aún se está adaptando.</value>
   </data>
   <data name="Settings_Various_CopyLogsToClipboard" xml:space="preserve">
     <value>Copiar los registros recientes</value>
