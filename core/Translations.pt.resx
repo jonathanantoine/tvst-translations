@@ -4183,6 +4183,18 @@ Se quiser dar um apoio extra, o link de doação está aqui e fica sempre dispon
   <data name="Global_UI_HintOfCtrlWheelPossibleContent" xml:space="preserve">
         <value>Mantenha Ctrl premido e use a roda do rato para alterar o número de elementos por linha.</value>
   </data>
+  <data name="Global_UI_DisplayMode_Title" xml:space="preserve">
+        <value>Modo de visualização</value>
+  </data>
+  <data name="Global_UI_DisplayMode_Vignette" xml:space="preserve">
+        <value>Cartões</value>
+  </data>
+  <data name="History_PinchModeHint_Title" xml:space="preserve">
+        <value>Alteração da disposição</value>
+  </data>
+  <data name="History_PinchModeHint_Content" xml:space="preserve">
+        <value>Use o gesto de pinça para alternar entre as disposições em grelha e em lista, e para alterar o número de itens por linha. Para voltar à disposição em cartões, utilize o botão na barra de ferramentas.</value>
+  </data>
   <data name="Settings_LanguageAndFormatHeader_Text" xml:space="preserve">
         <value>Idioma e formato</value>
     </data>
@@ -4744,6 +4756,12 @@ Lembrete: o seu código é {0}.</value>
   </data>
   <data name="Trakt_Reconnect_BannerText" xml:space="preserve">
     <value>Ligação ao Trakt perdida — toque para voltar a ligar</value>
+  </data>
+  <data name="Trakt_Reconnect_BannerHideButton" xml:space="preserve">
+    <value>Ocultar</value>
+  </data>
+  <data name="Trakt_Reconnect_BannerHiddenToast" xml:space="preserve">
+    <value>Faixa ocultada. Pode voltar a ligar-se ao Trakt a qualquer momento a partir do menu lateral.</value>
   </data>
   <data name="Trakt_Reconnect_MenuItem" xml:space="preserve">
     <value>Voltar a ligar ao Trakt</value>

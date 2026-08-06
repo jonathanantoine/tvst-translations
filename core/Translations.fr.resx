@@ -4160,6 +4160,18 @@ Si vous souhaitez donner un coup de pouce supplémentaire, le lien de donation e
   <data name="Global_UI_HintOfCtrlWheelPossibleContent" xml:space="preserve">
       <value>Maintenez Ctrl et utilisez la molette pour changer le nombre d’éléments par ligne.</value>
   </data>
+  <data name="Global_UI_DisplayMode_Title" xml:space="preserve">
+      <value>Mode d'affichage</value>
+  </data>
+  <data name="Global_UI_DisplayMode_Vignette" xml:space="preserve">
+      <value>Cartes</value>
+  </data>
+  <data name="History_PinchModeHint_Title" xml:space="preserve">
+      <value>Changement de disposition</value>
+  </data>
+  <data name="History_PinchModeHint_Content" xml:space="preserve">
+      <value>Pincez pour basculer entre les dispositions en grille et en liste, et pour modifier le nombre d’éléments par ligne. Pour revenir à la disposition en cartes, utilisez le bouton dans la barre d'outils.</value>
+  </data>
   <data name="Episode_SetAsUnseen_MultiplePlays_QuestionTitle" xml:space="preserve">
     <value>Vous avez vu cet épisode plusieurs fois!</value>
   </data>
@@ -4714,6 +4726,12 @@ Rappel : votre code est {0}.</value>
   </data>
   <data name="Trakt_Reconnect_BannerText" xml:space="preserve">
     <value>Connexion à Trakt perdue — touchez pour vous reconnecter</value>
+  </data>
+  <data name="Trakt_Reconnect_BannerHideButton" xml:space="preserve">
+    <value>Masquer</value>
+  </data>
+  <data name="Trakt_Reconnect_BannerHiddenToast" xml:space="preserve">
+    <value>Bandeau masqué. Vous pouvez vous reconnecter à Trakt à tout moment depuis le menu latéral.</value>
   </data>
   <data name="Trakt_Reconnect_MenuItem" xml:space="preserve">
     <value>Se reconnecter à Trakt</value>
