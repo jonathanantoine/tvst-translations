@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!--
     Microsoft ResX Schema
@@ -4768,5 +4768,8 @@ Rappel : votre code est {0}.</value>
   </data>
   <data name="Settings_HomeGroupsSectionSubtitle" xml:space="preserve">
     <value>Choisissez les groupes de séries créés sur la page d'accueil.</value>
+  </data>
+  <data name="Home_UserHistory_Grid_WatchedAtHourFormat" xml:space="preserve">
+    <value>Vu à {0}</value>
   </data>
 </root>

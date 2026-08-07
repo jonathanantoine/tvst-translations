@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
     <!--
     Microsoft ResX Schema
@@ -3484,5 +3484,8 @@ t  <data name="Settings_Modern_Badge_Premium" xml:space="preserve">
   </data>
   <data name="Settings_HomeGroupsSectionSubtitle" xml:space="preserve">
     <value>Scegli quali gruppi di serie vengono creati nella pagina principale.</value>
+  </data>
+  <data name="Home_UserHistory_Grid_WatchedAtHourFormat" xml:space="preserve">
+    <value>Visto alle {0}</value>
   </data>
 </root>
