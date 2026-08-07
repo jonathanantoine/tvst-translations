@@ -4772,4 +4772,16 @@ Rappel : votre code est {0}.</value>
   <data name="Home_UserHistory_Grid_WatchedAtHourFormat" xml:space="preserve">
     <value>Vu à {0}</value>
   </data>
+  <data name="Home_ShowActions_UpNextFormat" xml:space="preserve">
+    <value>À suivre : {0}</value>
+  </data>
+  <data name="Home_ShowActions_UpNextWithTitleFormat" xml:space="preserve">
+    <value>À suivre : {0} — {1}</value>
+  </data>
+  <data name="Home_ShowActions_MarkAsSeenFormat" xml:space="preserve">
+    <value>Marquer {0} comme vu</value>
+  </data>
+  <data name="Home_ShowActions_AiredOnFormat" xml:space="preserve">
+    <value>Diffusé le {0} - {1}</value>
+  </data>
 </root>

@@ -3488,4 +3488,16 @@ t  <data name="Settings_Modern_Badge_Premium" xml:space="preserve">
   <data name="Home_UserHistory_Grid_WatchedAtHourFormat" xml:space="preserve">
     <value>Visto alle {0}</value>
   </data>
+  <data name="Home_ShowActions_UpNextFormat" xml:space="preserve">
+    <value>Prossimo: {0}</value>
+  </data>
+  <data name="Home_ShowActions_UpNextWithTitleFormat" xml:space="preserve">
+    <value>Prossimo: {0} — {1}</value>
+  </data>
+  <data name="Home_ShowActions_MarkAsSeenFormat" xml:space="preserve">
+    <value>Segna {0} come visto</value>
+  </data>
+  <data name="Home_ShowActions_AiredOnFormat" xml:space="preserve">
+    <value>Trasmesso il {0} - {1}</value>
+  </data>
 </root>

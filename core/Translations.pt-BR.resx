@@ -3440,4 +3440,16 @@ Lembrete: o seu código é {0}.</value>
   <data name="Home_UserHistory_Grid_WatchedAtHourFormat" xml:space="preserve">
     <value>Visto às {0}</value>
   </data>
+  <data name="Home_ShowActions_UpNextFormat" xml:space="preserve">
+    <value>A seguir: {0}</value>
+  </data>
+  <data name="Home_ShowActions_UpNextWithTitleFormat" xml:space="preserve">
+    <value>A seguir: {0} — {1}</value>
+  </data>
+  <data name="Home_ShowActions_MarkAsSeenFormat" xml:space="preserve">
+    <value>Marcar {0} como visto</value>
+  </data>
+  <data name="Home_ShowActions_AiredOnFormat" xml:space="preserve">
+    <value>Exibido em {0} - {1}</value>
+  </data>
 </root>
