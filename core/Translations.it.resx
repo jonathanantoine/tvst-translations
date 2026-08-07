@@ -3539,4 +3539,10 @@ t  <data name="Settings_Modern_Badge_Premium" xml:space="preserve">
   <data name="Comments_ShowAllLanguages" xml:space="preserve">
     <value>Mostra tutte le lingue</value>
   </data>
+  <data name="Comments_LanguageFilterFormat" xml:space="preserve">
+    <value>Lingua: {0}</value>
+  </data>
+  <data name="Comments_LanguageFilter_All" xml:space="preserve">
+    <value>Tutte</value>
+  </data>
 </root>
