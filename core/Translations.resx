@@ -1172,6 +1172,12 @@ Rules: English only, 5+ words, no support requests, mark spoilers!</value>
   <data name="Global_Share_Label" xml:space="preserve">
     <value>Share</value>
   </data>
+  <data name="QuickPeek_AlreadyInTvst_Label" xml:space="preserve">
+    <value>Already in TVST</value>
+  </data>
+  <data name="QuickPeek_AddedToTvstOn_Format" xml:space="preserve">
+    <value>Added to TVST on {0}</value>
+  </data>
   <data name="ShowDetails_AppBar_UnHide_Label" xml:space="preserve">
     <value>Restore/Unhide this show</value>
   </data>
@@ -3491,5 +3497,8 @@ Do you confirm?</value>
   </data>
   <data name="MediaItem_ReleasingOnFormat" xml:space="preserve">
     <value>Releasing on {0} - {1}</value>
+  </data>
+  <data name="Discover_ReleaseDateBadge" xml:space="preserve">
+    <value>Out: {0}</value>
   </data>
 </root>

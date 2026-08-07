@@ -4820,4 +4820,7 @@ Lembrete: o seu código é {0}.</value>
   <data name="MediaItem_ReleasingOnFormat" xml:space="preserve">
     <value>Estreia a {0} - {1}</value>
   </data>
+  <data name="Discover_ReleaseDateBadge" xml:space="preserve">
+    <value>Estreia: {0}</value>
+  </data>
 </root>

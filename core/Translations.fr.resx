@@ -4790,4 +4790,7 @@ Rappel : votre code est {0}.</value>
   <data name="MediaItem_ReleasingOnFormat" xml:space="preserve">
     <value>Sortie le {0} - {1}</value>
   </data>
+  <data name="Discover_ReleaseDateBadge" xml:space="preserve">
+    <value>Sortie : {0}</value>
+  </data>
 </root>

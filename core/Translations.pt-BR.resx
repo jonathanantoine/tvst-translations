@@ -1109,6 +1109,12 @@ Regras: Somente em inglês, 5 ou mais palavras, sem solicitações de suporte, m
     <data name="Global_Share_Label" xml:space="preserve">
     <value>Compartilhar</value>
   </data>
+    <data name="QuickPeek_AlreadyInTvst_Label" xml:space="preserve">
+    <value>Já está no TVST</value>
+  </data>
+    <data name="QuickPeek_AddedToTvstOn_Format" xml:space="preserve">
+    <value>Adicionado ao TVST em {0}</value>
+  </data>
     <data name="ShowDetails_AppBar_UnHide_Label" xml:space="preserve">
     <value>Restaurar na minha coleção</value>
   </data>
@@ -3457,5 +3463,8 @@ Lembrete: o seu código é {0}.</value>
   </data>
   <data name="MediaItem_ReleasingOnFormat" xml:space="preserve">
     <value>Estreia em {0} - {1}</value>
+  </data>
+  <data name="Discover_ReleaseDateBadge" xml:space="preserve">
+    <value>Estreia: {0}</value>
   </data>
 </root>

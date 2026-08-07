@@ -1148,6 +1148,12 @@ Regole: solo in inglese, 5 o più parole, senza richieste di supporto, contrasse
     <data name="Global_Share_Label" xml:space="preserve">
     <value>Condividi</value>
   </data>
+    <data name="QuickPeek_AlreadyInTvst_Label" xml:space="preserve">
+    <value>Già in TVST</value>
+  </data>
+    <data name="QuickPeek_AddedToTvstOn_Format" xml:space="preserve">
+    <value>Aggiunto a TVST il {0}</value>
+  </data>
     <data name="ShowDetails_AppBar_UnHide_Label" xml:space="preserve">
     <value>Ripristina nella mia raccolta</value>
   </data>
@@ -3505,5 +3511,8 @@ t  <data name="Settings_Modern_Badge_Premium" xml:space="preserve">
   </data>
   <data name="MediaItem_ReleasingOnFormat" xml:space="preserve">
     <value>In uscita il {0} - {1}</value>
+  </data>
+  <data name="Discover_ReleaseDateBadge" xml:space="preserve">
+    <value>Uscita: {0}</value>
   </data>
 </root>
