@@ -3486,4 +3486,10 @@ Do you confirm?</value>
   <data name="Home_ShowActions_AiredOnFormat" xml:space="preserve">
     <value>Aired on {0} - {1}</value>
   </data>
+  <data name="MediaItem_ReleasedOnFormat" xml:space="preserve">
+    <value>Released on {0} - {1}</value>
+  </data>
+  <data name="MediaItem_ReleasingOnFormat" xml:space="preserve">
+    <value>Releasing on {0} - {1}</value>
+  </data>
 </root>

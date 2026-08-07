@@ -3500,4 +3500,10 @@ t  <data name="Settings_Modern_Badge_Premium" xml:space="preserve">
   <data name="Home_ShowActions_AiredOnFormat" xml:space="preserve">
     <value>Trasmesso il {0} - {1}</value>
   </data>
+  <data name="MediaItem_ReleasedOnFormat" xml:space="preserve">
+    <value>Uscito il {0} - {1}</value>
+  </data>
+  <data name="MediaItem_ReleasingOnFormat" xml:space="preserve">
+    <value>In uscita il {0} - {1}</value>
+  </data>
 </root>

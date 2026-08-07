@@ -4784,4 +4784,10 @@ Rappel : votre code est {0}.</value>
   <data name="Home_ShowActions_AiredOnFormat" xml:space="preserve">
     <value>Diffusé le {0} - {1}</value>
   </data>
+  <data name="MediaItem_ReleasedOnFormat" xml:space="preserve">
+    <value>Sorti le {0} - {1}</value>
+  </data>
+  <data name="MediaItem_ReleasingOnFormat" xml:space="preserve">
+    <value>Sortie le {0} - {1}</value>
+  </data>
 </root>
