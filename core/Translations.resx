@@ -3501,4 +3501,10 @@ Do you confirm?</value>
   <data name="Discover_ReleaseDateBadge" xml:space="preserve">
     <value>Out: {0}</value>
   </data>
+  <data name="MediaItem_RuntimeMinutesFormat" xml:space="preserve">
+    <value>{0} min</value>
+  </data>
+  <data name="MediaItem_PublicRatingFormat" xml:space="preserve">
+    <value>Public rating : {0}</value>
+  </data>
 </root>

@@ -3512,4 +3512,10 @@ Recordatorio: tu código es {0}.</value>
   <data name="Discover_ReleaseDateBadge" xml:space="preserve">
     <value>Estreno: {0}</value>
   </data>
+  <data name="MediaItem_RuntimeMinutesFormat" xml:space="preserve">
+    <value>{0} min</value>
+  </data>
+  <data name="MediaItem_PublicRatingFormat" xml:space="preserve">
+    <value>Puntuación pública : {0}</value>
+  </data>
 </root>

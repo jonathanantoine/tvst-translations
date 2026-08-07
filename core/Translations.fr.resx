@@ -1846,6 +1846,16 @@ Règles: EN ANGLAIS, au moins 5 mots, pas de demande d'aide, indiquez les spoile
     <value>Partager</value>
   </data>
   <data
+      name     ="QuickPeek_AlreadyInTvst_Label"
+      xml:space="preserve">
+    <value>Déjà dans TVST</value>
+  </data>
+  <data
+      name     ="QuickPeek_AddedToTvstOn_Format"
+      xml:space="preserve">
+    <value>Ajouté à TVST le {0}</value>
+  </data>
+  <data
       name     ="ShowDetails_AppBar_UnHide_Label"
       xml:space="preserve">
     <value>Afficher à nouveau la série</value>
@@ -4792,5 +4802,11 @@ Rappel : votre code est {0}.</value>
   </data>
   <data name="Discover_ReleaseDateBadge" xml:space="preserve">
     <value>Sortie : {0}</value>
+  </data>
+  <data name="MediaItem_RuntimeMinutesFormat" xml:space="preserve">
+    <value>{0} min</value>
+  </data>
+  <data name="MediaItem_PublicRatingFormat" xml:space="preserve">
+    <value>Note du public : {0}</value>
   </data>
 </root>

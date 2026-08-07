@@ -3467,4 +3467,10 @@ Lembrete: o seu código é {0}.</value>
   <data name="Discover_ReleaseDateBadge" xml:space="preserve">
     <value>Estreia: {0}</value>
   </data>
+  <data name="MediaItem_RuntimeMinutesFormat" xml:space="preserve">
+    <value>{0} min</value>
+  </data>
+  <data name="MediaItem_PublicRatingFormat" xml:space="preserve">
+    <value>Nota do público: {0}</value>
+  </data>
 </root>
