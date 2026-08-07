@@ -3840,6 +3840,12 @@ plus</value>
   <data name="Settings_MainListItemAppearance_MoviesOnlyHeader" xml:space="preserve">
         <value>Films uniquement</value>
     </data>
+  <data name="Settings_DisplayMovieRuntimeOnMainList" xml:space="preserve">
+        <value>Afficher la durée</value>
+    </data>
+  <data name="Settings_DisplayMovieRuntimeOnMainList_Subtitle" xml:space="preserve">
+        <value>Ajoute une étiquette avec la durée sur les pochettes des films.</value>
+    </data>
   <data name="Settings_MainListItemAppearance_GesturesHeader" xml:space="preserve">
         <value>Gestes</value>
     </data>
@@ -4808,5 +4814,17 @@ Rappel : votre code est {0}.</value>
   </data>
   <data name="MediaItem_PublicRatingFormat" xml:space="preserve">
     <value>Note du public : {0}</value>
+  </data>
+  <data name="Settings_CommentsLanguage_Header" xml:space="preserve">
+    <value>Langue des commentaires</value>
+  </data>
+  <data name="Settings_CommentsLanguage_All" xml:space="preserve">
+    <value>Toutes les langues</value>
+  </data>
+  <data name="Comments_NoneInThisLanguage" xml:space="preserve">
+    <value>Aucun commentaire dans cette langue pour le moment.</value>
+  </data>
+  <data name="Comments_ShowAllLanguages" xml:space="preserve">
+    <value>Afficher toutes les langues</value>
   </data>
 </root>

@@ -2407,6 +2407,12 @@ Se non riesci ancora ad accedere al tuo account dopo l'accesso, contattaci Trakt
     <data name="Settings_MainListItemAppearance_MoviesOnlyHeader" xml:space="preserve">
         <value>Solo film</value>
     </data>
+    <data name="Settings_DisplayMovieRuntimeOnMainList" xml:space="preserve">
+        <value>Mostrare la durata</value>
+    </data>
+    <data name="Settings_DisplayMovieRuntimeOnMainList_Subtitle" xml:space="preserve">
+        <value>Aggiunge un'etichetta con la durata sulle locandine dei film.</value>
+    </data>
     <data name="Settings_MainListItemAppearance_GesturesHeader" xml:space="preserve">
         <value>Gesti</value>
     </data>
@@ -3520,5 +3526,17 @@ t  <data name="Settings_Modern_Badge_Premium" xml:space="preserve">
   </data>
   <data name="MediaItem_PublicRatingFormat" xml:space="preserve">
     <value>Voto del pubblico: {0}</value>
+  </data>
+  <data name="Settings_CommentsLanguage_Header" xml:space="preserve">
+    <value>Lingua dei commenti</value>
+  </data>
+  <data name="Settings_CommentsLanguage_All" xml:space="preserve">
+    <value>Tutte le lingue</value>
+  </data>
+  <data name="Comments_NoneInThisLanguage" xml:space="preserve">
+    <value>Nessun commento in questa lingua per ora.</value>
+  </data>
+  <data name="Comments_ShowAllLanguages" xml:space="preserve">
+    <value>Mostra tutte le lingue</value>
   </data>
 </root>
