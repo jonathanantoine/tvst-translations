@@ -1181,6 +1181,11 @@ lisons vos séries TV</value>
     <value>NOTER CETTE SÉRIE</value>
   </data>
   <data
+      name     ="RateAnItem_RemoveRating_Content"
+      xml:space="preserve">
+    <value>Supprimer ma note</value>
+  </data>
+  <data
       name     ="RateAShow_Title_Text"
       xml:space="preserve">
     <value>À quel point aimez-vous cette série ?</value>

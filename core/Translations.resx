@@ -755,6 +755,9 @@ reading your shows...</value>
   <data name="RateAShow_ActionButton_Content" xml:space="preserve">
     <value>RATE THIS SHOW</value>
   </data>
+  <data name="RateAnItem_RemoveRating_Content" xml:space="preserve">
+    <value>Remove my rating</value>
+  </data>
   <data name="RateAShow_Title_Text" xml:space="preserve">
     <value>How do you rate this show?</value>
   </data>

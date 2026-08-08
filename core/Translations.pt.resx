@@ -1155,6 +1155,11 @@ processando suas séries...</value>
     <value>AVALIE A SÉRIE</value>
   </data>
   <data
+      name="RateAnItem_RemoveRating_Content"
+      xml:space="preserve">
+    <value>Remover a minha avaliação</value>
+  </data>
+  <data
       name="RateAShow_Title_Text"
       xml:space="preserve">
     <value>Como você avalia esta série?</value>

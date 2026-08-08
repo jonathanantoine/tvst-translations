@@ -731,6 +731,9 @@ leyendo tus datos…</value>
     <data name="RateAShow_ActionButton_Content" xml:space="preserve">
     <value>VALORA ESTA SERIE</value>
   </data>
+    <data name="RateAnItem_RemoveRating_Content" xml:space="preserve">
+    <value>Eliminar mi valoración</value>
+  </data>
     <data name="RateAShow_Title_Text" xml:space="preserve">
     <value>¿Cómo calificas esta serie?</value>
   </data>
