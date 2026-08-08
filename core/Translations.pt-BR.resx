@@ -3489,7 +3489,7 @@ Lembrete: o seu código é {0}.</value>
     <value>Ainda não há comentários neste idioma.</value>
   </data>
   <data name="Comments_ShowAllLanguages" xml:space="preserve">
-    <value>Mostrar todos os idiomas</value>
+    <value>Exibir os comentários em todos os idiomas</value>
   </data>
   <data name="Comments_LanguageFilterFormat" xml:space="preserve">
     <value>Idioma: {0}</value>
