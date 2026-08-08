@@ -1555,6 +1555,9 @@ Exprimez-vous !</value>
       xml:space="preserve">
     <value>Date de dernière action sur la série</value>
   </data>
+  <data name="Settings_Display_Code_SortOption_CustomOrder" xml:space="preserve">
+    <value>Ordre personnalisé</value>
+  </data>
   <data
      name     ="Settings_Display_Code_SortOption_LastActionTimeReverse"
      xml:space="preserve">
@@ -1838,6 +1841,9 @@ Règles: EN ANGLAIS, au moins 5 mots, pas de demande d'aide, indiquez les spoile
       name     ="ShowDetails_AppBar_Remove_Label"
       xml:space="preserve">
     <value>Supprimer cette série</value>
+  </data>
+  <data name="ShowDetails_Menu_MoveToTopOfWatchlist" xml:space="preserve">
+    <value>Mettre en haut de la watchlist</value>
   </data>
 
   <data
@@ -2968,6 +2974,9 @@ d'être pleine de surprises !</value>
  name     ="MovieDetails_Menu_AddToWatchlist"
  xml:space="preserve">
     <value>J'ai envie de le voir</value>
+  </data>
+  <data name="MovieDetails_Menu_MoveToTopOfWatchlist" xml:space="preserve">
+    <value>Mettre en haut de la watchlist</value>
   </data><data
  name     ="MovieDetails_Menu_Share"
  xml:space="preserve">
@@ -3080,6 +3089,9 @@ Confirmez-vous ?
  name     ="MoviesLists_SortChoice_SortOption_ActionTime"
  xml:space="preserve">
     <value>Date d'action</value>
+  </data>
+  <data name="MoviesLists_SortChoice_SortOption_CustomOrder" xml:space="preserve">
+    <value>Ordre personnalisé</value>
   </data><data
  name     ="MoviesLists_SortChoice_SortOption_ActionTimeReverse"
  xml:space="preserve">

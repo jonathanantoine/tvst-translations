@@ -1493,6 +1493,9 @@ corresponde à essa pesquisa
       xml:space="preserve">
     <value>Data da última modificação</value>
   </data>
+  <data name="Settings_Display_Code_SortOption_CustomOrder" xml:space="preserve">
+    <value>Ordem personalizada</value>
+  </data>
 
   <data
      name     ="Settings_Display_Code_SortOption_LastActionTimeReverse"
@@ -1779,6 +1782,9 @@ Regras: Somente em inglês, 5 ou mais palavras, sem solicitações de suporte, m
       name="ShowDetails_AppBar_Remove_Label"
       xml:space="preserve">
     <value>Remover da minha coleção</value>
+  </data>
+  <data name="ShowDetails_Menu_MoveToTopOfWatchlist" xml:space="preserve">
+    <value>Mover para o topo da watchlist</value>
   </data>
 
   <data
@@ -3005,6 +3011,9 @@ Clique aqui e faça uma doação!</value>
           name     ="MovieDetails_Menu_AddToWatchlist" xml:space="preserve">
     <value>Adicionar à watchlist</value>
 </data>
+  <data name="MovieDetails_Menu_MoveToTopOfWatchlist" xml:space="preserve">
+    <value>Mover para o topo da watchlist</value>
+  </data>
   <data
           name     ="MovieDetails_Menu_Share" xml:space="preserve">
     <value>Compartilhar filme</value>
@@ -3120,6 +3129,9 @@ Você confirma?
       name     ="MoviesLists_SortChoice_SortOption_ActionTime"
       xml:space="preserve">
     <value>Data da ação</value>
+  </data>
+  <data name="MoviesLists_SortChoice_SortOption_CustomOrder" xml:space="preserve">
+    <value>Ordem personalizada</value>
   </data>
   <data
    name     ="MoviesLists_SortChoice_SortOption_ActionTimeReverse"

@@ -986,6 +986,9 @@ matches this search
   <data name="Settings_Display_Code_SortOption_LastActionTime" xml:space="preserve">
     <value>Last action date</value>
   </data>
+  <data name="Settings_Display_Code_SortOption_CustomOrder" xml:space="preserve">
+    <value>Custom order</value>
+  </data>
   <data name="Settings_Display_Code_SortOption_LastActionTimeReverse" xml:space="preserve">
     <value>Last action date reversed</value>
   </data>
@@ -1167,6 +1170,9 @@ Rules: English only, 5+ words, no support requests, mark spoilers!</value>
   </data>
   <data name="ShowDetails_AppBar_Remove_Label" xml:space="preserve">
     <value>Remove this show</value>
+  </data>
+  <data name="ShowDetails_Menu_MoveToTopOfWatchlist" xml:space="preserve">
+    <value>Move to top of watchlist</value>
   </data>
   
   <data name="ShowDetails_AppBar_Search_Label" xml:space="preserve">
@@ -1978,6 +1984,9 @@ This data helps us improve the app and fix issues. No personal information is ev
   <data name="MovieDetails_Menu_AddToWatchlist" xml:space="preserve">
     <value>Add to my watchlist</value>
   </data>
+  <data name="MovieDetails_Menu_MoveToTopOfWatchlist" xml:space="preserve">
+    <value>Move to top of watchlist</value>
+  </data>
   <data name="MovieDetails_Menu_Share" xml:space="preserve">
     <value>Share this movie</value>
   </data>
@@ -2055,6 +2064,9 @@ Do you confirm ?
   </data>
   <data name="MoviesLists_SortChoice_SortOption_ActionTime" xml:space="preserve">
     <value>Action date</value>
+  </data>
+  <data name="MoviesLists_SortChoice_SortOption_CustomOrder" xml:space="preserve">
+    <value>Custom order</value>
   </data>
   <data name="MoviesLists_SortChoice_SortOption_ActionTimeReverse" xml:space="preserve">
     <value>Action date reversed - default</value>

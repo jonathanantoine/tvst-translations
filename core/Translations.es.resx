@@ -963,6 +963,9 @@ aparece en esta búsqueda
     <data name="Settings_Display_Code_SortOption_LastActionTime" xml:space="preserve">
     <value>Fecha de la última acción</value>
   </data>
+  <data name="Settings_Display_Code_SortOption_CustomOrder" xml:space="preserve">
+    <value>Orden personalizado</value>
+  </data>
     <data name="Settings_Display_Code_SortOption_LastActionTimeReverse" xml:space="preserve">
     <value>Fecha de la última acción inverso</value>
   </data>
@@ -1136,6 +1139,9 @@ Normas: Solo en inglés, más de 5 palabras, no hacer peticiones de soporte, avi
   </data>
     <data name="ShowDetails_AppBar_Remove_Label" xml:space="preserve">
     <value>Eliminar esta serie</value>
+  </data>
+  <data name="ShowDetails_Menu_MoveToTopOfWatchlist" xml:space="preserve">
+    <value>Mover al principio de la watchlist</value>
   </data>
 
     <data name="ShowDetails_AppBar_Search_Label" xml:space="preserve">
@@ -1907,6 +1913,9 @@ y tendencias mundiales!</value>
     <data name="MovieDetails_Menu_AddToWatchlist" xml:space="preserve">
       <value>Añadir a mi watchlist</value>
     </data>
+    <data name="MovieDetails_Menu_MoveToTopOfWatchlist" xml:space="preserve">
+      <value>Mover al principio de la watchlist</value>
+    </data>
     <data name="MovieDetails_Menu_Share" xml:space="preserve">
       <value>Compartir esta película</value>
     </data>
@@ -1978,6 +1987,9 @@ y tendencias mundiales!</value>
   </data>
     <data name="MoviesLists_SortChoice_SortOption_ActionTime" xml:space="preserve">
     <value>Fecha de acción</value>
+  </data>
+  <data name="MoviesLists_SortChoice_SortOption_CustomOrder" xml:space="preserve">
+    <value>Orden personalizado</value>
   </data>
     <data name="MoviesLists_SortChoice_SortOption_ActionTimeReverse" xml:space="preserve">
     <value>Fecha de acción inverso - valor por defecto</value>

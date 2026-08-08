@@ -971,6 +971,9 @@ corrisponda a questa ricerca
     <data name="Settings_Display_Code_SortOption_LastActionTime" xml:space="preserve">
     <value>Data ultima modifica</value>
   </data>
+  <data name="Settings_Display_Code_SortOption_CustomOrder" xml:space="preserve">
+    <value>Ordine personalizzato</value>
+  </data>
     <data name="Settings_Display_Code_SortOption_LastActionTimeReverse" xml:space="preserve">
     <value>Data ultima modifica invertita</value>
   </data>
@@ -1143,6 +1146,9 @@ Regole: solo in inglese, 5 o più parole, senza richieste di supporto, contrasse
   </data>
     <data name="ShowDetails_AppBar_Remove_Label" xml:space="preserve">
     <value>Rimuovi dalla mia raccolta</value>
+  </data>
+  <data name="ShowDetails_Menu_MoveToTopOfWatchlist" xml:space="preserve">
+    <value>Sposta in cima alla watchlist</value>
   </data>
 
     <data name="ShowDetails_AppBar_Search_Label" xml:space="preserve">
@@ -1890,6 +1896,9 @@ merita di essere divertente!</value>
     <data name="MovieDetails_Menu_AddToWatchlist" xml:space="preserve">
     <value>Aggiungi alla watchlist</value>
 </data>
+<data name="MovieDetails_Menu_MoveToTopOfWatchlist" xml:space="preserve">
+    <value>Sposta in cima alla watchlist</value>
+</data>
     <data name="MovieDetails_Menu_Share" xml:space="preserve">
     <value>Condividi film</value>
 </data>
@@ -1973,6 +1982,9 @@ Confermi?
   </data>
     <data name="MoviesLists_SortChoice_SortOption_ActionTime" xml:space="preserve">
     <value>Data di messa in onda</value>
+  </data>
+  <data name="MoviesLists_SortChoice_SortOption_CustomOrder" xml:space="preserve">
+    <value>Ordine personalizzato</value>
   </data>
     <data name="MoviesLists_SortChoice_SortOption_ActionTimeReverse" xml:space="preserve">
     <value>Data di messa in onda invertita</value>
