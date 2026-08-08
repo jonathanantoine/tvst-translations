@@ -929,9 +929,12 @@ corresponde à essa pesquisa
     <data name="Settings_Display_Code_SortOption_LastActionTime" xml:space="preserve">
     <value>Data da última modificação</value>
   </data>
-    <data name="Settings_Display_Code_SortOption_CustomOrder" xml:space="preserve">
-    <value>Ordem personalizada</value>
-  </data>
+    <data name="Settings_Display_Code_SortOption_Rank" xml:space="preserve">
+      <value>Classificação</value>
+    </data>
+    <data name="Settings_Display_Code_SortOption_RankReverse" xml:space="preserve">
+      <value>Classificação invertida</value>
+    </data>
 
     <data name="Settings_Display_Code_SortOption_LastActionTimeReverse" xml:space="preserve">
     <value>Data da última modificação invertido</value>
@@ -1974,9 +1977,12 @@ Você confirma?
     <data name="MoviesLists_SortChoice_SortOption_ActionTime" xml:space="preserve">
     <value>Data da ação</value>
   </data>
-    <data name="MoviesLists_SortChoice_SortOption_CustomOrder" xml:space="preserve">
-    <value>Ordem personalizada</value>
-  </data>
+    <data name="MoviesLists_SortChoice_SortOption_Rank" xml:space="preserve">
+      <value>Classificação</value>
+    </data>
+    <data name="MoviesLists_SortChoice_SortOption_RankReverse" xml:space="preserve">
+      <value>Classificação invertida</value>
+    </data>
     <data name="MoviesLists_SortChoice_SortOption_ActionTimeReverse" xml:space="preserve">
     <value>Data da ação invertida - valor de defeito</value>
   </data>

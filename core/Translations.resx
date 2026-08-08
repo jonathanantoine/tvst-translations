@@ -986,8 +986,11 @@ matches this search
   <data name="Settings_Display_Code_SortOption_LastActionTime" xml:space="preserve">
     <value>Last action date</value>
   </data>
-  <data name="Settings_Display_Code_SortOption_CustomOrder" xml:space="preserve">
-    <value>Custom order</value>
+  <data name="Settings_Display_Code_SortOption_Rank" xml:space="preserve">
+    <value>Rank</value>
+  </data>
+  <data name="Settings_Display_Code_SortOption_RankReverse" xml:space="preserve">
+    <value>Rank reversed</value>
   </data>
   <data name="Settings_Display_Code_SortOption_LastActionTimeReverse" xml:space="preserve">
     <value>Last action date reversed</value>
@@ -2065,8 +2068,11 @@ Do you confirm ?
   <data name="MoviesLists_SortChoice_SortOption_ActionTime" xml:space="preserve">
     <value>Action date</value>
   </data>
-  <data name="MoviesLists_SortChoice_SortOption_CustomOrder" xml:space="preserve">
-    <value>Custom order</value>
+  <data name="MoviesLists_SortChoice_SortOption_Rank" xml:space="preserve">
+    <value>Rank</value>
+  </data>
+  <data name="MoviesLists_SortChoice_SortOption_RankReverse" xml:space="preserve">
+    <value>Rank reversed</value>
   </data>
   <data name="MoviesLists_SortChoice_SortOption_ActionTimeReverse" xml:space="preserve">
     <value>Action date reversed - default</value>

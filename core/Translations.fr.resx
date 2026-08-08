@@ -1555,8 +1555,11 @@ Exprimez-vous !</value>
       xml:space="preserve">
     <value>Date de dernière action sur la série</value>
   </data>
-  <data name="Settings_Display_Code_SortOption_CustomOrder" xml:space="preserve">
-    <value>Ordre personnalisé</value>
+  <data name="Settings_Display_Code_SortOption_Rank" xml:space="preserve">
+    <value>Rang</value>
+  </data>
+  <data name="Settings_Display_Code_SortOption_RankReverse" xml:space="preserve">
+    <value>Rang inversé</value>
   </data>
   <data
      name     ="Settings_Display_Code_SortOption_LastActionTimeReverse"
@@ -3090,8 +3093,11 @@ Confirmez-vous ?
  xml:space="preserve">
     <value>Date d'action</value>
   </data>
-  <data name="MoviesLists_SortChoice_SortOption_CustomOrder" xml:space="preserve">
-    <value>Ordre personnalisé</value>
+  <data name="MoviesLists_SortChoice_SortOption_Rank" xml:space="preserve">
+    <value>Rang</value>
+  </data>
+  <data name="MoviesLists_SortChoice_SortOption_RankReverse" xml:space="preserve">
+    <value>Rang inversé</value>
   </data><data
  name     ="MoviesLists_SortChoice_SortOption_ActionTimeReverse"
  xml:space="preserve">

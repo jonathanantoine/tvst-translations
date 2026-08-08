@@ -963,8 +963,11 @@ aparece en esta búsqueda
     <data name="Settings_Display_Code_SortOption_LastActionTime" xml:space="preserve">
     <value>Fecha de la última acción</value>
   </data>
-  <data name="Settings_Display_Code_SortOption_CustomOrder" xml:space="preserve">
-    <value>Orden personalizado</value>
+  <data name="Settings_Display_Code_SortOption_Rank" xml:space="preserve">
+    <value>Rango</value>
+  </data>
+  <data name="Settings_Display_Code_SortOption_RankReverse" xml:space="preserve">
+    <value>Rango inverso</value>
   </data>
     <data name="Settings_Display_Code_SortOption_LastActionTimeReverse" xml:space="preserve">
     <value>Fecha de la última acción inverso</value>
@@ -1988,8 +1991,11 @@ y tendencias mundiales!</value>
     <data name="MoviesLists_SortChoice_SortOption_ActionTime" xml:space="preserve">
     <value>Fecha de acción</value>
   </data>
-  <data name="MoviesLists_SortChoice_SortOption_CustomOrder" xml:space="preserve">
-    <value>Orden personalizado</value>
+  <data name="MoviesLists_SortChoice_SortOption_Rank" xml:space="preserve">
+    <value>Rango</value>
+  </data>
+  <data name="MoviesLists_SortChoice_SortOption_RankReverse" xml:space="preserve">
+    <value>Rango inverso</value>
   </data>
     <data name="MoviesLists_SortChoice_SortOption_ActionTimeReverse" xml:space="preserve">
     <value>Fecha de acción inverso - valor por defecto</value>
