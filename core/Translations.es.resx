@@ -2647,6 +2647,9 @@ Si aún no puedes acceder a tu cuenta después de iniciar sesión, contáctanos 
     <data name="People_AlreadyInYourCollection" xml:space="preserve">
     <value>YA VISTO EN...</value>
   </data>
+    <data name="People_ToWatchIn" xml:space="preserve">
+    <value>POR VER EN...</value>
+  </data>
     <data name="Global_ShowStatus_Released" xml:space="preserve">
     <value>publicado</value>
   </data>

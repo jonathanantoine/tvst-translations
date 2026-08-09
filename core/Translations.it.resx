@@ -2511,6 +2511,9 @@ Se non riesci ancora ad accedere al tuo account dopo l'accesso, contattaci Trakt
     <data name="People_AlreadyInYourCollection" xml:space="preserve">
     <value>GIÀ VISTO IN...</value>
   </data>
+    <data name="People_ToWatchIn" xml:space="preserve">
+    <value>DA VEDERE IN...</value>
+  </data>
     <data name="Global_ShowStatus_Released" xml:space="preserve">
     <value>rilasciato</value>
   </data>

@@ -735,6 +735,9 @@ reading your shows...</value>
   <data name="People_AlreadyInYourCollection" xml:space="preserve">
     <value>ALREADY SEEN IN...</value>
   </data>
+  <data name="People_ToWatchIn" xml:space="preserve">
+    <value>TO WATCH IN...</value>
+  </data>
   <data name="People_Code_CrewingInXShowsPlural" xml:space="preserve">
     <value>IN THE CREW OF {0} TV SHOWS</value>
   </data>

@@ -3947,6 +3947,9 @@ plus</value>
   <data name="People_AlreadyInYourCollection" xml:space="preserve">
     <value>DÉJÀ VU DANS...</value>
   </data>
+  <data name="People_ToWatchIn" xml:space="preserve">
+    <value>À VOIR DANS...</value>
+  </data>
   <data name="Global_ShowStatus_Released" xml:space="preserve">
     <value>sorti</value>
   </data>

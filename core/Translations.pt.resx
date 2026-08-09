@@ -3964,6 +3964,9 @@ Se ainda não conseguir acessar sua conta após o login, entre em contato Trakt 
   <data name="People_AlreadyInYourCollection" xml:space="preserve">
     <value>JÁ VISTO EM...</value>
   </data>
+  <data name="People_ToWatchIn" xml:space="preserve">
+    <value>PARA VER EM...</value>
+  </data>
   <data name="Global_ShowStatus_Released" xml:space="preserve">
     <value>liberado</value>
   </data>
