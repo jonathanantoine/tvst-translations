@@ -130,7 +130,7 @@ Grazie a Francko76 per la traduzione IT!
 Stai usando la versione {0}</value>
   </data>
     <data name="NewVersion_Title" xml:space="preserve">
-    <value>✨ È disponibile una nuova versione! ✨</value>
+    <value>È disponibile una nuova versione!</value>
   </data>
     <data name="AdDisplayControl_Placeholder_Text" xml:space="preserve">
     <value>Intendi "Ringraziare" o rimuovere gli annunci?
@@ -3568,5 +3568,26 @@ t  <data name="Settings_Modern_Badge_Premium" xml:space="preserve">
   </data>
   <data name="Comments_LanguageFilter_All" xml:space="preserve">
     <value>Tutte</value>
+  </data>
+  <data name="ShowDetails_AppBar_MarkAllEpisodesAsSeen_Label" xml:space="preserve">
+    <value>Contrassegna tutti gli episodi come visti</value>
+  </data>
+  <data name="ShowDetails_Code_AskMarkAllEpisodesAsSeenContentSingle" xml:space="preserve">
+    <value>1 episodio verrà aggiunto alla sua cronologia di visione. Conferma?</value>
+  </data>
+  <data name="ShowDetails_Code_AskMarkAllEpisodesAsSeenContentPlural" xml:space="preserve">
+    <value>{0} episodi verranno aggiunti alla sua cronologia di visione. Conferma?</value>
+  </data>
+  <data name="ShowDetails_Code_MarkAllEpisodesAsSeen_NothingToDo" xml:space="preserve">
+    <value>Tutti gli episodi sono già contrassegnati come visti.</value>
+  </data>
+  <data name="NewVersion_VersionChipFormat" xml:space="preserve">
+    <value>Versione {0}</value>
+  </data>
+  <data name="Settings_Various_ShowNewVersionScreen_Text" xml:space="preserve">
+    <value>Mostra la schermata delle novità</value>
+  </data>
+  <data name="Settings_Various_ShowNewVersionScreen_Subtitle" xml:space="preserve">
+    <value>Apre la schermata mostrata dopo un aggiornamento, anche se l'ha già vista.</value>
   </data>
 </root>

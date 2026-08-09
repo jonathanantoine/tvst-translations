@@ -188,7 +188,7 @@ Estás usando la versión {0}</value>
   </data>
 
     <data name="NewVersion_Title" xml:space="preserve">
-    <value>✨ ¡Nueva versión! ✨</value>
+    <value>¡Nueva versión!</value>
   </data>
     <data name="CheckinEpisodeView_CheckinAction_Content" xml:space="preserve">
     <value>CHECK-IN</value>
@@ -3565,5 +3565,26 @@ Recordatorio: tu código es {0}.</value>
   </data>
   <data name="Comments_LanguageFilter_All" xml:space="preserve">
     <value>Todos</value>
+  </data>
+  <data name="ShowDetails_AppBar_MarkAllEpisodesAsSeen_Label" xml:space="preserve">
+    <value>Marcar todos los episodios como vistos</value>
+  </data>
+  <data name="ShowDetails_Code_AskMarkAllEpisodesAsSeenContentSingle" xml:space="preserve">
+    <value>Se añadirá 1 episodio a su historial de visionado. ¿Confirma?</value>
+  </data>
+  <data name="ShowDetails_Code_AskMarkAllEpisodesAsSeenContentPlural" xml:space="preserve">
+    <value>Se añadirán {0} episodios a su historial de visionado. ¿Confirma?</value>
+  </data>
+  <data name="ShowDetails_Code_MarkAllEpisodesAsSeen_NothingToDo" xml:space="preserve">
+    <value>Todos los episodios ya están marcados como vistos.</value>
+  </data>
+  <data name="NewVersion_VersionChipFormat" xml:space="preserve">
+    <value>Versión {0}</value>
+  </data>
+  <data name="Settings_Various_ShowNewVersionScreen_Text" xml:space="preserve">
+    <value>Mostrar la pantalla de novedades</value>
+  </data>
+  <data name="Settings_Various_ShowNewVersionScreen_Subtitle" xml:space="preserve">
+    <value>Abre la pantalla que se muestra tras una actualización, la haya visto usted o no.</value>
   </data>
 </root>

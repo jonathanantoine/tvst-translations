@@ -191,7 +191,7 @@ Vous utilisez la version {0}</value>
   <data
       name     ="NewVersion_Title"
       xml:space="preserve">
-    <value>✨ Nouvelle version installée ! ✨</value>
+    <value>Nouvelle version installée !</value>
   </data>
   <data
       name     ="AdDisplayControl_Placeholder_Text"
@@ -4858,5 +4858,26 @@ Rappel : votre code est {0}.</value>
   </data>
   <data name="Comments_LanguageFilter_All" xml:space="preserve">
     <value>Toutes</value>
+  </data>
+  <data name="ShowDetails_AppBar_MarkAllEpisodesAsSeen_Label" xml:space="preserve">
+    <value>Marquer tous les épisodes comme vus</value>
+  </data>
+  <data name="ShowDetails_Code_AskMarkAllEpisodesAsSeenContentSingle" xml:space="preserve">
+    <value>1 épisode sera ajouté à votre historique de visionnage. Confirmez-vous ?</value>
+  </data>
+  <data name="ShowDetails_Code_AskMarkAllEpisodesAsSeenContentPlural" xml:space="preserve">
+    <value>{0} épisodes seront ajoutés à votre historique de visionnage. Confirmez-vous ?</value>
+  </data>
+  <data name="ShowDetails_Code_MarkAllEpisodesAsSeen_NothingToDo" xml:space="preserve">
+    <value>Tous les épisodes sont déjà marqués comme vus.</value>
+  </data>
+  <data name="NewVersion_VersionChipFormat" xml:space="preserve">
+    <value>Version {0}</value>
+  </data>
+  <data name="Settings_Various_ShowNewVersionScreen_Text" xml:space="preserve">
+    <value>Afficher l'écran des nouveautés</value>
+  </data>
+  <data name="Settings_Various_ShowNewVersionScreen_Subtitle" xml:space="preserve">
+    <value>Ouvre l'écran affiché après une mise à jour, que vous l'ayez déjà vu ou non.</value>
   </data>
 </root>

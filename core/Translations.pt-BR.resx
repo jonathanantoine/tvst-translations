@@ -143,7 +143,7 @@ Você está usando a versão {0}</value>
     <value>Não exibir shows ocultos?</value>
   </data>
     <data name="NewVersion_Title" xml:space="preserve">
-    <value>✨ Uma nova versão está disponível! ✨</value>
+    <value>Uma nova versão está disponível!</value>
   </data>
     <data name="Cast_Code_UnknowAge" xml:space="preserve">
     <value>Idade desconhecida</value>
@@ -3520,5 +3520,26 @@ Lembrete: o seu código é {0}.</value>
   </data>
   <data name="Comments_LanguageFilter_All" xml:space="preserve">
     <value>Todos</value>
+  </data>
+  <data name="ShowDetails_AppBar_MarkAllEpisodesAsSeen_Label" xml:space="preserve">
+    <value>Marcar todos os episódios como assistidos</value>
+  </data>
+  <data name="ShowDetails_Code_AskMarkAllEpisodesAsSeenContentSingle" xml:space="preserve">
+    <value>1 episódio será adicionado ao seu histórico. Você confirma?</value>
+  </data>
+  <data name="ShowDetails_Code_AskMarkAllEpisodesAsSeenContentPlural" xml:space="preserve">
+    <value>{0} episódios serão adicionados ao seu histórico. Você confirma?</value>
+  </data>
+  <data name="ShowDetails_Code_MarkAllEpisodesAsSeen_NothingToDo" xml:space="preserve">
+    <value>Todos os episódios já estão marcados como assistidos.</value>
+  </data>
+  <data name="NewVersion_VersionChipFormat" xml:space="preserve">
+    <value>Versão {0}</value>
+  </data>
+  <data name="Settings_Various_ShowNewVersionScreen_Text" xml:space="preserve">
+    <value>Mostrar a tela de novidades</value>
+  </data>
+  <data name="Settings_Various_ShowNewVersionScreen_Subtitle" xml:space="preserve">
+    <value>Abre a tela exibida após uma atualização, mesmo que você já a tenha visto.</value>
   </data>
 </root>

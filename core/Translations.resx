@@ -184,7 +184,7 @@ Click here and make donation!</value>
     <value>Type the text to share here</value>
   </data>
   <data name="NewVersion_Title" xml:space="preserve">
-    <value>✨ New version! ✨</value>
+    <value>New version!</value>
   </data>
   <data name="CheckinEpisodeView_CheckinAction_Content" xml:space="preserve">
     <value>CHECK-IN</value>
@@ -3554,5 +3554,26 @@ Do you confirm?</value>
   </data>
   <data name="Comments_LanguageFilter_All" xml:space="preserve">
     <value>All</value>
+  </data>
+  <data name="ShowDetails_AppBar_MarkAllEpisodesAsSeen_Label" xml:space="preserve">
+    <value>Mark all episodes as watched</value>
+  </data>
+  <data name="ShowDetails_Code_AskMarkAllEpisodesAsSeenContentSingle" xml:space="preserve">
+    <value>1 episode will be added to your watch history. Do you confirm?</value>
+  </data>
+  <data name="ShowDetails_Code_AskMarkAllEpisodesAsSeenContentPlural" xml:space="preserve">
+    <value>{0} episodes will be added to your watch history. Do you confirm?</value>
+  </data>
+  <data name="ShowDetails_Code_MarkAllEpisodesAsSeen_NothingToDo" xml:space="preserve">
+    <value>Every episode is already marked as watched.</value>
+  </data>
+  <data name="NewVersion_VersionChipFormat" xml:space="preserve">
+    <value>Version {0}</value>
+  </data>
+  <data name="Settings_Various_ShowNewVersionScreen_Text" xml:space="preserve">
+    <value>Show the what's new screen</value>
+  </data>
+  <data name="Settings_Various_ShowNewVersionScreen_Subtitle" xml:space="preserve">
+    <value>Opens the screen displayed after an update, whether or not you have already seen it.</value>
   </data>
 </root>
