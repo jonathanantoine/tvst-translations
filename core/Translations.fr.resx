@@ -4888,4 +4888,17 @@ Rappel : votre code est {0}.</value>
   <data name="Settings_Various_ShowNewVersionScreen_Subtitle" xml:space="preserve">
     <value>Ouvre l'écran affiché après une mise à jour, que vous l'ayez déjà vu ou non.</value>
   </data>
+  <data name="Settings_Display_GridItemSizeHeader_Main" xml:space="preserve"><value>Taille des vignettes</value></data>
+  <data name="Settings_Display_GridItemSize_Subtitle" xml:space="preserve"><value>Choisissez la taille des vignettes. La rotation change le nombre de vignettes par ligne, pas leur taille.</value></data>
+  <data name="Settings_Display_GridItemSize_Home" xml:space="preserve"><value>Séries de l'accueil</value></data>
+  <data name="Settings_Display_GridItemSize_Movies" xml:space="preserve"><value>Films de l'accueil et listes de films</value></data>
+  <data name="Settings_Display_GridItemSize_UserListContent" xml:space="preserve"><value>Contenu des listes</value></data>
+  <data name="Settings_Display_GridItemSize_TopOfGenre" xml:space="preserve"><value>Résultats par genre</value></data>
+  <data name="Settings_Display_GridItemSize_History" xml:space="preserve"><value>Historique</value></data>
+  <data name="Settings_GridItemSize_Default" xml:space="preserve"><value>Par défaut</value></data>
+  <data name="Settings_GridItemSize_VeryLargeFormat" xml:space="preserve"><value>Très grande (densité {0})</value></data>
+  <data name="Settings_GridItemSize_LargeFormat" xml:space="preserve"><value>Grande (densité {0})</value></data>
+  <data name="Settings_GridItemSize_DensityFormat" xml:space="preserve"><value>Densité {0}</value></data>
+  <data name="Settings_GridItemSize_SmallFormat" xml:space="preserve"><value>Petite (densité {0})</value></data>
+  <data name="Settings_GridItemSize_VerySmallFormat" xml:space="preserve"><value>Très petite (densité {0})</value></data>
 </root>

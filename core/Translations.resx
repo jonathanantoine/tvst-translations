@@ -3582,4 +3582,17 @@ Do you confirm?</value>
   <data name="Settings_Various_ShowNewVersionScreen_Subtitle" xml:space="preserve">
     <value>Opens the screen displayed after an update, whether or not you have already seen it.</value>
   </data>
+  <data name="Settings_Display_GridItemSizeHeader_Main" xml:space="preserve"><value>Thumbnail size</value></data>
+  <data name="Settings_Display_GridItemSize_Subtitle" xml:space="preserve"><value>Choose thumbnail size. Rotation changes how many fit per row, not their size.</value></data>
+  <data name="Settings_Display_GridItemSize_Home" xml:space="preserve"><value>Home shows</value></data>
+  <data name="Settings_Display_GridItemSize_Movies" xml:space="preserve"><value>Home movies and movie lists</value></data>
+  <data name="Settings_Display_GridItemSize_UserListContent" xml:space="preserve"><value>User list content</value></data>
+  <data name="Settings_Display_GridItemSize_TopOfGenre" xml:space="preserve"><value>Genre results</value></data>
+  <data name="Settings_Display_GridItemSize_History" xml:space="preserve"><value>History</value></data>
+  <data name="Settings_GridItemSize_Default" xml:space="preserve"><value>Default</value></data>
+  <data name="Settings_GridItemSize_VeryLargeFormat" xml:space="preserve"><value>Very large (density {0})</value></data>
+  <data name="Settings_GridItemSize_LargeFormat" xml:space="preserve"><value>Large (density {0})</value></data>
+  <data name="Settings_GridItemSize_DensityFormat" xml:space="preserve"><value>Density {0}</value></data>
+  <data name="Settings_GridItemSize_SmallFormat" xml:space="preserve"><value>Small (density {0})</value></data>
+  <data name="Settings_GridItemSize_VerySmallFormat" xml:space="preserve"><value>Very small (density {0})</value></data>
 </root>

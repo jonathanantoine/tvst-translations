@@ -3593,4 +3593,17 @@ Recordatorio: tu código es {0}.</value>
   <data name="Settings_Various_ShowNewVersionScreen_Subtitle" xml:space="preserve">
     <value>Abre la pantalla que se muestra tras una actualización, la haya visto usted o no.</value>
   </data>
+  <data name="Settings_Display_GridItemSizeHeader_Main" xml:space="preserve"><value>Tamaño de las miniaturas</value></data>
+  <data name="Settings_Display_GridItemSize_Subtitle" xml:space="preserve"><value>Elija el tamaño de las miniaturas. La rotación cambia cuántas caben por fila, no su tamaño.</value></data>
+  <data name="Settings_Display_GridItemSize_Home" xml:space="preserve"><value>Series de inicio</value></data>
+  <data name="Settings_Display_GridItemSize_Movies" xml:space="preserve"><value>Películas de inicio y listas de películas</value></data>
+  <data name="Settings_Display_GridItemSize_UserListContent" xml:space="preserve"><value>Contenido de las listas</value></data>
+  <data name="Settings_Display_GridItemSize_TopOfGenre" xml:space="preserve"><value>Resultados por género</value></data>
+  <data name="Settings_Display_GridItemSize_History" xml:space="preserve"><value>Historial</value></data>
+  <data name="Settings_GridItemSize_Default" xml:space="preserve"><value>Predeterminado</value></data>
+  <data name="Settings_GridItemSize_VeryLargeFormat" xml:space="preserve"><value>Muy grande (densidad {0})</value></data>
+  <data name="Settings_GridItemSize_LargeFormat" xml:space="preserve"><value>Grande (densidad {0})</value></data>
+  <data name="Settings_GridItemSize_DensityFormat" xml:space="preserve"><value>Densidad {0}</value></data>
+  <data name="Settings_GridItemSize_SmallFormat" xml:space="preserve"><value>Pequeña (densidad {0})</value></data>
+  <data name="Settings_GridItemSize_VerySmallFormat" xml:space="preserve"><value>Muy pequeña (densidad {0})</value></data>
 </root>

@@ -3596,4 +3596,17 @@ t  <data name="Settings_Modern_Badge_Premium" xml:space="preserve">
   <data name="Settings_Various_ShowNewVersionScreen_Subtitle" xml:space="preserve">
     <value>Apre la schermata mostrata dopo un aggiornamento, anche se l'ha già vista.</value>
   </data>
+  <data name="Settings_Display_GridItemSizeHeader_Main" xml:space="preserve"><value>Dimensione delle miniature</value></data>
+  <data name="Settings_Display_GridItemSize_Subtitle" xml:space="preserve"><value>Scegli la dimensione delle miniature. La rotazione cambia quante miniature entrano per riga, non la loro dimensione.</value></data>
+  <data name="Settings_Display_GridItemSize_Home" xml:space="preserve"><value>Serie nella home</value></data>
+  <data name="Settings_Display_GridItemSize_Movies" xml:space="preserve"><value>Film nella home e liste film</value></data>
+  <data name="Settings_Display_GridItemSize_UserListContent" xml:space="preserve"><value>Contenuto delle liste</value></data>
+  <data name="Settings_Display_GridItemSize_TopOfGenre" xml:space="preserve"><value>Risultati per genere</value></data>
+  <data name="Settings_Display_GridItemSize_History" xml:space="preserve"><value>Cronologia</value></data>
+  <data name="Settings_GridItemSize_Default" xml:space="preserve"><value>Predefinita</value></data>
+  <data name="Settings_GridItemSize_VeryLargeFormat" xml:space="preserve"><value>Molto grande (densità {0})</value></data>
+  <data name="Settings_GridItemSize_LargeFormat" xml:space="preserve"><value>Grande (densità {0})</value></data>
+  <data name="Settings_GridItemSize_DensityFormat" xml:space="preserve"><value>Densità {0}</value></data>
+  <data name="Settings_GridItemSize_SmallFormat" xml:space="preserve"><value>Piccola (densità {0})</value></data>
+  <data name="Settings_GridItemSize_VerySmallFormat" xml:space="preserve"><value>Molto piccola (densità {0})</value></data>
 </root>
