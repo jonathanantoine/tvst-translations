@@ -1748,10 +1748,16 @@ y tendencias mundiales!</value>
     <value>El más antiguo primero</value>
   </data>
     <data name="CommentsSorting_Label_Likes" xml:space="preserve">
-    <value>Número de likes</value>
+    <value>Más likes primero</value>
+  </data>
+    <data name="CommentsSorting_Label_LikesReverse" xml:space="preserve">
+    <value>Menos likes primero</value>
   </data>
     <data name="CommentsSorting_Label_Replies" xml:space="preserve">
-    <value>Número de respuestas</value>
+    <value>Más respuestas primero</value>
+  </data>
+    <data name="CommentsSorting_Label_RepliesReverse" xml:space="preserve">
+    <value>Menos respuestas primero</value>
   </data>
     <data name="EpisodesSorting_Label_AiredDate" xml:space="preserve">
     <value>El más antiguo primero</value>

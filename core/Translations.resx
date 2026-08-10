@@ -1806,10 +1806,16 @@ Subscription automatically renews until you cancel it in your Google Play Accoun
     <value>Oldest first</value>
   </data>
   <data name="CommentsSorting_Label_Likes" xml:space="preserve">
-    <value>Number of likes</value>
+    <value>Most likes first</value>
+  </data>
+  <data name="CommentsSorting_Label_LikesReverse" xml:space="preserve">
+    <value>Fewest likes first</value>
   </data>
   <data name="CommentsSorting_Label_Replies" xml:space="preserve">
-    <value>Number of replies</value>
+    <value>Most replies first</value>
+  </data>
+  <data name="CommentsSorting_Label_RepliesReverse" xml:space="preserve">
+    <value>Fewest replies first</value>
   </data>
   <data name="EpisodesSorting_Label_AiredDate" xml:space="preserve">
     <value>Oldest first</value>

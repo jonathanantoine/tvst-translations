@@ -2716,12 +2716,22 @@ merece ser divertida!</value>
   <data
       name="CommentsSorting_Label_Likes"
       xml:space="preserve">
-    <value>Número de 'likes'</value>
+    <value>Mais 'likes' primeiro</value>
+  </data>
+  <data
+      name="CommentsSorting_Label_LikesReverse"
+      xml:space="preserve">
+    <value>Menos 'likes' primeiro</value>
   </data>
   <data
       name="CommentsSorting_Label_Replies"
       xml:space="preserve">
-    <value>Número de respostas</value>
+    <value>Mais respostas primeiro</value>
+  </data>
+  <data
+      name="CommentsSorting_Label_RepliesReverse"
+      xml:space="preserve">
+    <value>Menos respostas primeiro</value>
   </data>
   <data
       name="Settings_SortCommentHeader"

@@ -1733,10 +1733,16 @@ merita di essere divertente!</value>
     <value>Prima i più vecchi</value>
   </data>
     <data name="CommentsSorting_Label_Likes" xml:space="preserve">
-    <value>Numero di 'likes'</value>
+    <value>Più 'likes' prima</value>
+  </data>
+    <data name="CommentsSorting_Label_LikesReverse" xml:space="preserve">
+    <value>Meno 'likes' prima</value>
   </data>
     <data name="CommentsSorting_Label_Replies" xml:space="preserve">
-    <value>Numero di commenti</value>
+    <value>Più risposte prima</value>
+  </data>
+    <data name="CommentsSorting_Label_RepliesReverse" xml:space="preserve">
+    <value>Meno risposte prima</value>
   </data>
     <data name="EpisodesSorting_Label_AiredDate" xml:space="preserve">
     <value>Prima i più vecchi</value>

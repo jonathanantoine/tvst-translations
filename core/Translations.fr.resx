@@ -2755,11 +2755,19 @@ d'être pleine de surprises !</value>
   </data><data
  name     ="CommentsSorting_Label_Likes"
  xml:space="preserve">
-    <value>Nombre de mention j'aime</value>
+    <value>Le plus de mentions « J'aime » en premier</value>
+  </data><data
+ name     ="CommentsSorting_Label_LikesReverse"
+ xml:space="preserve">
+    <value>Le moins de mentions « J'aime » en premier</value>
   </data><data
  name     ="CommentsSorting_Label_Replies"
  xml:space="preserve">
-    <value>Nombre de réponse</value>
+    <value>Le plus de réponses en premier</value>
+  </data><data
+ name     ="CommentsSorting_Label_RepliesReverse"
+ xml:space="preserve">
+    <value>Le moins de réponses en premier</value>
   </data><data
  name     ="EpisodesSorting_Label_AiredDate"
  xml:space="preserve">
