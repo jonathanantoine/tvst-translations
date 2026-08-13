@@ -153,6 +153,12 @@ Click here and make donation!</value>
   <data name="AdCrossPromo_PodcastTracker_Cta" xml:space="preserve">
     <value>See</value>
   </data>
+  <data name="AdPrivacy_ShowOptions_MenuItem" xml:space="preserve">
+    <value>Ad Privacy Options</value>
+  </data>
+  <data name="AdPrivacy_ShowOptions_SettingsSubtitle" xml:space="preserve">
+    <value>Review or change your consent for personalized ads</value>
+  </data>
   <data name="Cast_Code_UnknowAge" xml:space="preserve">
     <value>unknown age</value>
   </data>
@@ -3305,6 +3311,9 @@ Do you confirm?</value>
   </data>
   <data name="Settings_Modern_Section_AdvancedMaintenance" xml:space="preserve">
     <value>ADVANCED MAINTENANCE</value>
+  </data>
+  <data name="Settings_Modern_Section_AdPrivacy" xml:space="preserve">
+    <value>Ad Privacy</value>
   </data>
   <data name="Settings_Backup_ExportCsv_Subtitle" xml:space="preserve">
     <value>Creates a spreadsheet-readable file that can be imported later</value>

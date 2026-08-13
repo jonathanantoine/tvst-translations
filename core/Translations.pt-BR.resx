@@ -1772,6 +1772,12 @@ Clique aqui e faça uma doação!</value>
     <data name="AdCrossPromo_PodcastTracker_Cta" xml:space="preserve">
     <value>Ver</value>
   </data>
+  <data name="AdPrivacy_ShowOptions_MenuItem" xml:space="preserve">
+    <value>Opções de privacidade de anúncios</value>
+  </data>
+  <data name="AdPrivacy_ShowOptions_SettingsSubtitle" xml:space="preserve">
+    <value>Revise ou altere seu consentimento para anúncios personalizados</value>
+  </data>
 
     <data name="SetAsSeenAtAGivenDate_Button_SetAsSeen" xml:space="preserve">
     <value>Assistido em uma data determinada</value>
@@ -3283,6 +3289,9 @@ Lembrete: o seu código é {0}.</value>
   </data>
     <data name="Settings_Modern_Section_AdvancedMaintenance" xml:space="preserve">
     <value>MANUTENÇÃO AVANÇADA</value>
+  </data>
+  <data name="Settings_Modern_Section_AdPrivacy" xml:space="preserve">
+    <value>Privacidade de anúncios</value>
   </data>
     <data name="Settings_Backup_ExportCsv_Subtitle" xml:space="preserve">
     <value>Cria um arquivo legível em uma planilha que poderá ser importado mais tarde</value>

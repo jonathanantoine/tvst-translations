@@ -234,6 +234,12 @@ Cliquez-ici pour faire une donation !</value>
       xml:space="preserve">
     <value>Voir</value>
   </data>
+  <data name="AdPrivacy_ShowOptions_MenuItem" xml:space="preserve">
+    <value>Options de confidentialité publicitaire</value>
+  </data>
+  <data name="AdPrivacy_ShowOptions_SettingsSubtitle" xml:space="preserve">
+    <value>Consultez ou modifiez votre consentement pour les publicités personnalisées</value>
+  </data>
   <data
       name     ="Billing_CannotConnectYouToTheStore"
       xml:space="preserve">
@@ -4608,6 +4614,9 @@ Rappel : votre code est {0}.</value>
   </data>
   <data name="Settings_Modern_Section_AdvancedMaintenance" xml:space="preserve">
     <value>MAINTENANCE AVANCÉE</value>
+  </data>
+  <data name="Settings_Modern_Section_AdPrivacy" xml:space="preserve">
+    <value>Confidentialité publicitaire</value>
   </data>
   <data name="Settings_Backup_ExportCsv_Subtitle" xml:space="preserve">
     <value>Crée un fichier lisible dans un tableur et import possible plus tard</value>

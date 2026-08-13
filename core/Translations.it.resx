@@ -157,6 +157,12 @@ Clicca qui e fai una donazione!</value>
     <data name="AdCrossPromo_PodcastTracker_Cta" xml:space="preserve">
     <value>Vedi</value>
   </data>
+  <data name="AdPrivacy_ShowOptions_MenuItem" xml:space="preserve">
+    <value>Opzioni sulla privacy pubblicitaria</value>
+  </data>
+  <data name="AdPrivacy_ShowOptions_SettingsSubtitle" xml:space="preserve">
+    <value>Rivedi o modifica il tuo consenso per gli annunci personalizzati</value>
+  </data>
     <data name="Billing_CannotConnectYouToTheStore" xml:space="preserve">
     <value>Non puoi connetterti allo Store in questo momento. Riprova più tardi.</value>
   </data>
@@ -3316,6 +3322,9 @@ t  <data name="Settings_Modern_Badge_Premium" xml:space="preserve">
   </data>
   <data name="Settings_Modern_Section_AdvancedMaintenance" xml:space="preserve">
     <value>MANUTENZIONE AVANZATA</value>
+  </data>
+  <data name="Settings_Modern_Section_AdPrivacy" xml:space="preserve">
+    <value>Privacy pubblicitaria</value>
   </data>
   <data name="Settings_Backup_ExportCsv_Subtitle" xml:space="preserve">
     <value>Crea un file leggibile in un foglio di calcolo che potrà essere importato più tardi</value>

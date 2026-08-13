@@ -156,6 +156,12 @@ Estás usando la versión {0}</value>
     <data name="AdCrossPromo_PodcastTracker_Cta" xml:space="preserve">
     <value>Ver</value>
   </data>
+  <data name="AdPrivacy_ShowOptions_MenuItem" xml:space="preserve">
+    <value>Opciones de privacidad publicitaria</value>
+  </data>
+  <data name="AdPrivacy_ShowOptions_SettingsSubtitle" xml:space="preserve">
+    <value>Revise o cambie su consentimiento para anuncios personalizados</value>
+  </data>
     <data name="Cast_Code_UnknowAge" xml:space="preserve">
     <value>edad desconocida</value>
   </data>
@@ -3313,6 +3319,9 @@ Recordatorio: tu código es {0}.</value>
   </data>
   <data name="Settings_Modern_Section_AdvancedMaintenance" xml:space="preserve">
     <value>MANTENIMIENTO AVANZADO</value>
+  </data>
+  <data name="Settings_Modern_Section_AdPrivacy" xml:space="preserve">
+    <value>Privacidad publicitaria</value>
   </data>
   <data name="Settings_Backup_ExportCsv_Subtitle" xml:space="preserve">
     <value>Crea un archivo legible en una hoja de cálculo que se podrá importar más tarde</value>
