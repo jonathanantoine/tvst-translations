@@ -4049,7 +4049,7 @@ Ces données nous aident à améliorer l'application et à résoudre les problè
         <value>FIXER</value>
     </data>
   <data name="Android_FixNotificationConfirmQuestion" xml:space="preserve">
-        <value>Les notifications sont désactivées par défaut et vous devez les activer explicitement. Vous devez autoriser deux permissions.
+        <value>Les notifications sont désactivées par défaut et vous devez les activer explicitement.
 
 Vous pouvez le faire à tout moment plus tard dans les paramètres de l'application.
 
@@ -4910,4 +4910,7 @@ Rappel : votre code est {0}.</value>
   <data name="Settings_GridItemSize_DensityFormat" xml:space="preserve"><value>Densité {0}</value></data>
   <data name="Settings_GridItemSize_SmallFormat" xml:space="preserve"><value>Petite (densité {0})</value></data>
   <data name="Settings_GridItemSize_VerySmallFormat" xml:space="preserve"><value>Très petite (densité {0})</value></data>
+  <data name="Notifications_EnableLaterToast" xml:space="preserve">
+        <value>Pas de problème. Vous pourrez activer les notifications à tout moment dans les paramètres de l'application.</value>
+    </data>
 </root>

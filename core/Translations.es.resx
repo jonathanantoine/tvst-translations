@@ -3615,4 +3615,7 @@ Recordatorio: tu código es {0}.</value>
   <data name="Settings_GridItemSize_DensityFormat" xml:space="preserve"><value>Densidad {0}</value></data>
   <data name="Settings_GridItemSize_SmallFormat" xml:space="preserve"><value>Pequeña (densidad {0})</value></data>
   <data name="Settings_GridItemSize_VerySmallFormat" xml:space="preserve"><value>Muy pequeña (densidad {0})</value></data>
+    <data name="Notifications_EnableLaterToast" xml:space="preserve">
+        <value>Ningún problema. Puedes activar las notificaciones en cualquier momento en la configuración de la aplicación.</value>
+    </data>
 </root>

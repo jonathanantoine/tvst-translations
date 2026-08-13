@@ -4077,7 +4077,7 @@ Esses dados nos ajudam a melhorar o aplicativo e a corrigir problemas. Nenhuma i
         <value>ADICIONAR UM FILME</value>
     </data>
   <data name="Android_FixNotificationConfirmQuestion" xml:space="preserve">
-        <value>As notificações estão desativadas por padrão e você precisa ativá-las explicitamente. Você deve autorizar duas permissões.
+        <value>As notificações estão desativadas por padrão e você precisa ativá-las explicitamente.
 
 Você pode fazer isso a qualquer momento nas configurações do aplicativo.
 
@@ -4942,4 +4942,7 @@ Lembrete: o seu código é {0}.</value>
   <data name="Settings_GridItemSize_DensityFormat" xml:space="preserve"><value>Densidade {0}</value></data>
   <data name="Settings_GridItemSize_SmallFormat" xml:space="preserve"><value>Pequena (densidade {0})</value></data>
   <data name="Settings_GridItemSize_VerySmallFormat" xml:space="preserve"><value>Muito pequena (densidade {0})</value></data>
+  <data name="Notifications_EnableLaterToast" xml:space="preserve">
+        <value>Sem problema. Você pode ativar as notificações a qualquer momento nas configurações do aplicativo.</value>
+    </data>
 </root>

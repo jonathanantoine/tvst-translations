@@ -2604,7 +2604,7 @@ Questi dati ci aiutano a migliorare l'app e a risolvere i problemi. Nessuna info
         <value>AGGIUNGERE UN FILM</value>
     </data>
     <data name="Android_FixNotificationConfirmQuestion" xml:space="preserve">
-        <value>Le notifiche sono disattivate per impostazione predefinita e devi abilitarle esplicitamente. Devi autorizzare due permessi.
+        <value>Le notifiche sono disattivate per impostazione predefinita e devi abilitarle esplicitamente.
 
 Puoi farlo in qualsiasi momento più tardi nelle impostazioni dell'app.
 
@@ -3618,4 +3618,7 @@ t  <data name="Settings_Modern_Badge_Premium" xml:space="preserve">
   <data name="Settings_GridItemSize_DensityFormat" xml:space="preserve"><value>Densità {0}</value></data>
   <data name="Settings_GridItemSize_SmallFormat" xml:space="preserve"><value>Piccola (densità {0})</value></data>
   <data name="Settings_GridItemSize_VerySmallFormat" xml:space="preserve"><value>Molto piccola (densità {0})</value></data>
+    <data name="Notifications_EnableLaterToast" xml:space="preserve">
+        <value>Nessun problema. Puoi attivare le notifiche in qualsiasi momento nelle impostazioni dell'app.</value>
+    </data>
 </root>

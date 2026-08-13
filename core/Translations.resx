@@ -2846,7 +2846,7 @@ Come back later!</value>
     <value>TV Shows and Movies notifications</value>
   </data>
   <data name="Android_FixNotificationConfirmQuestion" xml:space="preserve">
-    <value>Notifications are disabled by default and you need to explicitly enable them. You must authorize two permissions : notifications and exact alarm.
+    <value>Notifications are disabled by default and you need to explicitly enable them.
 
 You can do it at anytime later in the app's settings.
 
@@ -3604,4 +3604,7 @@ Do you confirm?</value>
   <data name="Settings_GridItemSize_DensityFormat" xml:space="preserve"><value>Density {0}</value></data>
   <data name="Settings_GridItemSize_SmallFormat" xml:space="preserve"><value>Small (density {0})</value></data>
   <data name="Settings_GridItemSize_VerySmallFormat" xml:space="preserve"><value>Very small (density {0})</value></data>
+  <data name="Notifications_EnableLaterToast" xml:space="preserve">
+    <value>No problem. You can enable notifications at any time from the app's settings.</value>
+  </data>
 </root>
