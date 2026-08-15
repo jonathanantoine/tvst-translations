@@ -3573,4 +3573,15 @@ Lembrete: o seu código é {0}.</value>
     <data name="Notifications_EnableLaterToast" xml:space="preserve">
         <value>Sem problema. Você pode ativar as notificações a qualquer momento nas configurações do aplicativo.</value>
     </data>
+  <data name="Rewatch_MultiplePlaysDisabled_Title" xml:space="preserve">
+    <value>O Trakt guarda apenas uma visualização</value>
+  </data>
+  <data name="Rewatch_MultiplePlaysDisabled_Content" xml:space="preserve">
+    <value>Sua conta Trakt está configurada para guardar apenas uma visualização por episódio e por filme. Se você continuar, esta nova visualização vai substituir a anterior em vez de somar-se a ela, e a data já salva será perdida.
+
+Você quer que o aplicativo desative essa opção na sua conta Trakt? A partir de agora suas visualizações vão somar, e nada do que já está salvo será perdido.</value>
+  </data>
+  <data name="Rewatch_MultiplePlaysDisabled_FixedToast" xml:space="preserve">
+    <value>Sua conta Trakt agora aceita várias visualizações.</value>
+  </data>
 </root>

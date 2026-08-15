@@ -3621,4 +3621,15 @@ t  <data name="Settings_Modern_Badge_Premium" xml:space="preserve">
     <data name="Notifications_EnableLaterToast" xml:space="preserve">
         <value>Nessun problema. Puoi attivare le notifiche in qualsiasi momento nelle impostazioni dell'app.</value>
     </data>
+  <data name="Rewatch_MultiplePlaysDisabled_Title" xml:space="preserve">
+    <value>Trakt conserva una sola visione</value>
+  </data>
+  <data name="Rewatch_MultiplePlaysDisabled_Content" xml:space="preserve">
+    <value>Il tuo account Trakt è impostato per conservare una sola visione per episodio e per film. Se continui, questa nuova visione sostituirà la precedente invece di aggiungersi a essa, e la data già salvata andrà persa.
+
+Vuoi che l'app disattivi questa impostazione sul tuo account Trakt? Da ora in poi le tue visioni si sommeranno e nulla di ciò che è già salvato andrà perso.</value>
+  </data>
+  <data name="Rewatch_MultiplePlaysDisabled_FixedToast" xml:space="preserve">
+    <value>Il tuo account Trakt ora accetta più visioni.</value>
+  </data>
 </root>

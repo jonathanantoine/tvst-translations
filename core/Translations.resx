@@ -3607,4 +3607,15 @@ Do you confirm?</value>
   <data name="Notifications_EnableLaterToast" xml:space="preserve">
     <value>No problem. You can enable notifications at any time from the app's settings.</value>
   </data>
+  <data name="Rewatch_MultiplePlaysDisabled_Title" xml:space="preserve">
+    <value>Trakt is keeping only one viewing</value>
+  </data>
+  <data name="Rewatch_MultiplePlaysDisabled_Content" xml:space="preserve">
+    <value>Your Trakt account is set to keep a single viewing per episode and per movie. If you continue, this new viewing will replace the previous one instead of being added to it, and the date already saved will be lost.
+
+Would you like the app to turn that setting off on your Trakt account? Your viewings will add up from now on, and nothing already saved will be lost.</value>
+  </data>
+  <data name="Rewatch_MultiplePlaysDisabled_FixedToast" xml:space="preserve">
+    <value>Your Trakt account now accepts several viewings.</value>
+  </data>
 </root>

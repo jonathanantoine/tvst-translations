@@ -4913,4 +4913,15 @@ Rappel : votre code est {0}.</value>
   <data name="Notifications_EnableLaterToast" xml:space="preserve">
         <value>Pas de problème. Vous pourrez activer les notifications à tout moment dans les paramètres de l'application.</value>
     </data>
+  <data name="Rewatch_MultiplePlaysDisabled_Title" xml:space="preserve">
+    <value>Trakt ne conserve qu'un seul visionnage</value>
+  </data>
+  <data name="Rewatch_MultiplePlaysDisabled_Content" xml:space="preserve">
+    <value>Votre compte Trakt est réglé pour ne conserver qu'un seul visionnage par épisode et par film. Si vous continuez, ce nouveau visionnage remplacera le précédent au lieu de s'y ajouter, et la date déjà enregistrée sera perdue.
+
+Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? Vos visionnages s'additionneront désormais, et rien de ce qui est déjà enregistré ne sera perdu.</value>
+  </data>
+  <data name="Rewatch_MultiplePlaysDisabled_FixedToast" xml:space="preserve">
+    <value>Votre compte Trakt accepte désormais plusieurs visionnages.</value>
+  </data>
 </root>
