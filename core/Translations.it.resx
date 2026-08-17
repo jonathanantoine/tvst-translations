@@ -3632,4 +3632,13 @@ Vuoi che l'app disattivi questa impostazione sul tuo account Trakt? Da ora in po
   <data name="Rewatch_MultiplePlaysDisabled_FixedToast" xml:space="preserve">
     <value>Il tuo account Trakt ora accetta più visioni.</value>
   </data>
+  <data name="MediaItemDetails_ExternalRatings_SheetTitle" xml:space="preserve">
+    <value>Valutazioni</value>
+  </data>
+  <data name="MediaItemDetails_ExternalRatings_TraktDistributionHeader" xml:space="preserve">
+    <value>Voto Trakt</value>
+  </data>
+  <data name="MediaItemDetails_ExternalRatings_OfficialHeader" xml:space="preserve">
+    <value>Valutazioni ufficiali</value>
+  </data>
 </root>

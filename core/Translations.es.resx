@@ -3629,4 +3629,13 @@ Recordatorio: tu código es {0}.</value>
   <data name="Rewatch_MultiplePlaysDisabled_FixedToast" xml:space="preserve">
     <value>Su cuenta de Trakt ya acepta varias visualizaciones.</value>
   </data>
+  <data name="MediaItemDetails_ExternalRatings_SheetTitle" xml:space="preserve">
+    <value>Valoraciones</value>
+  </data>
+  <data name="MediaItemDetails_ExternalRatings_TraktDistributionHeader" xml:space="preserve">
+    <value>Valoración de Trakt</value>
+  </data>
+  <data name="MediaItemDetails_ExternalRatings_OfficialHeader" xml:space="preserve">
+    <value>Valoraciones oficiales</value>
+  </data>
 </root>

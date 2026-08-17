@@ -3618,4 +3618,13 @@ Would you like the app to turn that setting off on your Trakt account? Your view
   <data name="Rewatch_MultiplePlaysDisabled_FixedToast" xml:space="preserve">
     <value>Your Trakt account now accepts several viewings.</value>
   </data>
+  <data name="MediaItemDetails_ExternalRatings_SheetTitle" xml:space="preserve">
+    <value>Ratings</value>
+  </data>
+  <data name="MediaItemDetails_ExternalRatings_TraktDistributionHeader" xml:space="preserve">
+    <value>Trakt rating</value>
+  </data>
+  <data name="MediaItemDetails_ExternalRatings_OfficialHeader" xml:space="preserve">
+    <value>Official ratings</value>
+  </data>
 </root>

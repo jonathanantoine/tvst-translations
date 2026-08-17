@@ -4956,4 +4956,13 @@ Você quer que o aplicativo desative essa opção na sua conta Trakt? A partir d
   <data name="Rewatch_MultiplePlaysDisabled_FixedToast" xml:space="preserve">
     <value>Sua conta Trakt agora aceita várias visualizações.</value>
   </data>
+  <data name="MediaItemDetails_ExternalRatings_SheetTitle" xml:space="preserve">
+    <value>Avaliações</value>
+  </data>
+  <data name="MediaItemDetails_ExternalRatings_TraktDistributionHeader" xml:space="preserve">
+    <value>Nota do Trakt</value>
+  </data>
+  <data name="MediaItemDetails_ExternalRatings_OfficialHeader" xml:space="preserve">
+    <value>Avaliações oficiais</value>
+  </data>
 </root>
