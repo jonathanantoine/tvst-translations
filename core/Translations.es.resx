@@ -2980,6 +2980,12 @@ Si desea dar un impulso adicional, el enlace de donación está aquí y siempre 
     <data name="Watchlist_Description" xml:space="preserve">
     <value>Películas y series que planeo ver</value>
   </data>
+    <data name="Collected_Name" xml:space="preserve">
+    <value>Colección</value>
+  </data>
+    <data name="Collected_Description" xml:space="preserve">
+    <value>Películas y series de mi colección</value>
+  </data>
     <data name="Settings_Display_ItemsByRowHeader_Home" xml:space="preserve">
         <value>Para mostrar series</value>
     </data>

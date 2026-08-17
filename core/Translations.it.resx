@@ -2541,6 +2541,12 @@ Se non riesci ancora ad accedere al tuo account dopo l'accesso, contattaci Trakt
     <data name="Watchlist_Description" xml:space="preserve">
         <value>Film e serie TV che ho intenzione di vedere.</value>
     </data>
+    <data name="Collected_Name" xml:space="preserve">
+        <value>Collezione</value>
+    </data>
+    <data name="Collected_Description" xml:space="preserve">
+        <value>Film e serie TV della mia collezione.</value>
+    </data>
     <data name="Startup_ConnectionLegacyModeButton" xml:space="preserve">
         <value>Soluzione di emergenza 2: accedi nel tuo browser</value>
     </data>

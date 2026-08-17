@@ -2516,6 +2516,12 @@ Se ainda não conseguir acessar sua conta após o login, entre em contato Trakt 
     <data name="Watchlist_Description" xml:space="preserve">
         <value>Filmes e séries que pretendo assistir.</value>
     </data>
+    <data name="Collected_Name" xml:space="preserve">
+        <value>Coleção</value>
+    </data>
+    <data name="Collected_Description" xml:space="preserve">
+        <value>Filmes e séries da minha coleção.</value>
+    </data>
     <data name="ToastNotifications_Code_MovieReleased" xml:space="preserve">
         <value>Este filme foi lançado hoje!</value>
     </data>

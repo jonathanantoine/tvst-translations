@@ -3832,6 +3832,12 @@ plus</value>
   <data name="Watchlist_Description" xml:space="preserve">
         <value>Placé de côté pour le voir plus tard</value>
     </data>
+  <data name="Collected_Name" xml:space="preserve">
+        <value>Collection</value>
+    </data>
+  <data name="Collected_Description" xml:space="preserve">
+        <value>Films et séries de votre collection</value>
+    </data>
   <data name="ToastNotifications_Code_MovieReleased" xml:space="preserve">
         <value>Ce film sort aujourd'hui !</value>
     </data>

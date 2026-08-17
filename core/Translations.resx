@@ -2676,6 +2676,12 @@ Reminder: your code is {0}.</value>
 
 </value>
   </data>
+  <data name="Collected_Name" xml:space="preserve">
+    <value>Collected</value>
+  </data>
+  <data name="Collected_Description" xml:space="preserve">
+    <value>Movies and shows in my collection.</value>
+  </data>
   <data name="ToastNotifications_Code_MovieReleased" xml:space="preserve">
     <value>This movie is released today !</value>
   </data>
