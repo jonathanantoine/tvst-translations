@@ -3641,4 +3641,13 @@ Vuoi che l'app disattivi questa impostazione sul tuo account Trakt? Da ora in po
   <data name="MediaItemDetails_ExternalRatings_OfficialHeader" xml:space="preserve">
     <value>Valutazioni ufficiali</value>
   </data>
+  <data name="MediaItemDetails_ExternalRatings_SeasonsHeader" xml:space="preserve">
+    <value>Valutazioni delle stagioni</value>
+  </data>
+  <data name="ShowDetails_ShowInfo_NetworkHeader" xml:space="preserve">
+    <value>Rete</value>
+  </data>
+  <data name="MediaItemDetails_LinksHeader" xml:space="preserve">
+    <value>COLLEGAMENTI</value>
+  </data>
 </root>

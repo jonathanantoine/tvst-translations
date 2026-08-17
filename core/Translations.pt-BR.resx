@@ -3593,4 +3593,13 @@ Você quer que o aplicativo desative essa opção na sua conta Trakt? A partir d
   <data name="MediaItemDetails_ExternalRatings_OfficialHeader" xml:space="preserve">
     <value>Avaliações oficiais</value>
   </data>
+  <data name="MediaItemDetails_ExternalRatings_SeasonsHeader" xml:space="preserve">
+    <value>Notas das temporadas</value>
+  </data>
+  <data name="ShowDetails_ShowInfo_NetworkHeader" xml:space="preserve">
+    <value>Canal</value>
+  </data>
+  <data name="MediaItemDetails_LinksHeader" xml:space="preserve">
+    <value>LINKS</value>
+  </data>
 </root>

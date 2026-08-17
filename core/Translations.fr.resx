@@ -4933,4 +4933,13 @@ Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? V
   <data name="MediaItemDetails_ExternalRatings_OfficialHeader" xml:space="preserve">
     <value>Notes officielles</value>
   </data>
+  <data name="MediaItemDetails_ExternalRatings_SeasonsHeader" xml:space="preserve">
+    <value>Notes des saisons</value>
+  </data>
+  <data name="ShowDetails_ShowInfo_NetworkHeader" xml:space="preserve">
+    <value>Chaîne</value>
+  </data>
+  <data name="MediaItemDetails_LinksHeader" xml:space="preserve">
+    <value>LIENS</value>
+  </data>
 </root>

@@ -3627,4 +3627,13 @@ Would you like the app to turn that setting off on your Trakt account? Your view
   <data name="MediaItemDetails_ExternalRatings_OfficialHeader" xml:space="preserve">
     <value>Official ratings</value>
   </data>
+  <data name="MediaItemDetails_ExternalRatings_SeasonsHeader" xml:space="preserve">
+    <value>Seasons' ratings</value>
+  </data>
+  <data name="ShowDetails_ShowInfo_NetworkHeader" xml:space="preserve">
+    <value>Network</value>
+  </data>
+  <data name="MediaItemDetails_LinksHeader" xml:space="preserve">
+    <value>LINKS</value>
+  </data>
 </root>

@@ -3638,4 +3638,13 @@ Recordatorio: tu código es {0}.</value>
   <data name="MediaItemDetails_ExternalRatings_OfficialHeader" xml:space="preserve">
     <value>Valoraciones oficiales</value>
   </data>
+  <data name="MediaItemDetails_ExternalRatings_SeasonsHeader" xml:space="preserve">
+    <value>Puntuación de las temporadas</value>
+  </data>
+  <data name="ShowDetails_ShowInfo_NetworkHeader" xml:space="preserve">
+    <value>Cadena</value>
+  </data>
+  <data name="MediaItemDetails_LinksHeader" xml:space="preserve">
+    <value>ENLACES</value>
+  </data>
 </root>
