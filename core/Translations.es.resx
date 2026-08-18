@@ -3668,4 +3668,43 @@ Recordatorio: tu código es {0}.</value>
   <data name="MovieDetails_Info_CreditsScene_None" xml:space="preserve">
     <value>Ninguna conocida</value>
   </data>
+  <data name="MediaItemDetails_Certification_G" xml:space="preserve">
+    <value>Para todos los públicos. Nada debería impresionar a un niño, sea cual sea su edad.</value>
+  </data>
+  <data name="MediaItemDetails_Certification_PG" xml:space="preserve">
+    <value>Se recomienda la orientación de los padres. Algunas escenas pueden no ser adecuadas para los más pequeños.</value>
+  </data>
+  <data name="MediaItemDetails_Certification_PG13" xml:space="preserve">
+    <value>Se advierte especialmente a los padres. Algunos contenidos pueden no ser adecuados para menores de 13 años.</value>
+  </data>
+  <data name="MediaItemDetails_Certification_R" xml:space="preserve">
+    <value>Acceso restringido. Los menores de 17 años deben ir acompañados de un adulto.</value>
+  </data>
+  <data name="MediaItemDetails_Certification_NC17" xml:space="preserve">
+    <value>Solo para adultos. No se admite a menores de 18 años.</value>
+  </data>
+  <data name="MediaItemDetails_Certification_NR" xml:space="preserve">
+    <value>Sin clasificar. Este título nunca se presentó a la comisión de clasificación, o su clasificación se desconoce.</value>
+  </data>
+  <data name="MediaItemDetails_Certification_TVY" xml:space="preserve">
+    <value>Apto para todos los niños, incluidos los más pequeños.</value>
+  </data>
+  <data name="MediaItemDetails_Certification_TVY7" xml:space="preserve">
+    <value>Pensado para niños a partir de 7 años. Puede contener violencia fantástica leve.</value>
+  </data>
+  <data name="MediaItemDetails_Certification_TVG" xml:space="preserve">
+    <value>Apto para toda la familia. La mayoría de los padres puede dejar que un niño pequeño lo vea solo.</value>
+  </data>
+  <data name="MediaItemDetails_Certification_TVPG" xml:space="preserve">
+    <value>Se recomienda la orientación de los padres. Contiene elementos que algunos padres prefieren evitar a los más pequeños.</value>
+  </data>
+  <data name="MediaItemDetails_Certification_TV14" xml:space="preserve">
+    <value>Se advierte especialmente a los padres. Contiene elementos no adecuados para menores de 14 años.</value>
+  </data>
+  <data name="MediaItemDetails_Certification_TVMA" xml:space="preserve">
+    <value>Reservado a un público adulto. No es adecuado para menores de 17 años.</value>
+  </data>
+  <data name="MediaItemDetails_Certification_Origin" xml:space="preserve">
+    <value>Estas clasificaciones proceden de los sistemas estadounidenses: la MPA para las películas y las TV Parental Guidelines para las series. Pueden diferir de la clasificación vigente en su país.</value>
+  </data>
 </root>

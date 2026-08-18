@@ -3657,4 +3657,43 @@ Would you like the app to turn that setting off on your Trakt account? Your view
   <data name="MovieDetails_Info_CreditsScene_None" xml:space="preserve">
     <value>None known</value>
   </data>
+  <data name="MediaItemDetails_Certification_G" xml:space="preserve">
+    <value>General audiences. Nothing in it should shock a child, whatever their age.</value>
+  </data>
+  <data name="MediaItemDetails_Certification_PG" xml:space="preserve">
+    <value>Parental guidance suggested. A few scenes may not suit the youngest children.</value>
+  </data>
+  <data name="MediaItemDetails_Certification_PG13" xml:space="preserve">
+    <value>Parents strongly cautioned. Some content may not suit children under 13.</value>
+  </data>
+  <data name="MediaItemDetails_Certification_R" xml:space="preserve">
+    <value>Restricted. Under 17 requires an accompanying adult.</value>
+  </data>
+  <data name="MediaItemDetails_Certification_NC17" xml:space="preserve">
+    <value>Adults only. No one aged 17 or under is admitted.</value>
+  </data>
+  <data name="MediaItemDetails_Certification_NR" xml:space="preserve">
+    <value>Not rated. This title was never submitted to the ratings board, or its rating is unknown.</value>
+  </data>
+  <data name="MediaItemDetails_Certification_TVY" xml:space="preserve">
+    <value>Suitable for all children, including the very youngest.</value>
+  </data>
+  <data name="MediaItemDetails_Certification_TVY7" xml:space="preserve">
+    <value>Made for children aged 7 and over. May contain mild fantasy violence.</value>
+  </data>
+  <data name="MediaItemDetails_Certification_TVG" xml:space="preserve">
+    <value>Suitable for the whole family. Most parents can let a young child watch it alone.</value>
+  </data>
+  <data name="MediaItemDetails_Certification_TVPG" xml:space="preserve">
+    <value>Parental guidance suggested. Contains material some parents would rather their younger children did not see.</value>
+  </data>
+  <data name="MediaItemDetails_Certification_TV14" xml:space="preserve">
+    <value>Parents strongly cautioned. Contains material unsuitable for children under 14.</value>
+  </data>
+  <data name="MediaItemDetails_Certification_TVMA" xml:space="preserve">
+    <value>For a mature audience. Not suitable for anyone under 17.</value>
+  </data>
+  <data name="MediaItemDetails_Certification_Origin" xml:space="preserve">
+    <value>These age ratings come from the American systems: the MPA for movies, the TV Parental Guidelines for series. They can differ from the rating in force in your country.</value>
+  </data>
 </root>

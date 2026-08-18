@@ -4995,4 +4995,43 @@ Você quer que o aplicativo desative essa opção na sua conta Trakt? A partir d
   <data name="MovieDetails_Info_CreditsScene_None" xml:space="preserve">
     <value>Nenhuma conhecida</value>
   </data>
+  <data name="MediaItemDetails_Certification_G" xml:space="preserve">
+    <value>Para todos os públicos. Nada deverá chocar uma criança, seja qual for a sua idade.</value>
+  </data>
+  <data name="MediaItemDetails_Certification_PG" xml:space="preserve">
+    <value>Aconselhamento parental sugerido. Algumas cenas podem não ser adequadas aos mais novos.</value>
+  </data>
+  <data name="MediaItemDetails_Certification_PG13" xml:space="preserve">
+    <value>Aconselhamento parental fortemente recomendado. Alguns conteúdos podem não ser adequados a menores de 13 anos.</value>
+  </data>
+  <data name="MediaItemDetails_Certification_R" xml:space="preserve">
+    <value>Acesso restrito. Os menores de 17 anos devem ser acompanhados por um adulto.</value>
+  </data>
+  <data name="MediaItemDetails_Certification_NC17" xml:space="preserve">
+    <value>Reservado a adultos. Não são admitidos menores de 18 anos.</value>
+  </data>
+  <data name="MediaItemDetails_Certification_NR" xml:space="preserve">
+    <value>Sem classificação. Este título nunca foi submetido à comissão de classificação, ou a sua classificação é desconhecida.</value>
+  </data>
+  <data name="MediaItemDetails_Certification_TVY" xml:space="preserve">
+    <value>Adequado a todas as crianças, incluindo as mais pequenas.</value>
+  </data>
+  <data name="MediaItemDetails_Certification_TVY7" xml:space="preserve">
+    <value>Concebido para crianças a partir dos 7 anos. Pode conter violência imaginária ligeira.</value>
+  </data>
+  <data name="MediaItemDetails_Certification_TVG" xml:space="preserve">
+    <value>Adequado a toda a família. A maioria dos pais pode deixar uma criança pequena vê-lo sozinha.</value>
+  </data>
+  <data name="MediaItemDetails_Certification_TVPG" xml:space="preserve">
+    <value>Aconselhamento parental sugerido. Contém elementos que alguns pais preferem evitar aos mais novos.</value>
+  </data>
+  <data name="MediaItemDetails_Certification_TV14" xml:space="preserve">
+    <value>Aconselhamento parental fortemente recomendado. Contém elementos que não são adequados a menores de 14 anos.</value>
+  </data>
+  <data name="MediaItemDetails_Certification_TVMA" xml:space="preserve">
+    <value>Reservado a um público adulto. Não é adequado a menores de 17 anos.</value>
+  </data>
+  <data name="MediaItemDetails_Certification_Origin" xml:space="preserve">
+    <value>Estas classificações vêm dos sistemas americanos: a MPA para os filmes, as TV Parental Guidelines para as séries. Podem diferir da classificação em vigor no seu país.</value>
+  </data>
 </root>
