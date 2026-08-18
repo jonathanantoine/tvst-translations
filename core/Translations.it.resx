@@ -3668,4 +3668,7 @@ Vuoi che l'app disattivi questa impostazione sul tuo account Trakt? Da ora in po
   <data name="MovieDetails_Info_CreditsScene_DuringAndAfter" xml:space="preserve">
     <value>Durante e dopo i titoli di coda</value>
   </data>
+  <data name="MovieDetails_Info_CreditsScene_None" xml:space="preserve">
+    <value>Nessuna nota</value>
+  </data>
 </root>

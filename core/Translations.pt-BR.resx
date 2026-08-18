@@ -3620,4 +3620,7 @@ Você quer que o aplicativo desative essa opção na sua conta Trakt? A partir d
   <data name="MovieDetails_Info_CreditsScene_DuringAndAfter" xml:space="preserve">
     <value>Durante e depois dos créditos</value>
   </data>
+  <data name="MovieDetails_Info_CreditsScene_None" xml:space="preserve">
+    <value>Nenhuma conhecida</value>
+  </data>
 </root>

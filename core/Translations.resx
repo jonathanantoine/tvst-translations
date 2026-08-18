@@ -3654,4 +3654,7 @@ Would you like the app to turn that setting off on your Trakt account? Your view
   <data name="MovieDetails_Info_CreditsScene_DuringAndAfter" xml:space="preserve">
     <value>During and after the credits</value>
   </data>
+  <data name="MovieDetails_Info_CreditsScene_None" xml:space="preserve">
+    <value>None known</value>
+  </data>
 </root>

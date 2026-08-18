@@ -4960,4 +4960,7 @@ Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? V
   <data name="MovieDetails_Info_CreditsScene_DuringAndAfter" xml:space="preserve">
     <value>Pendant et après le générique</value>
   </data>
+  <data name="MovieDetails_Info_CreditsScene_None" xml:space="preserve">
+    <value>Aucune connue</value>
+  </data>
 </root>

@@ -3665,4 +3665,7 @@ Recordatorio: tu código es {0}.</value>
   <data name="MovieDetails_Info_CreditsScene_DuringAndAfter" xml:space="preserve">
     <value>Durante y después de los créditos</value>
   </data>
+  <data name="MovieDetails_Info_CreditsScene_None" xml:space="preserve">
+    <value>Ninguna conocida</value>
+  </data>
 </root>
