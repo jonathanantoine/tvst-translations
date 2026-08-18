@@ -3653,4 +3653,16 @@ Recordatorio: tu código es {0}.</value>
   <data name="MediaItemDetails_LinksHeader" xml:space="preserve">
     <value>ENLACES</value>
   </data>
+  <data name="MovieDetails_Info_CreditsSceneHeader" xml:space="preserve">
+    <value>Escena extra</value>
+  </data>
+  <data name="MovieDetails_Info_CreditsScene_After" xml:space="preserve">
+    <value>Después de los créditos</value>
+  </data>
+  <data name="MovieDetails_Info_CreditsScene_During" xml:space="preserve">
+    <value>Durante los créditos</value>
+  </data>
+  <data name="MovieDetails_Info_CreditsScene_DuringAndAfter" xml:space="preserve">
+    <value>Durante y después de los créditos</value>
+  </data>
 </root>

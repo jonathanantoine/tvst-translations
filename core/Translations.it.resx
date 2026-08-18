@@ -3656,4 +3656,16 @@ Vuoi che l'app disattivi questa impostazione sul tuo account Trakt? Da ora in po
   <data name="MediaItemDetails_LinksHeader" xml:space="preserve">
     <value>COLLEGAMENTI</value>
   </data>
+  <data name="MovieDetails_Info_CreditsSceneHeader" xml:space="preserve">
+    <value>Scena extra</value>
+  </data>
+  <data name="MovieDetails_Info_CreditsScene_After" xml:space="preserve">
+    <value>Dopo i titoli di coda</value>
+  </data>
+  <data name="MovieDetails_Info_CreditsScene_During" xml:space="preserve">
+    <value>Durante i titoli di coda</value>
+  </data>
+  <data name="MovieDetails_Info_CreditsScene_DuringAndAfter" xml:space="preserve">
+    <value>Durante e dopo i titoli di coda</value>
+  </data>
 </root>

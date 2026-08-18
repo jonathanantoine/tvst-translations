@@ -3642,4 +3642,16 @@ Would you like the app to turn that setting off on your Trakt account? Your view
   <data name="MediaItemDetails_LinksHeader" xml:space="preserve">
     <value>LINKS</value>
   </data>
+  <data name="MovieDetails_Info_CreditsSceneHeader" xml:space="preserve">
+    <value>Extra scene</value>
+  </data>
+  <data name="MovieDetails_Info_CreditsScene_After" xml:space="preserve">
+    <value>After the credits</value>
+  </data>
+  <data name="MovieDetails_Info_CreditsScene_During" xml:space="preserve">
+    <value>During the credits</value>
+  </data>
+  <data name="MovieDetails_Info_CreditsScene_DuringAndAfter" xml:space="preserve">
+    <value>During and after the credits</value>
+  </data>
 </root>

@@ -3608,4 +3608,16 @@ Você quer que o aplicativo desative essa opção na sua conta Trakt? A partir d
   <data name="MediaItemDetails_LinksHeader" xml:space="preserve">
     <value>LINKS</value>
   </data>
+  <data name="MovieDetails_Info_CreditsSceneHeader" xml:space="preserve">
+    <value>Cena extra</value>
+  </data>
+  <data name="MovieDetails_Info_CreditsScene_After" xml:space="preserve">
+    <value>Depois dos créditos</value>
+  </data>
+  <data name="MovieDetails_Info_CreditsScene_During" xml:space="preserve">
+    <value>Durante os créditos</value>
+  </data>
+  <data name="MovieDetails_Info_CreditsScene_DuringAndAfter" xml:space="preserve">
+    <value>Durante e depois dos créditos</value>
+  </data>
 </root>

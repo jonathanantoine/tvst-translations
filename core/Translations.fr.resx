@@ -4948,4 +4948,16 @@ Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? V
   <data name="MediaItemDetails_LinksHeader" xml:space="preserve">
     <value>LIENS</value>
   </data>
+  <data name="MovieDetails_Info_CreditsSceneHeader" xml:space="preserve">
+    <value>Scène bonus</value>
+  </data>
+  <data name="MovieDetails_Info_CreditsScene_After" xml:space="preserve">
+    <value>Après le générique</value>
+  </data>
+  <data name="MovieDetails_Info_CreditsScene_During" xml:space="preserve">
+    <value>Pendant le générique</value>
+  </data>
+  <data name="MovieDetails_Info_CreditsScene_DuringAndAfter" xml:space="preserve">
+    <value>Pendant et après le générique</value>
+  </data>
 </root>
