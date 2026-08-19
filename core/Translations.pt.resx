@@ -5079,4 +5079,115 @@ Você quer que o aplicativo desative essa opção na sua conta Trakt? A partir d
   <data name="Watchlist_Menu_MoveDownOnePlace" xml:space="preserve">
     <value>Descer uma posição na watchlist</value>
   </data>
+  <data name="PendingOperations_PageTitle" xml:space="preserve">
+    <value>Operações pendentes</value>
+  </data>
+  <data name="PendingOperations_EmptyPlaceholder" xml:space="preserve">
+    <value>Não há nada à espera de ser enviado para o Trakt.</value>
+  </data>
+  <data name="PendingOperations_EmptyWithFilter" xml:space="preserve">
+    <value>Nenhuma operação corresponde ao filtro selecionado.</value>
+  </data>
+  <data name="PendingOperations_LoadMore_Text" xml:space="preserve">
+    <value>Mostrar mais</value>
+  </data>
+  <data name="PendingOperations_Filter_Text" xml:space="preserve">
+    <value>Filtrar</value>
+  </data>
+  <data name="PendingOperations_Filter_Pending_Text" xml:space="preserve">
+    <value>Em espera</value>
+  </data>
+  <data name="PendingOperations_Filter_Failed_Text" xml:space="preserve">
+    <value>Abandonadas</value>
+  </data>
+  <data name="PendingOperations_Settings_Text" xml:space="preserve">
+    <value>Operações pendentes</value>
+  </data>
+  <data name="PendingOperations_Settings_Subtitle" xml:space="preserve">
+    <value>Consulte as alterações já aplicadas neste dispositivo e ainda não enviadas para o Trakt.</value>
+  </data>
+  <data name="PendingOperations_Section_TraktActions_Text" xml:space="preserve">
+    <value>Ações do Trakt</value>
+  </data>
+  <data name="PendingOperations_Section_SeenOrUnseen_Text" xml:space="preserve">
+    <value>Marcações de visto e não visto</value>
+  </data>
+  <data name="PendingOperations_Section_HiddenOrNot_Text" xml:space="preserve">
+    <value>Séries e temporadas ocultas</value>
+  </data>
+  <data name="PendingOperations_Code_SectionCountFormat" xml:space="preserve">
+    <value>{0} de {1} apresentadas</value>
+  </data>
+  <data name="PendingOperations_Code_UnknownTitle" xml:space="preserve">
+    <value>Título desconhecido</value>
+  </data>
+  <data name="PendingOperations_Code_Failed" xml:space="preserve">
+    <value>Abandonada</value>
+  </data>
+  <data name="PendingOperations_Code_TryCountFormat" xml:space="preserve">
+    <value>{0} tentativas</value>
+  </data>
+  <data name="PendingOperations_Code_WatchlistAdd" xml:space="preserve">
+    <value>Adicionado à watchlist</value>
+  </data>
+  <data name="PendingOperations_Code_WatchlistRemove" xml:space="preserve">
+    <value>Removido da watchlist</value>
+  </data>
+  <data name="PendingOperations_Code_CollectionAdd" xml:space="preserve">
+    <value>Adicionado à coleção</value>
+  </data>
+  <data name="PendingOperations_Code_CollectionRemove" xml:space="preserve">
+    <value>Removido da coleção</value>
+  </data>
+  <data name="PendingOperations_Code_RecommendationAdd" xml:space="preserve">
+    <value>Adicionado às suas recomendações</value>
+  </data>
+  <data name="PendingOperations_Code_RecommendationRemove" xml:space="preserve">
+    <value>Removido das suas recomendações</value>
+  </data>
+  <data name="PendingOperations_Code_ListItemAdd" xml:space="preserve">
+    <value>Adicionado a uma lista</value>
+  </data>
+  <data name="PendingOperations_Code_ListItemRemove" xml:space="preserve">
+    <value>Removido de uma lista</value>
+  </data>
+  <data name="PendingOperations_Code_RatingSetFormat" xml:space="preserve">
+    <value>Nota {0}/10</value>
+  </data>
+  <data name="PendingOperations_Code_RatingRemove" xml:space="preserve">
+    <value>Nota removida</value>
+  </data>
+  <data name="PendingOperations_Code_WatchlistRankSet" xml:space="preserve">
+    <value>Movido para o topo da watchlist</value>
+  </data>
+  <data name="PendingOperations_Code_ListUpdate" xml:space="preserve">
+    <value>Lista modificada</value>
+  </data>
+  <data name="PendingOperations_Code_ListDelete" xml:space="preserve">
+    <value>Lista eliminada</value>
+  </data>
+  <data name="PendingOperations_Code_MarkedAsSeen" xml:space="preserve">
+    <value>Marcado como visto</value>
+  </data>
+  <data name="PendingOperations_Code_MarkedAsUnseen" xml:space="preserve">
+    <value>Marcado como não visto</value>
+  </data>
+  <data name="PendingOperations_Code_Hidden" xml:space="preserve">
+    <value>Oculto</value>
+  </data>
+  <data name="PendingOperations_Code_Unhidden" xml:space="preserve">
+    <value>Novamente visível</value>
+  </data>
+  <data name="PendingOperations_Code_SeasonFormat" xml:space="preserve">
+    <value>Temporada {0}</value>
+  </data>
+  <data name="PendingActions_ListCreationCancelled_QuotaReached" xml:space="preserve">
+    <value>O Trakt recusou a criação da lista “{0}”: a sua conta atingiu o limite de listas. A lista é mantida neste dispositivo e poderá enviá-la novamente mais tarde.</value>
+  </data>
+  <data name="PendingActions_ActionCancelled_Generic" xml:space="preserve">
+    <value>Não foi possível enviar uma ação para o Trakt. Fica guardada neste dispositivo e poderá enviá-la novamente mais tarde.</value>
+  </data>
+  <data name="PendingActions_SeveralCancelled" xml:space="preserve">
+    <value>Não foi possível enviar várias ações para o Trakt. Ficam guardadas neste dispositivo e poderá enviá-las novamente mais tarde.</value>
+  </data>
 </root>
