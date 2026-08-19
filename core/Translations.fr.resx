@@ -5038,4 +5038,13 @@ Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? V
   <data name="MediaItemDetails_Certification_AgeLine_AllAges" xml:space="preserve">
     <value>Destiné aux spectateurs de tous âges.</value>
   </data>
+  <data name="Global_Error_LocalDatabaseFailure" xml:space="preserve">
+    <value>Une erreur inattendue est survenue lors de la lecture des données locales de l'application. Veuillez redémarrer l'application, vérifier si une mise à jour est disponible et me contacter si le problème persiste.</value>
+  </data>
+  <data name="Watchlist_Menu_MoveUpOnePlace" xml:space="preserve">
+    <value>Monter d'une place dans la watchlist</value>
+  </data>
+  <data name="Watchlist_Menu_MoveDownOnePlace" xml:space="preserve">
+    <value>Descendre d'une place dans la watchlist</value>
+  </data>
 </root>

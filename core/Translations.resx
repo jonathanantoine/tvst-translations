@@ -3732,4 +3732,13 @@ Would you like the app to turn that setting off on your Trakt account? Your view
   <data name="MediaItemDetails_Certification_AgeLine_AllAges" xml:space="preserve">
     <value>Aimed at viewers of all ages.</value>
   </data>
+  <data name="Global_Error_LocalDatabaseFailure" xml:space="preserve">
+    <value>An unexpected error occurred while reading the app's local data. Please restart the app, check whether an update is available, and contact me if the problem persists.</value>
+  </data>
+  <data name="Watchlist_Menu_MoveUpOnePlace" xml:space="preserve">
+    <value>Move up one place in the watchlist</value>
+  </data>
+  <data name="Watchlist_Menu_MoveDownOnePlace" xml:space="preserve">
+    <value>Move down one place in the watchlist</value>
+  </data>
 </root>

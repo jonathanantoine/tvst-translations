@@ -3743,4 +3743,13 @@ Recordatorio: tu código es {0}.</value>
   <data name="MediaItemDetails_Certification_AgeLine_AllAges" xml:space="preserve">
     <value>Dirigido a espectadores de todas las edades.</value>
   </data>
+  <data name="Global_Error_LocalDatabaseFailure" xml:space="preserve">
+    <value>Se ha producido un error inesperado al leer los datos locales de la aplicación. Reinicie la aplicación, compruebe si hay una actualización disponible y póngase en contacto conmigo si el problema persiste.</value>
+  </data>
+  <data name="Watchlist_Menu_MoveUpOnePlace" xml:space="preserve">
+    <value>Subir un puesto en la lista de seguimiento</value>
+  </data>
+  <data name="Watchlist_Menu_MoveDownOnePlace" xml:space="preserve">
+    <value>Bajar un puesto en la lista de seguimiento</value>
+  </data>
 </root>

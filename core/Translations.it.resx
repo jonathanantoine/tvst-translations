@@ -3746,4 +3746,13 @@ Vuoi che l'app disattivi questa impostazione sul tuo account Trakt? Da ora in po
   <data name="MediaItemDetails_Certification_AgeLine_AllAges" xml:space="preserve">
     <value>Destinato agli spettatori di tutte le età.</value>
   </data>
+  <data name="Global_Error_LocalDatabaseFailure" xml:space="preserve">
+    <value>Si è verificato un errore imprevisto durante la lettura dei dati locali dell'app. La preghiamo di riavviare l'app, di verificare se è disponibile un aggiornamento e di contattarmi se il problema persiste.</value>
+  </data>
+  <data name="Watchlist_Menu_MoveUpOnePlace" xml:space="preserve">
+    <value>Salire di una posizione nella watchlist</value>
+  </data>
+  <data name="Watchlist_Menu_MoveDownOnePlace" xml:space="preserve">
+    <value>Scendere di una posizione nella watchlist</value>
+  </data>
 </root>

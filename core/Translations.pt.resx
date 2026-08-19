@@ -5070,4 +5070,13 @@ Você quer que o aplicativo desative essa opção na sua conta Trakt? A partir d
   <data name="MediaItemDetails_Certification_AgeLine_AllAges" xml:space="preserve">
     <value>Destinado a espetadores de todas as idades.</value>
   </data>
+  <data name="Global_Error_LocalDatabaseFailure" xml:space="preserve">
+    <value>Ocorreu um erro inesperado ao ler os dados locais da aplicação. Reinicie a aplicação, verifique se existe uma atualização disponível e contacte-me se o problema persistir.</value>
+  </data>
+  <data name="Watchlist_Menu_MoveUpOnePlace" xml:space="preserve">
+    <value>Subir uma posição na watchlist</value>
+  </data>
+  <data name="Watchlist_Menu_MoveDownOnePlace" xml:space="preserve">
+    <value>Descer uma posição na watchlist</value>
+  </data>
 </root>
