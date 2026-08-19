@@ -1131,7 +1131,7 @@ aparece en esta búsqueda
   </data>
     <data name="ShowDetails_AppBar_AddComment_Placeholder" xml:space="preserve">
     <value>Escribe aquí tu comentario.
-Normas: Solo en inglés, más de 5 palabras, no hacer peticiones de soporte, avisar de los spoilers!</value>
+Normas: Más de 5 palabras, no hacer peticiones de soporte, avisar de los spoilers!</value>
   </data>
     <data name="AddComment_AtLeast5Words" xml:space="preserve">
     <value>Se necesitan al menos 5 palabras</value>
@@ -3706,5 +3706,17 @@ Recordatorio: tu código es {0}.</value>
   </data>
   <data name="MediaItemDetails_Certification_Origin" xml:space="preserve">
     <value>Estas clasificaciones proceden de los sistemas estadounidenses: la MPA para las películas y las TV Parental Guidelines para las series. Pueden diferir de la clasificación vigente en su país.</value>
+  </data>
+  <data name="MediaItem_PersonalNoteTip_DisplayOnHome" xml:space="preserve">
+    <value>Consejo: un ajuste de la aplicación permite mostrar las primeras palabras de sus notas directamente en los elementos de su página de inicio.</value>
+  </data>
+  <data name="MediaItem_PersonalNoteTip_VipSyncOnly" xml:space="preserve">
+    <value>Las notas personales solo se sincronizan con Trakt si utiliza una cuenta VIP.</value>
+  </data>
+  <data name="MediaItemDetails_Certification_AgeLine" xml:space="preserve">
+    <value>Dirigido a espectadores de {0} años o más.</value>
+  </data>
+  <data name="MediaItemDetails_Certification_AgeLine_AllAges" xml:space="preserve">
+    <value>Dirigido a espectadores de todas las edades.</value>
   </data>
 </root>

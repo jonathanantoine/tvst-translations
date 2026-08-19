@@ -1165,7 +1165,7 @@ Do you want to have more info?</value>
   </data>
   <data name="ShowDetails_AppBar_AddComment_Placeholder" xml:space="preserve">
     <value>Write your comment here.
-Rules: English only, 5+ words, no support requests, mark spoilers!</value>
+Rules: 5+ words, no support requests, mark spoilers!</value>
   </data>
   <data name="AddComment_AtLeast5Words" xml:space="preserve">
     <value>At least 5 words are needed.</value>
@@ -3695,5 +3695,17 @@ Would you like the app to turn that setting off on your Trakt account? Your view
   </data>
   <data name="MediaItemDetails_Certification_Origin" xml:space="preserve">
     <value>These age ratings come from the American systems: the MPA for movies, the TV Parental Guidelines for series. They can differ from the rating in force in your country.</value>
+  </data>
+  <data name="MediaItem_PersonalNoteTip_DisplayOnHome" xml:space="preserve">
+    <value>Tip: an app setting can display the first words of your notes directly on your home page items.</value>
+  </data>
+  <data name="MediaItem_PersonalNoteTip_VipSyncOnly" xml:space="preserve">
+    <value>Personal notes are only synchronized with Trakt if you use a VIP account.</value>
+  </data>
+  <data name="MediaItemDetails_Certification_AgeLine" xml:space="preserve">
+    <value>Aimed at viewers aged {0} and over.</value>
+  </data>
+  <data name="MediaItemDetails_Certification_AgeLine_AllAges" xml:space="preserve">
+    <value>Aimed at viewers of all ages.</value>
   </data>
 </root>

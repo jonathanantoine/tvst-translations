@@ -1808,7 +1808,7 @@ Voulez-vous en savoir plus ?</value>
       name     ="ShowDetails_AppBar_AddComment_Placeholder"
       xml:space="preserve">
     <value>Écrivez votre avis ici !
-Règles: EN ANGLAIS, au moins 5 mots, pas de demande d'aide, indiquez les spoilers !</value>
+Règles: au moins 5 mots, pas de demande d'aide, indiquez les spoilers !</value>
   </data>
   <data
       name     ="ShowDetails_ReplyComment_ButtonText"
@@ -5001,5 +5001,17 @@ Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? V
   </data>
   <data name="MediaItemDetails_Certification_Origin" xml:space="preserve">
     <value>Ces classifications viennent des systèmes américains : la MPA pour les films, les TV Parental Guidelines pour les séries. Elles peuvent différer de la classification en vigueur dans votre pays.</value>
+  </data>
+  <data name="MediaItem_PersonalNoteTip_DisplayOnHome" xml:space="preserve">
+    <value>Astuce : un réglage de l'application permet d'afficher les premiers mots de vos notes directement sur les éléments de votre page d'accueil.</value>
+  </data>
+  <data name="MediaItem_PersonalNoteTip_VipSyncOnly" xml:space="preserve">
+    <value>Les notes personnelles ne sont synchronisées avec Trakt que si vous utilisez un compte VIP.</value>
+  </data>
+  <data name="MediaItemDetails_Certification_AgeLine" xml:space="preserve">
+    <value>Destiné aux spectateurs de {0} ans et plus.</value>
+  </data>
+  <data name="MediaItemDetails_Certification_AgeLine_AllAges" xml:space="preserve">
+    <value>Destiné aux spectateurs de tous âges.</value>
   </data>
 </root>

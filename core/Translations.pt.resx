@@ -1740,7 +1740,7 @@ Você quer mais informações sobre isso ?</value>
       name="ShowDetails_AppBar_AddComment_Placeholder"
       xml:space="preserve">
     <value>Escreva seu comentário aqui.
-Regras: Somente em inglês, 5 ou mais palavras, sem solicitações de suporte, marcar spoiler!</value>
+Regras: 5 ou mais palavras, sem solicitações de suporte, marcar spoiler!</value>
   </data>
 
   <data
@@ -5033,5 +5033,17 @@ Você quer que o aplicativo desative essa opção na sua conta Trakt? A partir d
   </data>
   <data name="MediaItemDetails_Certification_Origin" xml:space="preserve">
     <value>Estas classificações vêm dos sistemas americanos: a MPA para os filmes, as TV Parental Guidelines para as séries. Podem diferir da classificação em vigor no seu país.</value>
+  </data>
+  <data name="MediaItem_PersonalNoteTip_DisplayOnHome" xml:space="preserve">
+    <value>Dica: uma configuração da aplicação permite exibir as primeiras palavras das suas anotações diretamente nos itens da sua página inicial.</value>
+  </data>
+  <data name="MediaItem_PersonalNoteTip_VipSyncOnly" xml:space="preserve">
+    <value>As anotações pessoais só são sincronizadas com o Trakt se utilizar uma conta VIP.</value>
+  </data>
+  <data name="MediaItemDetails_Certification_AgeLine" xml:space="preserve">
+    <value>Destinado a espetadores de {0} anos ou mais.</value>
+  </data>
+  <data name="MediaItemDetails_Certification_AgeLine_AllAges" xml:space="preserve">
+    <value>Destinado a espetadores de todas as idades.</value>
   </data>
 </root>
