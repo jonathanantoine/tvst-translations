@@ -3647,6 +3647,30 @@ Recordatorio: tu código es {0}.</value>
   <data name="MediaItemDetails_ExternalRatings_SeasonsHeader" xml:space="preserve">
     <value>Puntuación de las temporadas</value>
   </data>
+  <data name="MediaItemDetails_ExternalRatings_ScalesTitle" xml:space="preserve">
+    <value>Sistemas de puntuación</value>
+  </data>
+  <data name="MediaItemDetails_ExternalRatings_Scale_Imdb" xml:space="preserve">
+    <value>IMDb — de 0 a 10. Media ponderada de los votos de los usuarios del sitio.</value>
+  </data>
+  <data name="MediaItemDetails_ExternalRatings_Scale_RottenTomatoesCritics" xml:space="preserve">
+    <value>Rotten Tomatoes, Tomatometer — de 0 a 100 %. Porcentaje de críticas profesionales positivas, no una nota media: a partir del 60 %, el tomate fresco; por debajo, el tomate podrido.</value>
+  </data>
+  <data name="MediaItemDetails_ExternalRatings_Scale_RottenTomatoesAudience" xml:space="preserve">
+    <value>Rotten Tomatoes, puntuación del público — de 0 a 100 %. Porcentaje de usuarios del sitio que le han dado 3,5 estrellas o más de 5: a partir del 60 %, las palomitas llenas; por debajo, las palomitas derramadas.</value>
+  </data>
+  <data name="MediaItemDetails_ExternalRatings_Scale_Metascore" xml:space="preserve">
+    <value>Metacritic, Metascore — de 0 a 100. Media ponderada de las críticas profesionales: 61 o más es favorable, de 40 a 60 mixto, por debajo de 40 desfavorable.</value>
+  </data>
+  <data name="MediaItemDetails_ExternalRatings_Scale_Tmdb" xml:space="preserve">
+    <value>TMDB — de 0 a 10. Media de los votos de los usuarios del sitio.</value>
+  </data>
+  <data name="MediaItemDetails_ExternalRatings_Scale_Letterboxd" xml:space="preserve">
+    <value>Letterboxd — de 0 a 5. Media de las notas de sus miembros, que puntúan de media estrella a cinco estrellas.</value>
+  </data>
+  <data name="MediaItemDetails_ExternalRatings_Scale_MyAnimeList" xml:space="preserve">
+    <value>MyAnimeList — de 0 a 10. Media de los votos de los miembros del sitio.</value>
+  </data>
   <data name="ShowDetails_ShowInfo_NetworkHeader" xml:space="preserve">
     <value>Cadena</value>
   </data>

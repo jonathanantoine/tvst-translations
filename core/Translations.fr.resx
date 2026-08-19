@@ -4942,6 +4942,30 @@ Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? V
   <data name="MediaItemDetails_ExternalRatings_SeasonsHeader" xml:space="preserve">
     <value>Notes des saisons</value>
   </data>
+  <data name="MediaItemDetails_ExternalRatings_ScalesTitle" xml:space="preserve">
+    <value>Systèmes de notation</value>
+  </data>
+  <data name="MediaItemDetails_ExternalRatings_Scale_Imdb" xml:space="preserve">
+    <value>IMDb — de 0 à 10. Moyenne pondérée des votes des utilisateurs du site.</value>
+  </data>
+  <data name="MediaItemDetails_ExternalRatings_Scale_RottenTomatoesCritics" xml:space="preserve">
+    <value>Rotten Tomatoes, Tomatometer — de 0 à 100 %. Part des critiques professionnelles positives, et non une note moyenne : à partir de 60 %, la tomate fraîche ; en dessous, la tomate pourrie.</value>
+  </data>
+  <data name="MediaItemDetails_ExternalRatings_Scale_RottenTomatoesAudience" xml:space="preserve">
+    <value>Rotten Tomatoes, note du public — de 0 à 100 %. Part des utilisateurs du site ayant mis au moins 3,5 étoiles sur 5 : à partir de 60 %, le pop-corn plein ; en dessous, le pop-corn renversé.</value>
+  </data>
+  <data name="MediaItemDetails_ExternalRatings_Scale_Metascore" xml:space="preserve">
+    <value>Metacritic, Metascore — de 0 à 100. Moyenne pondérée des critiques professionnelles : 61 et plus est favorable, de 40 à 60 mitigé, en dessous de 40 défavorable.</value>
+  </data>
+  <data name="MediaItemDetails_ExternalRatings_Scale_Tmdb" xml:space="preserve">
+    <value>TMDB — de 0 à 10. Moyenne des votes des utilisateurs du site.</value>
+  </data>
+  <data name="MediaItemDetails_ExternalRatings_Scale_Letterboxd" xml:space="preserve">
+    <value>Letterboxd — de 0 à 5. Moyenne des notes de ses membres, qui notent d'une demi-étoile à cinq étoiles.</value>
+  </data>
+  <data name="MediaItemDetails_ExternalRatings_Scale_MyAnimeList" xml:space="preserve">
+    <value>MyAnimeList — de 0 à 10. Moyenne des votes des membres du site.</value>
+  </data>
   <data name="ShowDetails_ShowInfo_NetworkHeader" xml:space="preserve">
     <value>Chaîne</value>
   </data>

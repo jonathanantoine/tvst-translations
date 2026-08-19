@@ -3636,6 +3636,30 @@ Would you like the app to turn that setting off on your Trakt account? Your view
   <data name="MediaItemDetails_ExternalRatings_SeasonsHeader" xml:space="preserve">
     <value>Seasons' ratings</value>
   </data>
+  <data name="MediaItemDetails_ExternalRatings_ScalesTitle" xml:space="preserve">
+    <value>Rating systems</value>
+  </data>
+  <data name="MediaItemDetails_ExternalRatings_Scale_Imdb" xml:space="preserve">
+    <value>IMDb — 0 to 10. Weighted average of the votes left by the site's users.</value>
+  </data>
+  <data name="MediaItemDetails_ExternalRatings_Scale_RottenTomatoesCritics" xml:space="preserve">
+    <value>Rotten Tomatoes, Tomatometer — 0 to 100%. The share of the professional reviews that are positive, not an average score: 60% or more earns the fresh tomato, below that the rotten splat.</value>
+  </data>
+  <data name="MediaItemDetails_ExternalRatings_Scale_RottenTomatoesAudience" xml:space="preserve">
+    <value>Rotten Tomatoes, audience score — 0 to 100%. The share of the site's users who rated the title 3.5 stars or more out of 5: 60% or more is upright, below that spilled.</value>
+  </data>
+  <data name="MediaItemDetails_ExternalRatings_Scale_Metascore" xml:space="preserve">
+    <value>Metacritic, Metascore — 0 to 100. Weighted average of the professional reviews: 61 and above is favourable, 40 to 60 mixed, below 40 unfavourable.</value>
+  </data>
+  <data name="MediaItemDetails_ExternalRatings_Scale_Tmdb" xml:space="preserve">
+    <value>TMDB — 0 to 10. Average of the votes left by the site's users.</value>
+  </data>
+  <data name="MediaItemDetails_ExternalRatings_Scale_Letterboxd" xml:space="preserve">
+    <value>Letterboxd — 0 to 5. Average of the ratings of its members, who rate from half a star to five stars.</value>
+  </data>
+  <data name="MediaItemDetails_ExternalRatings_Scale_MyAnimeList" xml:space="preserve">
+    <value>MyAnimeList — 0 to 10. Average of the votes left by the site's members.</value>
+  </data>
   <data name="ShowDetails_ShowInfo_NetworkHeader" xml:space="preserve">
     <value>Network</value>
   </data>

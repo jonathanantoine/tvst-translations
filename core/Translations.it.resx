@@ -3650,6 +3650,30 @@ Vuoi che l'app disattivi questa impostazione sul tuo account Trakt? Da ora in po
   <data name="MediaItemDetails_ExternalRatings_SeasonsHeader" xml:space="preserve">
     <value>Valutazioni delle stagioni</value>
   </data>
+  <data name="MediaItemDetails_ExternalRatings_ScalesTitle" xml:space="preserve">
+    <value>Sistemi di valutazione</value>
+  </data>
+  <data name="MediaItemDetails_ExternalRatings_Scale_Imdb" xml:space="preserve">
+    <value>IMDb — da 0 a 10. Media ponderata dei voti degli utenti del sito.</value>
+  </data>
+  <data name="MediaItemDetails_ExternalRatings_Scale_RottenTomatoesCritics" xml:space="preserve">
+    <value>Rotten Tomatoes, Tomatometer — da 0 a 100%. Percentuale di recensioni professionali positive, non una media dei voti: dal 60% in su il pomodoro fresco, sotto il pomodoro marcio.</value>
+  </data>
+  <data name="MediaItemDetails_ExternalRatings_Scale_RottenTomatoesAudience" xml:space="preserve">
+    <value>Rotten Tomatoes, voto del pubblico — da 0 a 100%. Percentuale di utenti del sito che hanno dato almeno 3,5 stelle su 5: dal 60% in su i popcorn pieni, sotto i popcorn rovesciati.</value>
+  </data>
+  <data name="MediaItemDetails_ExternalRatings_Scale_Metascore" xml:space="preserve">
+    <value>Metacritic, Metascore — da 0 a 100. Media ponderata delle recensioni professionali: 61 e oltre è favorevole, da 40 a 60 contrastante, sotto 40 sfavorevole.</value>
+  </data>
+  <data name="MediaItemDetails_ExternalRatings_Scale_Tmdb" xml:space="preserve">
+    <value>TMDB — da 0 a 10. Media dei voti degli utenti del sito.</value>
+  </data>
+  <data name="MediaItemDetails_ExternalRatings_Scale_Letterboxd" xml:space="preserve">
+    <value>Letterboxd — da 0 a 5. Media dei voti dei suoi membri, che votano da mezza stella a cinque stelle.</value>
+  </data>
+  <data name="MediaItemDetails_ExternalRatings_Scale_MyAnimeList" xml:space="preserve">
+    <value>MyAnimeList — da 0 a 10. Media dei voti dei membri del sito.</value>
+  </data>
   <data name="ShowDetails_ShowInfo_NetworkHeader" xml:space="preserve">
     <value>Rete</value>
   </data>
