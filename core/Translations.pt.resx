@@ -5190,4 +5190,64 @@ Você quer que o aplicativo desative essa opção na sua conta Trakt? A partir d
   <data name="PendingActions_SeveralCancelled" xml:space="preserve">
     <value>Não foi possível enviar várias ações para o Trakt. Ficam guardadas neste dispositivo e poderá enviá-las novamente mais tarde.</value>
   </data>
+  <data name="PendingActions_AlertCard_Title" xml:space="preserve">
+    <value>Não sincronizado com o Trakt</value>
+  </data>
+  <data name="PendingActions_AlertCard_BodyFormat" xml:space="preserve">
+    <value>{0} alterações não puderam ser enviadas ao Trakt e precisam da sua atenção.</value>
+  </data>
+  <data name="PendingActions_AlertCard_ViewButton" xml:space="preserve">
+    <value>Ver detalhes</value>
+  </data>
+  <data name="PendingActions_AlertCard_DismissButton" xml:space="preserve">
+    <value>Ocultar</value>
+  </data>
+  <data name="PendingActions_Menu_Entry" xml:space="preserve">
+    <value>Ações pendentes</value>
+  </data>
+  <data name="PendingActions_ErrorPopup_Title" xml:space="preserve">
+    <value>Algumas alterações não puderam ser sincronizadas</value>
+  </data>
+  <data name="PendingActions_ErrorPopup_AccountLimit_BodyFormat" xml:space="preserve">
+    <value>O Trakt recusou “{0}”: a sua conta atingiu o limite do plano gratuito. Pode subscrever o Trakt VIP ou remover alguns elementos para libertar espaço. A alteração fica guardada neste dispositivo e poderá ser enviada mais tarde.</value>
+  </data>
+  <data name="PendingActions_ErrorPopup_AccountLocked_Body" xml:space="preserve">
+    <value>A sua conta Trakt está bloqueada ou desativada, por isso nada pode ser enviado de momento. Por favor, resolva a situação em trakt.tv. Entretanto, as suas alterações ficam guardadas neste dispositivo.</value>
+  </data>
+  <data name="PendingActions_ErrorPopup_ItemUnknown_BodyFormat" xml:space="preserve">
+    <value>O Trakt não conhece “{0}”, por isso esta alteração não pode ser enviada.</value>
+  </data>
+  <data name="PendingActions_ErrorPopup_Unsupported_Body" xml:space="preserve">
+    <value>Esta alteração pendente foi criada por uma versão mais recente da aplicação e não pode ser enviada por esta. Por favor, atualize a aplicação.</value>
+  </data>
+  <data name="PendingActions_ErrorPopup_Several_Body" xml:space="preserve">
+    <value>{0} alterações não puderam ser enviadas para o Trakt e precisam da sua atenção. Pode consultá-las no ecrã das ações pendentes, nas definições.</value>
+  </data>
+  <data name="PendingOperations_RetryNow_Button" xml:space="preserve">
+    <value>Tentar novamente</value>
+  </data>
+  <data name="PendingOperations_Abandon_Button" xml:space="preserve">
+    <value>Abandonar</value>
+  </data>
+  <data name="PendingOperations_AbandonConfirm_Title" xml:space="preserve">
+    <value>Abandonar esta alteração?</value>
+  </data>
+  <data name="PendingOperations_AbandonConfirm_Body" xml:space="preserve">
+    <value>Esta alteração nunca será enviada para o Trakt e também será anulada neste dispositivo.</value>
+  </data>
+  <data name="PendingOperations_Abandoned_Toast" xml:space="preserve">
+    <value>Alteração abandonada.</value>
+  </data>
+  <data name="PendingOperations_GlobalIssue_AccountLocked_Title" xml:space="preserve">
+    <value>A sua conta Trakt está bloqueada</value>
+  </data>
+  <data name="PendingOperations_GlobalIssue_AccountLocked_Body" xml:space="preserve">
+    <value>A sua conta Trakt está bloqueada ou desativada, por isso nada pode ser enviado de momento. Resolva a situação em trakt.tv. Entretanto, as suas alterações são guardadas neste dispositivo.</value>
+  </data>
+  <data name="PendingOperations_GlobalIssue_AccountLimit_Title" xml:space="preserve">
+    <value>A sua conta Trakt está cheia</value>
+  </data>
+  <data name="PendingOperations_GlobalIssue_AccountLimit_Body" xml:space="preserve">
+    <value>A sua conta Trakt atingiu o limite do plano gratuito. Pode subscrever o Trakt VIP ou remover elementos para libertar espaço. As alterações bloqueadas seguirão então por si próprias, ou de imediato com «Tentar novamente».</value>
+  </data>
 </root>

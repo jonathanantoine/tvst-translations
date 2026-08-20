@@ -3818,4 +3818,64 @@ Você quer que o aplicativo desative essa opção na sua conta Trakt? A partir d
   <data name="PendingActions_SeveralCancelled" xml:space="preserve">
     <value>Não foi possível enviar várias ações para o Trakt. Elas ficam guardadas neste dispositivo e você poderá enviá-las novamente mais tarde.</value>
   </data>
+  <data name="PendingActions_AlertCard_Title" xml:space="preserve">
+    <value>Não sincronizado com o Trakt</value>
+  </data>
+  <data name="PendingActions_AlertCard_BodyFormat" xml:space="preserve">
+    <value>{0} alterações não puderam ser enviadas ao Trakt e precisam da sua atenção.</value>
+  </data>
+  <data name="PendingActions_AlertCard_ViewButton" xml:space="preserve">
+    <value>Ver detalhes</value>
+  </data>
+  <data name="PendingActions_AlertCard_DismissButton" xml:space="preserve">
+    <value>Ocultar</value>
+  </data>
+  <data name="PendingActions_Menu_Entry" xml:space="preserve">
+    <value>Ações pendentes</value>
+  </data>
+  <data name="PendingActions_ErrorPopup_Title" xml:space="preserve">
+    <value>Algumas alterações não puderam ser sincronizadas</value>
+  </data>
+  <data name="PendingActions_ErrorPopup_AccountLimit_BodyFormat" xml:space="preserve">
+    <value>O Trakt recusou “{0}”: sua conta atingiu o limite do plano gratuito. Você pode assinar o Trakt VIP ou remover alguns itens para liberar espaço. A alteração fica salva neste dispositivo e poderá ser enviada novamente mais tarde.</value>
+  </data>
+  <data name="PendingActions_ErrorPopup_AccountLocked_Body" xml:space="preserve">
+    <value>Sua conta do Trakt está bloqueada ou desativada, então nada pode ser enviado por enquanto. Por favor, resolva a situação em trakt.tv. Enquanto isso, suas alterações ficam salvas neste dispositivo.</value>
+  </data>
+  <data name="PendingActions_ErrorPopup_ItemUnknown_BodyFormat" xml:space="preserve">
+    <value>O Trakt não conhece “{0}”, então essa alteração não pode ser enviada.</value>
+  </data>
+  <data name="PendingActions_ErrorPopup_Unsupported_Body" xml:space="preserve">
+    <value>Esta alteração pendente veio de uma versão mais recente do aplicativo e não pode ser enviada por esta. Por favor, atualize o aplicativo.</value>
+  </data>
+  <data name="PendingActions_ErrorPopup_Several_Body" xml:space="preserve">
+    <value>{0} alterações não puderam ser enviadas ao Trakt e precisam da sua atenção. Você pode consultá-las na tela de ações pendentes, nas configurações.</value>
+  </data>
+  <data name="PendingOperations_RetryNow_Button" xml:space="preserve">
+    <value>Tentar novamente</value>
+  </data>
+  <data name="PendingOperations_Abandon_Button" xml:space="preserve">
+    <value>Abandonar</value>
+  </data>
+  <data name="PendingOperations_AbandonConfirm_Title" xml:space="preserve">
+    <value>Abandonar esta alteração?</value>
+  </data>
+  <data name="PendingOperations_AbandonConfirm_Body" xml:space="preserve">
+    <value>Esta alteração nunca será enviada ao Trakt e também será desfeita neste dispositivo.</value>
+  </data>
+  <data name="PendingOperations_Abandoned_Toast" xml:space="preserve">
+    <value>Alteração abandonada.</value>
+  </data>
+  <data name="PendingOperations_GlobalIssue_AccountLocked_Title" xml:space="preserve">
+    <value>Sua conta Trakt está bloqueada</value>
+  </data>
+  <data name="PendingOperations_GlobalIssue_AccountLocked_Body" xml:space="preserve">
+    <value>Sua conta Trakt está bloqueada ou desativada, então nada pode ser enviado no momento. Resolva a situação em trakt.tv. Enquanto isso, suas alterações ficam guardadas neste dispositivo.</value>
+  </data>
+  <data name="PendingOperations_GlobalIssue_AccountLimit_Title" xml:space="preserve">
+    <value>Sua conta Trakt está cheia</value>
+  </data>
+  <data name="PendingOperations_GlobalIssue_AccountLimit_Body" xml:space="preserve">
+    <value>Sua conta Trakt atingiu o limite do plano gratuito. Você pode assinar o Trakt VIP ou remover itens para liberar espaço. As alterações bloqueadas seguirão sozinhas depois disso, ou na hora com “Tentar novamente”.</value>
+  </data>
 </root>

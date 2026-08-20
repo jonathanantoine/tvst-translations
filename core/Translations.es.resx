@@ -3863,4 +3863,64 @@ Recordatorio: tu código es {0}.</value>
   <data name="PendingActions_SeveralCancelled" xml:space="preserve">
     <value>No se han podido enviar varias acciones a Trakt. Se conservan en este dispositivo y podrá enviarlas de nuevo más adelante.</value>
   </data>
+  <data name="PendingActions_AlertCard_Title" xml:space="preserve">
+    <value>No sincronizado con Trakt</value>
+  </data>
+  <data name="PendingActions_AlertCard_BodyFormat" xml:space="preserve">
+    <value>{0} cambios no se han podido enviar a Trakt y necesitan tu atención.</value>
+  </data>
+  <data name="PendingActions_AlertCard_ViewButton" xml:space="preserve">
+    <value>Ver los detalles</value>
+  </data>
+  <data name="PendingActions_AlertCard_DismissButton" xml:space="preserve">
+    <value>Ocultar</value>
+  </data>
+  <data name="PendingActions_Menu_Entry" xml:space="preserve">
+    <value>Acciones pendientes</value>
+  </data>
+  <data name="PendingActions_ErrorPopup_Title" xml:space="preserve">
+    <value>Algunos cambios no se han podido sincronizar</value>
+  </data>
+  <data name="PendingActions_ErrorPopup_AccountLimit_BodyFormat" xml:space="preserve">
+    <value>Trakt ha rechazado «{0}»: su cuenta ha alcanzado el límite del plan gratuito. Puede suscribirse a Trakt VIP o eliminar algunos elementos para hacer sitio. El cambio se conserva en este dispositivo y podrá enviarse de nuevo más adelante.</value>
+  </data>
+  <data name="PendingActions_ErrorPopup_AccountLocked_Body" xml:space="preserve">
+    <value>Su cuenta de Trakt está bloqueada o desactivada, por lo que de momento no se puede enviar nada. Por favor, resuelva la situación en trakt.tv. Mientras tanto, sus cambios se conservan en este dispositivo.</value>
+  </data>
+  <data name="PendingActions_ErrorPopup_ItemUnknown_BodyFormat" xml:space="preserve">
+    <value>Trakt no conoce «{0}», por lo que este cambio no se puede enviar.</value>
+  </data>
+  <data name="PendingActions_ErrorPopup_Unsupported_Body" xml:space="preserve">
+    <value>Este cambio pendiente procede de una versión más reciente de la aplicación y esta no puede enviarlo. Por favor, actualice la aplicación.</value>
+  </data>
+  <data name="PendingActions_ErrorPopup_Several_Body" xml:space="preserve">
+    <value>{0} cambios no se han podido enviar a Trakt y requieren su atención. Puede consultarlos en la pantalla de acciones pendientes, en los ajustes.</value>
+  </data>
+  <data name="PendingOperations_RetryNow_Button" xml:space="preserve">
+    <value>Reintentar</value>
+  </data>
+  <data name="PendingOperations_Abandon_Button" xml:space="preserve">
+    <value>Abandonar</value>
+  </data>
+  <data name="PendingOperations_AbandonConfirm_Title" xml:space="preserve">
+    <value>¿Abandonar este cambio?</value>
+  </data>
+  <data name="PendingOperations_AbandonConfirm_Body" xml:space="preserve">
+    <value>Este cambio no se enviará nunca a Trakt y también se deshará en este dispositivo.</value>
+  </data>
+  <data name="PendingOperations_Abandoned_Toast" xml:space="preserve">
+    <value>Cambio abandonado.</value>
+  </data>
+  <data name="PendingOperations_GlobalIssue_AccountLocked_Title" xml:space="preserve">
+    <value>Tu cuenta de Trakt está bloqueada</value>
+  </data>
+  <data name="PendingOperations_GlobalIssue_AccountLocked_Body" xml:space="preserve">
+    <value>Tu cuenta de Trakt está bloqueada o desactivada, así que por ahora no se puede enviar nada. Resuélvelo en trakt.tv. Mientras tanto, tus cambios se conservan en este dispositivo.</value>
+  </data>
+  <data name="PendingOperations_GlobalIssue_AccountLimit_Title" xml:space="preserve">
+    <value>Tu cuenta de Trakt está llena</value>
+  </data>
+  <data name="PendingOperations_GlobalIssue_AccountLimit_Body" xml:space="preserve">
+    <value>Tu cuenta de Trakt ha alcanzado el límite del plan gratuito. Puedes suscribirte a Trakt VIP o quitar elementos para hacer sitio. Los cambios bloqueados saldrán entonces por sí solos, o de inmediato con «Reintentar».</value>
+  </data>
 </root>

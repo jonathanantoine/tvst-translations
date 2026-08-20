@@ -5158,4 +5158,64 @@ Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? V
   <data name="PendingActions_SeveralCancelled" xml:space="preserve">
     <value>Plusieurs actions n’ont pas pu être envoyées à Trakt. Elles sont conservées sur cet appareil, et vous pourrez les renvoyer plus tard.</value>
   </data>
+  <data name="PendingActions_AlertCard_Title" xml:space="preserve">
+    <value>Non synchronisé avec Trakt</value>
+  </data>
+  <data name="PendingActions_AlertCard_BodyFormat" xml:space="preserve">
+    <value>{0} modifications n’ont pas pu être envoyées à Trakt et demandent votre attention.</value>
+  </data>
+  <data name="PendingActions_AlertCard_ViewButton" xml:space="preserve">
+    <value>Voir le détail</value>
+  </data>
+  <data name="PendingActions_AlertCard_DismissButton" xml:space="preserve">
+    <value>Masquer</value>
+  </data>
+  <data name="PendingActions_Menu_Entry" xml:space="preserve">
+    <value>Actions en attente</value>
+  </data>
+  <data name="PendingActions_ErrorPopup_Title" xml:space="preserve">
+    <value>Certaines modifications n’ont pas pu être synchronisées</value>
+  </data>
+  <data name="PendingActions_ErrorPopup_AccountLimit_BodyFormat" xml:space="preserve">
+    <value>Trakt a refusé « {0} » : votre compte a atteint la limite de l’offre gratuite. Vous pouvez souscrire à Trakt VIP, ou retirer des éléments pour faire de la place. La modification est conservée sur cet appareil et pourra être renvoyée plus tard.</value>
+  </data>
+  <data name="PendingActions_ErrorPopup_AccountLocked_Body" xml:space="preserve">
+    <value>Votre compte Trakt est bloqué ou désactivé : plus rien ne peut être envoyé pour le moment. Merci de régler la situation sur trakt.tv. En attendant, vos modifications restent conservées sur cet appareil.</value>
+  </data>
+  <data name="PendingActions_ErrorPopup_ItemUnknown_BodyFormat" xml:space="preserve">
+    <value>Trakt ne connaît pas « {0} » : cette modification ne peut pas être envoyée.</value>
+  </data>
+  <data name="PendingActions_ErrorPopup_Unsupported_Body" xml:space="preserve">
+    <value>Cette modification en attente provient d’une version plus récente de l’application et ne peut pas être envoyée par celle-ci. Merci de mettre l’application à jour.</value>
+  </data>
+  <data name="PendingActions_ErrorPopup_Several_Body" xml:space="preserve">
+    <value>{0} modifications n’ont pas pu être envoyées à Trakt et demandent votre attention. Vous pouvez les consulter dans l’écran des actions en attente, dans les paramètres.</value>
+  </data>
+  <data name="PendingOperations_RetryNow_Button" xml:space="preserve">
+    <value>Réessayer</value>
+  </data>
+  <data name="PendingOperations_Abandon_Button" xml:space="preserve">
+    <value>Abandonner</value>
+  </data>
+  <data name="PendingOperations_AbandonConfirm_Title" xml:space="preserve">
+    <value>Abandonner cette modification ?</value>
+  </data>
+  <data name="PendingOperations_AbandonConfirm_Body" xml:space="preserve">
+    <value>Cette modification ne sera jamais envoyée à Trakt, et elle sera également annulée sur cet appareil.</value>
+  </data>
+  <data name="PendingOperations_Abandoned_Toast" xml:space="preserve">
+    <value>Modification abandonnée.</value>
+  </data>
+  <data name="PendingOperations_GlobalIssue_AccountLocked_Title" xml:space="preserve">
+    <value>Votre compte Trakt est bloqué</value>
+  </data>
+  <data name="PendingOperations_GlobalIssue_AccountLocked_Body" xml:space="preserve">
+    <value>Votre compte Trakt est bloqué ou désactivé : plus rien ne peut être envoyé pour le moment. Merci de régler la situation sur trakt.tv. Vos modifications sont conservées sur cet appareil en attendant.</value>
+  </data>
+  <data name="PendingOperations_GlobalIssue_AccountLimit_Title" xml:space="preserve">
+    <value>Votre compte Trakt est plein</value>
+  </data>
+  <data name="PendingOperations_GlobalIssue_AccountLimit_Body" xml:space="preserve">
+    <value>Votre compte Trakt a atteint la limite de l’offre gratuite. Vous pouvez souscrire à Trakt VIP, ou retirer des éléments pour faire de la place. Les modifications bloquées repartiront alors d’elles-mêmes, ou immédiatement avec « Réessayer ».</value>
+  </data>
 </root>

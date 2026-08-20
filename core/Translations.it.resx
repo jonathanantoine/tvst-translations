@@ -3866,4 +3866,64 @@ Vuoi che l'app disattivi questa impostazione sul tuo account Trakt? Da ora in po
   <data name="PendingActions_SeveralCancelled" xml:space="preserve">
     <value>Non è stato possibile inviare diverse azioni a Trakt. Restano su questo dispositivo e potrà inviarle di nuovo più tardi.</value>
   </data>
+  <data name="PendingActions_AlertCard_Title" xml:space="preserve">
+    <value>Non sincronizzato con Trakt</value>
+  </data>
+  <data name="PendingActions_AlertCard_BodyFormat" xml:space="preserve">
+    <value>{0} modifiche non sono state inviate a Trakt e richiedono la tua attenzione.</value>
+  </data>
+  <data name="PendingActions_AlertCard_ViewButton" xml:space="preserve">
+    <value>Vedi i dettagli</value>
+  </data>
+  <data name="PendingActions_AlertCard_DismissButton" xml:space="preserve">
+    <value>Nascondi</value>
+  </data>
+  <data name="PendingActions_Menu_Entry" xml:space="preserve">
+    <value>Azioni in sospeso</value>
+  </data>
+  <data name="PendingActions_ErrorPopup_Title" xml:space="preserve">
+    <value>Alcune modifiche non sono state sincronizzate</value>
+  </data>
+  <data name="PendingActions_ErrorPopup_AccountLimit_BodyFormat" xml:space="preserve">
+    <value>Trakt ha rifiutato “{0}”: il suo account ha raggiunto il limite del piano gratuito. Può sottoscrivere Trakt VIP oppure rimuovere alcuni elementi per fare spazio. La modifica resta su questo dispositivo e potrà essere inviata di nuovo più tardi.</value>
+  </data>
+  <data name="PendingActions_ErrorPopup_AccountLocked_Body" xml:space="preserve">
+    <value>Il suo account Trakt è bloccato o disattivato, quindi per ora non è possibile inviare nulla. La preghiamo di risolvere la situazione su trakt.tv. Nel frattempo le sue modifiche restano salvate su questo dispositivo.</value>
+  </data>
+  <data name="PendingActions_ErrorPopup_ItemUnknown_BodyFormat" xml:space="preserve">
+    <value>Trakt non conosce “{0}”, quindi questa modifica non può essere inviata.</value>
+  </data>
+  <data name="PendingActions_ErrorPopup_Unsupported_Body" xml:space="preserve">
+    <value>Questa modifica in attesa proviene da una versione più recente dell’app e non può essere inviata da questa. La preghiamo di aggiornare l’app.</value>
+  </data>
+  <data name="PendingActions_ErrorPopup_Several_Body" xml:space="preserve">
+    <value>{0} modifiche non sono state inviate a Trakt e richiedono la sua attenzione. Può consultarle nella schermata delle azioni in attesa, nelle impostazioni.</value>
+  </data>
+  <data name="PendingOperations_RetryNow_Button" xml:space="preserve">
+    <value>Riprova</value>
+  </data>
+  <data name="PendingOperations_Abandon_Button" xml:space="preserve">
+    <value>Abbandona</value>
+  </data>
+  <data name="PendingOperations_AbandonConfirm_Title" xml:space="preserve">
+    <value>Abbandonare questa modifica?</value>
+  </data>
+  <data name="PendingOperations_AbandonConfirm_Body" xml:space="preserve">
+    <value>Questa modifica non verrà mai inviata a Trakt e verrà annullata anche su questo dispositivo.</value>
+  </data>
+  <data name="PendingOperations_Abandoned_Toast" xml:space="preserve">
+    <value>Modifica abbandonata.</value>
+  </data>
+  <data name="PendingOperations_GlobalIssue_AccountLocked_Title" xml:space="preserve">
+    <value>Il tuo account Trakt è bloccato</value>
+  </data>
+  <data name="PendingOperations_GlobalIssue_AccountLocked_Body" xml:space="preserve">
+    <value>Il tuo account Trakt è bloccato o disattivato, quindi al momento non è possibile inviare nulla. Risolvi la situazione su trakt.tv. Nel frattempo le tue modifiche restano su questo dispositivo.</value>
+  </data>
+  <data name="PendingOperations_GlobalIssue_AccountLimit_Title" xml:space="preserve">
+    <value>Il tuo account Trakt è pieno</value>
+  </data>
+  <data name="PendingOperations_GlobalIssue_AccountLimit_Body" xml:space="preserve">
+    <value>Il tuo account Trakt ha raggiunto il limite del piano gratuito. Puoi abbonarti a Trakt VIP oppure rimuovere elementi per fare spazio. Le modifiche bloccate partiranno poi da sole, o subito con «Riprova».</value>
+  </data>
 </root>

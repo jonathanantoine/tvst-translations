@@ -3852,4 +3852,64 @@ Would you like the app to turn that setting off on your Trakt account? Your view
   <data name="PendingActions_SeveralCancelled" xml:space="preserve">
     <value>Several actions could not be sent to Trakt. They are kept on this device, and you can try to send them again later.</value>
   </data>
+  <data name="PendingActions_AlertCard_Title" xml:space="preserve">
+    <value>Not synced with Trakt</value>
+  </data>
+  <data name="PendingActions_AlertCard_BodyFormat" xml:space="preserve">
+    <value>{0} changes could not be sent to Trakt and need your attention.</value>
+  </data>
+  <data name="PendingActions_AlertCard_ViewButton" xml:space="preserve">
+    <value>See details</value>
+  </data>
+  <data name="PendingActions_AlertCard_DismissButton" xml:space="preserve">
+    <value>Hide</value>
+  </data>
+  <data name="PendingActions_Menu_Entry" xml:space="preserve">
+    <value>Pending actions</value>
+  </data>
+  <data name="PendingActions_ErrorPopup_Title" xml:space="preserve">
+    <value>Some changes could not be synced</value>
+  </data>
+  <data name="PendingActions_ErrorPopup_AccountLimit_BodyFormat" xml:space="preserve">
+    <value>Trakt refused “{0}”: your account has reached the limit of the free plan. You can subscribe to Trakt VIP, or remove some items to make room. The change is kept on this device and can be sent again later.</value>
+  </data>
+  <data name="PendingActions_ErrorPopup_AccountLocked_Body" xml:space="preserve">
+    <value>Your Trakt account is locked or deactivated, so nothing can be sent for now. Please settle it on trakt.tv. In the meantime, your changes are kept on this device.</value>
+  </data>
+  <data name="PendingActions_ErrorPopup_ItemUnknown_BodyFormat" xml:space="preserve">
+    <value>Trakt does not know “{0}”, so this change cannot be sent.</value>
+  </data>
+  <data name="PendingActions_ErrorPopup_Unsupported_Body" xml:space="preserve">
+    <value>This pending change comes from a more recent version of the app and cannot be sent by this one. Please update the app.</value>
+  </data>
+  <data name="PendingActions_ErrorPopup_Several_Body" xml:space="preserve">
+    <value>{0} changes could not be sent to Trakt and need your attention. You can review them in the pending actions screen, in the settings.</value>
+  </data>
+  <data name="PendingOperations_RetryNow_Button" xml:space="preserve">
+    <value>Retry now</value>
+  </data>
+  <data name="PendingOperations_Abandon_Button" xml:space="preserve">
+    <value>Abandon</value>
+  </data>
+  <data name="PendingOperations_AbandonConfirm_Title" xml:space="preserve">
+    <value>Abandon this change?</value>
+  </data>
+  <data name="PendingOperations_AbandonConfirm_Body" xml:space="preserve">
+    <value>This change will never be sent to Trakt, and it will also be undone on this device.</value>
+  </data>
+  <data name="PendingOperations_Abandoned_Toast" xml:space="preserve">
+    <value>Change abandoned.</value>
+  </data>
+  <data name="PendingOperations_GlobalIssue_AccountLocked_Title" xml:space="preserve">
+    <value>Your Trakt account is locked</value>
+  </data>
+  <data name="PendingOperations_GlobalIssue_AccountLocked_Body" xml:space="preserve">
+    <value>Your Trakt account is locked or deactivated, so nothing can be sent for now. Please settle it on trakt.tv. Your changes are kept on this device in the meantime.</value>
+  </data>
+  <data name="PendingOperations_GlobalIssue_AccountLimit_Title" xml:space="preserve">
+    <value>Your Trakt account is full</value>
+  </data>
+  <data name="PendingOperations_GlobalIssue_AccountLimit_Body" xml:space="preserve">
+    <value>Your Trakt account has reached the limit of the free plan. You can subscribe to Trakt VIP, or remove some items to make room. The blocked changes will then leave on their own, or right away with “Retry now”.</value>
+  </data>
 </root>
