@@ -3912,4 +3912,40 @@ Would you like the app to turn that setting off on your Trakt account? Your view
   <data name="PendingOperations_GlobalIssue_AccountLimit_Body" xml:space="preserve">
     <value>Your Trakt account has reached the limit of the free plan. You can subscribe to Trakt VIP, or remove some items to make room. The blocked changes will then leave on their own, or right away with “Retry now”.</value>
   </data>
+  <data name="Settings_Debug_EnableDebugMode_Text" xml:space="preserve">
+    <value>Debug mode</value>
+  </data>
+  <data name="Settings_Debug_BlockSends_Text" xml:space="preserve">
+    <value>Block Trakt sends</value>
+  </data>
+  <data name="Settings_Debug_SeedOutbox_Text" xml:space="preserve">
+    <value>Seed the outbox</value>
+  </data>
+  <data name="Settings_Debug_FailNextSend_AccountLimit_Text" xml:space="preserve">
+    <value>Fail next send: account limit</value>
+  </data>
+  <data name="Settings_Debug_FailNextSend_AccountLocked_Text" xml:space="preserve">
+    <value>Fail next send: account locked</value>
+  </data>
+  <data name="Settings_Debug_FailNextSend_Network_Text" xml:space="preserve">
+    <value>Fail next send: network</value>
+  </data>
+  <data name="Settings_Debug_ClearOutbox_Text" xml:space="preserve">
+    <value>Clear the outbox</value>
+  </data>
+  <data name="Settings_Debug_ClearOutboxConfirm_Title" xml:space="preserve">
+    <value>Clear the outbox?</value>
+  </data>
+  <data name="Settings_Debug_ClearOutboxConfirm_Body" xml:space="preserve">
+    <value>Every pending and failed action will be deleted, and the alert watermark reset.</value>
+  </data>
+  <data name="Settings_Debug_ClearOutboxEtags_Text" xml:space="preserve">
+    <value>Clear the outbox etags</value>
+  </data>
+  <data name="Settings_Debug_ShowCounters_Text" xml:space="preserve">
+    <value>Show outbox counters</value>
+  </data>
+  <data name="Settings_Debug_Counters_Title" xml:space="preserve">
+    <value>Outbox counters</value>
+  </data>
 </root>

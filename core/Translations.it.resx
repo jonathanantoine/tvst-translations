@@ -3926,4 +3926,40 @@ Vuoi che l'app disattivi questa impostazione sul tuo account Trakt? Da ora in po
   <data name="PendingOperations_GlobalIssue_AccountLimit_Body" xml:space="preserve">
     <value>Il tuo account Trakt ha raggiunto il limite del piano gratuito. Puoi abbonarti a Trakt VIP oppure rimuovere elementi per fare spazio. Le modifiche bloccate partiranno poi da sole, o subito con «Riprova».</value>
   </data>
+  <data name="Settings_Debug_EnableDebugMode_Text" xml:space="preserve">
+    <value>Modalità debug</value>
+  </data>
+  <data name="Settings_Debug_BlockSends_Text" xml:space="preserve">
+    <value>Blocca gli invii Trakt</value>
+  </data>
+  <data name="Settings_Debug_SeedOutbox_Text" xml:space="preserve">
+    <value>Riempi la coda</value>
+  </data>
+  <data name="Settings_Debug_FailNextSend_AccountLimit_Text" xml:space="preserve">
+    <value>Fai fallire il prossimo invio: limite dell'account</value>
+  </data>
+  <data name="Settings_Debug_FailNextSend_AccountLocked_Text" xml:space="preserve">
+    <value>Fai fallire il prossimo invio: account bloccato</value>
+  </data>
+  <data name="Settings_Debug_FailNextSend_Network_Text" xml:space="preserve">
+    <value>Fai fallire il prossimo invio: rete</value>
+  </data>
+  <data name="Settings_Debug_ClearOutbox_Text" xml:space="preserve">
+    <value>Svuota la coda</value>
+  </data>
+  <data name="Settings_Debug_ClearOutboxConfirm_Title" xml:space="preserve">
+    <value>Svuotare la coda?</value>
+  </data>
+  <data name="Settings_Debug_ClearOutboxConfirm_Body" xml:space="preserve">
+    <value>Tutte le azioni in sospeso e fallite saranno eliminate, e il riferimento dell'avviso azzerato.</value>
+  </data>
+  <data name="Settings_Debug_ClearOutboxEtags_Text" xml:space="preserve">
+    <value>Cancella gli etag della coda</value>
+  </data>
+  <data name="Settings_Debug_ShowCounters_Text" xml:space="preserve">
+    <value>Mostra i contatori</value>
+  </data>
+  <data name="Settings_Debug_Counters_Title" xml:space="preserve">
+    <value>Contatori della coda</value>
+  </data>
 </root>

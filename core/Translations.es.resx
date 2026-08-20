@@ -3923,4 +3923,40 @@ Recordatorio: tu código es {0}.</value>
   <data name="PendingOperations_GlobalIssue_AccountLimit_Body" xml:space="preserve">
     <value>Tu cuenta de Trakt ha alcanzado el límite del plan gratuito. Puedes suscribirte a Trakt VIP o quitar elementos para hacer sitio. Los cambios bloqueados saldrán entonces por sí solos, o de inmediato con «Reintentar».</value>
   </data>
+  <data name="Settings_Debug_EnableDebugMode_Text" xml:space="preserve">
+    <value>Modo de depuración</value>
+  </data>
+  <data name="Settings_Debug_BlockSends_Text" xml:space="preserve">
+    <value>Bloquear los envíos de Trakt</value>
+  </data>
+  <data name="Settings_Debug_SeedOutbox_Text" xml:space="preserve">
+    <value>Llenar la cola</value>
+  </data>
+  <data name="Settings_Debug_FailNextSend_AccountLimit_Text" xml:space="preserve">
+    <value>Fallar el próximo envío: límite de la cuenta</value>
+  </data>
+  <data name="Settings_Debug_FailNextSend_AccountLocked_Text" xml:space="preserve">
+    <value>Fallar el próximo envío: cuenta bloqueada</value>
+  </data>
+  <data name="Settings_Debug_FailNextSend_Network_Text" xml:space="preserve">
+    <value>Fallar el próximo envío: red</value>
+  </data>
+  <data name="Settings_Debug_ClearOutbox_Text" xml:space="preserve">
+    <value>Vaciar la cola</value>
+  </data>
+  <data name="Settings_Debug_ClearOutboxConfirm_Title" xml:space="preserve">
+    <value>¿Vaciar la cola?</value>
+  </data>
+  <data name="Settings_Debug_ClearOutboxConfirm_Body" xml:space="preserve">
+    <value>Se eliminarán todas las acciones pendientes y fallidas, y se reiniciará el marcador de alerta.</value>
+  </data>
+  <data name="Settings_Debug_ClearOutboxEtags_Text" xml:space="preserve">
+    <value>Borrar los etags de la cola</value>
+  </data>
+  <data name="Settings_Debug_ShowCounters_Text" xml:space="preserve">
+    <value>Mostrar los contadores</value>
+  </data>
+  <data name="Settings_Debug_Counters_Title" xml:space="preserve">
+    <value>Contadores de la cola</value>
+  </data>
 </root>

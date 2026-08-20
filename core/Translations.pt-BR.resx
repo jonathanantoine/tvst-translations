@@ -3878,4 +3878,40 @@ Você quer que o aplicativo desative essa opção na sua conta Trakt? A partir d
   <data name="PendingOperations_GlobalIssue_AccountLimit_Body" xml:space="preserve">
     <value>Sua conta Trakt atingiu o limite do plano gratuito. Você pode assinar o Trakt VIP ou remover itens para liberar espaço. As alterações bloqueadas seguirão sozinhas depois disso, ou na hora com “Tentar novamente”.</value>
   </data>
+  <data name="Settings_Debug_EnableDebugMode_Text" xml:space="preserve">
+    <value>Modo de depuração</value>
+  </data>
+  <data name="Settings_Debug_BlockSends_Text" xml:space="preserve">
+    <value>Bloquear os envios do Trakt</value>
+  </data>
+  <data name="Settings_Debug_SeedOutbox_Text" xml:space="preserve">
+    <value>Preencher a fila</value>
+  </data>
+  <data name="Settings_Debug_FailNextSend_AccountLimit_Text" xml:space="preserve">
+    <value>Falhar o próximo envio: limite da conta</value>
+  </data>
+  <data name="Settings_Debug_FailNextSend_AccountLocked_Text" xml:space="preserve">
+    <value>Falhar o próximo envio: conta bloqueada</value>
+  </data>
+  <data name="Settings_Debug_FailNextSend_Network_Text" xml:space="preserve">
+    <value>Falhar o próximo envio: rede</value>
+  </data>
+  <data name="Settings_Debug_ClearOutbox_Text" xml:space="preserve">
+    <value>Esvaziar a fila</value>
+  </data>
+  <data name="Settings_Debug_ClearOutboxConfirm_Title" xml:space="preserve">
+    <value>Esvaziar a fila?</value>
+  </data>
+  <data name="Settings_Debug_ClearOutboxConfirm_Body" xml:space="preserve">
+    <value>Todas as ações pendentes e com falha serão excluídas, e o marcador de alerta será redefinido.</value>
+  </data>
+  <data name="Settings_Debug_ClearOutboxEtags_Text" xml:space="preserve">
+    <value>Limpar os etags da fila</value>
+  </data>
+  <data name="Settings_Debug_ShowCounters_Text" xml:space="preserve">
+    <value>Exibir os contadores</value>
+  </data>
+  <data name="Settings_Debug_Counters_Title" xml:space="preserve">
+    <value>Contadores da fila</value>
+  </data>
 </root>
