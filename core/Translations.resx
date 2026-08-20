@@ -3828,6 +3828,18 @@ Would you like the app to turn that setting off on your Trakt account? Your view
   <data name="PendingOperations_Code_ListDelete" xml:space="preserve">
     <value>List deleted</value>
   </data>
+  <data name="PendingOperations_Code_ListCreate" xml:space="preserve">
+    <value>List created</value>
+  </data>
+  <data name="PendingOperations_Code_HistoryItemRemove" xml:space="preserve">
+    <value>Play removed from the history</value>
+  </data>
+  <data name="PendingOperations_Code_ListLikeAdd" xml:space="preserve">
+    <value>List liked</value>
+  </data>
+  <data name="PendingOperations_Code_ListLikeRemove" xml:space="preserve">
+    <value>Like removed from the list</value>
+  </data>
   <data name="PendingOperations_Code_MarkedAsSeen" xml:space="preserve">
     <value>Marked as seen</value>
   </data>

@@ -3839,6 +3839,18 @@ Recordatorio: tu código es {0}.</value>
   <data name="PendingOperations_Code_ListDelete" xml:space="preserve">
     <value>Lista eliminada</value>
   </data>
+  <data name="PendingOperations_Code_ListCreate" xml:space="preserve">
+    <value>Lista creada</value>
+  </data>
+  <data name="PendingOperations_Code_HistoryItemRemove" xml:space="preserve">
+    <value>Visionado eliminado del historial</value>
+  </data>
+  <data name="PendingOperations_Code_ListLikeAdd" xml:space="preserve">
+    <value>Lista marcada como me gusta</value>
+  </data>
+  <data name="PendingOperations_Code_ListLikeRemove" xml:space="preserve">
+    <value>Me gusta eliminado de la lista</value>
+  </data>
   <data name="PendingOperations_Code_MarkedAsSeen" xml:space="preserve">
     <value>Marcado como visto</value>
   </data>

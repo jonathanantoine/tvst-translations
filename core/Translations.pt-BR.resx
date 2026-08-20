@@ -3794,6 +3794,18 @@ Você quer que o aplicativo desative essa opção na sua conta Trakt? A partir d
   <data name="PendingOperations_Code_ListDelete" xml:space="preserve">
     <value>Lista excluída</value>
   </data>
+  <data name="PendingOperations_Code_ListCreate" xml:space="preserve">
+    <value>Lista criada</value>
+  </data>
+  <data name="PendingOperations_Code_HistoryItemRemove" xml:space="preserve">
+    <value>Exibição removida do histórico</value>
+  </data>
+  <data name="PendingOperations_Code_ListLikeAdd" xml:space="preserve">
+    <value>Lista curtida</value>
+  </data>
+  <data name="PendingOperations_Code_ListLikeRemove" xml:space="preserve">
+    <value>Curtida removida da lista</value>
+  </data>
   <data name="PendingOperations_Code_MarkedAsSeen" xml:space="preserve">
     <value>Marcado como visto</value>
   </data>

@@ -5134,6 +5134,18 @@ Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? V
   <data name="PendingOperations_Code_ListDelete" xml:space="preserve">
     <value>Suppression d'une liste</value>
   </data>
+  <data name="PendingOperations_Code_ListCreate" xml:space="preserve">
+    <value>Création d'une liste</value>
+  </data>
+  <data name="PendingOperations_Code_HistoryItemRemove" xml:space="preserve">
+    <value>Visionnage retiré de l'historique</value>
+  </data>
+  <data name="PendingOperations_Code_ListLikeAdd" xml:space="preserve">
+    <value>Liste aimée</value>
+  </data>
+  <data name="PendingOperations_Code_ListLikeRemove" xml:space="preserve">
+    <value>J'aime retiré de la liste</value>
+  </data>
   <data name="PendingOperations_Code_MarkedAsSeen" xml:space="preserve">
     <value>Marqué comme vu</value>
   </data>

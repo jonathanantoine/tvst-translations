@@ -3842,6 +3842,18 @@ Vuoi che l'app disattivi questa impostazione sul tuo account Trakt? Da ora in po
   <data name="PendingOperations_Code_ListDelete" xml:space="preserve">
     <value>Elenco eliminato</value>
   </data>
+  <data name="PendingOperations_Code_ListCreate" xml:space="preserve">
+    <value>Elenco creato</value>
+  </data>
+  <data name="PendingOperations_Code_HistoryItemRemove" xml:space="preserve">
+    <value>Visione rimossa dalla cronologia</value>
+  </data>
+  <data name="PendingOperations_Code_ListLikeAdd" xml:space="preserve">
+    <value>Elenco aggiunto ai preferiti</value>
+  </data>
+  <data name="PendingOperations_Code_ListLikeRemove" xml:space="preserve">
+    <value>Preferito rimosso dall'elenco</value>
+  </data>
   <data name="PendingOperations_Code_MarkedAsSeen" xml:space="preserve">
     <value>Contrassegnato come visto</value>
   </data>
