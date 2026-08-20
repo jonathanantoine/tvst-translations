@@ -5286,4 +5286,37 @@ Você quer que o aplicativo desative essa opção na sua conta Trakt? A partir d
   <data name="Settings_Debug_Counters_Title" xml:space="preserve">
     <value>Contadores da fila</value>
   </data>
+  <data name="PendingOperations_GlobalIssue_NoNetwork_Title" xml:space="preserve">
+    <value>Sem ligação</value>
+  </data>
+  <data name="PendingOperations_GlobalIssue_NoNetwork_BodyFormat" xml:space="preserve">
+    <value>As suas alterações estão guardadas neste dispositivo e serão enviadas para o Trakt assim que a ligação voltar. Última tentativa às {0}.</value>
+  </data>
+  <data name="PendingOperations_GlobalIssue_TraktUnavailable_Title" xml:space="preserve">
+    <value>O Trakt está indisponível</value>
+  </data>
+  <data name="PendingOperations_GlobalIssue_TraktUnavailable_BodyFormat" xml:space="preserve">
+    <value>O Trakt não está a responder de momento, por isso nada pode ser enviado. As suas alterações ficam guardadas neste dispositivo e sairão sozinhas. Última tentativa às {0}.</value>
+  </data>
+  <data name="PendingOperations_GlobalIssue_RateLimited_Title" xml:space="preserve">
+    <value>Demasiados pedidos</value>
+  </data>
+  <data name="PendingOperations_GlobalIssue_RateLimited_BodyFormat" xml:space="preserve">
+    <value>O Trakt recebeu demasiados pedidos da aplicação. Ela tentará de novo sozinha e, entretanto, as suas alterações permanecem neste dispositivo. Última tentativa às {0}.</value>
+  </data>
+  <data name="PendingOperations_GlobalIssue_PushFailed_Title" xml:space="preserve">
+    <value>Não foi possível enviar as suas alterações</value>
+  </data>
+  <data name="PendingOperations_GlobalIssue_PushFailed_BodyFormat" xml:space="preserve">
+    <value>A última tentativa de enviar as suas alterações para o Trakt falhou. Ficam guardadas neste dispositivo e serão enviadas de novo automaticamente. Última tentativa às {0}.</value>
+  </data>
+  <data name="PendingOperations_Code_Waiting" xml:space="preserve">
+    <value>a aguardar envio</value>
+  </data>
+  <data name="PendingActions_AlertCard_Waiting_Title" xml:space="preserve">
+    <value>À espera de sincronizar com o Trakt</value>
+  </data>
+  <data name="PendingActions_AlertCard_Waiting_BodyFormat" xml:space="preserve">
+    <value>{0} alterações estão guardadas neste dispositivo e serão enviadas quando a ligação voltar. Não é preciso fazer nada.</value>
+  </data>
 </root>

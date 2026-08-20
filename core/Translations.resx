@@ -3948,4 +3948,37 @@ Would you like the app to turn that setting off on your Trakt account? Your view
   <data name="Settings_Debug_Counters_Title" xml:space="preserve">
     <value>Outbox counters</value>
   </data>
+  <data name="PendingOperations_GlobalIssue_NoNetwork_Title" xml:space="preserve">
+    <value>No connection</value>
+  </data>
+  <data name="PendingOperations_GlobalIssue_NoNetwork_BodyFormat" xml:space="preserve">
+    <value>Your changes are saved on this device and will be sent to Trakt as soon as the connection is back. Last attempt at {0}.</value>
+  </data>
+  <data name="PendingOperations_GlobalIssue_TraktUnavailable_Title" xml:space="preserve">
+    <value>Trakt is unavailable</value>
+  </data>
+  <data name="PendingOperations_GlobalIssue_TraktUnavailable_BodyFormat" xml:space="preserve">
+    <value>Trakt is not answering right now, so nothing can be sent. Your changes are kept on this device and will leave on their own. Last attempt at {0}.</value>
+  </data>
+  <data name="PendingOperations_GlobalIssue_RateLimited_Title" xml:space="preserve">
+    <value>Too many requests</value>
+  </data>
+  <data name="PendingOperations_GlobalIssue_RateLimited_BodyFormat" xml:space="preserve">
+    <value>Trakt received too many requests from the app. It will retry on its own, and your changes stay on this device in the meantime. Last attempt at {0}.</value>
+  </data>
+  <data name="PendingOperations_GlobalIssue_PushFailed_Title" xml:space="preserve">
+    <value>Your changes could not be sent</value>
+  </data>
+  <data name="PendingOperations_GlobalIssue_PushFailed_BodyFormat" xml:space="preserve">
+    <value>The last attempt to send your changes to Trakt failed. They are kept on this device and will be sent again automatically. Last attempt at {0}.</value>
+  </data>
+  <data name="PendingOperations_Code_Waiting" xml:space="preserve">
+    <value>waiting to be sent</value>
+  </data>
+  <data name="PendingActions_AlertCard_Waiting_Title" xml:space="preserve">
+    <value>Waiting to sync with Trakt</value>
+  </data>
+  <data name="PendingActions_AlertCard_Waiting_BodyFormat" xml:space="preserve">
+    <value>{0} changes are saved on this device and will be sent when the connection is back. Nothing to do.</value>
+  </data>
 </root>
