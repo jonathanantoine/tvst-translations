@@ -3770,6 +3770,15 @@ Vuoi che l'app disattivi questa impostazione sul tuo account Trakt? Da ora in po
   <data name="PendingOperations_Filter_Text" xml:space="preserve">
     <value>Filtra</value>
   </data>
+  <data name="PendingOperations_Filter_All_Text" xml:space="preserve">
+    <value>Tutte</value>
+  </data>
+  <data name="PendingOperations_GlobalIssue_AccountLocked_Button" xml:space="preserve">
+    <value>Sblocca il mio account</value>
+  </data>
+  <data name="PendingOperations_Section_Explanation" xml:space="preserve">
+    <value>Modifiche fatte su questo dispositivo che Trakt non ha ancora ricevuto. L’app riprova da sola: a ogni sincronizzazione, all’apertura e al ritorno della connessione.</value>
+  </data>
   <data name="PendingOperations_Filter_Pending_Text" xml:space="preserve">
     <value>In attesa</value>
   </data>

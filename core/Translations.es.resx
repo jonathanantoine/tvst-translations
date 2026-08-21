@@ -3767,6 +3767,15 @@ Recordatorio: tu código es {0}.</value>
   <data name="PendingOperations_Filter_Text" xml:space="preserve">
     <value>Filtrar</value>
   </data>
+  <data name="PendingOperations_Filter_All_Text" xml:space="preserve">
+    <value>Todas</value>
+  </data>
+  <data name="PendingOperations_GlobalIssue_AccountLocked_Button" xml:space="preserve">
+    <value>Desbloquear mi cuenta</value>
+  </data>
+  <data name="PendingOperations_Section_Explanation" xml:space="preserve">
+    <value>Cambios hechos en este dispositivo que Trakt aún no ha recibido. La aplicación lo vuelve a intentar sola: en cada sincronización, al abrirla y cuando vuelve la conexión.</value>
+  </data>
   <data name="PendingOperations_Filter_Pending_Text" xml:space="preserve">
     <value>En espera</value>
   </data>

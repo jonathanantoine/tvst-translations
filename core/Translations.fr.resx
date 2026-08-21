@@ -5062,6 +5062,15 @@ Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? V
   <data name="PendingOperations_Filter_Text" xml:space="preserve">
     <value>Filtrer</value>
   </data>
+  <data name="PendingOperations_Filter_All_Text" xml:space="preserve">
+    <value>Toutes</value>
+  </data>
+  <data name="PendingOperations_GlobalIssue_AccountLocked_Button" xml:space="preserve">
+    <value>Débloquer mon compte</value>
+  </data>
+  <data name="PendingOperations_Section_Explanation" xml:space="preserve">
+    <value>Modifications faites sur cet appareil que Trakt n'a pas encore reçues. L'application réessaie toute seule : à chaque synchronisation, à son ouverture et au retour de la connexion.</value>
+  </data>
   <data name="PendingOperations_Filter_Pending_Text" xml:space="preserve">
     <value>En attente</value>
   </data>

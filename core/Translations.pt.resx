@@ -5094,6 +5094,15 @@ Você quer que o aplicativo desative essa opção na sua conta Trakt? A partir d
   <data name="PendingOperations_Filter_Text" xml:space="preserve">
     <value>Filtrar</value>
   </data>
+  <data name="PendingOperations_Filter_All_Text" xml:space="preserve">
+    <value>Todas</value>
+  </data>
+  <data name="PendingOperations_GlobalIssue_AccountLocked_Button" xml:space="preserve">
+    <value>Desbloquear a minha conta</value>
+  </data>
+  <data name="PendingOperations_Section_Explanation" xml:space="preserve">
+    <value>Alterações feitas neste dispositivo que o Trakt ainda não recebeu. A aplicação tenta novamente sozinha: em cada sincronização, ao abri-la e quando a ligação volta.</value>
+  </data>
   <data name="PendingOperations_Filter_Pending_Text" xml:space="preserve">
     <value>Em espera</value>
   </data>

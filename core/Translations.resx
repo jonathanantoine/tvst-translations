@@ -3756,6 +3756,15 @@ Would you like the app to turn that setting off on your Trakt account? Your view
   <data name="PendingOperations_Filter_Text" xml:space="preserve">
     <value>Filter</value>
   </data>
+  <data name="PendingOperations_Filter_All_Text" xml:space="preserve">
+    <value>All</value>
+  </data>
+  <data name="PendingOperations_GlobalIssue_AccountLocked_Button" xml:space="preserve">
+    <value>Unlock my account</value>
+  </data>
+  <data name="PendingOperations_Section_Explanation" xml:space="preserve">
+    <value>Changes made on this device that Trakt has not received yet. The app keeps trying on its own: on every sync, when you open it and when the connection comes back.</value>
+  </data>
   <data name="PendingOperations_Filter_Pending_Text" xml:space="preserve">
     <value>Waiting</value>
   </data>
