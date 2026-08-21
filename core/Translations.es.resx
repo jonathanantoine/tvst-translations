@@ -2834,6 +2834,9 @@ Si desea dar un impulso adicional, el enlace de donación está aquí y siempre 
     <data name="Calendar_IsSeasonFinaleIndicatorText" xml:space="preserve">
         <value>FINAL DE TEMPORADA</value>
     </data>
+    <data name="Calendar_IsSeriesFinaleIndicatorText" xml:space="preserve">
+        <value>FINAL DE SERIE</value>
+    </data>
     <data name="Calendar_IsSeasonPremiereIndicatorText" xml:space="preserve">
         <value>INICIO DE TEMPORADA</value>
     </data>
@@ -2842,6 +2845,9 @@ Si desea dar un impulso adicional, el enlace de donación está aquí y siempre 
     </data>
     <data name="Home_Badge_SeasonPremiere_Format" xml:space="preserve">
         <value>T{0:00} PREMIERE</value>
+    </data>
+    <data name="Home_Badge_SeasonFinale_Format" xml:space="preserve">
+        <value>T{0:00} FINAL</value>
     </data>
     <data name="Home_Badge_SeasonReady_Text" xml:space="preserve">
         <value>TEMPORADA LISTA</value>
@@ -3918,7 +3924,7 @@ Recordatorio: tu código es {0}.</value>
     <value>{0} cambios no se han podido enviar a Trakt y requieren su atención. Puede consultarlos en la pantalla de acciones pendientes, en los ajustes.</value>
   </data>
   <data name="PendingOperations_RetryNow_Button" xml:space="preserve">
-    <value>Reintentar</value>
+    <value>Enviar todo ahora</value>
   </data>
   <data name="PendingOperations_Abandon_Button" xml:space="preserve">
     <value>Abandonar</value>

@@ -2934,6 +2934,9 @@ If you'd like to give an extra boost, the donation link is right here and always
   <data name="Calendar_IsSeasonFinaleIndicatorText" xml:space="preserve">
       <value>SEASON FINALE</value>
   </data>
+  <data name="Calendar_IsSeriesFinaleIndicatorText" xml:space="preserve">
+      <value>SERIES FINALE</value>
+  </data>
   <data name="Calendar_IsSeasonPremiereIndicatorText" xml:space="preserve">
       <value>SEASON PREMIERE</value>
   </data>
@@ -2942,6 +2945,9 @@ If you'd like to give an extra boost, the donation link is right here and always
   </data>
   <data name="Home_Badge_SeasonPremiere_Format" xml:space="preserve">
       <value>S{0:00} PREMIERE</value>
+  </data>
+  <data name="Home_Badge_SeasonFinale_Format" xml:space="preserve">
+      <value>S{0:00} FINALE</value>
   </data>
   <data name="Home_Badge_SeasonReady_Text" xml:space="preserve">
       <value>SEASON READY</value>
@@ -3907,7 +3913,7 @@ Would you like the app to turn that setting off on your Trakt account? Your view
     <value>{0} changes could not be sent to Trakt and need your attention. You can review them in the pending actions screen, in the settings.</value>
   </data>
   <data name="PendingOperations_RetryNow_Button" xml:space="preserve">
-    <value>Retry now</value>
+    <value>Send everything now</value>
   </data>
   <data name="PendingOperations_Abandon_Button" xml:space="preserve">
     <value>Abandon</value>

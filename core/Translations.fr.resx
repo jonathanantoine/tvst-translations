@@ -4152,6 +4152,9 @@ Si vous souhaitez donner un coup de pouce supplémentaire, le lien de donation e
   <data name="Calendar_IsSeasonFinaleIndicatorText" xml:space="preserve">
       <value>FINAL DE SAISON</value>
   </data>
+  <data name="Calendar_IsSeriesFinaleIndicatorText" xml:space="preserve">
+      <value>FINAL DE SÉRIE</value>
+  </data>
   <data name="Calendar_IsSeasonPremiereIndicatorText" xml:space="preserve">
       <value>DÉBUT DE SAISON</value>
   </data>
@@ -4160,6 +4163,9 @@ Si vous souhaitez donner un coup de pouce supplémentaire, le lien de donation e
   </data>
   <data name="Home_Badge_SeasonPremiere_Format" xml:space="preserve">
       <value>S{0:00} PREMIERE</value>
+  </data>
+  <data name="Home_Badge_SeasonFinale_Format" xml:space="preserve">
+      <value>S{0:00} FINAL</value>
   </data>
   <data name="Home_Badge_SeasonReady_Text" xml:space="preserve">
       <value>SAISON DISPO</value>
@@ -5213,7 +5219,7 @@ Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? V
     <value>{0} modifications n’ont pas pu être envoyées à Trakt et demandent votre attention. Vous pouvez les consulter dans l’écran des actions en attente, dans les paramètres.</value>
   </data>
   <data name="PendingOperations_RetryNow_Button" xml:space="preserve">
-    <value>Réessayer</value>
+    <value>Tout envoyer maintenant</value>
   </data>
   <data name="PendingOperations_Abandon_Button" xml:space="preserve">
     <value>Abandonner</value>

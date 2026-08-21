@@ -2813,6 +2813,9 @@ Se quiser dar uma força extra, o link de doação está aqui e fica sempre disp
     <data name="Calendar_IsSeasonFinaleIndicatorText" xml:space="preserve">
         <value>FINAL DA TEMPORADA</value>
     </data>
+    <data name="Calendar_IsSeriesFinaleIndicatorText" xml:space="preserve">
+        <value>FINAL DA SÉRIE</value>
+    </data>
     <data name="Calendar_IsSeasonPremiereIndicatorText" xml:space="preserve">
         <value>ESTREIA DA TEMPORADA</value>
     </data>
@@ -2821,6 +2824,9 @@ Se quiser dar uma força extra, o link de doação está aqui e fica sempre disp
     </data>
     <data name="Home_Badge_SeasonPremiere_Format" xml:space="preserve">
         <value>T{0:00} PREMIERE</value>
+    </data>
+    <data name="Home_Badge_SeasonFinale_Format" xml:space="preserve">
+        <value>T{0:00} FINAL</value>
     </data>
     <data name="Home_Badge_SeasonReady_Text" xml:space="preserve">
         <value>TEMPORADA PRONTA</value>
@@ -3873,7 +3879,7 @@ Você quer que o aplicativo desative essa opção na sua conta Trakt? A partir d
     <value>{0} alterações não puderam ser enviadas ao Trakt e precisam da sua atenção. Você pode consultá-las na tela de ações pendentes, nas configurações.</value>
   </data>
   <data name="PendingOperations_RetryNow_Button" xml:space="preserve">
-    <value>Tentar novamente</value>
+    <value>Enviar tudo agora</value>
   </data>
   <data name="PendingOperations_Abandon_Button" xml:space="preserve">
     <value>Abandonar</value>
