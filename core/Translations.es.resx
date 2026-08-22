@@ -3924,7 +3924,7 @@ Recordatorio: tu código es {0}.</value>
     <value>{0} cambios no se han podido enviar a Trakt y requieren su atención. Puede consultarlos en la pantalla de acciones pendientes, en los ajustes.</value>
   </data>
   <data name="PendingOperations_RetryNow_Button" xml:space="preserve">
-    <value>Enviar todo ahora</value>
+    <value>Reintentar el envío a Trakt</value>
   </data>
   <data name="PendingOperations_Abandon_Button" xml:space="preserve">
     <value>Abandonar</value>

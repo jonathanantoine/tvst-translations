@@ -3927,7 +3927,7 @@ Vuoi che l'app disattivi questa impostazione sul tuo account Trakt? Da ora in po
     <value>{0} modifiche non sono state inviate a Trakt e richiedono la sua attenzione. Può consultarle nella schermata delle azioni in attesa, nelle impostazioni.</value>
   </data>
   <data name="PendingOperations_RetryNow_Button" xml:space="preserve">
-    <value>Invia tutto adesso</value>
+    <value>Riprova a inviare a Trakt</value>
   </data>
   <data name="PendingOperations_Abandon_Button" xml:space="preserve">
     <value>Abbandona</value>

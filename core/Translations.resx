@@ -3913,7 +3913,7 @@ Would you like the app to turn that setting off on your Trakt account? Your view
     <value>{0} changes could not be sent to Trakt and need your attention. You can review them in the pending actions screen, in the settings.</value>
   </data>
   <data name="PendingOperations_RetryNow_Button" xml:space="preserve">
-    <value>Send everything now</value>
+    <value>Try sending to Trakt again</value>
   </data>
   <data name="PendingOperations_Abandon_Button" xml:space="preserve">
     <value>Abandon</value>

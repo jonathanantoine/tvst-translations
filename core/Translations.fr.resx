@@ -5219,7 +5219,7 @@ Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? V
     <value>{0} modifications n’ont pas pu être envoyées à Trakt et demandent votre attention. Vous pouvez les consulter dans l’écran des actions en attente, dans les paramètres.</value>
   </data>
   <data name="PendingOperations_RetryNow_Button" xml:space="preserve">
-    <value>Tout envoyer maintenant</value>
+    <value>Réessayer d'envoyer à Trakt</value>
   </data>
   <data name="PendingOperations_Abandon_Button" xml:space="preserve">
     <value>Abandonner</value>

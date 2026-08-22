@@ -3879,7 +3879,7 @@ Você quer que o aplicativo desative essa opção na sua conta Trakt? A partir d
     <value>{0} alterações não puderam ser enviadas ao Trakt e precisam da sua atenção. Você pode consultá-las na tela de ações pendentes, nas configurações.</value>
   </data>
   <data name="PendingOperations_RetryNow_Button" xml:space="preserve">
-    <value>Enviar tudo agora</value>
+    <value>Tentar enviar para o Trakt de novo</value>
   </data>
   <data name="PendingOperations_Abandon_Button" xml:space="preserve">
     <value>Abandonar</value>
