@@ -4103,4 +4103,154 @@ Vuoi che l'app disattivi questa impostazione sul tuo account Trakt? Da ora in po
   <data name="Global_CrewDepartment_acting" xml:space="preserve">
     <value>Interpretazione</value>
   </data>
+  <data name="DataFreshness_Title" xml:space="preserve">
+    <value>Aggiornamento dei dati</value>
+  </data>
+  <data name="DataFreshness_Header" xml:space="preserve">
+    <value>Da dove provengono questi dati?</value>
+  </data>
+  <data name="DataFreshness_State_Section" xml:space="preserve">
+    <value>Questa scheda</value>
+  </data>
+  <data name="DataFreshness_State_TraktUpdatedAt" xml:space="preserve">
+    <value>Aggiornata su Trakt</value>
+  </data>
+  <data name="DataFreshness_State_FetchedAt" xml:space="preserve">
+    <value>Scaricata dall'applicazione</value>
+  </data>
+  <data name="DataFreshness_State_LastSync" xml:space="preserve">
+    <value>Ultima sincronizzazione</value>
+  </data>
+  <data name="DataFreshness_State_Unknown" xml:space="preserve">
+    <value>Sconosciuta</value>
+  </data>
+  <data name="DataFreshness_Chain_Section" xml:space="preserve">
+    <value>Il percorso di un aggiornamento</value>
+  </data>
+  <data name="DataFreshness_Chain_Tmdb_Title" xml:space="preserve">
+    <value>TMDB</value>
+  </data>
+  <data name="DataFreshness_Chain_Tmdb_Text" xml:space="preserve">
+    <value>Un database collaborativo. I volontari vi inseriscono gli episodi, le date di trasmissione e le immagini.</value>
+  </data>
+  <data name="DataFreshness_Chain_Trakt_Title" xml:space="preserve">
+    <value>Trakt</value>
+  </data>
+  <data name="DataFreshness_Chain_Trakt_Delay" xml:space="preserve">
+    <value>fino a 24 h</value>
+  </data>
+  <data name="DataFreshness_Chain_Trakt_Text" xml:space="preserve">
+    <value>Copia TMDB una volta al giorno e registra la data di ogni scheda.</value>
+  </data>
+  <data name="DataFreshness_Chain_App_Title" xml:space="preserve">
+    <value>TVST, sul suo dispositivo</value>
+  </data>
+  <data name="DataFreshness_Chain_App_Delay" xml:space="preserve">
+    <value>pochi minuti</value>
+  </data>
+  <data name="DataFreshness_Chain_App_Text" xml:space="preserve">
+    <value>L'applicazione conserva la propria copia delle schede. A ogni sincronizzazione chiede a Trakt la data dell'ultima modifica di ciascuna delle sue serie. Se questa data è cambiata, scarica subito di nuovo la scheda, le stagioni e gli episodi.</value>
+  </data>
+  <data name="DataFreshness_Chain_You_Title" xml:space="preserve">
+    <value>Quello che vede</value>
+  </data>
+  <data name="DataFreshness_CheckAtSource_Text" xml:space="preserve">
+    <value>Un'informazione che manca qui è quasi sempre un'informazione che non esiste ancora su TMDB. Lo verifichi alla fonte: se è presente, le arriverà da sola. Se non è presente, è lì che va corretta, e chiunque può farlo con un account gratuito.</value>
+  </data>
+  <data name="DataFreshness_OpenTmdb" xml:space="preserve">
+    <value>Aprire questa scheda su TMDB</value>
+  </data>
+  <data name="DataFreshness_ReportToTrakt" xml:space="preserve">
+    <value>Segnalare il problema a Trakt</value>
+  </data>
+  <data name="DataFreshness_HowTraktWorks" xml:space="preserve">
+    <value>Come Trakt aggiorna i suoi dati</value>
+  </data>
+  <data name="DataFreshness_Vip_Title" xml:space="preserve">
+    <value>Membro Trakt VIP</value>
+  </data>
+  <data name="DataFreshness_Vip_Text" xml:space="preserve">
+    <value>Il suo abbonamento Trakt le consente di richiedere una risincronizzazione immediata da TMDB, senza attendere il passaggio quotidiano.</value>
+  </data>
+  <data name="DataFreshness_Vip_Button" xml:space="preserve">
+    <value>Chiedere a Trakt di risincronizzare</value>
+  </data>
+  <data name="DataFreshness_Vip_Required" xml:space="preserve">
+    <value>Chiedere a Trakt di risincronizzare subito una scheda è riservato ai membri Trakt VIP. Senza abbonamento, Trakt se ne occupa da solo entro 24 ore.</value>
+  </data>
+  <data name="DataFreshness_RefreshButton" xml:space="preserve">
+    <value>Aggiornare questa scheda</value>
+  </data>
+  <data name="DataFreshness_Refresh_InProgress" xml:space="preserve">
+    <value>Verifica presso Trakt...</value>
+  </data>
+  <data name="DataFreshness_Refresh_UpToDate" xml:space="preserve">
+    <value>Trakt non ha informazioni più recenti su questa scheda.</value>
+  </data>
+  <data name="DataFreshness_Refresh_Updated" xml:space="preserve">
+    <value>Scheda aggiornata da Trakt.</value>
+  </data>
+  <data name="DataFreshness_Refresh_UpdatedWithOneEpisode" xml:space="preserve">
+    <value>Scheda aggiornata: 1 nuovo episodio.</value>
+  </data>
+  <data name="DataFreshness_Refresh_UpdatedWithEpisodes" xml:space="preserve">
+    <value>Scheda aggiornata: {0} nuovi episodi.</value>
+  </data>
+  <data name="DataFreshness_Refresh_Throttled" xml:space="preserve">
+    <value>Questa scheda è appena stata verificata. Riprovi tra qualche minuto.</value>
+  </data>
+  <data name="DataFreshness_Refresh_RateLimited" xml:space="preserve">
+    <value>Trakt limita temporaneamente il numero di richieste. Riprovi tra un momento.</value>
+  </data>
+  <data name="DataFreshness_Refresh_NotAvailable" xml:space="preserve">
+    <value>Trakt non è raggiungibile in questo momento.</value>
+  </data>
+  <data name="DataFreshness_Refresh_Failed" xml:space="preserve">
+    <value>La verifica non è riuscita.</value>
+  </data>
+  <data name="DataFreshness_Resync_InProgress" xml:space="preserve">
+    <value>Invio della richiesta a Trakt...</value>
+  </data>
+  <data name="DataFreshness_Resync_Queued" xml:space="preserve">
+    <value>Trakt ha ricevuto la richiesta e l'ha messa in coda. L'informazione può richiedere qualche minuto per apparire.</value>
+  </data>
+  <data name="DataFreshness_Resync_Failed" xml:space="preserve">
+    <value>Non è stato possibile inviare la richiesta a Trakt.</value>
+  </data>
+  <data name="PendingOperations_LastSuccessfulSync" xml:space="preserve">
+    <value>Ultima sincronizzazione riuscita: {0}</value>
+  </data>
+  <data name="MediaItem_Menu_DataFreshness" xml:space="preserve">
+    <value>Aggiornamento dei dati</value>
+  </data>
+  <data
+      name     ="People_GroupShortcut_Seen_Text"
+      xml:space="preserve">
+    <value>Viste</value>
+  </data>
+  <data
+      name     ="People_GroupShortcut_ToWatch_Text"
+      xml:space="preserve">
+    <value>Da vedere</value>
+  </data>
+  <data
+      name     ="People_GroupShortcut_ActingShows_Text"
+      xml:space="preserve">
+    <value>Serie</value>
+  </data>
+  <data
+      name     ="People_GroupShortcut_ActingMovies_Text"
+      xml:space="preserve">
+    <value>Film</value>
+  </data>
+  <data
+      name     ="People_GroupShortcut_CrewShows_Text"
+      xml:space="preserve">
+    <value>Troupe serie</value>
+  </data>
+  <data
+      name     ="People_GroupShortcut_CrewMovies_Text"
+      xml:space="preserve">
+    <value>Troupe film</value>
+  </data>
 </root>
