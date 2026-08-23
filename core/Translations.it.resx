@@ -4025,4 +4025,82 @@ Vuoi che l'app disattivi questa impostazione sul tuo account Trakt? Da ora in po
   <data name="People_CrewRoleFilter_All_Text" xml:space="preserve">
     <value>Tutti</value>
   </data>
+  <data name="CastAndCrewSearch_Title" xml:space="preserve">
+    <value>Cast e troupe</value>
+  </data>
+  <data name="CastAndCrewSearch_SearchPlaceholder" xml:space="preserve">
+    <value>Cerca un nome o un personaggio</value>
+  </data>
+  <data name="CastAndCrewSearch_NoResult" xml:space="preserve">
+    <value>Nessuno corrisponde alla sua ricerca.</value>
+  </data>
+  <data name="CastAndCrewSearch_MembershipFilterHeader" xml:space="preserve">
+    <value>Ruolo</value>
+  </data>
+  <data name="CastAndCrewSearch_MembershipFilterFormat" xml:space="preserve">
+    <value>Ruolo: {0}</value>
+  </data>
+  <data name="CastAndCrewSearch_EpisodesFilterHeader" xml:space="preserve">
+    <value>Episodi</value>
+  </data>
+  <data name="CastAndCrewSearch_EpisodesFilterFormat" xml:space="preserve">
+    <value>Episodi: {0}</value>
+  </data>
+  <data name="CastAndCrewSearch_Membership_Cast" xml:space="preserve">
+    <value>Cast</value>
+  </data>
+  <data name="CastAndCrewSearch_Membership_Crew" xml:space="preserve">
+    <value>Troupe</value>
+  </data>
+  <data name="CastAndCrewSearch_EpisodesExactFormat" xml:space="preserve">
+    <value>{0} episodio</value>
+  </data>
+  <data name="CastAndCrewSearch_EpisodesRangeFormat" xml:space="preserve">
+    <value>Da {0} a {1} episodi</value>
+  </data>
+  <data name="CastAndCrewSearch_EpisodesFromFormat" xml:space="preserve">
+    <value>{0} episodi e oltre</value>
+  </data>
+  <data name="CastAndCrewSearch_OpenButton_Tooltip" xml:space="preserve">
+    <value>Cerca nel cast e nella troupe</value>
+  </data>
+  <data name="Global_CrewDepartment_production" xml:space="preserve">
+    <value>Produzione</value>
+  </data>
+  <data name="Global_CrewDepartment_writing" xml:space="preserve">
+    <value>Sceneggiatura</value>
+  </data>
+  <data name="Global_CrewDepartment_camera" xml:space="preserve">
+    <value>Fotografia</value>
+  </data>
+  <data name="Global_CrewDepartment_art" xml:space="preserve">
+    <value>Scenografia</value>
+  </data>
+  <data name="Global_CrewDepartment_sound" xml:space="preserve">
+    <value>Suono</value>
+  </data>
+  <data name="Global_CrewDepartment_costumemakeup" xml:space="preserve">
+    <value>Costumi e trucco</value>
+  </data>
+  <data name="Global_CrewDepartment_direction" xml:space="preserve">
+    <value>Regia</value>
+  </data>
+  <data name="Global_CrewDepartment_creator" xml:space="preserve">
+    <value>Ideazione</value>
+  </data>
+  <data name="Global_CrewDepartment_editing" xml:space="preserve">
+    <value>Montaggio</value>
+  </data>
+  <data name="Global_CrewDepartment_visualeffects" xml:space="preserve">
+    <value>Effetti visivi</value>
+  </data>
+  <data name="Global_CrewDepartment_lighting" xml:space="preserve">
+    <value>Luci</value>
+  </data>
+  <data name="Global_CrewDepartment_crew" xml:space="preserve">
+    <value>Troupe</value>
+  </data>
+  <data name="Global_CrewDepartment_acting" xml:space="preserve">
+    <value>Interpretazione</value>
+  </data>
 </root>

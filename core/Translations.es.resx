@@ -4022,4 +4022,82 @@ Recordatorio: tu código es {0}.</value>
   <data name="People_CrewRoleFilter_All_Text" xml:space="preserve">
     <value>Todos</value>
   </data>
+  <data name="CastAndCrewSearch_Title" xml:space="preserve">
+    <value>Reparto y equipo</value>
+  </data>
+  <data name="CastAndCrewSearch_SearchPlaceholder" xml:space="preserve">
+    <value>Buscar un nombre o un personaje</value>
+  </data>
+  <data name="CastAndCrewSearch_NoResult" xml:space="preserve">
+    <value>Nadie coincide con su búsqueda.</value>
+  </data>
+  <data name="CastAndCrewSearch_MembershipFilterHeader" xml:space="preserve">
+    <value>Rol</value>
+  </data>
+  <data name="CastAndCrewSearch_MembershipFilterFormat" xml:space="preserve">
+    <value>Rol: {0}</value>
+  </data>
+  <data name="CastAndCrewSearch_EpisodesFilterHeader" xml:space="preserve">
+    <value>Episodios</value>
+  </data>
+  <data name="CastAndCrewSearch_EpisodesFilterFormat" xml:space="preserve">
+    <value>Episodios: {0}</value>
+  </data>
+  <data name="CastAndCrewSearch_Membership_Cast" xml:space="preserve">
+    <value>Reparto</value>
+  </data>
+  <data name="CastAndCrewSearch_Membership_Crew" xml:space="preserve">
+    <value>Equipo</value>
+  </data>
+  <data name="CastAndCrewSearch_EpisodesExactFormat" xml:space="preserve">
+    <value>{0} episodio</value>
+  </data>
+  <data name="CastAndCrewSearch_EpisodesRangeFormat" xml:space="preserve">
+    <value>De {0} a {1} episodios</value>
+  </data>
+  <data name="CastAndCrewSearch_EpisodesFromFormat" xml:space="preserve">
+    <value>{0} episodios o más</value>
+  </data>
+  <data name="CastAndCrewSearch_OpenButton_Tooltip" xml:space="preserve">
+    <value>Buscar en el reparto y el equipo</value>
+  </data>
+  <data name="Global_CrewDepartment_production" xml:space="preserve">
+    <value>Producción</value>
+  </data>
+  <data name="Global_CrewDepartment_writing" xml:space="preserve">
+    <value>Guión</value>
+  </data>
+  <data name="Global_CrewDepartment_camera" xml:space="preserve">
+    <value>Fotografía</value>
+  </data>
+  <data name="Global_CrewDepartment_art" xml:space="preserve">
+    <value>Arte</value>
+  </data>
+  <data name="Global_CrewDepartment_sound" xml:space="preserve">
+    <value>Sonido</value>
+  </data>
+  <data name="Global_CrewDepartment_costumemakeup" xml:space="preserve">
+    <value>Vestuario y maquillaje</value>
+  </data>
+  <data name="Global_CrewDepartment_direction" xml:space="preserve">
+    <value>Dirección</value>
+  </data>
+  <data name="Global_CrewDepartment_creator" xml:space="preserve">
+    <value>Creación</value>
+  </data>
+  <data name="Global_CrewDepartment_editing" xml:space="preserve">
+    <value>Montaje</value>
+  </data>
+  <data name="Global_CrewDepartment_visualeffects" xml:space="preserve">
+    <value>Efectos visuales</value>
+  </data>
+  <data name="Global_CrewDepartment_lighting" xml:space="preserve">
+    <value>Iluminación</value>
+  </data>
+  <data name="Global_CrewDepartment_crew" xml:space="preserve">
+    <value>Equipo técnico</value>
+  </data>
+  <data name="Global_CrewDepartment_acting" xml:space="preserve">
+    <value>Interpretación</value>
+  </data>
 </root>
