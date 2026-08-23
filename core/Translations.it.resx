@@ -4022,4 +4022,7 @@ Vuoi che l'app disattivi questa impostazione sul tuo account Trakt? Da ora in po
   <data name="PendingActions_AlertCard_Waiting_BodyFormat" xml:space="preserve">
     <value>{0} modifiche sono salvate su questo dispositivo e verranno inviate al ritorno della connessione. Non deve fare nulla.</value>
   </data>
+  <data name="People_CrewRoleFilter_All_Text" xml:space="preserve">
+    <value>Tutti</value>
+  </data>
 </root>

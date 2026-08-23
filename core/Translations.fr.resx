@@ -5314,4 +5314,7 @@ Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? V
   <data name="PendingActions_AlertCard_Waiting_BodyFormat" xml:space="preserve">
     <value>{0} modifications sont enregistrées sur cet appareil et seront envoyées au retour de la connexion. Rien à faire de votre côté.</value>
   </data>
+  <data name="People_CrewRoleFilter_All_Text" xml:space="preserve">
+    <value>Tous</value>
+  </data>
 </root>

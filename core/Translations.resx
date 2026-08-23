@@ -4008,4 +4008,7 @@ Would you like the app to turn that setting off on your Trakt account? Your view
   <data name="PendingActions_AlertCard_Waiting_BodyFormat" xml:space="preserve">
     <value>{0} changes are saved on this device and will be sent when the connection is back. Nothing to do.</value>
   </data>
+  <data name="People_CrewRoleFilter_All_Text" xml:space="preserve">
+    <value>All</value>
+  </data>
 </root>
