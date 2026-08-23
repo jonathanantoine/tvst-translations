@@ -2776,12 +2776,11 @@ La suscripción se renueva automáticamente hasta que la canceles en tu cuenta d
 </data>
 
     <data name="Global_Error_AccountLimitExceededContent" xml:space="preserve">
-        <value>Has alcanzado uno de los límites impuestos por Trakt para cuentas gratuitas:  
-- 100 elementos como máximo en tu lista de seguimiento  
-- 10 listas personales como máximo  
+        <value>Has alcanzado uno de los límites que Trakt aplica a las cuentas gratuitas. Afectan a tu lista de seguimiento, a tus listas personales (cuántas listas y cuántos elementos en cada una), a tus favoritos y a tu colección.
+
+Las cifras exactas dependen de Trakt y de la fecha de creación de tu cuenta, así que no puedo mostrarlas aquí: Trakt las detalla, junto con lo que desbloquea una suscripción VIP, en https://trakt.tv/vip
 
 Lamento las molestias, pero estas restricciones son establecidas por Trakt y están fuera de mi control.
-
 
 Sin embargo, todavía puedes agregar una serie marcando un episodio como visto, lo que no contará para el límite.
 
@@ -3530,6 +3529,9 @@ Recordatorio: tu código es {0}.</value>
   <data name="Settings_Various_ForceUnauthorizedState_Subtitle" xml:space="preserve">
     <value>Desconecta de Trakt y activa el flujo de pérdida de autorización. Tendrá que iniciar sesión de nuevo.</value>
   </data>
+  <data name="Settings_Various_ShowAccountLimitPopup_Text" xml:space="preserve">
+    <value>Mostrar la ventana de límite de cuenta</value>
+  </data>
   <data name="Settings_Various_ShowAuthorizationLostPopup_Text" xml:space="preserve">
     <value>Mostrar la ventana de pérdida de autorización</value>
   </data>
@@ -4249,5 +4251,28 @@ Recordatorio: tu código es {0}.</value>
       name     ="People_GroupShortcut_CrewMovies_Text"
       xml:space="preserve">
     <value>Equipo pelis</value>
+  </data>
+  <data
+      name     ="Home_Code_SeasonCompleteGroupHeaderSuffix"
+      xml:space="preserve">
+    <value> — TEMPORADA COMPLETA</value>
+  </data>
+  <data
+      name     ="Home_Code_SeasonInProgressGroupHeaderSuffix"
+      xml:space="preserve">
+    <value> — TEMPORADA EN EMISIÓN</value>
+  </data>
+  <data
+      name     ="Settings_Data_SplitHomeGroupBySeasonReady_Text"
+      xml:space="preserve">
+    <value>Separar las series cuya temporada sigue en emisión</value>
+  </data>
+  <data
+      name     ="Settings_Data_SplitHomeGroupBySeasonReady_Subtitle"
+      xml:space="preserve">
+    <value>Mantiene en el primer grupo de la página de inicio solo las series cuya próxima temporada se ha emitido por completo. Las demás pasan a un grupo justo debajo.</value>
+  </data>
+  <data name="ShowDetails_Code_EpisodeShort" xml:space="preserve">
+    <value>ep.</value>
   </data>
 </root>

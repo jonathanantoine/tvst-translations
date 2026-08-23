@@ -2649,8 +2649,9 @@ L'abbonamento si rinnova automaticamente fino alla disdetta effettuata tramite i
 </data>
 
     <data name="Global_Error_AccountLimitExceededContent" xml:space="preserve">
-        <value>Hai raggiunto uno dei limiti imposti da Trakt per gli account gratuiti:  
-- 100 elementi al massimo nella tua lista di cose da vedere  - 10 liste personali al massimo  
+        <value>Hai raggiunto uno dei limiti che Trakt applica agli account gratuiti. Riguardano la tua lista di cose da vedere, le tue liste personali (quante liste e quanti elementi in ciascuna), i tuoi preferiti e la tua collezione.
+
+I valori esatti dipendono da Trakt e dalla data di creazione del tuo account, quindi non posso mostrarli qui: Trakt li elenca, insieme a ciò che sblocca un abbonamento VIP, su https://trakt.tv/vip
 
 Mi dispiace per l'inconveniente, ma queste restrizioni sono stabilite da Trakt e non dipendono da me.
 
@@ -3533,6 +3534,9 @@ t  <data name="Settings_Modern_Badge_Premium" xml:space="preserve">
   <data name="Settings_Various_ForceUnauthorizedState_Subtitle" xml:space="preserve">
     <value>Disconnette da Trakt e avvia il flusso di perdita dell'autorizzazione. Dovrai accedere di nuovo.</value>
   </data>
+  <data name="Settings_Various_ShowAccountLimitPopup_Text" xml:space="preserve">
+    <value>Mostra il popup del limite dell'account</value>
+  </data>
   <data name="Settings_Various_ShowAuthorizationLostPopup_Text" xml:space="preserve">
     <value>Mostra il popup di perdita dell'autorizzazione</value>
   </data>
@@ -4252,5 +4256,28 @@ Vuoi che l'app disattivi questa impostazione sul tuo account Trakt? Da ora in po
       name     ="People_GroupShortcut_CrewMovies_Text"
       xml:space="preserve">
     <value>Troupe film</value>
+  </data>
+  <data
+      name     ="Home_Code_SeasonCompleteGroupHeaderSuffix"
+      xml:space="preserve">
+    <value> — STAGIONE COMPLETA</value>
+  </data>
+  <data
+      name     ="Home_Code_SeasonInProgressGroupHeaderSuffix"
+      xml:space="preserve">
+    <value> — STAGIONE IN CORSO</value>
+  </data>
+  <data
+      name     ="Settings_Data_SplitHomeGroupBySeasonReady_Text"
+      xml:space="preserve">
+    <value>Separare le serie la cui stagione è ancora in corso</value>
+  </data>
+  <data
+      name     ="Settings_Data_SplitHomeGroupBySeasonReady_Subtitle"
+      xml:space="preserve">
+    <value>Mantiene nel primo gruppo della pagina principale solo le serie la cui prossima stagione è stata trasmessa per intero. Le altre passano a un gruppo subito sotto.</value>
+  </data>
+  <data name="ShowDetails_Code_EpisodeShort" xml:space="preserve">
+    <value>ep.</value>
   </data>
 </root>

@@ -4120,14 +4120,13 @@ A assinatura renova automaticamente até que você a cancele em sua Conta do Goo
 </data>
 
   <data name="Global_Error_AccountLimitExceededContent" xml:space="preserve">
-        <value>Você atingiu um dos limites impostos pelo Trakt para contas gratuitas:  
-- 100 itens no máximo na sua lista de "coisas para assistir"  
-- 10 listas pessoais no máximo  
+        <value>Você atingiu um dos limites que o Trakt aplica às contas gratuitas. Eles valem para a sua lista de "coisas para assistir", as suas listas pessoais (quantas listas e quantos itens em cada uma), os seus favoritos e a sua coleção.
+
+Os valores exatos dependem do Trakt e da data de criação da sua conta, por isso não posso exibi-los aqui: o Trakt os detalha, junto com o que uma assinatura VIP libera, em https://trakt.tv/vip
 
 Peço desculpas pelo transtorno, mas essas restrições são definidas pelo Trakt e estão fora do meu controle.
 
-
-No entanto, você ainda pode adicionar uma série marcando um episódio como assistido—isso não contará no limite.
+No entanto, você ainda pode adicionar uma série marcando um episódio como assistido: isso não contará no limite.
 
 Para remover essas restrições, recomendo que considere atualizar para uma assinatura VIP no Trakt.</value>
     </data>
@@ -4857,6 +4856,9 @@ Lembrete: o seu código é {0}.</value>
   <data name="Settings_Various_ForceUnauthorizedState_Subtitle" xml:space="preserve">
     <value>Desliga do Trakt e aciona o fluxo de perda de autorização. Terá de iniciar sessão novamente.</value>
   </data>
+  <data name="Settings_Various_ShowAccountLimitPopup_Text" xml:space="preserve">
+    <value>Mostrar o pop-up de limite da conta</value>
+  </data>
   <data name="Settings_Various_ShowAuthorizationLostPopup_Text" xml:space="preserve">
     <value>Mostrar o pop-up de perda de autorização</value>
   </data>
@@ -5576,5 +5578,28 @@ Você quer que o aplicativo desative essa opção na sua conta Trakt? A partir d
       name     ="People_GroupShortcut_CrewMovies_Text"
       xml:space="preserve">
     <value>Equipa filmes</value>
+  </data>
+  <data
+      name     ="Home_Code_SeasonCompleteGroupHeaderSuffix"
+      xml:space="preserve">
+    <value> — TEMPORADA COMPLETA</value>
+  </data>
+  <data
+      name     ="Home_Code_SeasonInProgressGroupHeaderSuffix"
+      xml:space="preserve">
+    <value> — TEMPORADA EM EXIBIÇÃO</value>
+  </data>
+  <data
+      name     ="Settings_Data_SplitHomeGroupBySeasonReady_Text"
+      xml:space="preserve">
+    <value>Separar as séries cuja temporada ainda está em exibição</value>
+  </data>
+  <data
+      name     ="Settings_Data_SplitHomeGroupBySeasonReady_Subtitle"
+      xml:space="preserve">
+    <value>Mantém no primeiro grupo da página inicial apenas as séries cuja próxima temporada já foi totalmente exibida. As restantes passam para um grupo logo abaixo.</value>
+  </data>
+  <data name="ShowDetails_Code_EpisodeShort" xml:space="preserve">
+    <value>ep.</value>
   </data>
 </root>

@@ -2868,13 +2868,13 @@ Do you want to do it now ?</value>
 </data>
 
   <data name="Global_Error_AccountLimitExceededContent" xml:space="preserve">
-      <value>You have reached one of the limits imposed by Trakt for free accounts:  
-- 100 items maximum in your watchlist  
-- 10 personal lists maximum  
+      <value>You have reached one of the limits Trakt applies to free accounts. They cover your watchlist, your personal lists (how many lists, and how many items in each), your favourites and your collection.
 
-I’m sorry for the inconvenience, but these restrictions are set by Trakt and are beyond my control.
+The exact figures depend on Trakt and on when your account was created, so I cannot show them here: Trakt lists them, and what a VIP subscription lifts, on https://trakt.tv/vip
 
-However, you can still add a series by marking an episode as watched—this will not count towards the limit.
+I am sorry for the inconvenience, but these restrictions are set by Trakt and are beyond my control.
+
+However, you can still add a series by marking an episode as watched: this does not count towards the limit.
 
 To remove these restrictions, I encourage you to consider upgrading to a VIP subscription on Trakt.</value>
   </data>
@@ -3518,6 +3518,9 @@ Do you confirm?</value>
   </data>
   <data name="Settings_Various_ForceUnauthorizedState_Subtitle" xml:space="preserve">
     <value>Disconnects from Trakt and triggers the authorization-lost flow. You will have to sign in again.</value>
+  </data>
+  <data name="Settings_Various_ShowAccountLimitPopup_Text" xml:space="preserve">
+    <value>Show account limit popup</value>
   </data>
   <data name="Settings_Various_ShowAuthorizationLostPopup_Text" xml:space="preserve">
     <value>Show authorization lost popup</value>
@@ -4238,5 +4241,28 @@ Would you like the app to turn that setting off on your Trakt account? Your view
       name     ="People_GroupShortcut_CrewMovies_Text"
       xml:space="preserve">
     <value>Crew movies</value>
+  </data>
+  <data
+      name     ="Home_Code_SeasonCompleteGroupHeaderSuffix"
+      xml:space="preserve">
+    <value> — SEASON COMPLETE</value>
+  </data>
+  <data
+      name     ="Home_Code_SeasonInProgressGroupHeaderSuffix"
+      xml:space="preserve">
+    <value> — SEASON IN PROGRESS</value>
+  </data>
+  <data
+      name     ="Settings_Data_SplitHomeGroupBySeasonReady_Text"
+      xml:space="preserve">
+    <value>Separate shows whose season is still airing</value>
+  </data>
+  <data
+      name     ="Settings_Data_SplitHomeGroupBySeasonReady_Subtitle"
+      xml:space="preserve">
+    <value>Keeps only shows whose next season has finished airing in the first group of the home page. The others move to a group just below.</value>
+  </data>
+  <data name="ShowDetails_Code_EpisodeShort" xml:space="preserve">
+    <value>ep.</value>
   </data>
 </root>
