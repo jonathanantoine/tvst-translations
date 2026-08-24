@@ -3548,7 +3548,7 @@ Recordatorio: tu código es {0}.</value>
     <value>GRUPOS DE LA PÁGINA DE INICIO</value>
   </data>
   <data name="Settings_HomeGroupsSectionSubtitle" xml:space="preserve">
-    <value>Elija qué grupos de series se crean en la página de inicio.</value>
+    <value>Elija qué grupos de series y de películas se crean en la página de inicio.</value>
   </data>
   <data name="Home_UserHistory_Grid_WatchedAtHourFormat" xml:space="preserve">
     <value>Visto a las {0}</value>
@@ -4292,5 +4292,20 @@ Recordatorio: tu código es {0}.</value>
   </data>
   <data name="PendingOperations_SyncNow_Button" xml:space="preserve">
     <value>Sincronizar con Trakt ahora</value>
+  </data>
+  <data name="MoviesLists_PanelHeader_WatchlistReleasedGroup" xml:space="preserve">
+    <value>Watchlist — estrenadas</value>
+  </data>
+  <data name="MoviesLists_PanelHeader_WatchlistUpcomingGroup" xml:space="preserve">
+    <value>Watchlist — próximas</value>
+  </data>
+  <data name="Settings_Display_SplitMoviesWatchlistOnHome_Text" xml:space="preserve">
+    <value>Separar las películas próximas</value>
+  </data>
+  <data name="Settings_Display_SplitMoviesWatchlistOnHome_Subtitle" xml:space="preserve">
+    <value>En la pantalla de inicio, las películas de su watchlist que aún no se han estrenado forman su propia sección.</value>
+  </data>
+  <data name="Settings_Display_MoviesUpcomingGroupFirst_Text" xml:space="preserve">
+    <value>Mostrar primero las películas próximas</value>
   </data>
 </root>

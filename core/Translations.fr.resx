@@ -4844,7 +4844,7 @@ Rappel : votre code est {0}.</value>
     <value>GROUPES DE LA PAGE D'ACCUEIL</value>
   </data>
   <data name="Settings_HomeGroupsSectionSubtitle" xml:space="preserve">
-    <value>Choisissez les groupes de séries créés sur la page d'accueil.</value>
+    <value>Choisissez les groupes de séries et de films créés sur la page d'accueil.</value>
   </data>
   <data name="Home_UserHistory_Grid_WatchedAtHourFormat" xml:space="preserve">
     <value>Vu à {0}</value>
@@ -5584,9 +5584,24 @@ Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? V
     <value>il y a {0}</value>
   </data>
   <data name="PendingOperations_DataFreshnessLink" xml:space="preserve">
-    <value>D'où viennent les données de TVST ?</value>
+    <value>D'où viennent les données de TVST ?</value>
   </data>
   <data name="PendingOperations_SyncNow_Button" xml:space="preserve">
     <value>Synchroniser avec Trakt maintenant</value>
+  </data>
+  <data name="MoviesLists_PanelHeader_WatchlistReleasedGroup" xml:space="preserve">
+    <value>Watchlist — sortis</value>
+  </data>
+  <data name="MoviesLists_PanelHeader_WatchlistUpcomingGroup" xml:space="preserve">
+    <value>Watchlist — à venir</value>
+  </data>
+  <data name="Settings_Display_SplitMoviesWatchlistOnHome_Text" xml:space="preserve">
+    <value>Séparer les films à venir</value>
+  </data>
+  <data name="Settings_Display_SplitMoviesWatchlistOnHome_Subtitle" xml:space="preserve">
+    <value>Sur l'écran d'accueil, les films de votre watchlist qui ne sont pas encore sortis forment leur propre section.</value>
+  </data>
+  <data name="Settings_Display_MoviesUpcomingGroupFirst_Text" xml:space="preserve">
+    <value>Afficher les films à venir en premier</value>
   </data>
 </root>

@@ -3553,7 +3553,7 @@ t  <data name="Settings_Modern_Badge_Premium" xml:space="preserve">
     <value>GRUPPI DELLA PAGINA PRINCIPALE</value>
   </data>
   <data name="Settings_HomeGroupsSectionSubtitle" xml:space="preserve">
-    <value>Scegli quali gruppi di serie vengono creati nella pagina principale.</value>
+    <value>Scegli quali gruppi di serie e di film vengono creati nella pagina principale.</value>
   </data>
   <data name="Home_UserHistory_Grid_WatchedAtHourFormat" xml:space="preserve">
     <value>Visto alle {0}</value>
@@ -4297,5 +4297,20 @@ Vuoi che l'app disattivi questa impostazione sul tuo account Trakt? Da ora in po
   </data>
   <data name="PendingOperations_SyncNow_Button" xml:space="preserve">
     <value>Sincronizza con Trakt adesso</value>
+  </data>
+  <data name="MoviesLists_PanelHeader_WatchlistReleasedGroup" xml:space="preserve">
+    <value>Watchlist — usciti</value>
+  </data>
+  <data name="MoviesLists_PanelHeader_WatchlistUpcomingGroup" xml:space="preserve">
+    <value>Watchlist — in arrivo</value>
+  </data>
+  <data name="Settings_Display_SplitMoviesWatchlistOnHome_Text" xml:space="preserve">
+    <value>Separare i film in arrivo</value>
+  </data>
+  <data name="Settings_Display_SplitMoviesWatchlistOnHome_Subtitle" xml:space="preserve">
+    <value>Nella schermata principale, i film della sua watchlist non ancora usciti formano una sezione a parte.</value>
+  </data>
+  <data name="Settings_Display_MoviesUpcomingGroupFirst_Text" xml:space="preserve">
+    <value>Mostrare prima i film in arrivo</value>
   </data>
 </root>

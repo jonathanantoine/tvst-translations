@@ -4875,7 +4875,7 @@ Lembrete: o seu código é {0}.</value>
     <value>GRUPOS DA PÁGINA INICIAL</value>
   </data>
   <data name="Settings_HomeGroupsSectionSubtitle" xml:space="preserve">
-    <value>Escolha que grupos de séries são criados na página inicial.</value>
+    <value>Escolha que grupos de séries e de filmes são criados na página inicial.</value>
   </data>
   <data name="Home_UserHistory_Grid_WatchedAtHourFormat" xml:space="preserve">
     <value>Visto às {0}</value>
@@ -5619,5 +5619,20 @@ Você quer que o aplicativo desative essa opção na sua conta Trakt? A partir d
   </data>
   <data name="PendingOperations_SyncNow_Button" xml:space="preserve">
     <value>Sincronizar com o Trakt agora</value>
+  </data>
+  <data name="MoviesLists_PanelHeader_WatchlistReleasedGroup" xml:space="preserve">
+    <value>Watchlist — lançados</value>
+  </data>
+  <data name="MoviesLists_PanelHeader_WatchlistUpcomingGroup" xml:space="preserve">
+    <value>Watchlist — em breve</value>
+  </data>
+  <data name="Settings_Display_SplitMoviesWatchlistOnHome_Text" xml:space="preserve">
+    <value>Separar os filmes que ainda não estrearam</value>
+  </data>
+  <data name="Settings_Display_SplitMoviesWatchlistOnHome_Subtitle" xml:space="preserve">
+    <value>No ecrã inicial, os filmes da sua watchlist que ainda não estrearam formam a sua própria secção.</value>
+  </data>
+  <data name="Settings_Display_MoviesUpcomingGroupFirst_Text" xml:space="preserve">
+    <value>Mostrar primeiro os filmes que ainda não estrearam</value>
   </data>
 </root>

@@ -3538,7 +3538,7 @@ Do you confirm?</value>
     <value>HOME PAGE GROUPS</value>
   </data>
   <data name="Settings_HomeGroupsSectionSubtitle" xml:space="preserve">
-    <value>Choose which groups of TV shows are created on the home page.</value>
+    <value>Choose which groups of TV shows and movies are created on the home page.</value>
   </data>
   <data name="Home_UserHistory_Grid_WatchedAtHourFormat" xml:space="preserve">
     <value>Watched at {0}</value>
@@ -4282,5 +4282,20 @@ Would you like the app to turn that setting off on your Trakt account? Your view
   </data>
   <data name="PendingOperations_SyncNow_Button" xml:space="preserve">
     <value>Synchronise with Trakt now</value>
+  </data>
+  <data name="MoviesLists_PanelHeader_WatchlistReleasedGroup" xml:space="preserve">
+    <value>Watchlist — released</value>
+  </data>
+  <data name="MoviesLists_PanelHeader_WatchlistUpcomingGroup" xml:space="preserve">
+    <value>Watchlist — upcoming</value>
+  </data>
+  <data name="Settings_Display_SplitMoviesWatchlistOnHome_Text" xml:space="preserve">
+    <value>Separate the upcoming movies</value>
+  </data>
+  <data name="Settings_Display_SplitMoviesWatchlistOnHome_Subtitle" xml:space="preserve">
+    <value>On the home screen, the watchlisted movies that are not released yet get their own section.</value>
+  </data>
+  <data name="Settings_Display_MoviesUpcomingGroupFirst_Text" xml:space="preserve">
+    <value>Show the upcoming movies first</value>
   </data>
 </root>
