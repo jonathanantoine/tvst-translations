@@ -5444,9 +5444,6 @@ Você quer que o aplicativo desative essa opção na sua conta Trakt? A partir d
   <data name="DataFreshness_State_FetchedAt" xml:space="preserve">
     <value>Transferida pela aplicação</value>
   </data>
-  <data name="DataFreshness_State_LastSync" xml:space="preserve">
-    <value>Última sincronização</value>
-  </data>
   <data name="DataFreshness_State_Unknown" xml:space="preserve">
     <value>Desconhecida</value>
   </data>
@@ -5499,19 +5496,16 @@ Você quer que o aplicativo desative essa opção na sua conta Trakt? A partir d
     <value>A sua subscrição Trakt permite-lhe pedir uma ressincronização imediata a partir do TMDB, sem esperar pela passagem diária.</value>
   </data>
   <data name="DataFreshness_Vip_Button" xml:space="preserve">
-    <value>Pedir ao Trakt para ressincronizar</value>
+    <value>Pedir ao Trakt para ressincronizar a partir do TMDB</value>
   </data>
   <data name="DataFreshness_Vip_Required" xml:space="preserve">
     <value>Pedir ao Trakt para ressincronizar uma ficha de imediato está reservado aos membros Trakt VIP. Sem subscrição, o Trakt trata disso sozinho no prazo de 24 horas.</value>
   </data>
   <data name="DataFreshness_RefreshButton" xml:space="preserve">
-    <value>Atualizar esta ficha</value>
-  </data>
-  <data name="DataFreshness_Refresh_InProgress" xml:space="preserve">
-    <value>A verificar junto do Trakt...</value>
+    <value>Forçar o TVST a transferir novamente estes dados do Trakt</value>
   </data>
   <data name="DataFreshness_Refresh_UpToDate" xml:space="preserve">
-    <value>O Trakt não tem informação mais recente sobre esta ficha.</value>
+    <value>O Trakt não tem informação mais recente sobre esta ficha. O TVST só pode mostrar o que o Trakt tem: se o TMDB foi atualizado mas o Trakt ainda não o copiou, nada de novo pode aparecer aqui.</value>
   </data>
   <data name="DataFreshness_Refresh_Updated" xml:space="preserve">
     <value>Ficha atualizada a partir do Trakt.</value>
@@ -5534,9 +5528,6 @@ Você quer que o aplicativo desative essa opção na sua conta Trakt? A partir d
   <data name="DataFreshness_Refresh_Failed" xml:space="preserve">
     <value>A verificação falhou.</value>
   </data>
-  <data name="DataFreshness_Resync_InProgress" xml:space="preserve">
-    <value>A enviar o pedido ao Trakt...</value>
-  </data>
   <data name="DataFreshness_Resync_Queued" xml:space="preserve">
     <value>O Trakt recebeu o pedido e colocou-o na sua fila de espera. A informação pode demorar alguns minutos a aparecer.</value>
   </data>
@@ -5544,7 +5535,7 @@ Você quer que o aplicativo desative essa opção na sua conta Trakt? A partir d
     <value>Não foi possível enviar o pedido ao Trakt.</value>
   </data>
   <data name="PendingOperations_LastSuccessfulSync" xml:space="preserve">
-    <value>Última sincronização bem sucedida: {0}</value>
+    <value>Última sincronização bem sucedida: {0} ({1})</value>
   </data>
   <data name="MediaItem_Menu_DataFreshness" xml:space="preserve">
     <value>Atualização dos dados</value>
@@ -5601,5 +5592,26 @@ Você quer que o aplicativo desative essa opção na sua conta Trakt? A partir d
   </data>
   <data name="ShowDetails_Code_EpisodeShort" xml:space="preserve">
     <value>ep.</value>
+  </data>
+  <data name="DataFreshness_State_TmdbFetchedAt" xml:space="preserve">
+    <value>Dados do TMDB transferidos</value>
+  </data>
+  <data name="DataFreshness_ReportToTrakt_DialogTitle" xml:space="preserve">
+    <value>Comunicar ao Trakt</value>
+  </data>
+  <data name="DataFreshness_ReportToTrakt_DialogContent" xml:space="preserve">
+    <value>O Trakt trata destas comunicações no seu fórum de apoio. Abra aí uma nova conversa, indique a série ou o filme em causa e o que está errado, e a equipa do Trakt irá analisar. Abrir o fórum agora?</value>
+  </data>
+  <data name="DataFreshness_Refresh_DialogTitle" xml:space="preserve">
+    <value>Transferência a partir do Trakt</value>
+  </data>
+  <data name="DataFreshness_Resync_DialogTitle" xml:space="preserve">
+    <value>Ressincronização do Trakt</value>
+  </data>
+  <data name="Global_TimeAgoFormat" xml:space="preserve">
+    <value>há {0}</value>
+  </data>
+  <data name="PendingOperations_DataFreshnessLink" xml:space="preserve">
+    <value>De onde vêm os dados do TVST</value>
   </data>
 </root>

@@ -4117,9 +4117,6 @@ Recordatorio: tu código es {0}.</value>
   <data name="DataFreshness_State_FetchedAt" xml:space="preserve">
     <value>Descargada por la aplicación</value>
   </data>
-  <data name="DataFreshness_State_LastSync" xml:space="preserve">
-    <value>Última sincronización</value>
-  </data>
   <data name="DataFreshness_State_Unknown" xml:space="preserve">
     <value>Desconocida</value>
   </data>
@@ -4172,19 +4169,16 @@ Recordatorio: tu código es {0}.</value>
     <value>Su suscripción a Trakt le permite solicitar una resincronización inmediata desde TMDB, sin esperar al paso diario.</value>
   </data>
   <data name="DataFreshness_Vip_Button" xml:space="preserve">
-    <value>Pedir a Trakt que resincronice</value>
+    <value>Pedir a Trakt que resincronice desde TMDB</value>
   </data>
   <data name="DataFreshness_Vip_Required" xml:space="preserve">
     <value>Pedir a Trakt que resincronice una ficha de inmediato está reservado a los miembros Trakt VIP. Sin suscripción, Trakt se encarga de ello por su cuenta en un plazo de 24 horas.</value>
   </data>
   <data name="DataFreshness_RefreshButton" xml:space="preserve">
-    <value>Actualizar esta ficha</value>
-  </data>
-  <data name="DataFreshness_Refresh_InProgress" xml:space="preserve">
-    <value>Comprobando con Trakt...</value>
+    <value>Forzar que TVST vuelva a descargar estos datos desde Trakt</value>
   </data>
   <data name="DataFreshness_Refresh_UpToDate" xml:space="preserve">
-    <value>Trakt no tiene información más reciente sobre esta ficha.</value>
+    <value>Trakt no tiene información más reciente sobre esta ficha. TVST solo puede mostrar lo que Trakt tiene: si TMDB se actualizó pero Trakt aún no lo ha copiado, aquí no puede aparecer nada nuevo.</value>
   </data>
   <data name="DataFreshness_Refresh_Updated" xml:space="preserve">
     <value>Ficha actualizada desde Trakt.</value>
@@ -4207,9 +4201,6 @@ Recordatorio: tu código es {0}.</value>
   <data name="DataFreshness_Refresh_Failed" xml:space="preserve">
     <value>La comprobación ha fallado.</value>
   </data>
-  <data name="DataFreshness_Resync_InProgress" xml:space="preserve">
-    <value>Enviando la solicitud a Trakt...</value>
-  </data>
   <data name="DataFreshness_Resync_Queued" xml:space="preserve">
     <value>Trakt ha recibido la solicitud y la ha puesto en su cola. La información puede tardar unos minutos en aparecer.</value>
   </data>
@@ -4217,7 +4208,7 @@ Recordatorio: tu código es {0}.</value>
     <value>No se ha podido enviar la solicitud a Trakt.</value>
   </data>
   <data name="PendingOperations_LastSuccessfulSync" xml:space="preserve">
-    <value>Última sincronización correcta: {0}</value>
+    <value>Última sincronización correcta: {0} ({1})</value>
   </data>
   <data name="MediaItem_Menu_DataFreshness" xml:space="preserve">
     <value>Frescura de los datos</value>
@@ -4274,5 +4265,26 @@ Recordatorio: tu código es {0}.</value>
   </data>
   <data name="ShowDetails_Code_EpisodeShort" xml:space="preserve">
     <value>ep.</value>
+  </data>
+  <data name="DataFreshness_State_TmdbFetchedAt" xml:space="preserve">
+    <value>Datos de TMDB descargados</value>
+  </data>
+  <data name="DataFreshness_ReportToTrakt_DialogTitle" xml:space="preserve">
+    <value>Informar a Trakt</value>
+  </data>
+  <data name="DataFreshness_ReportToTrakt_DialogContent" xml:space="preserve">
+    <value>Trakt gestiona estos informes en su foro de asistencia. Abra allí una conversación nueva, indique la serie o la película afectada y qué es lo que falla, y el equipo de Trakt lo revisará. ¿Abrir el foro ahora?</value>
+  </data>
+  <data name="DataFreshness_Refresh_DialogTitle" xml:space="preserve">
+    <value>Descarga desde Trakt</value>
+  </data>
+  <data name="DataFreshness_Resync_DialogTitle" xml:space="preserve">
+    <value>Resincronización de Trakt</value>
+  </data>
+  <data name="Global_TimeAgoFormat" xml:space="preserve">
+    <value>hace {0}</value>
+  </data>
+  <data name="PendingOperations_DataFreshnessLink" xml:space="preserve">
+    <value>De dónde vienen los datos de TVST</value>
   </data>
 </root>

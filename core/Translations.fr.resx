@@ -5413,9 +5413,6 @@ Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? V
   <data name="DataFreshness_State_FetchedAt" xml:space="preserve">
     <value>Récupérée par l'application</value>
   </data>
-  <data name="DataFreshness_State_LastSync" xml:space="preserve">
-    <value>Dernière synchronisation</value>
-  </data>
   <data name="DataFreshness_State_Unknown" xml:space="preserve">
     <value>Inconnue</value>
   </data>
@@ -5468,19 +5465,16 @@ Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? V
     <value>Votre abonnement Trakt vous permet de demander une resynchronisation immédiate depuis TMDB, sans attendre le passage quotidien.</value>
   </data>
   <data name="DataFreshness_Vip_Button" xml:space="preserve">
-    <value>Demander une resynchronisation à Trakt</value>
+    <value>Demander à Trakt de resynchroniser depuis TMDB</value>
   </data>
   <data name="DataFreshness_Vip_Required" xml:space="preserve">
     <value>Demander à Trakt de resynchroniser une fiche immédiatement est réservé aux membres Trakt VIP. Sans abonnement, Trakt s'en charge de lui-même dans les 24 heures.</value>
   </data>
   <data name="DataFreshness_RefreshButton" xml:space="preserve">
-    <value>Actualiser cette fiche</value>
-  </data>
-  <data name="DataFreshness_Refresh_InProgress" xml:space="preserve">
-    <value>Vérification auprès de Trakt...</value>
+    <value>Forcer TVST à retélécharger ces données depuis Trakt</value>
   </data>
   <data name="DataFreshness_Refresh_UpToDate" xml:space="preserve">
-    <value>Trakt n'a pas d'information plus récente sur cette fiche.</value>
+    <value>Trakt n'a pas d'information plus récente sur cette fiche. TVST ne peut afficher que ce que Trakt possède : si TMDB a été mis à jour mais que Trakt ne l'a pas encore recopié, rien de neuf ne peut apparaître ici.</value>
   </data>
   <data name="DataFreshness_Refresh_Updated" xml:space="preserve">
     <value>Fiche mise à jour depuis Trakt.</value>
@@ -5503,9 +5497,6 @@ Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? V
   <data name="DataFreshness_Refresh_Failed" xml:space="preserve">
     <value>La vérification a échoué.</value>
   </data>
-  <data name="DataFreshness_Resync_InProgress" xml:space="preserve">
-    <value>Envoi de la demande à Trakt...</value>
-  </data>
   <data name="DataFreshness_Resync_Queued" xml:space="preserve">
     <value>Trakt a reçu la demande et l'a placée dans sa file d'attente. L'information peut mettre quelques minutes à apparaître.</value>
   </data>
@@ -5513,7 +5504,7 @@ Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? V
     <value>La demande n'a pas pu être envoyée à Trakt.</value>
   </data>
   <data name="PendingOperations_LastSuccessfulSync" xml:space="preserve">
-    <value>Dernière synchronisation réussie : {0}</value>
+    <value>Dernière synchronisation réussie : {0} ({1})</value>
   </data>
   <data name="MediaItem_Menu_DataFreshness" xml:space="preserve">
     <value>Fraîcheur des données</value>
@@ -5570,5 +5561,26 @@ Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? V
   </data>
   <data name="ShowDetails_Code_EpisodeShort" xml:space="preserve">
     <value>ép.</value>
+  </data>
+  <data name="DataFreshness_State_TmdbFetchedAt" xml:space="preserve">
+    <value>Données TMDB récupérées</value>
+  </data>
+  <data name="DataFreshness_ReportToTrakt_DialogTitle" xml:space="preserve">
+    <value>Signaler à Trakt</value>
+  </data>
+  <data name="DataFreshness_ReportToTrakt_DialogContent" xml:space="preserve">
+    <value>Trakt traite ces signalements sur son forum d'assistance. Ouvrez-y une nouvelle conversation, indiquez la série ou le film concerné et ce qui ne va pas, et l'équipe Trakt s'en occupera. Ouvrir le forum maintenant ?</value>
+  </data>
+  <data name="DataFreshness_Refresh_DialogTitle" xml:space="preserve">
+    <value>Téléchargement depuis Trakt</value>
+  </data>
+  <data name="DataFreshness_Resync_DialogTitle" xml:space="preserve">
+    <value>Resynchronisation Trakt</value>
+  </data>
+  <data name="Global_TimeAgoFormat" xml:space="preserve">
+    <value>il y a {0}</value>
+  </data>
+  <data name="PendingOperations_DataFreshnessLink" xml:space="preserve">
+    <value>D'où viennent les données de TVST</value>
   </data>
 </root>

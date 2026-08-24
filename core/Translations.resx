@@ -4107,9 +4107,6 @@ Would you like the app to turn that setting off on your Trakt account? Your view
   <data name="DataFreshness_State_FetchedAt" xml:space="preserve">
     <value>Downloaded by the app</value>
   </data>
-  <data name="DataFreshness_State_LastSync" xml:space="preserve">
-    <value>Last synchronisation</value>
-  </data>
   <data name="DataFreshness_State_Unknown" xml:space="preserve">
     <value>Unknown</value>
   </data>
@@ -4162,19 +4159,16 @@ Would you like the app to turn that setting off on your Trakt account? Your view
     <value>Your Trakt subscription lets you ask for an immediate resynchronisation from TMDB, without waiting for the daily pass.</value>
   </data>
   <data name="DataFreshness_Vip_Button" xml:space="preserve">
-    <value>Ask Trakt to resynchronise</value>
+    <value>Ask Trakt to resynchronise from TMDB</value>
   </data>
   <data name="DataFreshness_Vip_Required" xml:space="preserve">
     <value>Asking Trakt to resynchronise a record immediately is reserved for Trakt VIP members. Without a subscription, Trakt takes care of it on its own within 24 hours.</value>
   </data>
   <data name="DataFreshness_RefreshButton" xml:space="preserve">
-    <value>Refresh this record</value>
-  </data>
-  <data name="DataFreshness_Refresh_InProgress" xml:space="preserve">
-    <value>Checking with Trakt...</value>
+    <value>Make TVST download this data from Trakt again</value>
   </data>
   <data name="DataFreshness_Refresh_UpToDate" xml:space="preserve">
-    <value>Trakt has no newer information about this record.</value>
+    <value>Trakt has no newer information about this record. TVST can only show what Trakt holds: if TMDB was updated but Trakt has not copied it yet, nothing new can appear here.</value>
   </data>
   <data name="DataFreshness_Refresh_Updated" xml:space="preserve">
     <value>Record updated from Trakt.</value>
@@ -4197,9 +4191,6 @@ Would you like the app to turn that setting off on your Trakt account? Your view
   <data name="DataFreshness_Refresh_Failed" xml:space="preserve">
     <value>The check failed.</value>
   </data>
-  <data name="DataFreshness_Resync_InProgress" xml:space="preserve">
-    <value>Sending the request to Trakt...</value>
-  </data>
   <data name="DataFreshness_Resync_Queued" xml:space="preserve">
     <value>Trakt received the request and put it in its queue. The information can take a few minutes to appear.</value>
   </data>
@@ -4207,7 +4198,7 @@ Would you like the app to turn that setting off on your Trakt account? Your view
     <value>The request could not be sent to Trakt.</value>
   </data>
   <data name="PendingOperations_LastSuccessfulSync" xml:space="preserve">
-    <value>Last successful synchronisation: {0}</value>
+    <value>Last successful synchronisation: {0} ({1})</value>
   </data>
   <data name="MediaItem_Menu_DataFreshness" xml:space="preserve">
     <value>Data freshness</value>
@@ -4264,5 +4255,26 @@ Would you like the app to turn that setting off on your Trakt account? Your view
   </data>
   <data name="ShowDetails_Code_EpisodeShort" xml:space="preserve">
     <value>ep.</value>
+  </data>
+  <data name="DataFreshness_State_TmdbFetchedAt" xml:space="preserve">
+    <value>TMDB data downloaded</value>
+  </data>
+  <data name="DataFreshness_ReportToTrakt_DialogTitle" xml:space="preserve">
+    <value>Report to Trakt</value>
+  </data>
+  <data name="DataFreshness_ReportToTrakt_DialogContent" xml:space="preserve">
+    <value>Trakt handles these reports on its support forum. Open a new conversation there, say which show or movie is concerned and what is wrong, and the Trakt team will take a look. Open the forum now?</value>
+  </data>
+  <data name="DataFreshness_Refresh_DialogTitle" xml:space="preserve">
+    <value>Download from Trakt</value>
+  </data>
+  <data name="DataFreshness_Resync_DialogTitle" xml:space="preserve">
+    <value>Trakt resynchronisation</value>
+  </data>
+  <data name="Global_TimeAgoFormat" xml:space="preserve">
+    <value>{0} ago</value>
+  </data>
+  <data name="PendingOperations_DataFreshnessLink" xml:space="preserve">
+    <value>Where TVST data comes from</value>
   </data>
 </root>
