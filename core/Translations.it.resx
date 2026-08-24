@@ -2770,17 +2770,17 @@ Se vuoi dare una spinta in più, il link per la donazione è qui e resta sempre 
     <data name="Global_UI_HintToastTitle" xml:space="preserve">
         <value>💡 Suggerimento</value>
     </data>
-    <data name="Global_UI_DisplayAsGrid" xml:space="preserve">
-        <value>Mostra a griglia</value>
-    </data>
-    <data name="Global_UI_DisplayAsList" xml:space="preserve">
-        <value>Mostra a elenco</value>
-    </data>
     <data name="Global_UI_HintOfCtrlWheelPossibleContent" xml:space="preserve">
         <value>Tieni premuto Ctrl e usa la rotellina del mouse per cambiare il numero di elementi per riga.</value>
     </data>
     <data name="Global_UI_DisplayMode_Title" xml:space="preserve">
         <value>Modalità di visualizzazione</value>
+    </data>
+    <data name="Global_UI_DisplayMode_GridSettings" xml:space="preserve">
+        <value>Impostazioni della griglia</value>
+    </data>
+    <data name="Global_UI_DisplayMode_MoreSettings" xml:space="preserve">
+        <value>Altre impostazioni…</value>
     </data>
     <data name="Global_UI_DisplayMode_Vignette" xml:space="preserve">
         <value>Schede</value>

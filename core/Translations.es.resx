@@ -2899,17 +2899,17 @@ Si desea dar un impulso adicional, el enlace de donación está aquí y siempre 
     <data name="Global_UI_HintToastTitle" xml:space="preserve">
         <value>💡 Consejo</value>
     </data>
-    <data name="Global_UI_DisplayAsGrid" xml:space="preserve">
-        <value>Mostrar en cuadrícula</value>
-    </data>
-    <data name="Global_UI_DisplayAsList" xml:space="preserve">
-        <value>Mostrar en lista</value>
-    </data>
     <data name="Global_UI_HintOfCtrlWheelPossibleContent" xml:space="preserve">
         <value>Mantén pulsado Ctrl y usa la rueda del ratón para cambiar el número de elementos por fila.</value>
     </data>
     <data name="Global_UI_DisplayMode_Title" xml:space="preserve">
         <value>Modo de visualización</value>
+    </data>
+    <data name="Global_UI_DisplayMode_GridSettings" xml:space="preserve">
+        <value>Ajustes de la cuadrícula</value>
+    </data>
+    <data name="Global_UI_DisplayMode_MoreSettings" xml:space="preserve">
+        <value>Más ajustes…</value>
     </data>
     <data name="Global_UI_DisplayMode_Vignette" xml:space="preserve">
         <value>Tarjetas</value>

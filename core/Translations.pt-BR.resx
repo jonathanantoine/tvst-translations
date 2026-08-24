@@ -2872,17 +2872,17 @@ Se quiser dar uma força extra, o link de doação está aqui e fica sempre disp
     <data name="Global_UI_HintToastTitle" xml:space="preserve">
         <value>💡 Dica</value>
     </data>
-    <data name="Global_UI_DisplayAsGrid" xml:space="preserve">
-        <value>Exibir em grade</value>
-    </data>
-    <data name="Global_UI_DisplayAsList" xml:space="preserve">
-        <value>Exibir em lista</value>
-    </data>
     <data name="Global_UI_HintOfCtrlWheelPossibleContent" xml:space="preserve">
         <value>Segure Ctrl e use a roda do mouse para mudar o número de itens por linha.</value>
     </data>
     <data name="Global_UI_DisplayMode_Title" xml:space="preserve">
         <value>Modo de exibição</value>
+    </data>
+    <data name="Global_UI_DisplayMode_GridSettings" xml:space="preserve">
+        <value>Configurações da grade</value>
+    </data>
+    <data name="Global_UI_DisplayMode_MoreSettings" xml:space="preserve">
+        <value>Mais configurações…</value>
     </data>
     <data name="Global_UI_DisplayMode_Vignette" xml:space="preserve">
         <value>Cartões</value>
