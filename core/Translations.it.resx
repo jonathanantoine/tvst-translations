@@ -2782,6 +2782,9 @@ Se vuoi dare una spinta in più, il link per la donazione è qui e resta sempre 
     <data name="Global_UI_DisplayMode_MoreSettings" xml:space="preserve">
         <value>Altre impostazioni…</value>
     </data>
+    <data name="Global_UI_DisplayMode_SortHint" xml:space="preserve">
+        <value>Tieni premuta l’intestazione di un gruppo per scegliere il suo ordinamento.</value>
+    </data>
     <data name="Global_UI_DisplayMode_Vignette" xml:space="preserve">
         <value>Schede</value>
     </data>
@@ -4290,6 +4293,9 @@ Vuoi che l'app disattivi questa impostazione sul tuo account Trakt? Da ora in po
     <value>{0} fa</value>
   </data>
   <data name="PendingOperations_DataFreshnessLink" xml:space="preserve">
-    <value>Da dove provengono i dati di TVST</value>
+    <value>Da dove provengono i dati di TVST?</value>
+  </data>
+  <data name="PendingOperations_SyncNow_Button" xml:space="preserve">
+    <value>Sincronizza con Trakt adesso</value>
   </data>
 </root>

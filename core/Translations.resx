@@ -3012,6 +3012,9 @@ If you'd like to give an extra boost, the donation link is right here and always
   <data name="Global_UI_DisplayMode_MoreSettings" xml:space="preserve">
       <value>More settings…</value>
   </data>
+  <data name="Global_UI_DisplayMode_SortHint" xml:space="preserve">
+      <value>Long-press any group header to choose how that group is sorted.</value>
+  </data>
   <data name="Global_UI_DisplayMode_Vignette" xml:space="preserve">
       <value>Cards</value>
   </data>
@@ -4275,6 +4278,9 @@ Would you like the app to turn that setting off on your Trakt account? Your view
     <value>{0} ago</value>
   </data>
   <data name="PendingOperations_DataFreshnessLink" xml:space="preserve">
-    <value>Where TVST data comes from</value>
+    <value>Where does TVST data come from?</value>
+  </data>
+  <data name="PendingOperations_SyncNow_Button" xml:space="preserve">
+    <value>Synchronise with Trakt now</value>
   </data>
 </root>

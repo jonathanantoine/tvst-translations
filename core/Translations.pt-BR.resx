@@ -2884,6 +2884,9 @@ Se quiser dar uma força extra, o link de doação está aqui e fica sempre disp
     <data name="Global_UI_DisplayMode_MoreSettings" xml:space="preserve">
         <value>Mais configurações…</value>
     </data>
+    <data name="Global_UI_DisplayMode_SortHint" xml:space="preserve">
+        <value>Mantenha pressionado o cabeçalho de um grupo para escolher sua ordenação.</value>
+    </data>
     <data name="Global_UI_DisplayMode_Vignette" xml:space="preserve">
         <value>Cartões</value>
     </data>
@@ -4240,6 +4243,9 @@ Você quer que o aplicativo desative essa opção na sua conta Trakt? A partir d
     <value>há {0}</value>
   </data>
   <data name="PendingOperations_DataFreshnessLink" xml:space="preserve">
-    <value>De onde vêm os dados do TVST</value>
+    <value>De onde vêm os dados do TVST?</value>
+  </data>
+  <data name="PendingOperations_SyncNow_Button" xml:space="preserve">
+    <value>Sincronizar com o Trakt agora</value>
   </data>
 </root>

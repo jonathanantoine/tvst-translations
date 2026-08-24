@@ -4231,6 +4231,9 @@ Si vous souhaitez donner un coup de pouce supplémentaire, le lien de donation e
   <data name="Global_UI_DisplayMode_MoreSettings" xml:space="preserve">
       <value>Plus de réglages…</value>
   </data>
+  <data name="Global_UI_DisplayMode_SortHint" xml:space="preserve">
+      <value>Maintenez votre doigt sur l’en-tête d’un groupe pour choisir son tri.</value>
+  </data>
   <data name="Global_UI_DisplayMode_Vignette" xml:space="preserve">
       <value>Cartes</value>
   </data>
@@ -5581,6 +5584,9 @@ Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? V
     <value>il y a {0}</value>
   </data>
   <data name="PendingOperations_DataFreshnessLink" xml:space="preserve">
-    <value>D'où viennent les données de TVST</value>
+    <value>D'où viennent les données de TVST ?</value>
+  </data>
+  <data name="PendingOperations_SyncNow_Button" xml:space="preserve">
+    <value>Synchroniser avec Trakt maintenant</value>
   </data>
 </root>

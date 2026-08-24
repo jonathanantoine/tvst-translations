@@ -2911,6 +2911,9 @@ Si desea dar un impulso adicional, el enlace de donación está aquí y siempre 
     <data name="Global_UI_DisplayMode_MoreSettings" xml:space="preserve">
         <value>Más ajustes…</value>
     </data>
+    <data name="Global_UI_DisplayMode_SortHint" xml:space="preserve">
+        <value>Mantén pulsada la cabecera de un grupo para elegir su orden.</value>
+    </data>
     <data name="Global_UI_DisplayMode_Vignette" xml:space="preserve">
         <value>Tarjetas</value>
     </data>
@@ -4285,6 +4288,9 @@ Recordatorio: tu código es {0}.</value>
     <value>hace {0}</value>
   </data>
   <data name="PendingOperations_DataFreshnessLink" xml:space="preserve">
-    <value>De dónde vienen los datos de TVST</value>
+    <value>¿De dónde vienen los datos de TVST?</value>
+  </data>
+  <data name="PendingOperations_SyncNow_Button" xml:space="preserve">
+    <value>Sincronizar con Trakt ahora</value>
   </data>
 </root>
