@@ -770,9 +770,6 @@ me gustaría saber tu opinión.
     <data name="RateMe_Like_Text" xml:space="preserve">
     <value>ME GUSTA</value>
   </data>
-    <data name="RateMe_NeverAskMeAgain_Content" xml:space="preserve">
-    <value>No, gracias, no volver a preguntar</value>
-  </data>
     <data name="RateMe_Title_Text" xml:space="preserve">
     <value>¡TU OPINIÓN IMPORTA!</value>
   </data>
@@ -1601,16 +1598,6 @@ y tendencias mundiales!</value>
   </data>
   <data name="Widget_IncomingEp_PanelTitle_Short" xml:space="preserve">
     <value>Próximos</value>
-  </data>
-  <data
-      name     ="Widget_NextEp_DisplayName"
-      xml:space="preserve">
-    <value>Próximos episodios</value>
-  </data>
-  <data
-      name     ="Widget_NextEp_Description"
-      xml:space="preserve">
-    <value>Muestra tus próximos episodios por ver</value>
   </data>
     <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
     <value>Se va a mostrar un anuncio.</value>
@@ -4307,5 +4294,41 @@ Recordatorio: tu código es {0}.</value>
   </data>
   <data name="Settings_Display_MoviesUpcomingGroupFirst_Text" xml:space="preserve">
     <value>Mostrar primero las películas próximas</value>
+  </data>
+  <data name="DonationLink" xml:space="preserve">
+    <value>https://gofund.me/8e291670</value>
+  </data>
+  <data name="Restore_CompleteToast" xml:space="preserve">
+    <value>Restauración completada</value>
+  </data>
+  <data name="Restore_FileReceivedToast" xml:space="preserve">
+    <value>Archivo recibido, iniciando la restauración</value>
+  </data>
+  <data name="Settings_AnalyticsHeader" xml:space="preserve">
+    <value>TELEMETRÍA</value>
+  </data>
+  <data name="Settings_BackupAndRestoreTabHeader" xml:space="preserve">
+    <value>Copia de seguridad y restauración</value>
+  </data>
+  <data name="Settings_DebugHeaderText" xml:space="preserve">
+    <value>OPTIMIZACIONES</value>
+  </data>
+  <data name="Settings_ExportHeaderText" xml:space="preserve">
+    <value>COPIA DE SEGURIDAD Y RESTAURACIÓN</value>
+  </data>
+  <data name="Settings_RestoreDatabaseButtonTitle" xml:space="preserve">
+    <value>Restaurar una copia de seguridad</value>
+  </data>
+  <data name="Settings_Various_ExportDatabase" xml:space="preserve">
+    <value>Exportar la base de datos</value>
+  </data>
+  <data name="Settings_Various_ExportSettings" xml:space="preserve">
+    <value>Exportar los ajustes de la aplicación</value>
+  </data>
+  <data name="ShowDetails_ShowInfo_TrailerHeader" xml:space="preserve">
+    <value>TRÁILER</value>
+  </data>
+  <data name="Watchlist_Name" xml:space="preserve">
+    <value>Watchlist</value>
   </data>
 </root>

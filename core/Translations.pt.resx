@@ -1561,11 +1561,6 @@ corresponde à essa pesquisa
       xml:space="preserve">
     <value>NOTIFICAÇÕES</value>
   </data>
-  <data
-      name="Settings_LiveTile_DisplayIncomingEpisodes_Text"
-      xml:space="preserve">
-    <value>Mostrar próximos episódios?</value>
-  </data>
 
 
 
@@ -1880,11 +1875,6 @@ Regras: 5 ou mais palavras, sem solicitações de suporte, marcar spoiler!</valu
       name="List_NameField_PlaceholderText"
       xml:space="preserve">
     <value>Nome (obrigatório)</value>
-  </data>
-  <data
-      name="Global_Close_Text"
-      xml:space="preserve">
-    <value>FECHAR</value>
   </data>
   <data
       name="ShowDetails_Calendar_EmptyPlaceholder_Text"
@@ -2477,16 +2467,6 @@ merece ser divertida!</value>
   </data>
   <data name="Widget_IncomingEp_PanelTitle_Short" xml:space="preserve">
     <value>Em breve</value>
-  </data>
-  <data
-      name     ="Widget_NextEp_DisplayName"
-      xml:space="preserve">
-    <value>Próximos episódios</value>
-  </data>
-  <data
-      name     ="Widget_NextEp_Description"
-      xml:space="preserve">
-    <value>Mostra os seus próximos episódios para ver</value>
   </data>
   <data
       name="Global_AnAdWillBeDisplayed"
@@ -5634,5 +5614,56 @@ Você quer que o aplicativo desative essa opção na sua conta Trakt? A partir d
   </data>
   <data name="Settings_Display_MoviesUpcomingGroupFirst_Text" xml:space="preserve">
     <value>Mostrar primeiro os filmes que ainda não estrearam</value>
+  </data>
+  <data name="DonationLink" xml:space="preserve">
+    <value>https://gofund.me/8e291670</value>
+  </data>
+  <data name="People_Code_ActingAsFormat" xml:space="preserve">
+    <value>{0}</value>
+  </data>
+  <data name="Restore_CompleteToast" xml:space="preserve">
+    <value>Restauração concluída</value>
+  </data>
+  <data name="Restore_FileReceivedToast" xml:space="preserve">
+    <value>Ficheiro recebido, a iniciar a restauração</value>
+  </data>
+  <data name="Settings_AnalyticsHeader" xml:space="preserve">
+    <value>TELEMETRIA</value>
+  </data>
+  <data name="Settings_BackupAndRestoreTabHeader" xml:space="preserve">
+    <value>Cópia de segurança e restauro</value>
+  </data>
+  <data name="Settings_DebugHeaderText" xml:space="preserve">
+    <value>OTIMIZAÇÕES</value>
+  </data>
+  <data name="Settings_ExportHeaderText" xml:space="preserve">
+    <value>CÓPIA DE SEGURANÇA E RESTAURO</value>
+  </data>
+  <data name="Settings_RestoreDatabaseButtonTitle" xml:space="preserve">
+    <value>Restaurar uma cópia de segurança</value>
+  </data>
+  <data name="Settings_Various_ExportDatabase" xml:space="preserve">
+    <value>Exportar a base de dados</value>
+  </data>
+  <data name="Settings_Various_ExportSettings" xml:space="preserve">
+    <value>Exportar as definições da aplicação</value>
+  </data>
+  <data name="ShowDetails_ShowInfo_TrailerHeader" xml:space="preserve">
+    <value>TRAILER</value>
+  </data>
+  <data name="Startup_DifferentAccountDetected_Content" xml:space="preserve">
+    <value>Estava autenticado como "{0}" mas a conta atual é "{1}". Se continuar, todos os dados locais serão apagados.</value>
+  </data>
+  <data name="Startup_DifferentAccountDetected_Continue" xml:space="preserve">
+    <value>Continuar e apagar os dados</value>
+  </data>
+  <data name="Startup_DifferentAccountDetected_Logout" xml:space="preserve">
+    <value>Terminar sessão</value>
+  </data>
+  <data name="Startup_DifferentAccountDetected_Title" xml:space="preserve">
+    <value>Conta diferente detetada</value>
+  </data>
+  <data name="Watchlist_Name" xml:space="preserve">
+    <value>Watchlist</value>
   </data>
 </root>

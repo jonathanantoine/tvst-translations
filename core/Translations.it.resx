@@ -1197,9 +1197,6 @@ Regole: 5 o più parole, senza richieste di supporto, contrassegna se spoiler!</
     <data name="Show_List_AddToListExplanation_Text" xml:space="preserve">
     <value>Seleziona gli elenchi dove posizionare questa SERIE TV</value>
   </data>
-    <data name="Global_Close_Text" xml:space="preserve">
-    <value>CHIUDI</value>
-  </data>
     <data name="List_DescriptionField_PlaceholderText" xml:space="preserve">
     <value>Descrizione (facoltativa)</value>
   </data>
@@ -1569,16 +1566,6 @@ merita di essere divertente!</value>
   </data>
   <data name="Widget_IncomingEp_PanelTitle_Short" xml:space="preserve">
     <value>In arrivo</value>
-  </data>
-  <data
-      name     ="Widget_NextEp_DisplayName"
-      xml:space="preserve">
-    <value>Prossimi episodi</value>
-  </data>
-  <data
-      name     ="Widget_NextEp_Description"
-      xml:space="preserve">
-    <value>Mostra i tuoi prossimi episodi da vedere</value>
   </data>
     <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
     <value>Apparirà una pubblicità.</value>
@@ -4312,5 +4299,11 @@ Vuoi che l'app disattivi questa impostazione sul tuo account Trakt? Da ora in po
   </data>
   <data name="Settings_Display_MoviesUpcomingGroupFirst_Text" xml:space="preserve">
     <value>Mostrare prima i film in arrivo</value>
+  </data>
+  <data name="DonationLink" xml:space="preserve">
+    <value>https://gofund.me/8e291670</value>
+  </data>
+  <data name="ShowDetails_ShowInfo_TrailerHeader" xml:space="preserve">
+    <value>TRAILER</value>
   </data>
 </root>

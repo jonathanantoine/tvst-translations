@@ -1598,11 +1598,6 @@ Exprimez-vous !</value>
         <value>Masquer les séries, terminées sans épisode à voir, de l'accueil ?</value>
     </data>
   <data
-      name     ="Settings_Display_IgnoreTranslations_Text"
-      xml:space="preserve">
-    <value>Ne PAS traduire les informations sur les séries et les épisodes ?</value>
-  </data>
-  <data
       name     ="Settings_Display_DateFormatLabel_Text"
       xml:space="preserve">
     <value>Format d'affichage des dates</value>
@@ -1915,11 +1910,6 @@ Règles: au moins 5 mots, pas de demande d'aide, indiquez les spoilers !</value>
       name     ="Show_List_AddToListExplanation_Text"
       xml:space="preserve">
     <value>Sélectionnez ci-dessous les listes où placer cette série.</value>
-  </data>
-  <data
-      name     ="Global_Close_Text"
-      xml:space="preserve">
-    <value>FERMER</value>
   </data>
   <data
       name     ="List_DescriptionField_PlaceholderText"
@@ -2529,16 +2519,6 @@ d'être pleine de surprises !</value>
   </data>
   <data name="Widget_IncomingEp_PanelTitle_Short" xml:space="preserve">
     <value>À venir</value>
-  </data>
-  <data
-      name     ="Widget_NextEp_DisplayName"
-      xml:space="preserve">
-    <value>Prochains épisodes</value>
-  </data>
-  <data
-      name     ="Widget_NextEp_Description"
-      xml:space="preserve">
-    <value>Affiche vos prochains épisodes à voir</value>
   </data>
   <data
       name     ="Global_AnAdWillBeDisplayed"
@@ -5603,5 +5583,8 @@ Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? V
   </data>
   <data name="Settings_Display_MoviesUpcomingGroupFirst_Text" xml:space="preserve">
     <value>Afficher les films à venir en premier</value>
+  </data>
+  <data name="Settings_AnalyticsHeader" xml:space="preserve">
+    <value>TÉLÉMÉTRIE</value>
   </data>
 </root>

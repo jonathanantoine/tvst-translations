@@ -973,9 +973,6 @@ corresponde à essa pesquisa
     <data name="Settings_LiveThings_Header" xml:space="preserve">
     <value>NOTIFICAÇÕES</value>
   </data>
-    <data name="Settings_LiveTile_DisplayIncomingEpisodes_Text" xml:space="preserve">
-    <value>Mostrar próximos episódios?</value>
-  </data>
 
     <data name="Settings_MainDisplayHeader_Header" xml:space="preserve">
     <value>TELA</value>
@@ -1169,9 +1166,6 @@ Regras: 5 ou mais palavras, sem solicitações de suporte, marcar spoiler!</valu
   </data>
     <data name="List_NameField_PlaceholderText" xml:space="preserve">
     <value>Nome (obrigatório)</value>
-  </data>
-    <data name="Global_Close_Text" xml:space="preserve">
-    <value>FECHAR</value>
   </data>
     <data name="ShowDetails_Calendar_EmptyPlaceholder_Text" xml:space="preserve">
     <value>Nenhum próximo episódio
@@ -1535,12 +1529,6 @@ merece ser divertida!</value>
   </data>
     <data name="Widget_IncomingEp_PanelTitle_Short" xml:space="preserve">
     <value>Em breve</value>
-  </data>
-    <data name="Widget_NextEp_DisplayName" xml:space="preserve">
-    <value>Próximos episódios</value>
-  </data>
-    <data name="Widget_NextEp_Description" xml:space="preserve">
-    <value>Mostra os seus próximos episódios para assistir</value>
   </data>
     <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
     <value>Um anúncio será exibido.</value>
@@ -4262,5 +4250,89 @@ Você quer que o aplicativo desative essa opção na sua conta Trakt? A partir d
   </data>
   <data name="Settings_Display_MoviesUpcomingGroupFirst_Text" xml:space="preserve">
     <value>Mostrar primeiro os filmes que ainda não estrearam</value>
+  </data>
+  <data name="DonationLink" xml:space="preserve">
+    <value>https://gofund.me/8e291670</value>
+  </data>
+  <data name="Drawer_Header_AppSubtitle" xml:space="preserve">
+    <value>TV Show &amp; Movie Tracker</value>
+  </data>
+  <data name="Drawer_Section_App" xml:space="preserve">
+    <value>App</value>
+  </data>
+  <data name="Drawer_Section_Help" xml:space="preserve">
+    <value>Ajuda</value>
+  </data>
+  <data name="Drawer_Section_QuickAccess" xml:space="preserve">
+    <value>Acesso rápido</value>
+  </data>
+  <data name="Drawer_UserFallbackName" xml:space="preserve">
+    <value>Usuário</value>
+  </data>
+  <data name="Home_Chip_SeasonRemaining_One" xml:space="preserve">
+    <value>T{0}: falta {1} ep.</value>
+  </data>
+  <data name="Home_Chip_SeasonRemaining_Other" xml:space="preserve">
+    <value>T{0}: faltam {1} ep.</value>
+  </data>
+  <data name="People_Code_ActingAsFormat" xml:space="preserve">
+    <value>{0}</value>
+  </data>
+  <data name="Restore_CompleteToast" xml:space="preserve">
+    <value>Restauração concluída</value>
+  </data>
+  <data name="Restore_FileReceivedToast" xml:space="preserve">
+    <value>Arquivo recebido, iniciando a restauração</value>
+  </data>
+  <data name="Settings_AnalyticsHeader" xml:space="preserve">
+    <value>TELEMETRIA</value>
+  </data>
+  <data name="Settings_BackupAndRestoreTabHeader" xml:space="preserve">
+    <value>Backup e restauração</value>
+  </data>
+  <data name="Settings_DebugHeaderText" xml:space="preserve">
+    <value>OTIMIZAÇÕES</value>
+  </data>
+  <data name="Settings_DisplayPersonalNotesOnMainList" xml:space="preserve">
+    <value>Mostrar notas pessoais?</value>
+  </data>
+  <data name="Settings_DisplayPersonalNotesOnMainList_Subtitle" xml:space="preserve">
+    <value>Mostra os primeiros caracteres da sua nota pessoal.</value>
+  </data>
+  <data name="Settings_DisplaySeasonRemainingOnMainList" xml:space="preserve">
+    <value>Mostrar episódios restantes da temporada?</value>
+  </data>
+  <data name="Settings_DisplaySeasonRemainingOnMainList_Subtitle" xml:space="preserve">
+    <value>Mostra os episódios não vistos restantes na temporada atual.</value>
+  </data>
+  <data name="Settings_ExportHeaderText" xml:space="preserve">
+    <value>BACKUP E RESTAURAÇÃO</value>
+  </data>
+  <data name="Settings_RestoreDatabaseButtonTitle" xml:space="preserve">
+    <value>Restaurar um backup</value>
+  </data>
+  <data name="Settings_Various_ExportDatabase" xml:space="preserve">
+    <value>Exportar o banco de dados</value>
+  </data>
+  <data name="Settings_Various_ExportSettings" xml:space="preserve">
+    <value>Exportar as configurações do app</value>
+  </data>
+  <data name="ShowDetails_ShowInfo_TrailerHeader" xml:space="preserve">
+    <value>TRAILER</value>
+  </data>
+  <data name="Startup_DifferentAccountDetected_Content" xml:space="preserve">
+    <value>Você estava conectado como "{0}", mas a conta atual é "{1}". Se continuar, todos os dados locais serão apagados.</value>
+  </data>
+  <data name="Startup_DifferentAccountDetected_Continue" xml:space="preserve">
+    <value>Continuar e apagar os dados</value>
+  </data>
+  <data name="Startup_DifferentAccountDetected_Logout" xml:space="preserve">
+    <value>Sair</value>
+  </data>
+  <data name="Startup_DifferentAccountDetected_Title" xml:space="preserve">
+    <value>Conta diferente detectada</value>
+  </data>
+  <data name="Watchlist_Name" xml:space="preserve">
+    <value>Watchlist</value>
   </data>
 </root>
