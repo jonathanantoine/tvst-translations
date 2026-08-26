@@ -2779,6 +2779,26 @@ d'être pleine de surprises !</value>
  xml:space="preserve">
     <value>Afficher les dates de diffusion</value>
   </data><data
+ name     ="Settings_Display_AirDateOnEpisodeList_Never"
+ xml:space="preserve">
+    <value>Jamais</value>
+  </data><data
+ name     ="Settings_Display_AirDateOnEpisodeList_WhenNotAired"
+ xml:space="preserve">
+    <value>Uniquement sur les épisodes non diffusés</value>
+  </data><data
+ name     ="Settings_Display_AirDateOnEpisodeList_WhenNotSeen"
+ xml:space="preserve">
+    <value>Uniquement sur les épisodes non marqués comme vus</value>
+  </data><data
+ name     ="Settings_Display_AirDateOnEpisodeList_WhenNotAiredAndNotSeen"
+ xml:space="preserve">
+    <value>Uniquement sur les épisodes ni diffusés ni vus</value>
+  </data><data
+ name     ="Settings_Display_AirDateOnEpisodeList_Always"
+ xml:space="preserve">
+    <value>Toujours</value>
+  </data><data
  name     ="Settings_Display_NumberOfPlaysOnEpisodeList_Text"
  xml:space="preserve">
     <value>Afficher le nombre de visionnages</value>

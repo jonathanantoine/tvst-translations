@@ -1727,6 +1727,21 @@ merece ser divertida!</value>
     <data name="Settings_Display_AirDateOnEpisodeList_Text" xml:space="preserve">
     <value>Mostrar as datas de exibição</value>
   </data>
+    <data name="Settings_Display_AirDateOnEpisodeList_Never" xml:space="preserve">
+    <value>Nunca</value>
+  </data>
+    <data name="Settings_Display_AirDateOnEpisodeList_WhenNotAired" xml:space="preserve">
+    <value>Apenas nos episódios que ainda não foram ao ar</value>
+  </data>
+    <data name="Settings_Display_AirDateOnEpisodeList_WhenNotSeen" xml:space="preserve">
+    <value>Apenas nos episódios não marcados como vistos</value>
+  </data>
+    <data name="Settings_Display_AirDateOnEpisodeList_WhenNotAiredAndNotSeen" xml:space="preserve">
+    <value>Apenas nos episódios que não foram ao ar nem vistos</value>
+  </data>
+    <data name="Settings_Display_AirDateOnEpisodeList_Always" xml:space="preserve">
+    <value>Sempre</value>
+  </data>
     <data name="Settings_Display_NumberOfPlaysOnEpisodeList_Text" xml:space="preserve">
     <value>Mostrar o número de visualizações</value>
   </data>

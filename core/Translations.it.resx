@@ -1779,6 +1779,21 @@ merita di essere divertente!</value>
     <data name="Settings_Display_AirDateOnEpisodeList_Text" xml:space="preserve">
     <value>Mostra le date di messa in onda</value>
   </data>
+    <data name="Settings_Display_AirDateOnEpisodeList_Never" xml:space="preserve">
+    <value>Mai</value>
+  </data>
+    <data name="Settings_Display_AirDateOnEpisodeList_WhenNotAired" xml:space="preserve">
+    <value>Solo sugli episodi non ancora trasmessi</value>
+  </data>
+    <data name="Settings_Display_AirDateOnEpisodeList_WhenNotSeen" xml:space="preserve">
+    <value>Solo sugli episodi non contrassegnati come visti</value>
+  </data>
+    <data name="Settings_Display_AirDateOnEpisodeList_WhenNotAiredAndNotSeen" xml:space="preserve">
+    <value>Solo sugli episodi né trasmessi né visti</value>
+  </data>
+    <data name="Settings_Display_AirDateOnEpisodeList_Always" xml:space="preserve">
+    <value>Sempre</value>
+  </data>
     <data name="Settings_Display_NumberOfPlaysOnEpisodeList_Text" xml:space="preserve">
     <value>Mostra il numero di visualizzazioni</value>
   </data>

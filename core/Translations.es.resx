@@ -1770,6 +1770,21 @@ y tendencias mundiales!</value>
     <data name="Settings_Display_AirDateOnEpisodeList_Text" xml:space="preserve">
     <value>Mostrar las fechas de emisión</value>
   </data>
+    <data name="Settings_Display_AirDateOnEpisodeList_Never" xml:space="preserve">
+    <value>Nunca</value>
+  </data>
+    <data name="Settings_Display_AirDateOnEpisodeList_WhenNotAired" xml:space="preserve">
+    <value>Solo en los episodios aún no emitidos</value>
+  </data>
+    <data name="Settings_Display_AirDateOnEpisodeList_WhenNotSeen" xml:space="preserve">
+    <value>Solo en los episodios no marcados como vistos</value>
+  </data>
+    <data name="Settings_Display_AirDateOnEpisodeList_WhenNotAiredAndNotSeen" xml:space="preserve">
+    <value>Solo en los episodios ni emitidos ni vistos</value>
+  </data>
+    <data name="Settings_Display_AirDateOnEpisodeList_Always" xml:space="preserve">
+    <value>Siempre</value>
+  </data>
     <data name="Settings_Display_NumberOfPlaysOnEpisodeList_Text" xml:space="preserve">
     <value>Mostrar el número de visualizaciones</value>
   </data>
