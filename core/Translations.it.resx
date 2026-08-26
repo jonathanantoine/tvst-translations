@@ -1779,6 +1779,9 @@ merita di essere divertente!</value>
     <data name="Settings_Display_AirDateOnEpisodeList_Text" xml:space="preserve">
     <value>Mostra le date di messa in onda</value>
   </data>
+    <data name="Settings_Display_NumberOfPlaysOnEpisodeList_Text" xml:space="preserve">
+    <value>Mostra il numero di visualizzazioni</value>
+  </data>
     <data name="Settings_Display_HideSeenEpFromPastEpisodesTab_Text" xml:space="preserve">
         <value>Nascondi gli episodi e film visti dalla pagina del calendario.</value>
     </data>

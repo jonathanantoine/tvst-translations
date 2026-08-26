@@ -2779,6 +2779,10 @@ d'être pleine de surprises !</value>
  xml:space="preserve">
     <value>Afficher les dates de diffusion</value>
   </data><data
+ name     ="Settings_Display_NumberOfPlaysOnEpisodeList_Text"
+ xml:space="preserve">
+    <value>Afficher le nombre de visionnages</value>
+  </data><data
  name     ="Settings_SortCommentHeader"
  xml:space="preserve">
     <value>TRI DES COMMENTAIRES</value>

@@ -1841,6 +1841,9 @@ Subscription automatically renews until you cancel it in your Google Play Accoun
   <data name="Settings_Display_AirDateOnEpisodeList_Text" xml:space="preserve">
     <value>Show air dates</value>
   </data>
+  <data name="Settings_Display_NumberOfPlaysOnEpisodeList_Text" xml:space="preserve">
+    <value>Show play counts</value>
+  </data>
   <data name="Settings_SortCommentHeader" xml:space="preserve">
     <value>SORT COMMENTS BY</value>
   </data>

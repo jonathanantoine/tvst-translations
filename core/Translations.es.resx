@@ -1770,6 +1770,9 @@ y tendencias mundiales!</value>
     <data name="Settings_Display_AirDateOnEpisodeList_Text" xml:space="preserve">
     <value>Mostrar las fechas de emisión</value>
   </data>
+    <data name="Settings_Display_NumberOfPlaysOnEpisodeList_Text" xml:space="preserve">
+    <value>Mostrar el número de visualizaciones</value>
+  </data>
     <data name="Settings_SortCommentHeader" xml:space="preserve">
     <value>ORDENAR EPISODIOS POR</value>
     </data>
