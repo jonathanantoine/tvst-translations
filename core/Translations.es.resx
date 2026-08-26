@@ -1762,10 +1762,13 @@ y tendencias mundiales!</value>
     <value>ORDEN DE LOS EPISODIOS</value>
   </data>
     <data name="Settings_SortEpisodesSectionHeader" xml:space="preserve">
-    <value>ORDEN DE LA PESTAÑA EPISODIOS</value>
+    <value>PESTAÑA EPISODIOS</value>
   </data>
     <data name="Settings_SortEpisodesSectionSubtitle" xml:space="preserve">
-    <value>Determina el orden de los episodios y las temporadas en la pestaña Episodios de la página de detalles de una serie.</value>
+    <value>Determina el orden de los episodios y las temporadas en la pestaña Episodios de la página de detalles de una serie, así como el contenido de cada fila de episodio.</value>
+  </data>
+    <data name="Settings_Display_AirDateOnEpisodeList_Text" xml:space="preserve">
+    <value>Mostrar las fechas de emisión</value>
   </data>
     <data name="Settings_SortCommentHeader" xml:space="preserve">
     <value>ORDENAR EPISODIOS POR</value>

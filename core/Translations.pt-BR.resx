@@ -1719,10 +1719,13 @@ merece ser divertida!</value>
     <value>CLASSIFICAÇÃO DE EPISÓDIOS</value>
   </data>
     <data name="Settings_SortEpisodesSectionHeader" xml:space="preserve">
-    <value>ORDENAÇÃO DA ABA EPISÓDIOS</value>
+    <value>ABA EPISÓDIOS</value>
   </data>
     <data name="Settings_SortEpisodesSectionSubtitle" xml:space="preserve">
-    <value>Determina a ordem dos episódios e das temporadas na aba Episódios da página de detalhes de uma série.</value>
+    <value>Determina a ordem dos episódios e das temporadas na aba Episódios da página de detalhes de uma série, bem como o conteúdo de cada linha de episódio.</value>
+  </data>
+    <data name="Settings_Display_AirDateOnEpisodeList_Text" xml:space="preserve">
+    <value>Mostrar as datas de exibição</value>
   </data>
     <data name="Settings_Display_HideSeenEpFromPastEpisodesTab_Text" xml:space="preserve">
         <value>Ocultar episódios e filmes vistos da página do calendário.</value>

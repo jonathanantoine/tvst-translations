@@ -2769,11 +2769,15 @@ d'être pleine de surprises !</value>
   </data><data
  name     ="Settings_SortEpisodesSectionHeader"
  xml:space="preserve">
-    <value>TRI DE L'ONGLET ÉPISODES</value>
+    <value>ONGLET ÉPISODES</value>
   </data><data
  name     ="Settings_SortEpisodesSectionSubtitle"
  xml:space="preserve">
-    <value>Détermine l'ordre des épisodes et des saisons dans l'onglet Épisodes de la page d'une série.</value>
+    <value>Détermine l'ordre des épisodes et des saisons dans l'onglet Épisodes de la page d'une série, ainsi que le contenu de chaque ligne d'épisode.</value>
+  </data><data
+ name     ="Settings_Display_AirDateOnEpisodeList_Text"
+ xml:space="preserve">
+    <value>Afficher les dates de diffusion</value>
   </data><data
  name     ="Settings_SortCommentHeader"
  xml:space="preserve">

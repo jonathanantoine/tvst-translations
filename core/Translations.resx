@@ -1833,10 +1833,13 @@ Subscription automatically renews until you cancel it in your Google Play Accoun
     <value>EPISODES SORTING</value>
   </data>
   <data name="Settings_SortEpisodesSectionHeader" xml:space="preserve">
-    <value>EPISODE TAB SORTING</value>
+    <value>EPISODE TAB</value>
   </data>
   <data name="Settings_SortEpisodesSectionSubtitle" xml:space="preserve">
-    <value>Controls how episodes and seasons are ordered in the Episodes tab of a show's details page.</value>
+    <value>Controls how episodes and seasons are ordered in the Episodes tab of a show's details page, and what each episode row shows.</value>
+  </data>
+  <data name="Settings_Display_AirDateOnEpisodeList_Text" xml:space="preserve">
+    <value>Show air dates</value>
   </data>
   <data name="Settings_SortCommentHeader" xml:space="preserve">
     <value>SORT COMMENTS BY</value>
