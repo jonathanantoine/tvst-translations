@@ -4304,4 +4304,22 @@ Would you like the app to turn that setting off on your Trakt account? Your view
   <data name="Settings_Display_MoviesUpcomingGroupFirst_Text" xml:space="preserve">
     <value>Show the upcoming movies first</value>
   </data>
+  <data name="Settings_Modern_Debug_Title" xml:space="preserve">
+    <value>Developer tools</value>
+  </data>
+  <data name="Settings_Modern_Debug_Subtitle" xml:space="preserve">
+    <value>Diagnostics and test tools for this build.</value>
+  </data>
+  <data name="Settings_Modern_Section_DebugDiagnostics" xml:space="preserve">
+    <value>Diagnostics</value>
+  </data>
+  <data name="Settings_Modern_Section_DebugTraktSession" xml:space="preserve">
+    <value>Trakt session</value>
+  </data>
+  <data name="Settings_Modern_Section_DebugDialogs" xml:space="preserve">
+    <value>Dialogs and screens</value>
+  </data>
+  <data name="Settings_Modern_Section_DebugOutbox" xml:space="preserve">
+    <value>Pending actions queue</value>
+  </data>
 </root>

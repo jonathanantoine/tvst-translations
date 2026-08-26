@@ -5595,4 +5595,22 @@ Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? V
   <data name="Settings_AnalyticsHeader" xml:space="preserve">
     <value>TÉLÉMÉTRIE</value>
   </data>
+  <data name="Settings_Modern_Debug_Title" xml:space="preserve">
+    <value>Outils de développement</value>
+  </data>
+  <data name="Settings_Modern_Debug_Subtitle" xml:space="preserve">
+    <value>Diagnostics et outils de test de cette version.</value>
+  </data>
+  <data name="Settings_Modern_Section_DebugDiagnostics" xml:space="preserve">
+    <value>Diagnostics</value>
+  </data>
+  <data name="Settings_Modern_Section_DebugTraktSession" xml:space="preserve">
+    <value>Session Trakt</value>
+  </data>
+  <data name="Settings_Modern_Section_DebugDialogs" xml:space="preserve">
+    <value>Fenêtres et écrans</value>
+  </data>
+  <data name="Settings_Modern_Section_DebugOutbox" xml:space="preserve">
+    <value>File d'attente des actions</value>
+  </data>
 </root>

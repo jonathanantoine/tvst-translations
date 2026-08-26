@@ -4337,4 +4337,22 @@ Recordatorio: tu código es {0}.</value>
   <data name="Watchlist_Name" xml:space="preserve">
     <value>Watchlist</value>
   </data>
+  <data name="Settings_Modern_Debug_Title" xml:space="preserve">
+    <value>Herramientas de desarrollo</value>
+  </data>
+  <data name="Settings_Modern_Debug_Subtitle" xml:space="preserve">
+    <value>Diagnósticos y herramientas de prueba de esta versión.</value>
+  </data>
+  <data name="Settings_Modern_Section_DebugDiagnostics" xml:space="preserve">
+    <value>Diagnósticos</value>
+  </data>
+  <data name="Settings_Modern_Section_DebugTraktSession" xml:space="preserve">
+    <value>Sesión de Trakt</value>
+  </data>
+  <data name="Settings_Modern_Section_DebugDialogs" xml:space="preserve">
+    <value>Diálogos y pantallas</value>
+  </data>
+  <data name="Settings_Modern_Section_DebugOutbox" xml:space="preserve">
+    <value>Cola de acciones pendientes</value>
+  </data>
 </root>

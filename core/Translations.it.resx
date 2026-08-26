@@ -4312,4 +4312,22 @@ Vuoi che l'app disattivi questa impostazione sul tuo account Trakt? Da ora in po
   <data name="ShowDetails_ShowInfo_TrailerHeader" xml:space="preserve">
     <value>TRAILER</value>
   </data>
+  <data name="Settings_Modern_Debug_Title" xml:space="preserve">
+    <value>Strumenti per sviluppatori</value>
+  </data>
+  <data name="Settings_Modern_Debug_Subtitle" xml:space="preserve">
+    <value>Diagnostica e strumenti di test di questa versione.</value>
+  </data>
+  <data name="Settings_Modern_Section_DebugDiagnostics" xml:space="preserve">
+    <value>Diagnostica</value>
+  </data>
+  <data name="Settings_Modern_Section_DebugTraktSession" xml:space="preserve">
+    <value>Sessione Trakt</value>
+  </data>
+  <data name="Settings_Modern_Section_DebugDialogs" xml:space="preserve">
+    <value>Finestre e schermate</value>
+  </data>
+  <data name="Settings_Modern_Section_DebugOutbox" xml:space="preserve">
+    <value>Coda delle azioni in sospeso</value>
+  </data>
 </root>

@@ -5676,4 +5676,22 @@ Você quer que o aplicativo desative essa opção na sua conta Trakt? A partir d
   <data name="Watchlist_Name" xml:space="preserve">
     <value>Watchlist</value>
   </data>
+  <data name="Settings_Modern_Debug_Title" xml:space="preserve">
+    <value>Ferramentas de programação</value>
+  </data>
+  <data name="Settings_Modern_Debug_Subtitle" xml:space="preserve">
+    <value>Diagnósticos e ferramentas de teste desta versão.</value>
+  </data>
+  <data name="Settings_Modern_Section_DebugDiagnostics" xml:space="preserve">
+    <value>Diagnósticos</value>
+  </data>
+  <data name="Settings_Modern_Section_DebugTraktSession" xml:space="preserve">
+    <value>Sessão Trakt</value>
+  </data>
+  <data name="Settings_Modern_Section_DebugDialogs" xml:space="preserve">
+    <value>Caixas de diálogo e ecrãs</value>
+  </data>
+  <data name="Settings_Modern_Section_DebugOutbox" xml:space="preserve">
+    <value>Fila de ações pendentes</value>
+  </data>
 </root>
