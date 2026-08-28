@@ -800,7 +800,7 @@ aparece en esta búsqueda
     <value>¿Habilitar la sincronización en segundo plano?</value>
   </data>
     <data name="Settings_SetAsSeenBehavior_Text" xml:space="preserve">
-    <value>Cuando marque un episodio como visto:</value>
+    <value>Cuando marque un episodio como visto</value>
   </data>
     <data name="SetAsSeenBehavior_WhatToDoQuestion" xml:space="preserve">
     <value>¿Qué fecha usar?</value>
@@ -821,7 +821,7 @@ aparece en esta búsqueda
     <value>Preguntarme qué hace cada vez</value>
   </data>
     <data name="Settings_BackgroundSyncFrequency_Text" xml:space="preserve">
-    <value>Se realizará sincronización en segundo plano :</value>
+    <value>Frecuencia de la sincronización en segundo plano</value>
   </data>
     <data name="Settings_BackgroundSyncFrequency_Code_12Hours" xml:space="preserve">
     <value>Cada 12 horas</value>
@@ -1061,7 +1061,7 @@ aparece en esta búsqueda
     <value>Ignorar los días en los que veo más de 20 episodios.</value>
   </data>
     <data name="Settings_SubGroup_Synchronisation_Text" xml:space="preserve">
-    <value>SINCRONIZACIÓN AUTOMÁTICA</value>
+    <value>Sincronización automática</value>
   </data>
     <data name="Settings_SyncTrigger_Code_12Hours" xml:space="preserve">
     <value>Tras 12 horas sin sincronización</value>
@@ -2076,7 +2076,7 @@ y tendencias mundiales!</value>
   </data>
 
     <data name="EpisodeDetails_WhereToWatchSettingsName" xml:space="preserve">
-        <value>Configuración de dónde ver un episodio/película:</value>
+        <value>Configuración de dónde ver un episodio/película</value>
     </data>
 
     <data name="Notifications_Settings_WhichStyleHeader" xml:space="preserve">
@@ -3879,6 +3879,12 @@ Recordatorio: tu código es {0}.</value>
   <data name="PendingOperations_Code_ListLikeRemove" xml:space="preserve">
     <value>Me gusta eliminado de la lista</value>
   </data>
+  <data name="PendingOperations_Code_PersonalNoteSet" xml:space="preserve">
+    <value>Nota personal</value>
+  </data>
+  <data name="PendingOperations_Code_PersonalNoteRemove" xml:space="preserve">
+    <value>Nota personal eliminada</value>
+  </data>
   <data name="PendingOperations_Code_MarkedAsSeen" xml:space="preserve">
     <value>Marcado como visto</value>
   </data>
@@ -3932,6 +3938,9 @@ Recordatorio: tu código es {0}.</value>
   </data>
   <data name="PendingActions_ErrorPopup_Unsupported_Body" xml:space="preserve">
     <value>Este cambio pendiente procede de una versión más reciente de la aplicación y esta no puede enviarlo. Por favor, actualice la aplicación.</value>
+  </data>
+  <data name="PendingActions_ErrorPopup_VipRequired_Body" xml:space="preserve">
+    <value>La sincronización de las notas personales con Trakt está reservada a los miembros Trakt VIP. Su nota sigue guardada en este dispositivo.</value>
   </data>
   <data name="PendingActions_ErrorPopup_Several_Body" xml:space="preserve">
     <value>{0} cambios no se han podido enviar a Trakt y requieren su atención. Puede consultarlos en la pantalla de acciones pendientes, en los ajustes.</value>
@@ -4369,5 +4378,11 @@ Recordatorio: tu código es {0}.</value>
   </data>
   <data name="Settings_Modern_Section_DebugOutbox" xml:space="preserve">
     <value>Cola de acciones pendientes</value>
+  </data>
+  <data name="ShowDetails_AppBar_PinToStart_Label" xml:space="preserve">
+    <value>Anclar a Inicio</value>
+  </data>
+  <data name="ShowDetails_AppBar_UnpinFromStart_Label" xml:space="preserve">
+    <value>Desanclar de Inicio</value>
   </data>
 </root>

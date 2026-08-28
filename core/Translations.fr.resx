@@ -1284,7 +1284,7 @@ Exprimez-vous !</value>
   <data
       name     ="Settings_SetAsSeenBehavior_Text"
       xml:space="preserve">
-    <value>Lorsque un épisode est marqué comme vu :</value>
+    <value>Lorsque un épisode est marqué comme vu</value>
   </data>
   <data
       name     ="SetAsSeenBehavior_WhatToDoQuestion"
@@ -1319,7 +1319,7 @@ Exprimez-vous !</value>
   <data
       name     ="Settings_BackgroundSyncFrequency_Text"
       xml:space="preserve">
-    <value>La synchronisation en tâche de fond sera faite :</value>
+    <value>Fréquence de la synchronisation en tâche de fond</value>
   </data>
   <data
       name     ="Settings_BackgroundSyncFrequency_Code_12Hours"
@@ -1706,7 +1706,7 @@ Exprimez-vous !</value>
   <data
       name     ="Settings_SubGroup_Synchronisation_Text"
       xml:space="preserve">
-    <value>SYNCHRONISATION AUTOMATIQUE</value>
+    <value>Synchronisation automatique</value>
   </data>
   <data
       name     ="Settings_SyncTrigger_Code_12Hours"
@@ -5175,6 +5175,12 @@ Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? V
   <data name="PendingOperations_Code_ListLikeRemove" xml:space="preserve">
     <value>J'aime retiré de la liste</value>
   </data>
+  <data name="PendingOperations_Code_PersonalNoteSet" xml:space="preserve">
+    <value>Note personnelle</value>
+  </data>
+  <data name="PendingOperations_Code_PersonalNoteRemove" xml:space="preserve">
+    <value>Note personnelle supprimée</value>
+  </data>
   <data name="PendingOperations_Code_MarkedAsSeen" xml:space="preserve">
     <value>Marqué comme vu</value>
   </data>
@@ -5228,6 +5234,9 @@ Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? V
   </data>
   <data name="PendingActions_ErrorPopup_Unsupported_Body" xml:space="preserve">
     <value>Cette modification en attente provient d’une version plus récente de l’application et ne peut pas être envoyée par celle-ci. Merci de mettre l’application à jour.</value>
+  </data>
+  <data name="PendingActions_ErrorPopup_VipRequired_Body" xml:space="preserve">
+    <value>La synchronisation des notes personnelles avec Trakt est réservée aux membres Trakt VIP. Votre note reste enregistrée sur cet appareil.</value>
   </data>
   <data name="PendingActions_ErrorPopup_Several_Body" xml:space="preserve">
     <value>{0} modifications n’ont pas pu être envoyées à Trakt et demandent votre attention. Vous pouvez les consulter dans l’écran des actions en attente, dans les paramètres.</value>
@@ -5632,5 +5641,11 @@ Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? V
   </data>
   <data name="Settings_Modern_Section_DebugOutbox" xml:space="preserve">
     <value>File d'attente des actions</value>
+  </data>
+  <data name="ShowDetails_AppBar_PinToStart_Label" xml:space="preserve">
+    <value>Épingler au menu Démarrer</value>
+  </data>
+  <data name="ShowDetails_AppBar_UnpinFromStart_Label" xml:space="preserve">
+    <value>Détacher du menu Démarrer</value>
   </data>
 </root>

@@ -316,7 +316,7 @@ Você está usando a versão {0}</value>
   <data
       name="Settings_SetAsSeenBehavior_Text"
       xml:space="preserve">
-    <value>Quando um episódio é marcado como visto:</value>
+    <value>Quando um episódio é marcado como visto</value>
   </data>
   <data
       name="SetAsSeenBehavior_WhatToDoQuestion"
@@ -1266,7 +1266,7 @@ corresponde à essa pesquisa
   <data
       name="Settings_BackgroundSyncFrequency_Text"
       xml:space="preserve">
-    <value>Sincronizar em segundo plano a cada:</value>
+    <value>Frequência da sincronização em segundo plano</value>
   </data>
   <data
       name="Settings_BackgroundSyncFrequency_Code_12Hours"
@@ -1638,7 +1638,7 @@ corresponde à essa pesquisa
   <data
       name="Settings_SubGroup_Synchronisation_Text"
       xml:space="preserve">
-    <value>SINCRONIZAÇÃO AUTOMÁTICA</value>
+    <value>Sincronização automática</value>
   </data>
   <data
       name="Settings_SyncTrigger_Code_12Hours"
@@ -3266,7 +3266,7 @@ Você confirma?
   <data
       name     ="EpisodeDetails_WhereToWatchSettingsName"
       xml:space="preserve">
-        <value>País usado para encontrar onde assistir um episódio/filme:</value>
+        <value>País usado para encontrar onde assistir um episódio/filme</value>
     </data>
 
   <data
@@ -5213,6 +5213,12 @@ Você quer que o aplicativo desative essa opção na sua conta Trakt? A partir d
   <data name="PendingOperations_Code_ListLikeRemove" xml:space="preserve">
     <value>Favorito removido da lista</value>
   </data>
+  <data name="PendingOperations_Code_PersonalNoteSet" xml:space="preserve">
+    <value>Nota pessoal</value>
+  </data>
+  <data name="PendingOperations_Code_PersonalNoteRemove" xml:space="preserve">
+    <value>Nota pessoal removida</value>
+  </data>
   <data name="PendingOperations_Code_MarkedAsSeen" xml:space="preserve">
     <value>Marcado como visto</value>
   </data>
@@ -5266,6 +5272,9 @@ Você quer que o aplicativo desative essa opção na sua conta Trakt? A partir d
   </data>
   <data name="PendingActions_ErrorPopup_Unsupported_Body" xml:space="preserve">
     <value>Esta alteração pendente foi criada por uma versão mais recente da aplicação e não pode ser enviada por esta. Por favor, atualize a aplicação.</value>
+  </data>
+  <data name="PendingActions_ErrorPopup_VipRequired_Body" xml:space="preserve">
+    <value>A sincronização das notas pessoais com o Trakt está reservada aos membros Trakt VIP. A sua nota continua guardada neste dispositivo.</value>
   </data>
   <data name="PendingActions_ErrorPopup_Several_Body" xml:space="preserve">
     <value>{0} alterações não puderam ser enviadas para o Trakt e precisam da sua atenção. Pode consultá-las no ecrã das ações pendentes, nas definições.</value>
@@ -5718,5 +5727,11 @@ Você quer que o aplicativo desative essa opção na sua conta Trakt? A partir d
   </data>
   <data name="Settings_Modern_Section_DebugOutbox" xml:space="preserve">
     <value>Fila de ações pendentes</value>
+  </data>
+  <data name="ShowDetails_AppBar_PinToStart_Label" xml:space="preserve">
+    <value>Afixar em Iniciar</value>
+  </data>
+  <data name="ShowDetails_AppBar_UnpinFromStart_Label" xml:space="preserve">
+    <value>Remover de Iniciar</value>
   </data>
 </root>

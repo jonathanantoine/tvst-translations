@@ -828,7 +828,7 @@ matches this search
     <value>Enable background synchronization?</value>
   </data>
   <data name="Settings_SetAsSeenBehavior_Text" xml:space="preserve">
-    <value>When I set an episode as watched :</value>
+    <value>When I set an episode as watched</value>
   </data>
   <data name="SetAsSeenBehavior_WhatToDoQuestion" xml:space="preserve">
     <value>Which date to use ?</value>
@@ -849,7 +849,7 @@ matches this search
     <value>Ask me what to do each time</value>
   </data>
   <data name="Settings_BackgroundSyncFrequency_Text" xml:space="preserve">
-    <value>Background sync will be done :</value>
+    <value>Background sync frequency</value>
   </data>
   <data name="Settings_BackgroundSyncFrequency_Code_12Hours" xml:space="preserve">
     <value>Every 12 hours</value>
@@ -1097,7 +1097,7 @@ matches this search
     <value>Ignore the days when I watch more than 20 episodes.</value>
   </data>
   <data name="Settings_SubGroup_Synchronisation_Text" xml:space="preserve">
-    <value>AUTOMATIC SYNCHRONIZATION</value>
+    <value>Automatic synchronization</value>
   </data>
   <data name="Settings_SyncTrigger_Code_12Hours" xml:space="preserve">
     <value>After 12 hours without synchronization</value>
@@ -2159,7 +2159,7 @@ Do you confirm ?
     <value>Where to watch it?</value>
   </data>
   <data name="EpisodeDetails_WhereToWatchSettingsName" xml:space="preserve">
-      <value>Where to watch an episode/movie country :</value>
+      <value>Where to watch an episode/movie country</value>
   </data>
   <data name="EpisodeDetails_WhereToWatchCountry" xml:space="preserve">
     <value>Which country to use ?</value>
@@ -3882,6 +3882,12 @@ Would you like the app to turn that setting off on your Trakt account? Your view
   <data name="PendingOperations_Code_ListLikeRemove" xml:space="preserve">
     <value>Like removed from the list</value>
   </data>
+  <data name="PendingOperations_Code_PersonalNoteSet" xml:space="preserve">
+    <value>Personal note</value>
+  </data>
+  <data name="PendingOperations_Code_PersonalNoteRemove" xml:space="preserve">
+    <value>Personal note removed</value>
+  </data>
   <data name="PendingOperations_Code_MarkedAsSeen" xml:space="preserve">
     <value>Marked as seen</value>
   </data>
@@ -3935,6 +3941,9 @@ Would you like the app to turn that setting off on your Trakt account? Your view
   </data>
   <data name="PendingActions_ErrorPopup_Unsupported_Body" xml:space="preserve">
     <value>This pending change comes from a more recent version of the app and cannot be sent by this one. Please update the app.</value>
+  </data>
+  <data name="PendingActions_ErrorPopup_VipRequired_Body" xml:space="preserve">
+    <value>Syncing personal notes with Trakt is reserved for Trakt VIP members. Your note is still saved on this device.</value>
   </data>
   <data name="PendingActions_ErrorPopup_Several_Body" xml:space="preserve">
     <value>{0} changes could not be sent to Trakt and need your attention. You can review them in the pending actions screen, in the settings.</value>
@@ -4336,5 +4345,11 @@ Would you like the app to turn that setting off on your Trakt account? Your view
   </data>
   <data name="Settings_Modern_Section_DebugOutbox" xml:space="preserve">
     <value>Pending actions queue</value>
+  </data>
+  <data name="ShowDetails_AppBar_PinToStart_Label" xml:space="preserve">
+    <value>Pin to Start</value>
+  </data>
+  <data name="ShowDetails_AppBar_UnpinFromStart_Label" xml:space="preserve">
+    <value>Unpin from Start</value>
   </data>
 </root>

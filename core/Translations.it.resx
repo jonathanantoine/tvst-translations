@@ -810,7 +810,7 @@ corrisponda a questa ricerca
     <value>Cerca SERIE TV per parole chiave.</value>
   </data>
     <data name="Settings_SetAsSeenBehavior_Text" xml:space="preserve">
-    <value>Quando un episodio è contrassegnato come visto:</value>
+    <value>Quando un episodio è contrassegnato come visto</value>
   </data>
     <data name="SetAsSeenBehavior_WhatToDoQuestion" xml:space="preserve">
     <value>Guardato quando?</value>
@@ -831,7 +831,7 @@ corrisponda a questa ricerca
     <value>Abilita la sincronizzazione in background</value>
   </data>
     <data name="Settings_BackgroundSyncFrequency_Text" xml:space="preserve">
-    <value>Sincronizza ogni:</value>
+    <value>Frequenza della sincronizzazione in background</value>
   </data>
     <data name="Settings_BackgroundSyncFrequency_Code_12Hours" xml:space="preserve">
     <value>12 ore</value>
@@ -1069,7 +1069,7 @@ corrisponda a questa ricerca
     <value>Ignora i giorni in cui ho visto più di 20 episodi</value>
   </data>
     <data name="Settings_SubGroup_Synchronisation_Text" xml:space="preserve">
-    <value>SINCRONIZZAZIONE AUTOMATICA</value>
+    <value>Sincronizzazione automatica</value>
   </data>
     <data name="Settings_SyncTrigger_Code_12Hours" xml:space="preserve">
     <value>Ogni 12 ore</value>
@@ -2063,7 +2063,7 @@ Confermi?
     <value>Dove vedere</value>
   </data>
     <data name="EpisodeDetails_WhereToWatchSettingsName" xml:space="preserve">
-    <value>Paese utilizzato per scoprire dove vedere un episodio/film:</value>
+    <value>Paese utilizzato per scoprire dove vedere un episodio/film</value>
     </data>
     <data name="EpisodeDetails_WhereToWatchCountry" xml:space="preserve">
     <value>Quale paese utilizzare?</value>
@@ -3884,6 +3884,12 @@ Vuoi che l'app disattivi questa impostazione sul tuo account Trakt? Da ora in po
   <data name="PendingOperations_Code_ListLikeRemove" xml:space="preserve">
     <value>Preferito rimosso dall'elenco</value>
   </data>
+  <data name="PendingOperations_Code_PersonalNoteSet" xml:space="preserve">
+    <value>Nota personale</value>
+  </data>
+  <data name="PendingOperations_Code_PersonalNoteRemove" xml:space="preserve">
+    <value>Nota personale rimossa</value>
+  </data>
   <data name="PendingOperations_Code_MarkedAsSeen" xml:space="preserve">
     <value>Contrassegnato come visto</value>
   </data>
@@ -3937,6 +3943,9 @@ Vuoi che l'app disattivi questa impostazione sul tuo account Trakt? Da ora in po
   </data>
   <data name="PendingActions_ErrorPopup_Unsupported_Body" xml:space="preserve">
     <value>Questa modifica in attesa proviene da una versione più recente dell’app e non può essere inviata da questa. La preghiamo di aggiornare l’app.</value>
+  </data>
+  <data name="PendingActions_ErrorPopup_VipRequired_Body" xml:space="preserve">
+    <value>La sincronizzazione delle note personali con Trakt è riservata ai membri Trakt VIP. La sua nota resta salvata su questo dispositivo.</value>
   </data>
   <data name="PendingActions_ErrorPopup_Several_Body" xml:space="preserve">
     <value>{0} modifiche non sono state inviate a Trakt e richiedono la sua attenzione. Può consultarle nella schermata delle azioni in attesa, nelle impostazioni.</value>
@@ -4344,5 +4353,11 @@ Vuoi che l'app disattivi questa impostazione sul tuo account Trakt? Da ora in po
   </data>
   <data name="Settings_Modern_Section_DebugOutbox" xml:space="preserve">
     <value>Coda delle azioni in sospeso</value>
+  </data>
+  <data name="ShowDetails_AppBar_PinToStart_Label" xml:space="preserve">
+    <value>Aggiungi a Start</value>
+  </data>
+  <data name="ShowDetails_AppBar_UnpinFromStart_Label" xml:space="preserve">
+    <value>Rimuovi da Start</value>
   </data>
 </root>
