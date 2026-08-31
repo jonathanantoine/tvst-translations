@@ -336,9 +336,6 @@ per i miei figli e mia moglie.</value>
     <data name="Frame_YesButton_Content" xml:space="preserve">
     <value>SI</value>
   </data>
-    <data name="Home_AppBar_About_Label" xml:space="preserve">
-    <value>Informazioni sull'applicazione</value>
-  </data>
     <data name="Home_AppBar_AppSettings_Label" xml:space="preserve">
     <value>Impostazioni</value>
   </data>
@@ -448,10 +445,6 @@ per i miei figli e mia moglie.</value>
     <data name="ShowDetails_OpenInImdb" xml:space="preserve">
         <value>IMDB</value>
     </data>
-    <data name="Home_Code_Popular_HowToDisplayActions" xml:space="preserve">
-    <value>Suggerimento: tieni premuta una Serie TV per visualizzare le opzioni: Aggiungi, nascondi, ecc.
-</value>
-  </data>
     <data name="Global_Code_LearnMore" xml:space="preserve">
     <value>Leggi di più...</value>
   </data>
@@ -575,9 +568,6 @@ una connessione a Internet.</value>
     <value>Includi la cronologia dei tuoi amici</value>
   </data>
 
-    <data name="Home_UserMenu_About_Content" xml:space="preserve">
-    <value>Informazioni sull'app</value>
-  </data>
     <data name="Home_UserMenu_AppSetting_Content" xml:space="preserve">
     <value>Impostazioni</value>
   </data>

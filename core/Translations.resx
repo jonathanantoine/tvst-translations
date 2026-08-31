@@ -320,9 +320,6 @@ coffee and happiness from my kids and wife.</value>
   <data name="Frame_YesButton_Content" xml:space="preserve">
     <value>YES</value>
   </data>
-  <data name="Home_AppBar_About_Label" xml:space="preserve">
-    <value>About</value>
-  </data>
   <data name="HomeNavigationSystem_Responsive_Header" xml:space="preserve">
     <value>HOME PAGE SECTIONS POSITIONS</value>
   </data>
@@ -422,9 +419,6 @@ coffee and happiness from my kids and wife.</value>
   </data>
   <data name="Billing_CannotConnectYouToTheStore" xml:space="preserve">
     <value>Cannot connect you to the Store now, please try again later.</value>
-  </data>
-  <data name="Home_Code_Popular_HowToDisplayActions" xml:space="preserve">
-    <value>Tip: hold your finger on a show to display a list of actions : add, hide, etc.</value>
   </data>
   <data name="Global_Code_LearnMore" xml:space="preserve">
     <value>Learn more</value>
@@ -565,9 +559,6 @@ internet connection.</value>
   </data>
   <data name="Home_UserHistory_DemoMode_Empty_Text" xml:space="preserve">
     <value>Your watch history will appear here once you exit demo mode.</value>
-  </data>
-  <data name="Home_UserMenu_About_Content" xml:space="preserve">
-    <value>About the app</value>
   </data>
   <data name="Home_UserMenu_AppSetting_Content" xml:space="preserve">
     <value>App settings</value>

@@ -521,11 +521,6 @@ femme et mes enfants.</value>
     <value>OUI</value>
   </data>
   <data
-      name     ="Home_AppBar_About_Label"
-      xml:space="preserve">
-    <value>À propos de l'app</value>
-  </data>
-  <data
       name     ="Home_AppBar_AppSettings_Label"
       xml:space="preserve">
     <value>Paramètres de l'application</value>
@@ -706,12 +701,6 @@ femme et mes enfants.</value>
       xml:space="preserve">
         <value>IMDB</value>
     </data>
-  <data
-      name     ="Home_Code_Popular_HowToDisplayActions"
-      xml:space="preserve">
-    <value>Astuce: maintenez votre doigt sur une série pour afficher une liste d'actions possibles: ajouter, masquer, etc.
-</value>
-  </data>
   <data
       name     ="Global_Code_LearnMore"
       xml:space="preserve">
@@ -912,11 +901,6 @@ qu'avec une connexion internet.</value>
     <value>Inclure l'historique de vos amis</value>
   </data>
 
-  <data
-      name     ="Home_UserMenu_About_Content"
-      xml:space="preserve">
-    <value>À propos</value>
-  </data>
   <data
       name     ="Home_UserMenu_AppSetting_Content"
       xml:space="preserve">

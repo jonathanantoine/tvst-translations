@@ -325,9 +325,6 @@ y la felicidad de mis hijos y mi mujer.</value>
     <data name="Frame_YesButton_Content" xml:space="preserve">
     <value>SÍ</value>
   </data>
-    <data name="Home_AppBar_About_Label" xml:space="preserve">
-    <value>Acerca de </value>
-  </data>
     <data name="HomeNavigationSystem_Responsive_Header" xml:space="preserve">
     <value>POSICIÓN DE LAS SECCIONES DE LA HOME</value>
   </data>
@@ -427,9 +424,6 @@ y la felicidad de mis hijos y mi mujer.</value>
   </data>
     <data name="Billing_CannotConnectYouToTheStore" xml:space="preserve">
     <value>No se puede conectar con la tienda en este momento, inténtalo de nuevo más tarde.</value>
-  </data>
-    <data name="Home_Code_Popular_HowToDisplayActions" xml:space="preserve">
-    <value>Consejo: mantén tu dedo sobre una serie para desplegar una lista de acciones: añadir, ocultar, etc.</value>
   </data>
     <data name="Global_Code_LearnMore" xml:space="preserve">
     <value>Descubre más</value>
@@ -554,9 +548,6 @@ conexión a internet.</value>
   </data>
     <data name="Home_UserHistory_DemoMode_Empty_Text" xml:space="preserve">
     <value>Tu historial de visualización aparecerá aquí una vez que salgas del modo demo.</value>
-  </data>
-    <data name="Home_UserMenu_About_Content" xml:space="preserve">
-    <value>Sobre la app</value>
   </data>
     <data name="Home_UserMenu_AppSetting_Content" xml:space="preserve">
     <value>Ajustes de la app</value>

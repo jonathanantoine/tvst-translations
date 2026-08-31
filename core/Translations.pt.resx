@@ -531,11 +531,6 @@ filhos e minha esposa.</value>
     <value>SIM</value>
   </data>
   <data
-      name="Home_AppBar_About_Label"
-      xml:space="preserve">
-    <value>Sobre o aplicativo</value>
-  </data>
-  <data
       name="Home_AppBar_AppSettings_Label"
       xml:space="preserve">
     <value>Configurações</value>
@@ -674,11 +669,6 @@ filhos e minha esposa.</value>
       name="Home_Code_Popular_PopularGenreFormat"
       xml:space="preserve">
     <value>{0} - POPULAR</value>
-  </data>
-  <data
-      name="Home_Code_Popular_HowToDisplayActions"
-      xml:space="preserve">
-    <value>Dica: Mantenha um show pressionado para exibir uma lista de ações: Adicionar, ocultar, etc.</value>
   </data>
   <data
       name="ShowDetails_Code_SimilarToThisShow"
@@ -882,11 +872,6 @@ uma conexão com a internet.</value>
       name="Global_TabSection_HistoryPanelTitle"
       xml:space="preserve">
     <value>Últimos episódios assistidos</value>
-  </data>
-  <data
-      name="Home_UserMenu_About_Content"
-      xml:space="preserve">
-    <value>Sobre o app</value>
   </data>
   <data
       name="Home_UserMenu_AppSetting_Content"
