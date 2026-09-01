@@ -2014,6 +2014,9 @@ Confermi?
     <data name="MediaItem_YourRatingFormat" xml:space="preserve">
     <value>Il tuo voto: {0}</value>
   </data>
+  <data name="MediaItem_WatchedProgressFormat" xml:space="preserve">
+    <value>Visti: {0}/{1}</value>
+  </data>
     <data name="Global_When" xml:space="preserve">
     <value>QUANDO ?</value>
   </data>

@@ -3120,6 +3120,9 @@ Confirmez-vous ?
  name     ="MediaItem_YourRatingFormat"
  xml:space="preserve">
     <value>Votre note : {0}</value>
+  </data>
+  <data name="MediaItem_WatchedProgressFormat" xml:space="preserve">
+    <value>Vus : {0}/{1}</value>
   </data><data
  name     ="Global_When"
  xml:space="preserve">

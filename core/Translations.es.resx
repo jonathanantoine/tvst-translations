@@ -2020,6 +2020,9 @@ y tendencias mundiales!</value>
     <data name="MediaItem_YourRatingFormat" xml:space="preserve">
     <value>Tu puntuación : {0}</value>
   </data>
+  <data name="MediaItem_WatchedProgressFormat" xml:space="preserve">
+    <value>Vistos : {0}/{1}</value>
+  </data>
     <data name="Global_When" xml:space="preserve">
     <value>CUANDO ?</value>
   </data>

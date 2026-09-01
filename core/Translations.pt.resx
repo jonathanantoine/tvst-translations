@@ -3175,6 +3175,9 @@ Você confirma?
  xml:space="preserve">
     <value>Sua nota: {0}</value>
   </data>
+  <data name="MediaItem_WatchedProgressFormat" xml:space="preserve">
+    <value>Assistidos: {0}/{1}</value>
+  </data>
   <data
  name     ="Global_When"
  xml:space="preserve">
