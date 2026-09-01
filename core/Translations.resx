@@ -3579,6 +3579,9 @@ Do you confirm?</value>
   <data name="MediaItem_ReleasingOnFormat" xml:space="preserve">
     <value>Releasing on {0} - {1}</value>
   </data>
+  <data name="MediaItem_FirstEpisodeAiringOnFormat" xml:space="preserve">
+    <value>First episode airing on {0}</value>
+  </data>
   <data name="Discover_ReleaseDateBadge" xml:space="preserve">
     <value>Out: {0}</value>
   </data>

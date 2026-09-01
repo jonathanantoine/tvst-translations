@@ -3580,6 +3580,9 @@ t  <data name="Settings_Modern_Badge_Premium" xml:space="preserve">
   <data name="MediaItem_ReleasingOnFormat" xml:space="preserve">
     <value>In uscita il {0} - {1}</value>
   </data>
+  <data name="MediaItem_FirstEpisodeAiringOnFormat" xml:space="preserve">
+    <value>Il primo episodio andrà in onda il {0}</value>
+  </data>
   <data name="Discover_ReleaseDateBadge" xml:space="preserve">
     <value>Uscita: {0}</value>
   </data>

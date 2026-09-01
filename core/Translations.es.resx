@@ -3576,6 +3576,9 @@ Recordatorio: tu código es {0}.</value>
   <data name="MediaItem_ReleasingOnFormat" xml:space="preserve">
     <value>Se estrena el {0} - {1}</value>
   </data>
+  <data name="MediaItem_FirstEpisodeAiringOnFormat" xml:space="preserve">
+    <value>El primer episodio se emitirá el {0}</value>
+  </data>
   <data name="Discover_ReleaseDateBadge" xml:space="preserve">
     <value>Estreno: {0}</value>
   </data>

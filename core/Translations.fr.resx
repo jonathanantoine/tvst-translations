@@ -4865,6 +4865,9 @@ Rappel : votre code est {0}.</value>
   <data name="MediaItem_ReleasingOnFormat" xml:space="preserve">
     <value>Sortie le {0} - {1}</value>
   </data>
+  <data name="MediaItem_FirstEpisodeAiringOnFormat" xml:space="preserve">
+    <value>Le premier épisode sera diffusé le {0}</value>
+  </data>
   <data name="Discover_ReleaseDateBadge" xml:space="preserve">
     <value>Sortie : {0}</value>
   </data>
