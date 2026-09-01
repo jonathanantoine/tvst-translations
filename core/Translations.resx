@@ -2620,6 +2620,9 @@ If you are still unable to access your account after logging in, please contact 
   <data name="GenreName_anime" xml:space="preserve">
     <value>Anime</value>
   </data>
+  <data name="GenreName_donghua" xml:space="preserve">
+    <value>Donghua</value>
+  </data>
   <data name="GenreName_talk_show" xml:space="preserve">
     <value>Talk Show</value>
   </data>

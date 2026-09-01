@@ -2950,6 +2950,9 @@ Se vuoi dare una spinta in più, il link per la donazione è qui e resta sempre 
     <data name="GenreName_anime" xml:space="preserve">
     <value>Anime</value>
 </data>
+    <data name="GenreName_donghua" xml:space="preserve">
+    <value>Donghua</value>
+</data>
     <data name="GenreName_talk_show" xml:space="preserve">
     <value>Talk Show</value>
 </data>

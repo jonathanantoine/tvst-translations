@@ -2496,6 +2496,9 @@ Si aún no puedes acceder a tu cuenta después de iniciar sesión, contáctanos 
     <data name="GenreName_anime" xml:space="preserve">
         <value>Anime</value>
     </data>
+    <data name="GenreName_donghua" xml:space="preserve">
+        <value>Donghua</value>
+    </data>
     <data name="GenreName_talk_show" xml:space="preserve">
         <value>Programa de entrevistas</value>
     </data>

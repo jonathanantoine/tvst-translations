@@ -2479,6 +2479,9 @@ Se ainda não conseguir acessar sua conta após o login, entre em contato Trakt 
     <data name="GenreName_anime">
         <value>Anime</value>
     </data>
+    <data name="GenreName_donghua">
+        <value>Donghua</value>
+    </data>
 
     <data name="GenreName_talk_show">
         <value>Talk Show</value>

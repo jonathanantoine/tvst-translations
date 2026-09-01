@@ -3698,6 +3698,9 @@ plus</value>
   <data name="GenreName_anime" xml:space="preserve">
         <value>Anime</value>
     </data>
+  <data name="GenreName_donghua" xml:space="preserve">
+        <value>Donghua</value>
+    </data>
   <data name="GenreName_biography" xml:space="preserve">
         <value>Biographie</value>
     </data>
