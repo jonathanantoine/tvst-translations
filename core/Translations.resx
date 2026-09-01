@@ -2153,7 +2153,7 @@ Do you confirm ?
     <value>Where to watch it?</value>
   </data>
   <data name="EpisodeDetails_WhereToWatchSettingsName" xml:space="preserve">
-      <value>Where to watch an episode/movie country</value>
+      <value>Country used to find where to watch an episode/movie</value>
   </data>
   <data name="EpisodeDetails_WhereToWatchCountry" xml:space="preserve">
     <value>Which country to use ?</value>

@@ -1268,7 +1268,7 @@ Exprimez-vous !</value>
   <data
       name     ="Settings_SetAsSeenBehavior_Text"
       xml:space="preserve">
-    <value>Lorsque un épisode est marqué comme vu</value>
+    <value>Lorsqu'un épisode est marqué comme vu</value>
   </data>
   <data
       name     ="SetAsSeenBehavior_WhatToDoQuestion"

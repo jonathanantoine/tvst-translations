@@ -2070,7 +2070,7 @@ y tendencias mundiales!</value>
   </data>
 
     <data name="EpisodeDetails_WhereToWatchSettingsName" xml:space="preserve">
-        <value>Configuración de dónde ver un episodio/película</value>
+        <value>País usado para encontrar dónde ver un episodio/película</value>
     </data>
 
     <data name="Notifications_Settings_WhichStyleHeader" xml:space="preserve">
