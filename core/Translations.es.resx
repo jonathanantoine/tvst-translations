@@ -4385,4 +4385,331 @@ Recordatorio: tu código es {0}.</value>
   <data name="ShowDetails_AppBar_UnpinFromStart_Label" xml:space="preserve">
     <value>Desanclar de Inicio</value>
   </data>
+  <data name="Settings_Backup_ImportToTrakt_Title" xml:space="preserve">
+    <value>Importar una copia de seguridad en Trakt</value>
+  </data>
+  <data name="Settings_Backup_ImportToTrakt_Subtitle" xml:space="preserve">
+    <value>Envíe la biblioteca de un archivo .tvstbackup a su cuenta de Trakt. No se elimina nada de la cuenta.</value>
+  </data>
+  <data name="Settings_Backup_ImportToTrakt_InProgressSubtitleFormat" xml:space="preserve">
+    <value>En pausa - paso {0} de {1}, {2}</value>
+  </data>
+  <data name="TraktImport_Title" xml:space="preserve">
+    <value>Importar en Trakt</value>
+  </data>
+  <data name="TraktImport_Header_FileFormat" xml:space="preserve">
+    <value>{0}, guardado el {1}</value>
+  </data>
+  <data name="TraktImport_Header_OriginAccountFormat" xml:space="preserve">
+    <value>Procede de la cuenta {0}</value>
+  </data>
+  <data name="TraktImport_Header_TargetAccountFormat" xml:space="preserve">
+    <value>Importado en la cuenta {0}</value>
+  </data>
+  <data name="TraktImport_Header_OlderSchemaWarning" xml:space="preserve">
+    <value>Esta copia de seguridad procede de una versión anterior: se importará un solo visionado por episodio.</value>
+  </data>
+  <data name="TraktImport_Header_NewerSchemaRefused" xml:space="preserve">
+    <value>Esta copia de seguridad se creó con una versión más reciente de la aplicación. Actualícela antes de importarla.</value>
+  </data>
+  <data name="TraktImport_Progress_RequestsFormat" xml:space="preserve">
+    <value>{0} de {1} peticiones</value>
+  </data>
+  <data name="TraktImport_Eta_Format" xml:space="preserve">
+    <value>Quedan unos {0}</value>
+  </data>
+  <data name="TraktImport_Eta_LessThanAMinute" xml:space="preserve">
+    <value>Queda menos de un minuto</value>
+  </data>
+  <data name="TraktImport_Eta_RateLimitedFormat" xml:space="preserve">
+    <value>Trakt nos ha pedido esperar - se reanuda en {0}</value>
+  </data>
+  <data name="TraktImport_State_Waiting" xml:space="preserve">
+    <value>Listo para empezar</value>
+  </data>
+  <data name="TraktImport_State_Running" xml:space="preserve">
+    <value>Importando</value>
+  </data>
+  <data name="TraktImport_State_PausedByYou" xml:space="preserve">
+    <value>En pausa a petición suya</value>
+  </data>
+  <data name="TraktImport_State_Offline" xml:space="preserve">
+    <value>Esperando la red</value>
+  </data>
+  <data name="TraktImport_State_ReconnectTrakt" xml:space="preserve">
+    <value>Vuelva a iniciar sesión en Trakt</value>
+  </data>
+  <data name="TraktImport_State_Done" xml:space="preserve">
+    <value>Importación finalizada</value>
+  </data>
+  <data name="TraktImport_State_Abandoned" xml:space="preserve">
+    <value>Importación abandonada</value>
+  </data>
+  <data name="TraktImport_Chain_Section" xml:space="preserve">
+    <value>Cómo funciona la importación</value>
+  </data>
+  <data name="TraktImport_Chain_File_Title" xml:space="preserve">
+    <value>Su copia de seguridad</value>
+  </data>
+  <data name="TraktImport_Chain_File_TextFormat" xml:space="preserve">
+    <value>{0} elementos que importar, agrupados en {1} peticiones.</value>
+  </data>
+  <data name="TraktImport_Chain_App_Title" xml:space="preserve">
+    <value>TVST</value>
+  </data>
+  <data name="TraktImport_Chain_App_Delay" xml:space="preserve">
+    <value>aproximadamente 1 s por petición</value>
+  </data>
+  <data name="TraktImport_Chain_App_Text" xml:space="preserve">
+    <value>Una petición por segundo, nunca más: es la regla de Trakt para las escrituras.</value>
+  </data>
+  <data name="TraktImport_Chain_Trakt_Title" xml:space="preserve">
+    <value>Trakt</value>
+  </data>
+  <data name="TraktImport_Chain_Trakt_Delay" xml:space="preserve">
+    <value>5 min en caso de limitación</value>
+  </data>
+  <data name="TraktImport_Chain_Trakt_Text" xml:space="preserve">
+    <value>500 lecturas cada 5 minutos. Cuando Trakt pide parar, TVST espera cinco minutos y continúa. Puede salir de esta pantalla: la importación sigue mientras la aplicación esté abierta. Si se cierra, se reanuda donde se quedó la próxima vez que la abra.</value>
+  </data>
+  <data name="TraktImport_Chain_Account_Title" xml:space="preserve">
+    <value>Su cuenta</value>
+  </data>
+  <data name="TraktImport_Chain_Account_Text" xml:space="preserve">
+    <value>Después, una sincronización normal lo devuelve todo a este dispositivo.</value>
+  </data>
+  <data name="TraktImport_HowLimitsWork" xml:space="preserve">
+    <value>Cómo funcionan los límites de Trakt</value>
+  </data>
+  <data name="TraktImport_Steps_Section" xml:space="preserve">
+    <value>Pasos</value>
+  </data>
+  <data name="TraktImport_Entity_WatchedEpisodes" xml:space="preserve">
+    <value>Episodios vistos</value>
+  </data>
+  <data name="TraktImport_Entity_WatchedMovies" xml:space="preserve">
+    <value>Películas vistas</value>
+  </data>
+  <data name="TraktImport_Entity_Collection" xml:space="preserve">
+    <value>Colección</value>
+  </data>
+  <data name="TraktImport_Entity_Watchlist" xml:space="preserve">
+    <value>Lista de seguimiento</value>
+  </data>
+  <data name="TraktImport_Entity_Hidden" xml:space="preserve">
+    <value>Elementos ocultos</value>
+  </data>
+  <data name="TraktImport_Entity_Ratings" xml:space="preserve">
+    <value>Valoraciones</value>
+  </data>
+  <data name="TraktImport_Entity_Notes" xml:space="preserve">
+    <value>Notas personales</value>
+  </data>
+  <data name="TraktImport_Entity_Lists" xml:space="preserve">
+    <value>Listas</value>
+  </data>
+  <data name="TraktImport_Step_Waiting" xml:space="preserve">
+    <value>En espera</value>
+  </data>
+  <data name="TraktImport_Step_Pulling" xml:space="preserve">
+    <value>Leyendo su cuenta</value>
+  </data>
+  <data name="TraktImport_Step_PushingFormat" xml:space="preserve">
+    <value>Enviando {0} de {1}</value>
+  </data>
+  <data name="TraktImport_Step_WaitingForTrakt" xml:space="preserve">
+    <value>Esperando a Trakt</value>
+  </data>
+  <data name="TraktImport_Step_Done" xml:space="preserve">
+    <value>Finalizado</value>
+  </data>
+  <data name="TraktImport_Step_SkippedAccountLimit" xml:space="preserve">
+    <value>Omitido: límite de la cuenta alcanzado</value>
+  </data>
+  <data name="TraktImport_Step_Failed" xml:space="preserve">
+    <value>Con errores</value>
+  </data>
+  <data name="TraktImport_Counters_Format" xml:space="preserve">
+    <value>{0} en el archivo, {1} enviados, {2} ya presentes, {3} omitidos, {4} con errores</value>
+  </data>
+  <data name="TraktImport_Activity_Section" xml:space="preserve">
+    <value>Actividad</value>
+  </data>
+  <data name="TraktImport_Event_RequestFormat" xml:space="preserve">
+    <value>{0} - petición {1}/{2}: {3} añadidos, {4} ya presentes</value>
+  </data>
+  <data name="TraktImport_Event_RateLimitedFormat" xml:space="preserve">
+    <value>Trakt ha pedido esperar {0} min</value>
+  </data>
+  <data name="TraktImport_Event_AccountLimitFormat" xml:space="preserve">
+    <value>{0}: se ha alcanzado el límite de su cuenta</value>
+  </data>
+  <data name="TraktImport_Event_NetworkRetryFormat" xml:space="preserve">
+    <value>Red no disponible, nuevo intento en {0} s</value>
+  </data>
+  <data name="TraktImport_Action_Start" xml:space="preserve">
+    <value>Iniciar</value>
+  </data>
+  <data name="TraktImport_Action_Pause" xml:space="preserve">
+    <value>Pausar</value>
+  </data>
+  <data name="TraktImport_Action_Resume" xml:space="preserve">
+    <value>Reanudar</value>
+  </data>
+  <data name="TraktImport_Action_Abandon" xml:space="preserve">
+    <value>Abandonar</value>
+  </data>
+  <data name="TraktImport_Action_SyncNow" xml:space="preserve">
+    <value>Sincronizar ahora</value>
+  </data>
+  <data name="TraktImport_Abandon_ConfirmTitle" xml:space="preserve">
+    <value>¿Abandonar esta importación?</value>
+  </data>
+  <data name="TraktImport_Abandon_ConfirmContent" xml:space="preserve">
+    <value>Lo que ya se ha enviado permanece en su cuenta; no se deshace nada.</value>
+  </data>
+  <data name="TraktImport_Report_Section" xml:space="preserve">
+    <value>Resumen</value>
+  </data>
+  <data name="TraktImport_Report_EntityLineFormat" xml:space="preserve">
+    <value>{0}: {1} añadidos, {2} ya presentes</value>
+  </data>
+  <data name="TraktImport_Report_PlaysNotReproducedFormat" xml:space="preserve">
+    <value>{0} elementos tenían más de un visionado en la copia de seguridad; se importó uno por cada uno.</value>
+  </data>
+  <data name="TraktImport_Report_UndatedViewsFormat" xml:space="preserve">
+    <value>{0} visionados no tenían fecha y han tomado la de la copia de seguridad.</value>
+  </data>
+  <data name="TraktImport_Report_NotFoundFormat" xml:space="preserve">
+    <value>{0} elementos son desconocidos para Trakt y se han omitido.</value>
+  </data>
+  <data name="TraktImport_Report_AccountLimitFormat" xml:space="preserve">
+    <value>{0} se ha detenido antes de acabar: se ha alcanzado el límite de su cuenta.</value>
+  </data>
+  <data name="Settings_Debug_ImportFail429_Text" xml:space="preserve">
+    <value>Hacer fallar la próxima petición de importación con 429</value>
+  </data>
+  <data name="Settings_Debug_ImportFail420_Text" xml:space="preserve">
+    <value>Hacer fallar la próxima petición de importación con 420</value>
+  </data>
+  <data name="Settings_Debug_ImportSlow_Text" xml:space="preserve">
+    <value>Ralentizar las peticiones de importación (3 s)</value>
+  </data>
+  <data name="TraktImport_Report_FailedFormat" xml:space="preserve">
+    <value>{0} elementos fueron rechazados por Trakt y no han llegado a su cuenta. Volver a lanzar la importación los enviará.</value>
+  </data>
+  <data name="TraktImport_Preflight_Section" xml:space="preserve">
+    <value>Antes de empezar</value>
+  </data>
+  <data name="TraktImport_Preflight_AllFits" xml:space="preserve">
+    <value>Todo lo que contiene esta copia de seguridad cabe dentro de los límites de su cuenta.</value>
+  </data>
+  <data name="TraktImport_Preflight_OverflowFormat" xml:space="preserve">
+    <value>{0}: {1} elementos tras la importación, para un límite de {2}. {3} de ellos no se importarán.</value>
+  </data>
+  <data name="TraktImport_Preflight_Cap_Watchlist" xml:space="preserve">
+    <value>Lista de seguimiento</value>
+  </data>
+  <data name="TraktImport_Preflight_Cap_ListCount" xml:space="preserve">
+    <value>Número de listas personales</value>
+  </data>
+  <data name="TraktImport_Preflight_Cap_ItemsInOneListFormat" xml:space="preserve">
+    <value>Lista «{0}»</value>
+  </data>
+  <data name="TraktImport_Preflight_Cap_Ratings" xml:space="preserve">
+    <value>Valoraciones</value>
+  </data>
+  <data name="TraktImport_Preflight_PublishedLimitNote" xml:space="preserve">
+    <value>Su cuenta no nos ha comunicado sus propios límites: las cifras anteriores son las que Trakt publica para su plan.</value>
+  </data>
+  <data name="TraktImport_Preflight_FreshnessNote" xml:space="preserve">
+    <value>Calculado a partir de la última sincronización de este dispositivo, y nada más.</value>
+  </data>
+  <data name="TraktImport_Preflight_CollectionNote" xml:space="preserve">
+    <value>La colección no se comprueba aquí: Trakt la cuenta como dos bibliotecas distintas, que esta copia de seguridad no distingue.</value>
+  </data>
+  <data name="Settings_Backup_ImportToTrakt_SourceLostSubtitle" xml:space="preserve">
+    <value>Interrumpida: la copia de la copia de seguridad ha desaparecido. Vuelva a elegir el archivo para continuar.</value>
+  </data>
+  <data name="TraktImport_State_PausedByError" xml:space="preserve">
+    <value>Detenida tras un error. Se reanuda sola en la próxima sincronización.</value>
+  </data>
+  <data name="TraktImport_State_SourceUnavailable" xml:space="preserve">
+    <value>La copia de la copia de seguridad ya no está en este dispositivo. Vuelva a elegir el archivo para continuar.</value>
+  </data>
+  <data name="TraktImport_Notice_AnotherRunInProgress" xml:space="preserve">
+    <value>Ya hay una importación en curso con otro archivo. Abandónela, o déjela terminar, antes de importar este.</value>
+  </data>
+  <data name="TraktImport_Option_SkipAlreadyWatched" xml:space="preserve">
+    <value>Añadir solo lo que su cuenta aún no ha visto</value>
+  </data>
+  <data name="TraktImport_Start_SyncInProgress" xml:space="preserve">
+    <value>Hay una sincronización en curso. Inténtelo de nuevo cuando termine.</value>
+  </data>
+  <data name="TraktImport_Start_FileUnreadable" xml:space="preserve">
+    <value>No se pudo leer este archivo como una copia de seguridad de TVST.</value>
+  </data>
+  <data name="TraktImport_Eta_MinutesSecondsFormat" xml:space="preserve">
+    <value>{0} min {1} s</value>
+  </data>
+  <data name="TraktImport_Eta_MinutesFormat" xml:space="preserve">
+    <value>{0} min</value>
+  </data>
+  <data name="TraktImport_Eta_HoursMinutesFormat" xml:space="preserve">
+    <value>{0} h {1} min</value>
+  </data>
+  <data name="TraktImport_Notice_OtherAccountFormat" xml:space="preserve">
+    <value>Esta importación se inició para la cuenta {0}. Vuelva a iniciar sesión en esa cuenta para continuarla, o abandónela.</value>
+  </data>
+  <data name="TraktImport_Preflight_SameAccount" xml:space="preserve">
+    <value>Esta copia de seguridad procede de la cuenta en la que se importa: todo lo que contiene ya debería estar ahí.</value>
+  </data>
+  <data name="TraktImport_Alert_Title_Running" xml:space="preserve">
+    <value>Importación a Trakt en curso</value>
+  </data>
+  <data name="TraktImport_Alert_Title_Stopped" xml:space="preserve">
+    <value>Importación a Trakt interrumpida</value>
+  </data>
+  <data name="TraktImport_Alert_Title_Done" xml:space="preserve">
+    <value>Importación a Trakt finalizada</value>
+  </data>
+  <data name="TraktImport_Alert_Text_RunningFormat" xml:space="preserve">
+    <value>Paso {0} de {1}, quedan unos {2}. La sincronización se reanudará después.</value>
+  </data>
+  <data name="TraktImport_Alert_Text_RateLimitedFormat" xml:space="preserve">
+    <value>Trakt ha pedido esperar, se reanuda a las {0}. La sincronización se reanudará tras la importación.</value>
+  </data>
+  <data name="TraktImport_Alert_Text_Offline" xml:space="preserve">
+    <value>Esperando la red. Continúa sola.</value>
+  </data>
+  <data name="TraktImport_Alert_Text_PausedByYou" xml:space="preserve">
+    <value>En pausa a petición suya. Ábrala para reanudar.</value>
+  </data>
+  <data name="TraktImport_Alert_Text_PausedByError" xml:space="preserve">
+    <value>Detenida tras un error. Se reanuda en la próxima sincronización.</value>
+  </data>
+  <data name="TraktImport_Alert_Text_ReconnectTrakt" xml:space="preserve">
+    <value>Vuelva a iniciar sesión en Trakt para continuar.</value>
+  </data>
+  <data name="TraktImport_Alert_Text_SourceUnavailable" xml:space="preserve">
+    <value>La copia de la copia de seguridad ha desaparecido. Vuelva a elegir el archivo desde los ajustes para continuar.</value>
+  </data>
+  <data name="TraktImport_Alert_Text_OtherAccountFormat" xml:space="preserve">
+    <value>Iniciada para la cuenta {0}. Vuelva a iniciar sesión en ella para continuar, o abandónela.</value>
+  </data>
+  <data name="TraktImport_Alert_Text_DoneFormat" xml:space="preserve">
+    <value>{0} añadidos, {1} ya presentes. Ábrala para ver el informe.</value>
+  </data>
+  <data name="Sync_ImportInProgressToast" xml:space="preserve">
+    <value>Hay una importación a Trakt en curso: la sincronización empezará cuando termine.</value>
+  </data>
+  <data name="Settings_Backup_BlockedByImport" xml:space="preserve">
+    <value>Hay una importación a Trakt en curso. Déjela terminar, o abandónela, antes de hacer esto.</value>
+  </data>
+  <data name="Home_UserMenu_Signout_ImportInProgress" xml:space="preserve">
+    <value>Hay una importación a Trakt en curso. Esperará a que vuelva a iniciar sesión con esta cuenta.</value>
+  </data>
+  <data name="TraktImport_MenuEntry" xml:space="preserve">
+    <value>Importación a Trakt</value>
+  </data>
 </root>
