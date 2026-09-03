@@ -4419,6 +4419,9 @@ Você quer que o aplicativo desative essa opção na sua conta Trakt? A partir d
   <data name="TraktImport_Progress_RequestsFormat" xml:space="preserve">
     <value>{0} de {1} solicitações</value>
   </data>
+  <data name="TraktImport_Progress_RequestsWithPercentFormat" xml:space="preserve">
+    <value>{0} · {1} de {2} solicitações</value>
+  </data>
   <data name="TraktImport_Eta_Format" xml:space="preserve">
     <value>Faltam cerca de {0}</value>
   </data>
@@ -4579,7 +4582,7 @@ Você quer que o aplicativo desative essa opção na sua conta Trakt? A partir d
     <value>{0}: {1} adicionados, {2} já presentes</value>
   </data>
   <data name="TraktImport_Report_PlaysNotReproducedFormat" xml:space="preserve">
-    <value>{0} itens tinham mais de uma exibição no backup; uma foi importada para cada.</value>
+    <value>{0} exibições além da primeira não puderam ser importadas: o backup guarda apenas uma data por item.</value>
   </data>
   <data name="TraktImport_Report_UndatedViewsFormat" xml:space="preserve">
     <value>{0} exibições não tinham data e receberam a data do backup.</value>
@@ -4611,8 +4614,14 @@ Você quer que o aplicativo desative essa opção na sua conta Trakt? A partir d
   <data name="TraktImport_Preflight_OverflowFormat" xml:space="preserve">
     <value>{0}: {1} itens após a importação, para um limite de {2}. {3} deles não serão importados.</value>
   </data>
+  <data name="TraktImport_Preflight_CollectionOverflowFormat" xml:space="preserve">
+    <value>Coleção: serão importados {0} dos seus {1} filmes e {2} das suas {3} séries. O restante ultrapassaria o limite de {4} itens da conta.</value>
+  </data>
   <data name="TraktImport_Preflight_Cap_Watchlist" xml:space="preserve">
     <value>Lista de interesse</value>
+  </data>
+  <data name="TraktImport_Preflight_Cap_Collection" xml:space="preserve">
+    <value>Coleção</value>
   </data>
   <data name="TraktImport_Preflight_Cap_ListCount" xml:space="preserve">
     <value>Número de listas pessoais</value>
@@ -4630,7 +4639,7 @@ Você quer que o aplicativo desative essa opção na sua conta Trakt? A partir d
     <value>Calculado a partir da última sincronização deste dispositivo, e nada mais.</value>
   </data>
   <data name="TraktImport_Preflight_CollectionNote" xml:space="preserve">
-    <value>A coleção não é verificada aqui: o Trakt a conta como duas bibliotecas distintas, que este backup não distingue.</value>
+    <value>Uma série na coleção conta como todos os seus episódios no Trakt: o número da coleção os conta a partir do que este dispositivo sabe de cada série.</value>
   </data>
   <data name="Settings_Backup_ImportToTrakt_SourceLostSubtitle" xml:space="preserve">
     <value>Interrompida: a cópia do backup sumiu. Escolha o arquivo novamente para continuar.</value>

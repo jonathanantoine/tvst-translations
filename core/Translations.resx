@@ -4382,6 +4382,9 @@ Would you like the app to turn that setting off on your Trakt account? Your view
   <data name="TraktImport_Progress_RequestsFormat" xml:space="preserve">
     <value>{0} of {1} requests</value>
   </data>
+  <data name="TraktImport_Progress_RequestsWithPercentFormat" xml:space="preserve">
+    <value>{0} · {1} of {2} requests</value>
+  </data>
   <data name="TraktImport_Eta_Format" xml:space="preserve">
     <value>About {0} left</value>
   </data>
@@ -4542,7 +4545,7 @@ Would you like the app to turn that setting off on your Trakt account? Your view
     <value>{0}: {1} added, {2} already there</value>
   </data>
   <data name="TraktImport_Report_PlaysNotReproducedFormat" xml:space="preserve">
-    <value>{0} items had more than one viewing in the backup; one was imported for each.</value>
+    <value>{0} viewings beyond the first could not be imported: the backup keeps a single date per item.</value>
   </data>
   <data name="TraktImport_Report_UndatedViewsFormat" xml:space="preserve">
     <value>{0} viewings had no date and were stamped with the backup's own date.</value>
@@ -4574,8 +4577,14 @@ Would you like the app to turn that setting off on your Trakt account? Your view
   <data name="TraktImport_Preflight_OverflowFormat" xml:space="preserve">
     <value>{0}: {1} items after the import, for a limit of {2}. {3} of them will not be imported.</value>
   </data>
+  <data name="TraktImport_Preflight_CollectionOverflowFormat" xml:space="preserve">
+    <value>Collection: {0} of your {1} movies and {2} of your {3} shows will be imported. The rest would take the account past its limit of {4} items.</value>
+  </data>
   <data name="TraktImport_Preflight_Cap_Watchlist" xml:space="preserve">
     <value>Watchlist</value>
+  </data>
+  <data name="TraktImport_Preflight_Cap_Collection" xml:space="preserve">
+    <value>Collection</value>
   </data>
   <data name="TraktImport_Preflight_Cap_ListCount" xml:space="preserve">
     <value>Number of personal lists</value>
@@ -4593,7 +4602,7 @@ Would you like the app to turn that setting off on your Trakt account? Your view
     <value>Counted from what this device last synced, and from nothing else.</value>
   </data>
   <data name="TraktImport_Preflight_CollectionNote" xml:space="preserve">
-    <value>The collection is not checked here: Trakt counts it as two separate libraries, which this backup does not tell apart.</value>
+    <value>A collected show counts as every one of its episodes on Trakt: the collection figure counts them from what this device knows of each show.</value>
   </data>
   <data name="Settings_Backup_ImportToTrakt_SourceLostSubtitle" xml:space="preserve">
     <value>Interrupted: the copy of the backup is gone. Pick the file again to continue.</value>

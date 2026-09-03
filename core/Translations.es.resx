@@ -4415,6 +4415,9 @@ Recordatorio: tu código es {0}.</value>
   <data name="TraktImport_Progress_RequestsFormat" xml:space="preserve">
     <value>{0} de {1} peticiones</value>
   </data>
+  <data name="TraktImport_Progress_RequestsWithPercentFormat" xml:space="preserve">
+    <value>{0} · {1} de {2} peticiones</value>
+  </data>
   <data name="TraktImport_Eta_Format" xml:space="preserve">
     <value>Quedan unos {0}</value>
   </data>
@@ -4575,7 +4578,7 @@ Recordatorio: tu código es {0}.</value>
     <value>{0}: {1} añadidos, {2} ya presentes</value>
   </data>
   <data name="TraktImport_Report_PlaysNotReproducedFormat" xml:space="preserve">
-    <value>{0} elementos tenían más de un visionado en la copia de seguridad; se importó uno por cada uno.</value>
+    <value>{0} visionados más allá del primero no se pudieron importar: la copia de seguridad solo guarda una fecha por elemento.</value>
   </data>
   <data name="TraktImport_Report_UndatedViewsFormat" xml:space="preserve">
     <value>{0} visionados no tenían fecha y han tomado la de la copia de seguridad.</value>
@@ -4607,8 +4610,14 @@ Recordatorio: tu código es {0}.</value>
   <data name="TraktImport_Preflight_OverflowFormat" xml:space="preserve">
     <value>{0}: {1} elementos tras la importación, para un límite de {2}. {3} de ellos no se importarán.</value>
   </data>
+  <data name="TraktImport_Preflight_CollectionOverflowFormat" xml:space="preserve">
+    <value>Colección: se importarán {0} de sus {1} películas y {2} de sus {3} series. El resto superaría el límite de {4} elementos de la cuenta.</value>
+  </data>
   <data name="TraktImport_Preflight_Cap_Watchlist" xml:space="preserve">
     <value>Lista de seguimiento</value>
+  </data>
+  <data name="TraktImport_Preflight_Cap_Collection" xml:space="preserve">
+    <value>Colección</value>
   </data>
   <data name="TraktImport_Preflight_Cap_ListCount" xml:space="preserve">
     <value>Número de listas personales</value>
@@ -4626,7 +4635,7 @@ Recordatorio: tu código es {0}.</value>
     <value>Calculado a partir de la última sincronización de este dispositivo, y nada más.</value>
   </data>
   <data name="TraktImport_Preflight_CollectionNote" xml:space="preserve">
-    <value>La colección no se comprueba aquí: Trakt la cuenta como dos bibliotecas distintas, que esta copia de seguridad no distingue.</value>
+    <value>Una serie en la colección cuenta como todos sus episodios en Trakt: la cifra de la colección los cuenta según lo que este dispositivo sabe de cada serie.</value>
   </data>
   <data name="Settings_Backup_ImportToTrakt_SourceLostSubtitle" xml:space="preserve">
     <value>Interrumpida: la copia de la copia de seguridad ha desaparecido. Vuelva a elegir el archivo para continuar.</value>

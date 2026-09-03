@@ -5671,6 +5671,9 @@ Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? V
   <data name="TraktImport_Progress_RequestsFormat" xml:space="preserve">
     <value>{0} requêtes sur {1}</value>
   </data>
+  <data name="TraktImport_Progress_RequestsWithPercentFormat" xml:space="preserve">
+    <value>{0} · {1} requêtes sur {2}</value>
+  </data>
   <data name="TraktImport_Eta_Format" xml:space="preserve">
     <value>Environ {0} restantes</value>
   </data>
@@ -5831,7 +5834,7 @@ Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? V
     <value>{0} : {1} ajoutés, {2} déjà présents</value>
   </data>
   <data name="TraktImport_Report_PlaysNotReproducedFormat" xml:space="preserve">
-    <value>{0} éléments avaient plus d'un visionnage dans la sauvegarde ; un seul a été importé pour chacun.</value>
+    <value>{0} visionnages au-delà du premier n'ont pas pu être importés : la sauvegarde ne garde qu'une date par élément.</value>
   </data>
   <data name="TraktImport_Report_UndatedViewsFormat" xml:space="preserve">
     <value>{0} visionnages n'avaient pas de date et ont pris celle de la sauvegarde.</value>
@@ -5863,8 +5866,14 @@ Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? V
   <data name="TraktImport_Preflight_OverflowFormat" xml:space="preserve">
     <value>{0} : {1} éléments après l'import, pour une limite de {2}. {3} d'entre eux ne seront pas importés.</value>
   </data>
+  <data name="TraktImport_Preflight_CollectionOverflowFormat" xml:space="preserve">
+    <value>Collection : {0} de vos {1} films et {2} de vos {3} séries seront importés. Le reste ferait dépasser la limite de {4} éléments du compte.</value>
+  </data>
   <data name="TraktImport_Preflight_Cap_Watchlist" xml:space="preserve">
     <value>Liste de suivi</value>
+  </data>
+  <data name="TraktImport_Preflight_Cap_Collection" xml:space="preserve">
+    <value>Collection</value>
   </data>
   <data name="TraktImport_Preflight_Cap_ListCount" xml:space="preserve">
     <value>Nombre de listes personnelles</value>
@@ -5882,7 +5891,7 @@ Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? V
     <value>Calculé d'après la dernière synchronisation de cet appareil, et rien d'autre.</value>
   </data>
   <data name="TraktImport_Preflight_CollectionNote" xml:space="preserve">
-    <value>La collection n'est pas vérifiée ici : Trakt la compte comme deux bibliothèques distinctes, que cette sauvegarde ne distingue pas.</value>
+    <value>Une série collectionnée compte pour tous ses épisodes sur Trakt : le chiffre de la collection les compte d'après ce que cet appareil sait de chaque série.</value>
   </data>
   <data name="Settings_Backup_ImportToTrakt_SourceLostSubtitle" xml:space="preserve">
     <value>Interrompu : la copie de la sauvegarde a disparu. Choisissez à nouveau le fichier pour continuer.</value>
