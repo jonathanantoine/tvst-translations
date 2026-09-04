@@ -2775,9 +2775,9 @@ d'être pleine de surprises !</value>
  xml:space="preserve">
     <value>Uniquement sur les épisodes non marqués comme vus</value>
   </data><data
- name     ="Settings_Display_AirDateOnEpisodeList_WhenNotAiredAndNotSeen"
+ name     ="Settings_Display_AirDateOnEpisodeList_WhenNotAiredOrNotSeen"
  xml:space="preserve">
-    <value>Uniquement sur les épisodes ni diffusés ni vus</value>
+    <value>Uniquement sur les épisodes non diffusés ou non marqués comme vus</value>
   </data><data
  name     ="Settings_Display_AirDateOnEpisodeList_Always"
  xml:space="preserve">
@@ -5854,6 +5854,9 @@ Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? V
   <data name="Settings_Debug_ImportSlow_Text" xml:space="preserve">
     <value>Ralentir les requêtes d'import (3 s)</value>
   </data>
+  <data name="Settings_Debug_ImportFailRequests_Text" xml:space="preserve">
+    <value>Refuser toutes les requêtes d'import</value>
+  </data>
   <data name="TraktImport_Report_FailedFormat" xml:space="preserve">
     <value>{0} éléments ont été refusés par Trakt et ne sont pas arrivés sur votre compte. Relancer l'import les enverra.</value>
   </data>
@@ -5939,7 +5942,7 @@ Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? V
     <value>Import dans Trakt terminé</value>
   </data>
   <data name="TraktImport_Alert_Text_RunningFormat" xml:space="preserve">
-    <value>Étape {0} sur {1}, environ {2} restantes. La synchronisation reprendra ensuite.</value>
+    <value>Étape {0} sur {1}. {2}. La synchronisation reprendra ensuite.</value>
   </data>
   <data name="TraktImport_Alert_Text_RateLimitedFormat" xml:space="preserve">
     <value>Trakt a demandé d'attendre, reprise à {0}. La synchronisation reprendra après l'import.</value>
@@ -5972,9 +5975,18 @@ Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? V
     <value>Un import dans Trakt est en cours. Laissez-le se terminer, ou abandonnez-le, avant de faire ceci.</value>
   </data>
   <data name="Home_UserMenu_Signout_ImportInProgress" xml:space="preserve">
-    <value>Un import dans Trakt est en cours. Il attendra que ce compte soit reconnecté.</value>
+    <value>Un import dans Trakt est en cours. Vous déconnecter l'arrête. Ce qui a déjà été envoyé reste sur votre compte.</value>
   </data>
   <data name="TraktImport_MenuEntry" xml:space="preserve">
     <value>Import dans Trakt</value>
+  </data>
+  <data name="Settings_CalendarSync_Subtitle" xml:space="preserve">
+    <value>Ajoute les prochains épisodes des séries que vous suivez au calendrier de votre appareil, pour les retrouver au milieu du reste de votre journée.</value>
+  </data>
+  <data name="Settings_Section_AndroidCalendar_Subtitle" xml:space="preserve">
+    <value>Quand l'option est active, TVST crée son propre calendrier sur votre appareil et le tient à jour. Chaque application de calendrier décide elle-même de l'afficher ou non : dans Google Agenda, ouvrez les Paramètres, touchez Gérer les comptes, puis activez TV Show Tracker.</value>
+  </data>
+  <data name="TraktImport_Notice_DebugHookArmed" xml:space="preserve">
+    <value>Debug : un interrupteur du panneau de debug modifie le comportement de cet import.</value>
   </data>
 </root>

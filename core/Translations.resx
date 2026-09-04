@@ -1841,8 +1841,8 @@ Subscription automatically renews until you cancel it in your Google Play Accoun
   <data name="Settings_Display_AirDateOnEpisodeList_WhenNotSeen" xml:space="preserve">
     <value>Only on episodes not marked as seen</value>
   </data>
-  <data name="Settings_Display_AirDateOnEpisodeList_WhenNotAiredAndNotSeen" xml:space="preserve">
-    <value>Only on episodes neither aired nor seen</value>
+  <data name="Settings_Display_AirDateOnEpisodeList_WhenNotAiredOrNotSeen" xml:space="preserve">
+    <value>Only on episodes not aired yet or not marked as seen</value>
   </data>
   <data name="Settings_Display_AirDateOnEpisodeList_Always" xml:space="preserve">
     <value>Always</value>
@@ -4565,6 +4565,9 @@ Would you like the app to turn that setting off on your Trakt account? Your view
   <data name="Settings_Debug_ImportSlow_Text" xml:space="preserve">
     <value>Slow import requests down (3 s)</value>
   </data>
+  <data name="Settings_Debug_ImportFailRequests_Text" xml:space="preserve">
+    <value>Refuse every import request</value>
+  </data>
   <data name="TraktImport_Report_FailedFormat" xml:space="preserve">
     <value>{0} items were refused by Trakt and did not reach your account. Running the import again will send them.</value>
   </data>
@@ -4650,7 +4653,7 @@ Would you like the app to turn that setting off on your Trakt account? Your view
     <value>Import into Trakt finished</value>
   </data>
   <data name="TraktImport_Alert_Text_RunningFormat" xml:space="preserve">
-    <value>Step {0} of {1}, about {2} left. The sync will resume once it is done.</value>
+    <value>Step {0} of {1}. {2}. The sync will resume once it is done.</value>
   </data>
   <data name="TraktImport_Alert_Text_RateLimitedFormat" xml:space="preserve">
     <value>Trakt asked to wait, resuming at {0}. The sync will resume once the import is done.</value>
@@ -4683,9 +4686,18 @@ Would you like the app to turn that setting off on your Trakt account? Your view
     <value>An import into Trakt is under way. Let it finish, or abandon it, before doing this.</value>
   </data>
   <data name="Home_UserMenu_Signout_ImportInProgress" xml:space="preserve">
-    <value>An import into Trakt is under way. It will wait for this account to be signed in again.</value>
+    <value>An import into Trakt is under way. Signing out stops it. What it already sent stays on your account.</value>
   </data>
   <data name="TraktImport_MenuEntry" xml:space="preserve">
     <value>Import into Trakt</value>
+  </data>
+  <data name="Settings_CalendarSync_Subtitle" xml:space="preserve">
+    <value>Adds the upcoming episodes of the shows you follow to your device's calendar, so they appear next to the rest of your day.</value>
+  </data>
+  <data name="Settings_Section_AndroidCalendar_Subtitle" xml:space="preserve">
+    <value>When this is on, TVST creates its own calendar on your device and keeps it up to date. Calendar apps decide for themselves whether to display it: in Google Calendar, open Settings, tap Manage accounts, then turn on TV Show Tracker.</value>
+  </data>
+  <data name="TraktImport_Notice_DebugHookArmed" xml:space="preserve">
+    <value>Debug: a switch of the debug panel is changing how this import behaves.</value>
   </data>
 </root>
