@@ -3347,7 +3347,10 @@ Lembrete: o seu código é {0}.</value>
     <value>Resultados</value>
   </data>
     <data name="Settings_Search_ResultCount" xml:space="preserve">
-    <value>{0} configuração/ões encontrada(s)</value>
+    <value>{0} configurações encontradas</value>
+  </data>
+    <data name="Settings_Search_ResultCount_One" xml:space="preserve">
+    <value>{0} configuração encontrada</value>
   </data>
     <data name="Settings_Search_NoResults" xml:space="preserve">
     <value>Nenhuma configuração encontrada</value>

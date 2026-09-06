@@ -3382,7 +3382,10 @@ Do you confirm?</value>
     <value>Results</value>
   </data>
   <data name="Settings_Search_ResultCount" xml:space="preserve">
-    <value>{0} setting(s) found</value>
+    <value>{0} settings found</value>
+  </data>
+  <data name="Settings_Search_ResultCount_One" xml:space="preserve">
+    <value>{0} setting found</value>
   </data>
   <data name="Settings_Search_NoResults" xml:space="preserve">
     <value>No setting found</value>

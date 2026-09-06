@@ -4704,7 +4704,10 @@ Lembrete: o seu código é {0}.</value>
     <value>Resultados</value>
   </data>
   <data name="Settings_Search_ResultCount" xml:space="preserve">
-    <value>{0} definição/ões encontrada(s)</value>
+    <value>{0} definições encontradas</value>
+  </data>
+  <data name="Settings_Search_ResultCount_One" xml:space="preserve">
+    <value>{0} definição encontrada</value>
   </data>
   <data name="Settings_Search_NoResults" xml:space="preserve">
     <value>Nenhuma definição encontrada</value>

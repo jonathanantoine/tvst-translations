@@ -4665,7 +4665,10 @@ Rappel : votre code est {0}.</value>
     <value>Résultats</value>
   </data>
   <data name="Settings_Search_ResultCount" xml:space="preserve">
-    <value>{0} réglage(s) trouvé(s)</value>
+    <value>{0} réglages trouvés</value>
+  </data>
+  <data name="Settings_Search_ResultCount_One" xml:space="preserve">
+    <value>{0} réglage trouvé</value>
   </data>
   <data name="Settings_Search_NoResults" xml:space="preserve">
     <value>Aucun réglage trouvé</value>

@@ -3376,7 +3376,10 @@ Recordatorio: tu código es {0}.</value>
     <value>Resultados</value>
   </data>
   <data name="Settings_Search_ResultCount" xml:space="preserve">
-    <value>{0} ajuste(s) encontrado(s)</value>
+    <value>{0} ajustes encontrados</value>
+  </data>
+  <data name="Settings_Search_ResultCount_One" xml:space="preserve">
+    <value>{0} ajuste encontrado</value>
   </data>
   <data name="Settings_Search_NoResults" xml:space="preserve">
     <value>Ningún ajuste encontrado</value>

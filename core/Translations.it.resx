@@ -3380,7 +3380,10 @@ t  <data name="Settings_Modern_Badge_Premium" xml:space="preserve">
     <value>Risultati</value>
   </data>
   <data name="Settings_Search_ResultCount" xml:space="preserve">
-    <value>{0} impostazione/i trovata/e</value>
+    <value>{0} impostazioni trovate</value>
+  </data>
+  <data name="Settings_Search_ResultCount_One" xml:space="preserve">
+    <value>{0} impostazione trovata</value>
   </data>
   <data name="Settings_Search_NoResults" xml:space="preserve">
     <value>Nessuna impostazione trovata</value>
