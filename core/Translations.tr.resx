@@ -1,0 +1,2718 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root xmlns:ns1="urn:schemas-microsoft-com:xml-msdata" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:schema id="root">
+    <xs:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xs:element name="root" ns1:IsDataSet="true">
+      <xs:complexType>
+        <xs:choice maxOccurs="unbounded">
+          <xs:element name="metadata">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="value" type="xsd:string" minOccurs="0" />
+              </xs:sequence>
+              <xs:attribute name="name" use="required" type="xsd:string" />
+              <xs:attribute name="type" type="xsd:string" />
+              <xs:attribute name="mimetype" type="xsd:string" />
+              <xs:attribute ref="xml:space" />
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="assembly">
+            <xs:complexType>
+              <xs:attribute name="alias" type="xsd:string" />
+              <xs:attribute name="name" type="xsd:string" />
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="data">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="value" type="xsd:string" minOccurs="0" ns1:Ordinal="1" />
+                <xs:element name="comment" type="xsd:string" minOccurs="0" ns1:Ordinal="2" />
+              </xs:sequence>
+              <xs:attribute name="name" type="xsd:string" use="required" ns1:Ordinal="1" />
+              <xs:attribute name="type" type="xsd:string" ns1:Ordinal="3" />
+              <xs:attribute name="mimetype" type="xsd:string" ns1:Ordinal="4" />
+              <xs:attribute ref="xml:space" />
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="resheader">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="value" type="xsd:string" minOccurs="0" ns1:Ordinal="1" />
+              </xs:sequence>
+              <xs:attribute name="name" type="xsd:string" use="required" />
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ChangeLog_Intro" xml:space="preserve">
+    <value>Bu uygulamayı boş zamanlarımda; kahve, çocuklarım ve eşimden gelen mutlulukla geliştiriyorum.</value>
+  </data>
+  <data name="About_DescriptionFormat" xml:space="preserve">
+    <value>Bu uygulamayı boş zamanlarımda; kahve, çocuklarım ve eşimden gelen mutlulukla geliştiriyorum.
+
+Bana teşekkür etmek istersen
+bağış sayfasını kullanabilirsin.
+
+Kullandığın sürüm: {0}</value>
+  </data>
+  <data name="AdDisplayControl_Placeholder_Text" xml:space="preserve">
+    <value>“Teşekkür ederim” demek veya reklamları kaldırmak ister misin?
+Buraya tıkla ve bağış yap!</value>
+  </data>
+  <data name="AdCrossPromo_BooksTracker_Title" xml:space="preserve">
+    <value>Books Tracker · TV Shows Tracker geliştiricisinden</value>
+  </data>
+  <data name="AdCrossPromo_BooksTracker_Subtitle" xml:space="preserve">
+    <value>Dizilerini takip ettiğin gibi kitaplarını da takip et</value>
+  </data>
+  <data name="AdCrossPromo_BooksTracker_Cta" xml:space="preserve">
+    <value>İncele</value>
+  </data>
+  <data name="AdCrossPromo_Cta" xml:space="preserve">
+    <value>İncele</value>
+  </data>
+  <data name="AdCrossPromo_PodcastTracker_Title" xml:space="preserve">
+    <value>Podcast Tracker · TV Shows Tracker geliştiricisinden</value>
+  </data>
+  <data name="AdCrossPromo_PodcastTracker_Subtitle" xml:space="preserve">
+    <value>Podcastlerini dinle ve takip et. Tıpkı dizilerin gibi.</value>
+  </data>
+  <data name="AdCrossPromo_PodcastTracker_Cta" xml:space="preserve">
+    <value>İncele</value>
+  </data>
+  <data name="Cast_Code_UnknowAge" xml:space="preserve">
+    <value>yaş bilinmiyor</value>
+  </data>
+  <data name="RateAnEpisode_ActionButton_Content" xml:space="preserve">
+    <value>BU BÖLÜMÜ PUANLA</value>
+  </data>
+  <data name="Cast_Code_Years" xml:space="preserve">
+    <value>yaşında</value>
+  </data>
+  <data name="Settings_Data_HideAndIgnoreSpecialEpisodes_Text" xml:space="preserve">
+    <value>Özel bölümler yok sayılıp gizlensin mi?</value>
+  </data>
+  <data name="Settings_Data_UsesSpecialsEpisodesInEpisodeLeftCount_Text" xml:space="preserve">
+    <value>İzlenecek bölüm sayısı ve istatistikler hesaplanırken özel bölümler dahil edilsin mi?</value>
+  </data>
+  <data name="Settings_Data_EnableHomeGroupCollapsing_Text" xml:space="preserve">
+    <value>Ana listedeki gruplar daraltılıp genişletilebilsin mi?</value>
+  </data>
+  <data name="Settings_Data_HideHiddenItems_Text" xml:space="preserve">
+    <value>Gizlediğin diziler tamamen gizlensin mi?</value>
+  </data>
+  <data name="Changelog_CurrentVersionFormat" xml:space="preserve">
+    <value>Kullandığın sürüm: {0}</value>
+  </data>
+  <data name="CheckinEpisodeView_CancelAction_Content" xml:space="preserve">
+    <value>İPTAL</value>
+  </data>
+  <data name="CheckinEpisodeView_PlaceholderText" xml:space="preserve">
+    <value>Paylaşılacak metni buraya yaz</value>
+  </data>
+  <data name="NewVersion_Title" xml:space="preserve">
+    <value>✨ Yeni sürüm! ✨</value>
+  </data>
+  <data name="CheckinEpisodeView_CheckinAction_Content" xml:space="preserve">
+    <value>İZLİYORUM</value>
+  </data>
+  <data name="Settings_Various_FixDb" xml:space="preserve">
+    <value>Veritabanını optimize et</value>
+  </data>
+  <data name="Settings_Various_RecreateDb" xml:space="preserve">
+    <value>Veritabanını yeniden oluştur</value>
+  </data>
+  <data name="Settings_Various_RecreateDbExplanation" xml:space="preserve">
+    <value>Uygulama yeniden başlatılacak ve tam eşitleme yapman gerekecek.</value>
+  </data>
+  <data name="CheckinEpisodeView_YouAreAlreadyWatchingSomething_Text" xml:space="preserve">
+    <value>Bunu zaten izliyorsun: </value>
+  </data>
+  <data name="CheckinEpisode_ShareWithFormat" xml:space="preserve">
+    <value>{0}'da paylaş</value>
+  </data>
+  <data name="Search_GroupHeader_AlreayInYourCollection" xml:space="preserve">
+    <value>ZATEN KOLEKSİYONUNDA</value>
+  </data>
+  <data name="Search_GroupHeader_FoundOnTrakt" xml:space="preserve">
+    <value>TRAKT.TV'DE BULUNDU</value>
+  </data>
+  <data name="Search_Tutorial_Text" xml:space="preserve">
+    <value>Lütfen tam adı yaz. Yarım bırakılmış başlıkları trakt.tv bulamayabilir.</value>
+  </data>
+  <data name="Search_CannotLoadFromTrakt" xml:space="preserve">
+    <value>trakt.tv'de arama yapılamıyor. Lütfen internet bağlantını kontrol edip tekrar dene.</value>
+  </data>
+  <data name="Donation_Button_Combo_Text" xml:space="preserve">
+    <value>HEPSİ BİR ARADA PAKET!</value>
+  </data>
+  <data name="Donation_OneTime_Header" xml:space="preserve">
+    <value>TEK SEFERLİK SATIN ALMA</value>
+  </data>
+  <data name="Donation_SubscriptionEvery3Month_Header" xml:space="preserve">
+    <value>3 AYLIK ABONELİK</value>
+  </data>
+  <data name="Donation_SubscriptionEvery3Month_PriceAddition" xml:space="preserve">
+    <value>her 3 ayda bir</value>
+  </data>
+  <data name="Donation_Button_RemoveAds_Text" xml:space="preserve">
+    <value>REKLAMLARI KALDIR!</value>
+  </data>
+  <data name="Donation_Button_Calendar_Text" xml:space="preserve">
+    <value>TAKVİM EŞİTLEME</value>
+  </data>
+  <data name="CalendarSyncEnabledQuestion" xml:space="preserve">
+    <value>Takvim eşitlemesini şimdi açmek ister misin?</value>
+  </data>
+  <data name="Donation_Button_SayThankYou_Text" xml:space="preserve">
+    <value>TEŞEKKÜR ET!</value>
+  </data>
+  <data name="Donation_Button_UICustomize_Text" xml:space="preserve">
+    <value>UYGULAMANIN YAZI TİPİNİ VE RENGİNİ SEÇ!</value>
+  </data>
+  <data name="Donation_ExplanationTextPart_Text" xml:space="preserve">
+    <value>Bu uygulamayı boş zamanlarımda;
+kahve, çocuklarım ve eşimden gelen mutlulukla geliştiriyorum.</value>
+  </data>
+  <data name="Donation_PageTitle_Text" xml:space="preserve">
+    <value>Nasıl teşekkür edebilirsin?</value>
+  </data>
+  <data name="Episodedetails_RateThisEpisode_Content" xml:space="preserve">
+    <value>BU BÖLÜMÜ PUANLA</value>
+  </data>
+  <data name="Episodedetails_WatchedAtFormat" xml:space="preserve">
+    <value>{0} tarihinde saat {1} izledin</value>
+  </data>
+  <data name="Episodedetails_AiredAtFormat" xml:space="preserve">
+    <value>İlk yayın: {0}, saat {1}</value>
+  </data>
+  <data name="Episodedetails_SetAsSeen_Content" xml:space="preserve">
+    <value>İZLENDİ OLARAK İŞARETLE</value>
+  </data>
+  <data name="HomeSwiped_SetAsSeen_Content" xml:space="preserve">
+    <value>{0} izlendi olarak işaretle</value>
+  </data>
+  <data name="Episodedetails_SetAsNotSeen_Content" xml:space="preserve">
+    <value>İZLENMEDİ OLARAK İŞARETLE</value>
+  </data>
+  <data name="PastEpisode_Seen_Text" xml:space="preserve">
+    <value>İZLENDİ</value>
+  </data>
+  <data name="Global_Validate" xml:space="preserve">
+    <value>ONAYLA</value>
+  </data>
+  <data name="Global_Filters" xml:space="preserve">
+    <value>Filtreler</value>
+  </data>
+  <data name="Episode_Code_Add_QuestionContent" xml:space="preserve">
+    <value>Bu bölümü izlendi olarak işaretlersen, ait olduğu dizi koleksiyonuna eklenecek. Onaylıyor musun?</value>
+  </data>
+  <data name="Episode_Code_Add_QuestionTitle" xml:space="preserve">
+    <value>DİZİ EKLENSİN Mİ?</value>
+  </data>
+  <data name="Episode_Code_UpdateSeenInfo_ErrorMarkingAsNotSeen" xml:space="preserve">
+    <value>Bu bölüm izlenmedi olarak işaretlenemiyor. İnternet bağlantını kontrol edip tekrar dene.</value>
+  </data>
+  <data name="Episode_Code_UpdateSeenInfo_ErrorMarkingAsSeen" xml:space="preserve">
+    <value>Bu bölüm izlendi olarak işaretlenemiyor. İnternet bağlantını kontrol edip tekrar dene.</value>
+  </data>
+  <data name="Error_GenericText_Part1_Text" xml:space="preserve">
+    <value>Beklenmeyen bir hata oluştu. Lütfen internet bağlantını kontrol edip tekrar dene.</value>
+  </data>
+  <data name="Frame_Code_OkButton" xml:space="preserve">
+    <value>ANLADIM</value>
+  </data>
+  <data name="Frame_Code_YesButton" xml:space="preserve">
+    <value>EVET</value>
+  </data>
+  <data name="Frame_NoButton_Content" xml:space="preserve">
+    <value>HAYIR</value>
+  </data>
+  <data name="Frame_YesButton_Content" xml:space="preserve">
+    <value>EVET</value>
+  </data>
+  <data name="Home_AppBar_About_Label" xml:space="preserve">
+    <value>Hakkında</value>
+  </data>
+  <data name="HomeNavigationSystem_Responsive_Header" xml:space="preserve">
+    <value>ANA SAYFA BÖLÜMLERİNİN KONUMLARI</value>
+  </data>
+  <data name="HomeNavigationSystem_Responsive" xml:space="preserve">
+    <value>Duyarlı: küçük ekranda altta, geniş ekranda üstte gösterilir</value>
+  </data>
+  <data name="HomeNavigationSystem_Bottom" xml:space="preserve">
+    <value>Her zaman ekranın altında</value>
+  </data>
+  <data name="HomeNavigationSystem_Top" xml:space="preserve">
+    <value>Her zaman ekranın üstünde</value>
+  </data>
+  <data name="Home_AppBar_AppSettings_Label" xml:space="preserve">
+    <value>Uygulama ayarları</value>
+  </data>
+  <data name="Home_AppBar_Refresh_Label" xml:space="preserve">
+    <value>Yenile</value>
+  </data>
+  <data name="Home_AppBar_SayThankYou_Label" xml:space="preserve">
+    <value>nasıl TEŞEKKÜR edebilirsin?</value>
+  </data>
+  <data name="Home_Code_Incoming_DayNameSuffix" xml:space="preserve">
+    <value>,</value>
+  </data>
+  <data name="Home_Code_Incoming_DaySymbol" xml:space="preserve">
+    <value>G</value>
+  </data>
+  <data name="Home_Code_Incoming_XDaysAgoPlural" xml:space="preserve">
+    <value>{0} gün önce</value>
+  </data>
+  <data name="Home_Code_Incoming_InXDaysPlural" xml:space="preserve">
+    <value>{0} gün içinde</value>
+  </data>
+  <data name="Home_Code_Incoming_Later" xml:space="preserve">
+    <value>DAHA SONRA VEYA HENÜZ DUYURULMADI</value>
+  </data>
+  <data name="Home_Code_Incoming_Today" xml:space="preserve">
+    <value>BUGÜN</value>
+  </data>
+  <data name="Home_Code_Incoming_Tomorrow" xml:space="preserve">
+    <value>YARIN</value>
+  </data>
+  <data name="Home_Code_Incoming_Yesterday" xml:space="preserve">
+    <value>DÜN</value>
+  </data>
+  <data name="Home_Code_Incoming_BeforeYesterday" xml:space="preserve">
+    <value>ÖNCEKİ GÜN</value>
+  </data>
+  <data name="Home_Past_PanelTitle_Header" xml:space="preserve">
+    <value>SON BÖLÜMLER</value>
+  </data>
+  <data name="Home_Code_MyShowPanelHeader_Default" xml:space="preserve">
+    <value>DİZİLERİN</value>
+  </data>
+  <data name="Home_Code_MyShowPanelHeader_MultipleShowFormat" xml:space="preserve">
+    <value>{0} DİZİN</value>
+  </data>
+  <data name="Home_Code_MyShowPanelHeader_OneShowOnly" xml:space="preserve">
+    <value>TEK DİZİN</value>
+  </data>
+  <data name="Home_Code_MyShowsHiddenGroupHeader_Plural" xml:space="preserve">
+    <value>{0} GİZLİ DİZİ</value>
+  </data>
+  <data name="Home_Code_MyShowToStartGroupHeaderPlural" xml:space="preserve">
+    <value>İZLEMEYE BAŞLANACAK {0} DİZİ</value>
+  </data>
+  <data name="Home_Code_MyShowToStartGroupHeaderSingular" xml:space="preserve">
+    <value>İZLEMEYE BAŞLANACAK 1 DİZİ</value>
+  </data>
+  <data name="Home_Code_MyShowWithEpisodeToSeeButEndedGroupHeader_Plural" xml:space="preserve">
+    <value>İZLENMEMİŞ BÖLÜMLERİ OLAN {0} BİTMİŞ DİZİ</value>
+  </data>
+  <data name="Home_Code_MyShowWithEpisodeToSeeGroupHeader_Plural" xml:space="preserve">
+    <value>İZLENMEMİŞ BÖLÜMLERİ OLAN {0} DİZİ</value>
+  </data>
+  <data name="Home_Code_MyShowWithEpisodeToSeeNotEndedGroupHeader_Plural" xml:space="preserve">
+    <value>İZLENMEMİŞ BÖLÜMLERİ OLAN {0} DEVAM EDEN DİZİ</value>
+  </data>
+  <data name="Home_Code_MyShowWithNoEpisodeToSeeEndedGroupHeader_Plural" xml:space="preserve">
+    <value>{0} BİTMİŞ DİZİ, TÜMÜ İZLENDİ</value>
+  </data>
+  <data name="Home_Code_MyShowWithNoEpisodeToSeeGroupHeader_Plural" xml:space="preserve">
+    <value>{0} DEVAM EDEN DİZİ, TÜM BÖLÜMLER İZLENDİ</value>
+  </data>
+  <data name="Home_Code_Popular_Popular" xml:space="preserve">
+    <value>EN POPÜLER</value>
+  </data>
+  <data name="Home_Code_Popular_PopularGenreFormat" xml:space="preserve">
+    <value>{0} - EN POPÜLER</value>
+  </data>
+  <data name="Billing_CannotConnectYouToTheStore" xml:space="preserve">
+    <value>Şu anda mağazaya bağlanılamıyor. Lütfen daha sonra tekrar dene.</value>
+  </data>
+  <data name="Home_Code_Popular_HowToDisplayActions" xml:space="preserve">
+    <value>İpucu: ekleme, gizleme vb. işlemleri görmek için parmağını bir dizinin üzerinde basılı tut.</value>
+  </data>
+  <data name="Global_Code_LearnMore" xml:space="preserve">
+    <value>Daha fazla bilgi al</value>
+  </data>
+  <data name="Home_Code_Popular_Recommandations" xml:space="preserve">
+    <value>SANA ÖNERİLENLER</value>
+  </data>
+  <data name="Home_Code_Popular_ReleasedThisMonthFormat" xml:space="preserve">
+    <value>{0} İÇİNDE YAYINLANAN DİZİLER</value>
+  </data>
+  <data name="ShowDetails_Code_SimilarToThisShow" xml:space="preserve">
+    <value>BU DİZİLERİ DE BEĞENEBİLİRSİN</value>
+  </data>
+  <data name="ShowDetails_Code_NotAvailableOnTraktTitle" xml:space="preserve">
+    <value>TRAKT'TA YOK</value>
+  </data>
+  <data name="ShowDetails_Code_NotAvailableOnTraktContent" xml:space="preserve">
+    <value>Bu dizi henüz Trakt'ta yok. Yine de TMDB sayfasını açacağım.</value>
+  </data>
+  <data name="ShowDetails_OpenInTmdb" xml:space="preserve">
+    <value>TMDB'de aç</value>
+  </data>
+  <data name="ShowDetails_OpenInTrakt" xml:space="preserve">
+    <value>Trakt'ta aç</value>
+  </data>
+  <data name="ShowDetails_OpenInImdb" xml:space="preserve">
+    <value>IMDB'de aç</value>
+  </data>
+  <data name="Home_Code_Popular_Trending" xml:space="preserve">
+    <value>ŞU ANDA POPÜLER</value>
+  </data>
+  <data name="Home_Code_WelcomeHeaderTextDefault" xml:space="preserve">
+    <value>Hoş geldin sevgili dostum</value>
+  </data>
+  <data name="Home_Code_WelcomeHeaderTextFormat" xml:space="preserve">
+    <value>Hoş geldin {0}</value>
+  </data>
+  <data name="Home_Incoming_EmptyPlaceHolder_Text" xml:space="preserve">
+    <value>Yaklaşan bölümün yok
+çünkü koleksiyonunda
+hiç dizi yok.
+
+Bir tane eklemeyi dene :-)</value>
+  </data>
+  <data name="Home_Incoming_OnChannelLink_Text" xml:space="preserve">
+    <value>kanal:</value>
+  </data>
+  <data name="Home_Incoming_PanelTitle_Header" xml:space="preserve">
+    <value>YAKLAŞAN BÖLÜMLER</value>
+  </data>
+  <data name="Home_Menu_AppSetting_Text" xml:space="preserve">
+    <value>Ayarlar</value>
+  </data>
+  <data name="Home_Menu_ContactMe_Text" xml:space="preserve">
+    <value>Benimle iletişime geç</value>
+  </data>
+  <data name="Home_Menu_ContactMe_Reason_DataMissing" xml:space="preserve">
+    <value>Bazı veriler güncel değil</value>
+  </data>
+  <data name="Home_Menu_ContactMe_Reason_WhatIsThunderbolt" xml:space="preserve">
+    <value>“Şimşek” düğmesi ne işe yarar?</value>
+  </data>
+  <data name="Thunderbolt_Explanation" xml:space="preserve">
+    <value>Issız bir adaya yalnızca 50 film ve dizi götürebilecek olsan, hangilerini seçerdin?
+
+Bu seçenek, diziyi kişisel önerilerin arasına ekler ve sana daha iyi öneriler sunulmasına yardımcı olur.
+</value>
+  </data>
+  <data name="Thunderbolt_Explanation_DoNotShowAgain" xml:space="preserve">
+    <value>Bu mesajı tekrar gösterme</value>
+  </data>
+  <data name="Home_Menu_ContactMe_Reason_WannaTalk" xml:space="preserve">
+    <value>Özellik isteği</value>
+  </data>
+  <data name="Home_Menu_ContactMe_Reason_OtherReason" xml:space="preserve">
+    <value>Diğer neden</value>
+  </data>
+  <data name="Home_Menu_FollowOnFacebook_Text" xml:space="preserve">
+    <value>Facebook sayfası</value>
+  </data>
+  <data name="Home_Menu_PanelTitle_Header" xml:space="preserve">
+    <value>MENÜ</value>
+  </data>
+  <data name="Home_Menu_RateTheApp_Text" xml:space="preserve">
+    <value>uygulamayı puanla</value>
+  </data>
+  <data name="Home_MyShow_EmptyPlaceHolderPart_Text" xml:space="preserve">
+    <value>Burası biraz
+    boş görünüyor,
+  izleyecek bir şey arayalım!</value>
+  </data>
+  <data name="Home_MyShow_EmptyPlaceHolder_AddAShow_Content" xml:space="preserve">
+    <value>DİZİ EKLE</value>
+  </data>
+  <data name="Home_Movie_EmptyPlaceHolder_AddAMovie_Content" xml:space="preserve">
+    <value>FİLM EKLE</value>
+  </data>
+  <data name="Home_Popular_IsInError_Text" xml:space="preserve">
+    <value>Trend ve popüler diziler
+yalnızca internet bağlantısıyla
+kullanılabilir.</value>
+  </data>
+  <data name="Home_Popular_RecommandationsBeingRemoved_Text" xml:space="preserve">
+    <value>Gizleniyor...</value>
+  </data>
+  <data name="Home_Suggestions_PanelTitle_Header" xml:space="preserve">
+    <value>ÖNERİLER</value>
+  </data>
+  <data name="Home_UserHistory_Code_LastWeek" xml:space="preserve">
+    <value>SON 7 GÜN</value>
+  </data>
+  <data name="Home_UserHistory_Code_Today" xml:space="preserve">
+    <value>BUGÜN</value>
+  </data>
+  <data name="Home_UserHistory_Code_Yesterday" xml:space="preserve">
+    <value>DÜN</value>
+  </data>
+  <data name="Home_UserHistory_PanelTitle_Header" xml:space="preserve">
+    <value>SON İZLENENLER</value>
+  </data>
+  <data name="Home_UserHistory_Filter_OnlyYours" xml:space="preserve">
+    <value>Sadece seninkiler</value>
+  </data>
+  <data name="Home_UserHistory_Filter_IncludeFriends" xml:space="preserve">
+    <value>Arkadaşlarını dahil et</value>
+  </data>
+  <data name="Global_TabSection_HistoryPanelTitle" xml:space="preserve">
+    <value>Son izlenen bölümler</value>
+  </data>
+  <data name="Home_UserHistory_SegmentHeader" xml:space="preserve">
+    <value>Seninkiler</value>
+  </data>
+  <data name="Home_FriendsHistory_SegmentHeader" xml:space="preserve">
+    <value>Arkadaşlarınınkiler</value>
+  </data>
+  <data name="Home_UserMenu_About_Content" xml:space="preserve">
+    <value>Uygulama hakkında</value>
+  </data>
+  <data name="Home_UserMenu_AppSetting_Content" xml:space="preserve">
+    <value>Uygulama ayarları</value>
+  </data>
+  <data name="Home_UserMenu_ChangeLog_Content" xml:space="preserve">
+    <value>Sürüm notları - Neler yeni?</value>
+  </data>
+  <data name="Home_UserMenu_ChangeLog_Label" xml:space="preserve">
+    <value>Sürüm notları</value>
+  </data>
+  <data name="Home_UserMenu_Refresh_Content" xml:space="preserve">
+    <value>Yenile</value>
+  </data>
+  <data name="Home_UserMenu_RemoveAds_Content" xml:space="preserve">
+    <value>Reklamları kaldır ve daha fazlası</value>
+  </data>
+  <data name="Home_UserMenu_Signout_Title" xml:space="preserve">
+    <value>Çıkış yap</value>
+  </data>
+  <data name="Home_UserMenu_Signout_Content" xml:space="preserve">
+    <value>Çıkış yapmak istediğinden emin misin?</value>
+  </data>
+  <data name="Home_UserStats_FriendsStatsHeader" xml:space="preserve">
+    <value>SEN VE ARKADAŞLARIN</value>
+  </data>
+  <data name="Home_UserStats_Code_TotalShowCountSuffixLabelPlural" xml:space="preserve">
+    <value>dizi</value>
+  </data>
+  <data name="Home_UserStats_Code_TotalShowCountSuffixLabelSingular" xml:space="preserve">
+    <value>dizi</value>
+  </data>
+  <data name="Home_UserStats_Code_AllSeenShowCountSuffixLabelPlural" xml:space="preserve">
+    <value>tamamlanan dizi</value>
+  </data>
+  <data name="Home_UserStats_Code_AllSeenShowCountSuffixLabelSingular" xml:space="preserve">
+    <value>tamamlanan dizi</value>
+  </data>
+  <data name="Home_UserStats_Code_NotAllSeenShowCountSuffixLabelPlural" xml:space="preserve">
+    <value>izlenecek bölümü kalan diziler</value>
+  </data>
+  <data name="Global_You" xml:space="preserve">
+    <value>SEN</value>
+  </data>
+  <data name="Home_UserStats_Code_NotAllSeenShowCountSuffixLabelSingular" xml:space="preserve">
+    <value>izlenecek bölümü kalan dizi</value>
+  </data>
+  <data name="Home_UserStats_Code_NoTimeSpent" xml:space="preserve">
+    <value>bu diziye henüz zaman ayırmadın</value>
+  </data>
+  <data name="Home_UserStats_Code_PercentEpToWatchFormat" xml:space="preserve">
+    <value>izlenecek bölüm: %{0}</value>
+  </data>
+  <data name="Home_UserStats_Code_PercentEpWatchedFormat" xml:space="preserve">
+    <value>bölüm izlendi</value>
+  </data>
+  <data name="Home_UserStats_Code_ToWatchEpisodeLabelPlural" xml:space="preserve">
+    <value>izlenecek {0} bölüm</value>
+  </data>
+  <data name="Home_UserStats_Code_WatchedEpisodeLabelPlural" xml:space="preserve">
+    <value>{0} bölüm izlendi</value>
+  </data>
+  <data name="Home_UserStats_EmptyPlaceHolder_Text" xml:space="preserve">
+    <value>İstatistiklerini görmek için
+en az bir dizi
+eklemen gerekiyor.</value>
+  </data>
+  <data name="Home_UserStats_Genres_GroupHeader_Text" xml:space="preserve">
+    <value>DİZİ TÜRLERİ</value>
+  </data>
+  <data name="Home_UserStats_Networks_GroupHeader_Text" xml:space="preserve">
+    <value>DİZİ KANALLARI</value>
+  </data>
+  <data name="Home_UserStats_LastMonthEmpty_Text" xml:space="preserve">
+    <value>Son 30 günde izlenen bölüm yok.</value>
+  </data>
+  <data name="Home_UserStats_LastMonthTopShow_GroupHeader_Text" xml:space="preserve">
+    <value>SON 30 GÜNÜN EN İYİ DİZİLERİ</value>
+  </data>
+  <data name="Home_UserStats_LastMonth_GroupHeader_Text" xml:space="preserve">
+    <value>SON 30 GÜNDE İZLENEN BÖLÜMLER</value>
+  </data>
+  <data name="Home_UserStats_PanelTitle_Header" xml:space="preserve">
+    <value>HER ŞEY SENİNLE İLGİLİ</value>
+  </data>
+  <data name="Home_UserStats_Progression_GroupHeader_Text" xml:space="preserve">
+    <value>İLERLEMEN</value>
+  </data>
+  <data name="Home_UserStats_TopShow_GroupHeader_Text" xml:space="preserve">
+    <value>EN ÇOK İZLEDİĞİN DİZİLER</value>
+  </data>
+  <data name="Home_UserStats_SeeAll_Text" xml:space="preserve">
+    <value>Tümünü gör</value>
+  </data>
+  <data name="Home_UserStats_AllTimeTopShows_Title" xml:space="preserve">
+    <value>Tüm zamanların en iyi dizileri</value>
+  </data>
+  <data name="Home_UserStats_LastMonthTopShows_Title" xml:space="preserve">
+    <value>Son 30 günün en iyi dizileri</value>
+  </data>
+  <data name="TopShows_HiddenTag_Label" xml:space="preserve">
+    <value>Gizli</value>
+  </data>
+  <data name="Home_UserStats_WatchTime_EpLeftToSeeIn_Text" xml:space="preserve">
+    <value>içinde izlenecek bölüm</value>
+  </data>
+  <data name="Home_UserStats_WatchTime_ShowNotStartedEpLeftToSeeIn_Text" xml:space="preserve">
+    <value>izleme listesindeki dizilerde kalan bölüm</value>
+  </data>
+  <data name="Home_UserStats_WatchTime_EpSeenInPlural_Text" xml:space="preserve">
+    <value>içinde izlenen bölüm</value>
+  </data>
+  <data name="Home_UserStats_WatchTime_WatchedMoviesPlural" xml:space="preserve">
+    <value>içinde izlenen film</value>
+  </data>
+  <data name="Home_UserStats_WatchTime_WatchedMoviesSingle" xml:space="preserve">
+    <value>içinde izlenen film</value>
+  </data>
+  <data name="Home_UserStats_WatchTime_MovieLeftToSeeIn" xml:space="preserve">
+    <value>içinde izlenecek film</value>
+  </data>
+  <data name="Import_Code_BackupRetrieved" xml:space="preserve">
+    <value>Yedek alındı,
+dizilerin okunuyor...</value>
+  </data>
+  <data name="LiveTile_Code_NoShowHere" xml:space="preserve">
+    <value>Burada dizi yok :(</value>
+  </data>
+  <data name="People_Code_ActingAsFormat" xml:space="preserve">
+    <value>{0}</value>
+  </data>
+  <data name="People_Code_ActingInXEpisodePlural" xml:space="preserve">
+    <value>{0} bölüm</value>
+  </data>
+  <data name="People_Code_ActingInXMoviesPlural" xml:space="preserve">
+    <value>{0} FİLMDE OYNUYOR</value>
+  </data>
+  <data name="People_Code_ActingInXShowsPlural" xml:space="preserve">
+    <value>{0} DİZİDE OYNUYOR</value>
+  </data>
+  <data name="People_Code_AsCastNumberPlural" xml:space="preserve">
+    <value>{0} oyunculuk kaydı</value>
+  </data>
+  <data name="People_Code_AsCrewNumberPlural" xml:space="preserve">
+    <value>{0} ekip kaydı</value>
+  </data>
+  <data name="People_Code_CrewingInXMoviesPlural" xml:space="preserve">
+    <value>{0} FİLMİN EKİBİNDE</value>
+  </data>
+  <data name="People_AlreadyInYourCollection" xml:space="preserve">
+    <value>ZATEN ŞUNLARDA VAR...</value>
+  </data>
+  <data name="People_Code_CrewingInXShowsPlural" xml:space="preserve">
+    <value>{0} DİZİNİN EKİBİNDE</value>
+  </data>
+  <data name="People_Code_EmptyBiography" xml:space="preserve">
+    <value>Biyografi bilgisi yok.</value>
+  </data>
+  <data name="RateAnEpisode_Title_Text" xml:space="preserve">
+    <value>Bu bölümü beğendin mi?</value>
+  </data>
+  <data name="RateASeason_ActionButton_Content" xml:space="preserve">
+    <value>BU SEZONU PUANLA</value>
+  </data>
+  <data name="RateASeason_Title_Text" xml:space="preserve">
+    <value>Bu sezonu nasıl puanlarsın?</value>
+  </data>
+  <data name="RateAShow_ActionButton_Content" xml:space="preserve">
+    <value>BU DİZİYİ PUANLA</value>
+  </data>
+  <data name="RateAShow_Title_Text" xml:space="preserve">
+    <value>Bu diziyi nasıl puanlarsın?</value>
+  </data>
+  <data name="Global_WhatDoYouThinkOfIt" xml:space="preserve">
+    <value>Ne düşündün?</value>
+  </data>
+  <data name="RateEpisode_Code_Error" xml:space="preserve">
+    <value>Bu bölüm şu anda puanlanamıyor. Lütfen daha sonra tekrar dene.</value>
+  </data>
+  <data name="RateMe_Code_MailSubjectFormat" xml:space="preserve">
+    <value>TV Show Tracker v{0} hakkında</value>
+  </data>
+  <data name="RateMeToast_Code_Content_Text" xml:space="preserve">
+    <value>TV Show Tracker'ı önerir misin?</value>
+  </data>
+  <data name="RateMe_Content_Text" xml:space="preserve">
+    <value>Artık TV Show Tracker'ı tanıyorsun.
+Fikrini duymak isterim.
+
+Yorumunu paylaş!</value>
+  </data>
+  <data name="RateMe_DisLike_Text" xml:space="preserve">
+    <value>BEĞENMEDİM</value>
+  </data>
+  <data name="RateMe_Later_Content" xml:space="preserve">
+    <value>Hayır, teşekkürler. Belki sonra</value>
+  </data>
+  <data name="RateMe_Like_Text" xml:space="preserve">
+    <value>BEĞENDİM</value>
+  </data>
+  <data name="RateMe_Title_Text" xml:space="preserve">
+    <value>FİKRİN BENİM İÇİN ÖNEMLİ!</value>
+  </data>
+  <data name="RateMeToast_Code_Title_Text" xml:space="preserve">
+    <value>Fikrin önemli!</value>
+  </data>
+  <data name="RateShow_Code_Error" xml:space="preserve">
+    <value>Bu dizi şu anda puanlanamıyor, lütfen daha sonra tekrar dene.</value>
+  </data>
+  <data name="Search_AddingMediaItem_Text" xml:space="preserve">
+    <value>Ekleniyor...</value>
+  </data>
+  <data name="Search_EmptyPlaceholder_Text" xml:space="preserve">
+    <value>Bu aramayla eşleşen
+bir sonuç yok gibi
+:-(</value>
+  </data>
+  <data name="Search_PlaceHolder_Content" xml:space="preserve">
+    <value>Anahtar kelimeyle ara</value>
+  </data>
+  <data name="Settings_BackgroundSyncEnabled_Text" xml:space="preserve">
+    <value>Arka plan eşitlemesi açılsın mı?</value>
+  </data>
+  <data name="Settings_SetAsSeenBehavior_Text" xml:space="preserve">
+    <value>Bir bölümü izlendi olarak işaretlediğimde:</value>
+  </data>
+  <data name="SetAsSeenBehavior_WhatToDoQuestion" xml:space="preserve">
+    <value>Hangi tarih kullanılsın?</value>
+  </data>
+  <data name="Settings_CalendarSync_Text" xml:space="preserve">
+    <value>Yerel takvim uygulamasıyla eşitleme.</value>
+  </data>
+  <data name="Settings_SetAsSeenBehavior_Code_SetAsSeenAtCurrentDate" xml:space="preserve">
+    <value>Geçerli tarih ve saati kullan</value>
+  </data>
+  <data name="Settings_SetAsSeenBehavior_Code_SetAsSeenAtAiredDate" xml:space="preserve">
+    <value>Bölümün yayın tarihini kullan</value>
+  </data>
+  <data name="Settings_SetAsSeenBehavior_Code_SetAsSeenAtAGivenDate" xml:space="preserve">
+    <value>Tarihi bana sor</value>
+  </data>
+  <data name="Settings_SetAsSeenBehavior_Code_AskUserEachTime" xml:space="preserve">
+    <value>Her seferinde ne yapılacağını bana sor</value>
+  </data>
+  <data name="Settings_BackgroundSyncFrequency_Text" xml:space="preserve">
+    <value>Arka plan eşitlemesi yapılacak:</value>
+  </data>
+  <data name="Settings_BackgroundSyncFrequency_Code_12Hours" xml:space="preserve">
+    <value>Her 12 saatte bir</value>
+  </data>
+  <data name="Settings_BackgroundSyncFrequency_Code_24Hours" xml:space="preserve">
+    <value>Her gün</value>
+  </data>
+  <data name="Settings_BackgroundSyncFrequency_Code_2Hours" xml:space="preserve">
+    <value>Her 2 saatte bir</value>
+  </data>
+  <data name="Settings_BackgroundSyncFrequency_Code_30Minutes" xml:space="preserve">
+    <value>Her 30 dakikada bir</value>
+  </data>
+  <data name="Settings_BackgroundSyncFrequency_Code_4Hours" xml:space="preserve">
+    <value>Her 4 saatte bir</value>
+  </data>
+  <data name="Settings_BackgroundSyncFrequency_Code_60Minutes" xml:space="preserve">
+    <value>Her saat</value>
+  </data>
+  <data name="Settings_BackgroundSyncFrequency_Code_6Hours" xml:space="preserve">
+    <value>Her 6 saatte bir</value>
+  </data>
+  <data name="Settings_BackgroundSyncHeader_Text" xml:space="preserve">
+    <value>ARKA PLAN EŞİTLEMESİ</value>
+  </data>
+  <data name="Settings_Code_ChangingLanguage" xml:space="preserve">
+    <value>İngilizceye çevriliyor...</value>
+  </data>
+  <data name="Settings_Data_MarkBatchAsSeenALongTimeAgo_Text" xml:space="preserve">
+    <value>Tüm sezonları veya 15'ten fazla bölümü izlendi olarak işaretlediğimde, Trakt'a bunun uzun zaman önce olduğunu söyleyeyim mi?</value>
+  </data>
+  <data name="Settings_Data_PutAllShowWithEpToSeeInSameGroup_Text" xml:space="preserve">
+    <value>İzlenecek bölümleri olan dizileri (bitmiş olsun ya da olmasın) ana sayfada aynı gruba koy.</value>
+  </data>
+  <data name="Settings_Data_PutShowToStartInASeparateGroup_Text" xml:space="preserve">
+    <value>Başlanacak dizileri (hiç bölümü izlenmemiş) ana sayfada ayrı bir gruba koy.</value>
+  </data>
+  <data name="Settings_DisplayHeader_Text" xml:space="preserve">
+    <value>GÖRÜNÜM VE VERİLER</value>
+  </data>
+  <data name="Settings_DisplayIncomingHeader_Text" xml:space="preserve">
+    <value>Yaklaşan bölümleri ana sayfada ve dizi detay sayfasında göster.</value>
+    <comment>Settings_MainUiCustomizationHeader</comment>
+  </data>
+  <data name="Settings_DisplaySection_Discover" xml:space="preserve">
+    <value>“Keşfet” bölümü gösterilsin mi?</value>
+  </data>
+  <data name="Settings_DisplaySection_UserHistoryHeader" xml:space="preserve">
+    <value>“Geçmişin” bölümü gösterilsin mi?</value>
+  </data>
+  <data name="Settings_DisplayMovieOnHomeScreenHeader_Text" xml:space="preserve">
+    <value>Filmler bölümü gösterilsin mi?</value>
+  </data>
+  <data name="Settings_Display_AppLanguage_Text" xml:space="preserve">
+    <value>Uygulama dili</value>
+  </data>
+  <data name="Settings_Display_AddMyLanguage_Text" xml:space="preserve">
+    <value>Dilimi eklemek istiyorum</value>
+  </data>
+  <data name="Settings_Display_AddMyLanguage_Explanation" xml:space="preserve">
+    <value>Yeni bir uygulama dili ekleme prosedürünün açıklandığı bir web sitesine yönlendirileceksin.</value>
+  </data>
+  <data name="Settings_Display_AppDataLanguage_Text" xml:space="preserve">
+    <value>Uygulama içerik dili</value>
+  </data>
+  <data name="Settings_Display_Code_AvailableOnNextLaunchReminder" xml:space="preserve">
+    <value>Bir değişiklik yaptın (yazı tipi, renk, dil); bu değişiklik yalnızca TV Show Tracker bir sonraki açılışında görünür olacak</value>
+  </data>
+  <data name="Settings_Display_Code_NotificationDelay_12Hours" xml:space="preserve">
+    <value>12 saat önce</value>
+  </data>
+  <data name="Settings_Display_Code_NotificationDelay_12HoursAfter" xml:space="preserve">
+    <value>12 saat sonra</value>
+  </data>
+  <data name="Settings_Display_Code_NotificationDelay_15Minutes" xml:space="preserve">
+    <value>15 dakika önce</value>
+  </data>
+  <data name="Settings_Display_Code_NotificationDelay_15MinutesAfter" xml:space="preserve">
+    <value>15 dakika sonra</value>
+  </data>
+  <data name="Settings_Display_Code_NotificationDelay_5Minutes" xml:space="preserve">
+    <value>5 dakika önce</value>
+  </data>
+  <data name="Settings_Display_Code_NotificationDelay_5MinutesAfter" xml:space="preserve">
+    <value>5 dakika sonra</value>
+  </data>
+  <data name="Settings_Display_Code_NotificationDelay_60Minutes" xml:space="preserve">
+    <value>60 dakika önce</value>
+  </data>
+  <data name="Settings_Display_Code_NotificationDelay_60MinutesAfter" xml:space="preserve">
+    <value>60 dakika sonra</value>
+  </data>
+  <data name="Settings_Display_Code_NotificationDelay_2HoursAfter" xml:space="preserve">
+    <value>2 saat sonra</value>
+  </data>
+  <data name="Settings_Display_Code_NotificationDelay_2Hours" xml:space="preserve">
+    <value>2 saat önce</value>
+  </data>
+  <data name="Settings_Display_Code_NotificationDelay_3Hours" xml:space="preserve">
+    <value>3 saat önce</value>
+  </data>
+  <data name="Settings_Display_Code_NotificationDelay_6Hours" xml:space="preserve">
+    <value>6 saat önce</value>
+  </data>
+  <data name="Settings_Display_Code_NotificationDelay_8Hours" xml:space="preserve">
+    <value>8 saat önce</value>
+  </data>
+  <data name="Settings_Display_Code_NotificationDelay_10Hours" xml:space="preserve">
+    <value>10 saat önce</value>
+  </data>
+  <data name="Settings_Display_Code_NotificationDelay_ADay" xml:space="preserve">
+    <value>24 saat önce</value>
+  </data>
+  <data name="Settings_Display_Code_NotificationDelay_ADayAfter" xml:space="preserve">
+    <value>24 saat sonra</value>
+  </data>
+  <data name="Settings_Display_Code_NotificationDelay_AWeek" xml:space="preserve">
+    <value>Bir hafta önce</value>
+  </data>
+  <data name="Settings_Display_Code_NotificationDelay_AWeekAfter" xml:space="preserve">
+    <value>Bir hafta sonra</value>
+  </data>
+  <data name="Settings_Display_Code_NotificationDelay_None" xml:space="preserve">
+    <value>Bölüm yayınlandığında</value>
+  </data>
+  <data name="Settings_Display_Code_SortOption_Alphabetic" xml:space="preserve">
+    <value>Alfabetik</value>
+  </data>
+  <data name="Settings_Display_Code_SortOption_AlphabeticReverse" xml:space="preserve">
+    <value>Alfabetik ters</value>
+  </data>
+  <data name="Settings_Display_Code_SortOption_EpisodeToSee" xml:space="preserve">
+    <value>İzlenecek bölüm sayısı</value>
+  </data>
+  <data name="Settings_Display_Code_SortOption_EpisodeToSeeReverse" xml:space="preserve">
+    <value>İzlenecek bölüm sayısı ters</value>
+  </data>
+  <data name="Settings_Display_Code_SortOption_LastActionTime" xml:space="preserve">
+    <value>Son işlem tarihi</value>
+  </data>
+  <data name="Settings_Display_Code_SortOption_LastActionTimeReverse" xml:space="preserve">
+    <value>Son işlem tarihi ters</value>
+  </data>
+  <data name="Settings_Display_Code_SortOption_NextEpisodeAiredDate" xml:space="preserve">
+    <value>İzlenecek sonraki bölümün yayın tarihi</value>
+  </data>
+  <data name="Settings_Display_Code_SortOption_NextEpisodeAiredDateReverse" xml:space="preserve">
+    <value>İzlenecek sonraki bölümün yayın tarihi ters</value>
+  </data>
+  <data name="Settings_Display_ColorHeader_Text" xml:space="preserve">
+    <value>ANA RENK</value>
+  </data>
+  <data name="Settings_Display_FontHeader_Text" xml:space="preserve">
+    <value>YAZI TİPİ</value>
+    <comment>Settings_DisplayHeader.Text</comment>
+  </data>
+  <data name="Settings_Display_HideEndedAndSeenShowsFromHome_Text" xml:space="preserve">
+    <value>İzlenecek bölümü kalmamış bitmiş dizileri ana sayfadan gizle.</value>
+  </data>
+  <data name="Settings_Display_DateFormatLabel_Text" xml:space="preserve">
+    <value>Tarih biçimlendirme</value>
+  </data>
+  <data name="Settings_Display_StartupPage_Text" xml:space="preserve">
+    <value>Açılışta gösterilecek sekme</value>
+  </data>
+  <data name="Settings_Display_24HourDates_Text" xml:space="preserve">
+    <value>24 saat biçimi kullanılsın mı?</value>
+  </data>
+  <data name="Settings_Display_NotificationDelayHeader_Text" xml:space="preserve">
+    <value>Yayınlanan bölüm bildirimi</value>
+  </data>
+  <data name="Settings_Display_TranslationsHeader_Text" xml:space="preserve">
+    <value>ÇEVİRİLER</value>
+  </data>
+  <data name="Settings_Display_UIThemeHeader_Text" xml:space="preserve">
+    <value>Tema</value>
+  </data>
+  <data name="Settings_LiveThings_Header" xml:space="preserve">
+    <value>BİLDİRİMLER</value>
+  </data>
+  <data name="Settings_MainDisplayHeader_Header" xml:space="preserve">
+    <value>LİSTELER VE VERİ GÖRÜNÜMÜ</value>
+  </data>
+  <data name="Settings_MainUiCustomizationHeader_Header" xml:space="preserve">
+    <value>TEMA, RENK VE YAZI TİPİ</value>
+  </data>
+  <data name="Settings_Notifications_CreateNotificationsForIncomingEpisodes_Text" xml:space="preserve">
+    <value>Bir bölüm yayınlandığında bildirim gösterilsin mi?</value>
+  </data>
+  <data name="Settings_Notifications_CreateNotificationsForSeasonReleaseDateAnnounced_Text" xml:space="preserve">
+    <value>Bir sezonun yayın tarihi duyurulduğunda bildirim gösterilsin mi?</value>
+  </data>
+  <data name="Settings_Notifications_CreateNotificationsForShowStatusChange_Text" xml:space="preserve">
+    <value>Bir dizinin durumu değiştiğinde bildirim gösterilsin mi?</value>
+  </data>
+  <data name="Settings_Other_Header" xml:space="preserve">
+    <value>ÇEŞİTLİ</value>
+  </data>
+  <data name="Settings_Various" xml:space="preserve">
+    <value>ÇEŞİTLİ</value>
+  </data>
+  <data name="Settings_PageTitle_Text" xml:space="preserve">
+    <value>AYARLAR</value>
+  </data>
+  <data name="Settings_RaterAfterWatchedHeader_Text" xml:space="preserve">
+    <value>Bölümler: izlendi olarak işaretlendiğinde puanlama sor.</value>
+  </data>
+  <data name="Settings_RaterAfterMovieWatchedHeader_Text" xml:space="preserve">
+    <value>Filmler: izlendi olarak işaretlendiğinde puanlama sor.</value>
+  </data>
+  <data name="Settings_SortHeader_Text" xml:space="preserve">
+    <value>DİZİ SIRALAMA</value>
+  </data>
+  <data name="Settings_SortHeaderWithNOEpToSee_Text" xml:space="preserve">
+    <value>İzlenecek bölümü OLMAYAN gruplar</value>
+  </data>
+  <data name="Settings_SortHeaderWithShowToStartWatching_Text" xml:space="preserve">
+    <value>İzlemeye başlanacak dizileri olan gruplar</value>
+  </data>
+  <data name="Settings_SortHeaderWithEpToSee_Text" xml:space="preserve">
+    <value>İzlenecek bölümü olan gruplar</value>
+  </data>
+  <data name="Settings_StatsHeader_Text" xml:space="preserve">
+    <value>İSTATİSTİKLER</value>
+  </data>
+  <data name="Settings_Stats_IgnoreDaysHigherThan20_Text" xml:space="preserve">
+    <value>20'den fazla bölüm izlediğim günleri yok say.</value>
+  </data>
+  <data name="Settings_SubGroup_Synchronisation_Text" xml:space="preserve">
+    <value>OTOMATİK EŞİTLEME</value>
+  </data>
+  <data name="Settings_SyncTrigger_Code_12Hours" xml:space="preserve">
+    <value>12 saat eşitleme yapılmadığında</value>
+  </data>
+  <data name="Settings_SyncTrigger_Code_24Hours" xml:space="preserve">
+    <value>24 saat eşitleme yapılmadığında</value>
+  </data>
+  <data name="Settings_SyncTrigger_Code_48Hours" xml:space="preserve">
+    <value>48 saat eşitleme yapılmadığında</value>
+  </data>
+  <data name="Settings_SyncTrigger_Code_7Days" xml:space="preserve">
+    <value>7 gün eşitleme yapılmadığında</value>
+  </data>
+  <data name="Settings_SyncTrigger_Code_EveryLaunch" xml:space="preserve">
+    <value>Uygulama açıldığında</value>
+  </data>
+  <data name="Settings_SyncTrigger_Code_Manually" xml:space="preserve">
+    <value>Manuel</value>
+  </data>
+  <data name="Settings_ToastNotificationsHeader_Text" xml:space="preserve">
+    <value>BİLDİRİMLER</value>
+  </data>
+  <data name="Settings_BadgeNotificationEnabled_Text" xml:space="preserve">
+    <value>Uygulama simgesinde kalan bölüm sayısını gösteren rozet görünsün mü?
+</value>
+  </data>
+  <data name="Settings_UITheme_Dark" xml:space="preserve">
+    <value>Koyu</value>
+  </data>
+  <data name="Settings_UITheme_Light" xml:space="preserve">
+    <value>Açık</value>
+  </data>
+  <data name="Settings_UI_Code_NeedToBuyIAPContent" xml:space="preserve">
+    <value>Bu işlemi yapmak için mağaza üzerinden bir uygulama içi ürün satın alman gerekiyor.
+
+Bu aynı zamanda geliştiriciye teşekkür etmenin bir yolu!
+
+Daha fazla bilgi ister misin?</value>
+  </data>
+  <data name="Settings_UI_Code_NeedToBuyIAPTitle" xml:space="preserve">
+    <value>SATIN ALMA GEREKİYOR</value>
+  </data>
+  <data name="ShowDetails_AppBar_Add_Label" xml:space="preserve">
+    <value>Bu diziyi ekle</value>
+  </data>
+  <data name="Home_AppBar_Add_Label" xml:space="preserve">
+    <value>Dizi ekle</value>
+  </data>
+  <data name="ShowDetails_AppBar_AddComment_Label" xml:space="preserve">
+    <value>yorum ekle</value>
+  </data>
+  <data name="ShowDetails_ReplyComment_ButtonText" xml:space="preserve">
+    <value>Bu yorumu yanıtla</value>
+  </data>
+  <data name="ShowDetails_ReplyComment_ReplyingToFormat" xml:space="preserve">
+    <value>{0} adlı kullanıcının yorumuna yanıt veriliyor</value>
+  </data>
+  <data name="ShowDetails_AppBar_AddComment_SubmitComment" xml:space="preserve">
+    <value>GÖNDER</value>
+  </data>
+  <data name="ShowDetails_AppBar_AddComment_SpoilerAlert" xml:space="preserve">
+    <value>Spoiler uyarısı</value>
+  </data>
+  <data name="ShowDetails_AppBar_AddComment_Placeholder" xml:space="preserve">
+    <value>Yorumunu buraya yaz.
+Kurallar: yalnızca İngilizce, 5+ kelime, destek isteği yok, spoiler'ları işaretle!</value>
+  </data>
+  <data name="AddComment_AtLeast5Words" xml:space="preserve">
+    <value>En az 5 kelime gerekiyor.</value>
+  </data>
+  <data name="AddComment_InEnglish" xml:space="preserve">
+    <value>İngilizce yazılmalıdır.</value>
+  </data>
+  <data name="ShowDetails_AppBar_Hide_Label" xml:space="preserve">
+    <value>Koleksiyonumdan gizle</value>
+  </data>
+  <data name="ShowDetails_AppBar_RateShow_Label" xml:space="preserve">
+    <value>Bu diziyi puanla</value>
+  </data>
+  <data name="ShowDetails_AppBar_Remove_Label" xml:space="preserve">
+    <value>Bu diziyi kaldır</value>
+  </data>
+  <data name="ShowDetails_AppBar_Search_Label" xml:space="preserve">
+    <value>Ara</value>
+  </data>
+  <data name="Global_Share_Label" xml:space="preserve">
+    <value>Paylaş</value>
+  </data>
+  <data name="ShowDetails_AppBar_UnHide_Label" xml:space="preserve">
+    <value>Bu diziyi geri yükle/gizliliğini kaldır</value>
+  </data>
+  <data name="ShowDetails_Similar_PanelHeader_Header" xml:space="preserve">
+    <value>İLGİLİ DİZİLER</value>
+  </data>
+  <data name="Show_List_AddToAList_Label" xml:space="preserve">
+    <value>Bir listeye ekle</value>
+  </data>
+  <data name="Show_List_CreateAList_Text" xml:space="preserve">
+    <value>LİSTE EKLE</value>
+  </data>
+  <data name="Show_List_RefreshingList_Text" xml:space="preserve">
+    <value>Bu liste yenileniyor...</value>
+  </data>
+  <data name="Show_List_ListedOn_Text" xml:space="preserve">
+    <value>Bu listelerde yer alıyor</value>
+  </data>
+  <data name="Home_UserLists_Code_NumberOfElementPlural" xml:space="preserve">
+    <value>Bu listede {0} içerik</value>
+  </data>
+  <data name="Home_UserLists_Code_OwnLists" xml:space="preserve">
+    <value>KENDİ LİSTELERİN</value>
+  </data>
+  <data name="Home_UserLists_Code_LikedLists" xml:space="preserve">
+    <value>BEĞENİLEN LİSTELER</value>
+  </data>
+  <data name="Global_Delete_Text" xml:space="preserve">
+    <value>Sil</value>
+  </data>
+  <data name="Show_List_Edit_Text" xml:space="preserve">
+    <value>Düzenle</value>
+  </data>
+  <data name="Home_UserLists_PanelTitle_Header" xml:space="preserve">
+    <value>LİSTELER</value>
+  </data>
+  <data name="List_DescriptionField_PlaceholderText" xml:space="preserve">
+    <value>Açıklama (isteğe bağlı)</value>
+  </data>
+  <data name="List_NameField_PlaceholderText" xml:space="preserve">
+    <value>Ad (zorunlu)</value>
+  </data>
+  <data name="Show_List_AddToListExplanation_Text" xml:space="preserve">
+    <value>Bu dizinin hangi listede yer alacağını aşağıdan seç.</value>
+  </data>
+  <data name="ShowDetails_Calendar_EmptyPlaceholder_Text" xml:space="preserve">
+    <value>Bu dizi için
+yaklaşan bölüm yok</value>
+  </data>
+  <data name="ShowDetails_Calendar_PanelHeader_Header" xml:space="preserve">
+    <value>TAKVİM</value>
+  </data>
+  <data name="ShowDetails_Code_AskRemovingContent" xml:space="preserve">
+    <value>UYARI: Bu işlem Trakt.tv'deki bu diziyle ilgili TÜM VERİLERİ kaldırır: koleksiyon, izleme listesi, izleme geçmişi vb.
+
+Onaylıyor musun?
+        </value>
+  </data>
+  <data name="ShowDetails_Code_AskRemovingTitle" xml:space="preserve">
+    <value>DİZİ KALDIRILSIN MI?</value>
+  </data>
+  <data name="ShowDetails_Code_CannotRemoveFormat" xml:space="preserve">
+    <value>Üzgünüm, şu anda “{0}” dizisi koleksiyonundan kaldırılamıyor</value>
+  </data>
+  <data name="ShowDetails_Code_Episode_AiredEpisodesPlural" xml:space="preserve">
+    <value>YAYINLANAN BÖLÜMLER</value>
+  </data>
+  <data name="ShowDetails_Code_EpisodePlural" xml:space="preserve">
+    <value>bölüm</value>
+  </data>
+  <data name="ShowDetails_Code_Episode_TotalEpisodeLeftPlural" xml:space="preserve">
+    <value>İZLENECEK BÖLÜM</value>
+  </data>
+  <data name="ShowDetails_Code_Episode_TotalSeasonNumberPlural" xml:space="preserve">
+    <value>SEZONLAR</value>
+  </data>
+  <data name="ShowDetails_Code_Removing" xml:space="preserve">
+    <value>Bu dizi kaldırılıyor...</value>
+  </data>
+  <data name="ShowDetails_Code_SeasonGroup_Season" xml:space="preserve">
+    <value>SEZON</value>
+  </data>
+  <data name="ShowDetails_Code_SeasonGroup_Specials" xml:space="preserve">
+    <value>ÖZEL BÖLÜMLER</value>
+  </data>
+  <data name="ShowDetails_Code_Share_CheckOutThisShowFormat" xml:space="preserve">
+    <value>Şu diziye göz at: “{0}” : {1}</value>
+  </data>
+  <data name="ShowDetails_Code_Share_CheckOutThisEpisodeFormat" xml:space="preserve">
+    <value>Şu bölüme göz at: “{1}” dizisinin “{0}” bölümü: {2}</value>
+  </data>
+  <data name="ShowDetails_Code_Share_DiscoveredWith" xml:space="preserve">
+    <value>TV Show &amp; Movie Tracker ile keşfedildi #TVSTT</value>
+  </data>
+  <data name="ShowDetails_Code_ShowInfo_ErrorWhenHidingRecommendation" xml:space="preserve">
+    <value>Bu dizi önerilerinden gizlenirken bir hata oluştu...</value>
+  </data>
+  <data name="ShowDetails_EpisodeMenu_Checkin_Content" xml:space="preserve">
+    <value>Check-in yap</value>
+  </data>
+  <data name="ShowDetails_EpisodeMenu_MarkAsNotSeen_Content" xml:space="preserve">
+    <value>Bu bölümü izlenmedi olarak işaretle</value>
+  </data>
+  <data name="ShowDetails_EpisodeMenu_MarkAsNotSeenWithPrevious_Content" xml:space="preserve">
+    <value>Bu bölümü ve öncekileri izlenmedi olarak işaretle</value>
+  </data>
+  <data name="ShowDetails_EpisodeMenu_MarkAsSeen_Content" xml:space="preserve">
+    <value>Bu bölümü izlendi olarak işaretle</value>
+  </data>
+  <data name="ShowDetails_EpisodeMenu_MarkAsSeenAgain_Content" xml:space="preserve">
+    <value>Tekrar izlendi olarak işaretle</value>
+  </data>
+  <data name="ShowDetails_EpisodeMenu_MarkAsSeenWithPrevious_Content" xml:space="preserve">
+    <value>Bu bölümü ve öncekileri izlendi olarak işaretle</value>
+  </data>
+  <data name="ShowDetails_EpisodeMenu_Rate_Content" xml:space="preserve">
+    <value>Bu bölümü puanla</value>
+  </data>
+  <data name="ShowDetails_Episode_PanelTitle_Header" xml:space="preserve">
+    <value>BÖLÜMLER</value>
+  </data>
+  <data name="ShowDetails_Episode_Runtime_Text" xml:space="preserve">
+    <value>BÖLÜM BAŞINA DK</value>
+  </data>
+  <data name="ShowDetails_SeasonMenu_DoNothing_Content" xml:space="preserve">
+    <value>Hiçbir şey yapma</value>
+  </data>
+  <data name="ShowDetails_SeasonMenu_MarkSeasonAndPreviousAsSeen_Content" xml:space="preserve">
+    <value>Bu sezonu ve önceki sezonları izlendi olarak işaretle</value>
+  </data>
+  <data name="ShowDetails_SeasonMenu_MarkSeasonAsNOTsSeen_Content" xml:space="preserve">
+    <value>Bu sezonu izlenmedi olarak işaretle</value>
+  </data>
+  <data name="ShowDetails_SeasonMenu_MarkSeasonAsSeen_Content" xml:space="preserve">
+    <value>Bu sezonu izlendi olarak işaretle</value>
+  </data>
+  <data name="ShowDetails_SeasonMenu_Share_Content" xml:space="preserve">
+    <value>Sezonu paylaş</value>
+  </data>
+  <data name="ShowDetails_ShowComments_Code_CommentMadeAtDuringSeasonFormat" xml:space="preserve">
+    <value>{0} - {1}. sezon sırasında</value>
+  </data>
+  <data name="ShowDetails_ShowComments_Code_ReplyNumberPlural" xml:space="preserve">
+    <value>yanıt</value>
+  </data>
+  <data name="ShowDetails_ShowComments_Code_ReplyNumberSingular" xml:space="preserve">
+    <value>yanıt</value>
+  </data>
+  <data name="ShowDetails_ShowComments_Code_Like" xml:space="preserve">
+    <value>Beğen</value>
+  </data>
+  <data name="ShowDetails_ShowComments_Code_DisplayReplies" xml:space="preserve">
+    <value>Yanıtları göster</value>
+  </data>
+  <data name="ShowDetails_ShowComments_Code_UnLike" xml:space="preserve">
+    <value>Beğenmekten vazgeç</value>
+  </data>
+  <data name="ShowDetails_ShowComments_Code_ReplyNumberNone" xml:space="preserve">
+    <value>yanıt yok</value>
+  </data>
+  <data name="ShowDetails_ShowComments_SpoilerAlertButtonText" xml:space="preserve">
+    <value>SPOILER UYARISI: YİNE DE GÖSTER</value>
+  </data>
+  <data name="MediaItemDetails_Comments_Code_LoadingComments" xml:space="preserve">
+    <value>Yorumlar yükleniyor...</value>
+  </data>
+  <data name="MediaItemDetails_Comments_Code_TotalCommentsNumberLabelPlural" xml:space="preserve">
+    <value>Toplam {0} yorum var</value>
+  </data>
+  <data name="ShowDetails_ShowComments_PanelHeader_Header" xml:space="preserve">
+    <value>YORUMLAR</value>
+  </data>
+  <data name="ShowDetails_ShowInfo_Air_Text" xml:space="preserve">
+    <value>Yayın: </value>
+  </data>
+  <data name="ShowDetails_ShowInfo_AirAt_Text" xml:space="preserve">
+    <value> saat </value>
+    <comment>espaces autour</comment>
+  </data>
+  <data name="ShowDetails_ShowInfo_CastGroupHeader_Text" xml:space="preserve">
+    <value>OYUNCULAR</value>
+  </data>
+  <data name="ShowDetails_ShowInfo_CastOrCrewEmpty_Text" xml:space="preserve">
+    <value>Şu anda bilgi yok...</value>
+  </data>
+  <data name="ShowDetails_ShowInfo_TrailerEmpty" xml:space="preserve">
+    <value>Şu anda fragman yok.</value>
+  </data>
+  <data name="ShowDetails_ShowInfo_TrailerHeader" xml:space="preserve">
+    <value>FRAGMAN</value>
+  </data>
+  <data name="ShowDetails_ShowInfo_CrewGroupHeader_Text" xml:space="preserve">
+    <value>EKİP</value>
+  </data>
+  <data name="ShowDetails_ShowInfo_FirstYear_Text" xml:space="preserve">
+    <value>İlk yıl: </value>
+  </data>
+  <data name="ShowDetails_ShowInfo_HideRecommendation_Text" xml:space="preserve">
+    <value>Bunu artık önerme</value>
+  </data>
+  <data name="ShowDetails_ShowInfo_PanelHeader_Header" xml:space="preserve">
+    <value>BİLGİ</value>
+  </data>
+  <data name="EpisodeDetails_YourRatingFormat" xml:space="preserve">
+    <value>Puanın: {0} - {1}</value>
+  </data>
+  <data name="Rating_ValueDescription_1" xml:space="preserve">
+    <value>Çok zayıf :(</value>
+  </data>
+  <data name="Rating_ValueDescription_2" xml:space="preserve">
+    <value>Berbat</value>
+  </data>
+  <data name="Rating_ValueDescription_3" xml:space="preserve">
+    <value>Kötü</value>
+  </data>
+  <data name="Rating_ValueDescription_4" xml:space="preserve">
+    <value>Zayıf</value>
+  </data>
+  <data name="Rating_ValueDescription_5" xml:space="preserve">
+    <value>Eh işte</value>
+  </data>
+  <data name="Rating_ValueDescription_6" xml:space="preserve">
+    <value>Fena değil</value>
+  </data>
+  <data name="Rating_ValueDescription_7" xml:space="preserve">
+    <value>İyi</value>
+  </data>
+  <data name="Rating_ValueDescription_8" xml:space="preserve">
+    <value>Harika</value>
+  </data>
+  <data name="Rating_ValueDescription_9" xml:space="preserve">
+    <value>Mükemmel</value>
+  </data>
+  <data name="Rating_ValueDescription_10" xml:space="preserve">
+    <value>Tam bir ninja!</value>
+  </data>
+  <data name="ShowDetails_ShowInfo_RatingWith_Text" xml:space="preserve">
+    <value> ile </value>
+    <comment>espaces autour</comment>
+  </data>
+  <data name="ShowDetails_ShowInfo_Runtime_Text" xml:space="preserve">
+    <value>Süre: </value>
+  </data>
+  <data name="EpisodeDetails_Runtime" xml:space="preserve">
+    <value>Süre: </value>
+  </data>
+  <data name="ShowDetails_ShowInfo_SeasonsRatingGroupHeader_Text" xml:space="preserve">
+    <value>SEZON PUANLARI </value>
+  </data>
+  <data name="ShowDetails_ShowInfo_Status_Text" xml:space="preserve">
+    <value>Durum: </value>
+  </data>
+  <data name="ShowDetails_ShowNews_Error_Text" xml:space="preserve">
+    <value>İnternet bağlantısı zorunlu.</value>
+  </data>
+  <data name="MediaItemDetails_DisplayPoster" xml:space="preserve">
+    <value>Posteri tam ekranda göster</value>
+  </data>
+  <data name="ShowDetails_ShowNews_NoNewsToDisplay_Text" xml:space="preserve">
+    <value>Bu dizi için henüz haber yok.</value>
+  </data>
+  <data name="ShowDetails_ShowNews_PanelHeader_Header" xml:space="preserve">
+    <value>HABERLER</value>
+  </data>
+  <data name="MediaItemDetails_News_Reload_Content" xml:space="preserve">
+    <value>TEKRAR DENE</value>
+  </data>
+  <data name="Startup_Code_Connection_TraktReached" xml:space="preserve">
+    <value>trakt.tv ile bağlantı kuruyoruz ve
+yalnızca birkaç saniyeye daha ihtiyacımız var.</value>
+  </data>
+  <data name="Startup_FlipViewItem2_Content_Text" xml:space="preserve">
+    <value>... izlediğin her diziyi!</value>
+  </data>
+  <data name="Startup_FlipViewItem2_Title_Text" xml:space="preserve">
+    <value>Takip et...</value>
+  </data>
+  <data name="Startup_FlipViewItem3_Content_Text" xml:space="preserve">
+    <value>... zevkine ve dünyadaki trendlere göre
+yeni dizileri!</value>
+  </data>
+  <data name="Startup_FlipViewItem3_Title_Text" xml:space="preserve">
+    <value>Keşfet...</value>
+  </data>
+  <data name="Startup_FlipViewItem4_Content_Text" xml:space="preserve">
+    <value>... çünkü hayat..
+eğlenceli olmayı hak eder!</value>
+  </data>
+  <data name="Startup_FlipViewItem4_Title_Text" xml:space="preserve">
+    <value>Keyfini çıkar...</value>
+  </data>
+  <data name="Startup_Register_Text" xml:space="preserve">
+    <value>KAYDOL</value>
+  </data>
+  <data name="Startup_SignIn_Text" xml:space="preserve">
+    <value>GİRİŞ YAP</value>
+  </data>
+  <data name="Startup_SignIn_IssueExplanation" xml:space="preserve">
+    <value>Giriş yaparken sorun yaşarsan aşağıdaki alternatifleri dene. Sorun devam ederse yardım için benimle iletişime geçebilirsin.</value>
+  </data>
+  <data name="Startup_SignIn_IssueTitle" xml:space="preserve">
+    <value>Giriş sorunu</value>
+  </data>
+  <data name="StatusDisplay_ImportInProgressFormat" xml:space="preserve">
+    <value>içe aktarma sürüyor ({0}%)...</value>
+  </data>
+  <data name="StatusDisplay_SyncFailure" xml:space="preserve">
+    <value>eşitleme hatası: lütfen internet bağlantını kontrol et</value>
+  </data>
+  <data name="StatusDisplay_SyncFailureBecauseOfTrakt" xml:space="preserve">
+    <value>hata: Trakt.tv şu anda kullanılamıyor</value>
+  </data>
+  <data name="Global_Error_SyncFailureBecauseOfTrakt" xml:space="preserve">
+    <value>Trakt.tv çalışmıyor gibi görünüyor. Bu senin internet bağlantından veya uygulamadan kaynaklanan bir hata değil. Lütfen daha sonra tekrar dene.</value>
+  </data>
+  <data name="Global_Error_NoMoreSpaceOnDeviceException" xml:space="preserve">
+    <value>Hata, cihazında boş alan kalmamış gibi görünüyor...</value>
+  </data>
+  <data name="StatusDisplay_SyncingExtraInfo" xml:space="preserve">
+    <value>ek bilgiler alınıyor...</value>
+  </data>
+  <data name="StatusDisplay_SyncingHiddenItems" xml:space="preserve">
+    <value>gizli veya beğenilen içerikler alınıyor...</value>
+  </data>
+  <data name="StatusDisplay_SyncingRatings" xml:space="preserve">
+    <value>puanlar alınıyor...</value>
+  </data>
+  <data name="StatusDisplay_SyncingImages" xml:space="preserve">
+    <value>dizi görselleri alınıyor...</value>
+  </data>
+  <data name="StatusDisplay_SyncingCalendar" xml:space="preserve">
+    <value>takvim eşitleniyor...</value>
+  </data>
+  <data name="StatusDisplay_SyncingSeasonsAndEpisodes" xml:space="preserve">
+    <value>sezonlar ve bölümler alınıyor...</value>
+  </data>
+  <data name="StatusDisplay_SyncingShowInfos" xml:space="preserve">
+    <value>dizi bilgileri alınıyor...</value>
+  </data>
+  <data name="StatusDisplay_SyncingShows" xml:space="preserve">
+    <value>dizilerin alınıyor...</value>
+  </data>
+  <data name="StatusDisplay_SyncingTranslations" xml:space="preserve">
+    <value>çeviriler alınıyor...</value>
+  </data>
+  <data name="ToastNotifications_Code_EpisodeAiredFormat" xml:space="preserve">
+    <value>{1} dizisinin {0} bölümü artık yayınlandı!</value>
+  </data>
+  <data name="ToastNotifications_Code_Win8EpisodeAiredTitle" xml:space="preserve">
+    <value>Yeni bölüm yayınlandı</value>
+  </data>
+  <data name="ToastNotifications_Code_Win8EpisodeAiredTitleFuture" xml:space="preserve">
+    <value>bölüm {0} {1} içinde yayınlanacak</value>
+  </data>
+  <data name="ToastNotifications_Code_Win8EpisodeAiredTitlePast" xml:space="preserve">
+    <value>bölüm {0} {1} önce yayınlandı</value>
+  </data>
+  <data name="ToastNotifications_Code_ShowChangeOfStatusFormat" xml:space="preserve">
+    <value>Durum “{0}” iken “{1}” oldu.</value>
+  </data>
+  <data name="ToastNotifications_Code_TapHereToKnowMore" xml:space="preserve">
+    <value>Daha fazla bilgi için dokun</value>
+  </data>
+  <data name="ToastNotifications_Code_SeasonReleaseDateAnnouncedFormat" xml:space="preserve">
+    <value>{0}. sezonun yayın tarihi duyuruldu</value>
+  </data>
+  <data name="Settings_Data_LetMeMarkNotAiredEpisodeAsSeen_Text" xml:space="preserve">
+    <value>Henüz yayınlanmamış olsa bile bir bölümü izlendi olarak işaretlememe izin ver.</value>
+  </data>
+  <data name="Trakt_LostAuthorizationContent" xml:space="preserve">
+    <value>TV Show Tracker hesabına erişimi kaybetti. Hiçbir veri kaybolmayacak, ancak tekrar giriş yapman gerekiyor.</value>
+  </data>
+  <data name="Trakt_LostAuthorizationTitle" xml:space="preserve">
+    <value>YETKİ KAYBEDİLDİ</value>
+  </data>
+  <data name="Global_ItsDone" xml:space="preserve">
+    <value>İşlem başarıyla tamamlandı!</value>
+  </data>
+  <data name="Global_Cancel" xml:space="preserve">
+    <value>İptal</value>
+  </data>
+  <data name="Donation_Button_Restore_Text" xml:space="preserve">
+    <value>satın almalarımı geri yükle</value>
+  </data>
+  <data name="Menu_ShowNumberPlural" xml:space="preserve">
+    <value>{0} dizi takip ediliyor</value>
+  </data>
+  <data name="Global_TabSection_Calendar" xml:space="preserve">
+    <value>Takvim</value>
+  </data>
+  <data name="Global_TabSection_History" xml:space="preserve">
+    <value>Geçmiş</value>
+  </data>
+  <data name="Global_TabSection_Discover" xml:space="preserve">
+    <value>Keşfet</value>
+  </data>
+  <data name="Global_TabSection_Shows" xml:space="preserve">
+    <value>Diziler</value>
+  </data>
+  <data name="Global_TabSection_Movies" xml:space="preserve">
+    <value>Filmler</value>
+  </data>
+  <data name="Global_TabSection_YourShows" xml:space="preserve">
+    <value>Dizilerin</value>
+  </data>
+  <data name="Global_TabSection_Stats" xml:space="preserve">
+    <value>Sen</value>
+  </data>
+  <data name="Widget_NextEp_PanelTitle" xml:space="preserve">
+    <value>İzlenecek sonraki bölümler</value>
+  </data>
+  <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
+    <value>Bir reklam gösterilecek.</value>
+  </data>
+  <data name="Episode_UnknowTitle" xml:space="preserve">
+    <value>Başlık şu anda bilinmiyor</value>
+  </data>
+  <data name="Home_Menu_ContactSection_Text" xml:space="preserve">
+    <value>İLETİŞİM</value>
+  </data>
+  <data name="Home_Menu_DoMoreSection_Text" xml:space="preserve">
+    <value>DAHA FAZLASINI YAP</value>
+  </data>
+  <data name="Home_Menu_InfoSection_Text" xml:space="preserve">
+    <value>BİLGİ</value>
+  </data>
+  <data name="Global_NothingToDisplayHere_Text" xml:space="preserve">
+    <value>Burada henüz gösterilecek bir şey yok...</value>
+  </data>
+  <data name="Global_Loading" xml:space="preserve">
+    <value>Yükleniyor...</value>
+  </data>
+  <data name="Global_DoingTheOperation" xml:space="preserve">
+    <value>Bu işlem yapılıyor...</value>
+  </data>
+  <data name="Global_ShowStatus_Canceled" xml:space="preserve">
+    <value>iptal edildi</value>
+  </data>
+  <data name="Global_ShowStatus_Ended" xml:space="preserve">
+    <value>bitti</value>
+  </data>
+  <data name="Global_ShowStatus_InProduction" xml:space="preserve">
+    <value>yapım aşamasında</value>
+  </data>
+  <data name="Global_ShowStatus_Planned" xml:space="preserve">
+    <value>planlandı</value>
+  </data>
+  <data name="Global_ShowStatus_Released" xml:space="preserve">
+    <value>yayınlandı</value>
+  </data>
+  <data name="Global_ShowStatus_Returning" xml:space="preserve">
+    <value>devam eden dizi</value>
+  </data>
+  <data name="Incoming_InXDayPlural" xml:space="preserve">
+    <value>{0} gün içinde</value>
+  </data>
+  <data name="Settings_UICustom_Code_TvstFontSize_Header" xml:space="preserve">
+    <value>Yazı boyutu</value>
+  </data>
+  <data name="Settings_UICustom_Code_TvstFontSize_Big" xml:space="preserve">
+    <value>Büyük</value>
+  </data>
+  <data name="Settings_UICustom_Code_TvstFontSize_Bigger" xml:space="preserve">
+    <value>Daha büyük</value>
+  </data>
+  <data name="Settings_UICustom_Code_TvstFontSize_Normal" xml:space="preserve">
+    <value>Standart</value>
+  </data>
+  <data name="Settings_UICustom_Code_TvstFontSize_Small" xml:space="preserve">
+    <value>Küçük</value>
+  </data>
+  <data name="Settings_UICustom_Code_TvstFontSize_Smaller" xml:space="preserve">
+    <value>Daha küçük</value>
+  </data>
+  <data name="Settings_BackgroundSync_WifiOnly" xml:space="preserve">
+    <value>Arka plan eşitlemesi yalnızca Wi-Fi üzerinden yapılsın mı?</value>
+  </data>
+  <data name="Global_ExitDemo" xml:space="preserve">
+    <value>DEMO modundan çık</value>
+  </data>
+  <data name="Settings_Data_TrackingTargetLabel" xml:space="preserve">
+    <value>DİZİLERİN NEREYE EKLENSİN?</value>
+  </data>
+  <data name="Settings_Data_TrackingTarget_Both" xml:space="preserve">
+    <value>Koleksiyon ve izleme listesi</value>
+  </data>
+  <data name="Settings_Data_TrackingTarget_Collection" xml:space="preserve">
+    <value>Koleksiyon</value>
+  </data>
+  <data name="Settings_Data_TrackingTarget_Watchlist" xml:space="preserve">
+    <value>İzleme listesi</value>
+  </data>
+  <data name="Donation_Paypal" xml:space="preserve">
+    <value>PAYPAL İLE BAĞIŞ YAP</value>
+  </data>
+  <data name="Donation_SupportProject_Button" xml:space="preserve">
+    <value>Bağış yap</value>
+  </data>
+  <data name="Donation_SupportProject_Description" xml:space="preserve">
+    <value>TV Show Tracker'ın gelişmeye devam etmesine yardımcı olmak istersen, aşağıdaki sayfa üzerinden bağış yaparak projeyi destekleyebilirsin.</value>
+  </data>
+  <data name="Donation_SupportProject_Header" xml:space="preserve">
+    <value>Projeyi destekle</value>
+  </data>
+  <data name="Donation_SubscriptionExplanation" xml:space="preserve">
+    <value>Yukarıda listelenen TÜM özelliklere erişim sağlar.
+
+{0}, istediğin zaman iptal edebilirsin.
+7 günlük ücretsiz deneme sonrasında ücretli aboneliğe dönüşür.
+
+Abonelik, mevcut fatura dönemi sona ermeden önce Google Play Hesabından iptal etmediğin sürece otomatik olarak yenilenir.</value>
+  </data>
+  <data name="ListCreation_NameMandatoryToast" xml:space="preserve">
+    <value>Lütfen bu liste için bir ad gir.</value>
+  </data>
+  <data name="EpisodeFormat_SeasonAndEpisode" xml:space="preserve">
+    <value>S{0:00}E{1:00}</value>
+  </data>
+  <data name="EpisodeFormat_Absolute" xml:space="preserve">
+    <value>B{0}</value>
+  </data>
+  <data name="EpisodeFormat_AbsoluteWithoutPrefix" xml:space="preserve">
+    <value>{0}</value>
+  </data>
+  <data name="EpisodeFormat_SeasonAndEpisodeLowerCase" xml:space="preserve">
+    <value>s{0:00}b{1:00}</value>
+  </data>
+  <data name="EpisodeFormat_SeasonAndEpisodeXSeparated" xml:space="preserve">
+    <value>{0:0}x{1:0}</value>
+  </data>
+  <data name="EpisodeFormat_SeasonAndEpisodePipeSeparated" xml:space="preserve">
+    <value>S{0:00} | {1:00}</value>
+  </data>
+  <data name="EpisodeFormat_SeasonAndEpisodeSpaceSeparated" xml:space="preserve">
+    <value>S{0:00} B{1:00}</value>
+  </data>
+  <data name="Settings_EpisodeFormatLabel" xml:space="preserve">
+    <value>Bölüm numarası formatı</value>
+  </data>
+  <data name="CommentsSorting_Label_Newest" xml:space="preserve">
+    <value>Önce en yeni</value>
+  </data>
+  <data name="CommentsSorting_Label_Oldest" xml:space="preserve">
+    <value>Önce en eski</value>
+  </data>
+  <data name="CommentsSorting_Label_Likes" xml:space="preserve">
+    <value>Beğeni sayısı</value>
+  </data>
+  <data name="CommentsSorting_Label_Replies" xml:space="preserve">
+    <value>Yanıt sayısı</value>
+  </data>
+  <data name="EpisodesSorting_Label_AiredDate" xml:space="preserve">
+    <value>Önce en eski</value>
+  </data>
+  <data name="EpisodesSorting_Label_AiredDateReverse" xml:space="preserve">
+    <value>Önce en yeni</value>
+  </data>
+  <data name="Settings_SortEpisodesHeader" xml:space="preserve">
+    <value>BÖLÜM SIRALAMA</value>
+  </data>
+  <data name="Settings_SortCommentHeader" xml:space="preserve">
+    <value>YORUMLARI ŞUNA GÖRE SIRALA</value>
+  </data>
+  <data name="Settings_SortCommentPAGEHeader" xml:space="preserve">
+    <value>YORUM SIRALAMA</value>
+  </data>
+  <data name="ShowDetails_ShowInfo_TmdbRatingHeader" xml:space="preserve">
+    <value>TMDB kullanıcı puanı</value>
+  </data>
+  <data name="ShowDetails_ShowInfo_OriginalNameHeader" xml:space="preserve">
+    <value>Orijinal ad</value>
+  </data>
+  <data name="ShowDetails_ShowInfo_OriginalCountryHeader" xml:space="preserve">
+    <value>Orijinal ülke</value>
+  </data>
+  <data name="Settings_WidgetTransparency_Header" xml:space="preserve">
+    <value>WIDGET ARKA PLAN SAYDAMLIĞI</value>
+  </data>
+  <data name="ShowDetails_EpisodeMenu_MarkAsSeenAtAGivenDate_Content" xml:space="preserve">
+    <value>Belirli bir tarihte izlendi olarak işaretle</value>
+  </data>
+  <data name="Settings_Display_HideSeenEpFromPastEpisodesTab_Text" xml:space="preserve">
+    <value>İzlenen bölümleri ve filmleri takvim sayfasından gizle.</value>
+  </data>
+  <data name="Settings_AppSection_Text" xml:space="preserve">
+    <value>UYGULAMA BÖLÜMLERİ</value>
+  </data>
+  <data name="Settings_DisplaySection_CalendarHeader" xml:space="preserve">
+    <value>“Takvim” bölümü gösterilsin mi?</value>
+  </data>
+  <data name="SetAsSeenAtAGivenDate_Button_SetAsSeen" xml:space="preserve">
+    <value>BU TARİHTE İZLENDİ OLARAK İŞARETLE</value>
+  </data>
+  <data name="SetAsSeenAtAGivenDate_Button_SetAsSeenShort" xml:space="preserve">
+    <value>BU TARİHTE İZLENDİ</value>
+  </data>
+  <data name="Settings_DisplayLockRotation_Text" xml:space="preserve">
+    <value>Ekran dikey modda kilitlensin mi?</value>
+  </data>
+  <data name="Startup_Demo_Text" xml:space="preserve">
+    <value>Uygulamayı DEMO modunda dene</value>
+  </data>
+  <data name="Settings_Various_DisplayAppFullScreen_Text" xml:space="preserve">
+    <value>Durum çubuğu gizlenip uygulama tam ekran açılsın mı?</value>
+  </data>
+  <data name="Settings_WidgetHeader" xml:space="preserve">
+    <value>PENCERE ÖĞESİ</value>
+  </data>
+  <data name="Settings_AnalyticsHeader" xml:space="preserve">
+    <value>ANALİTİK</value>
+  </data>
+  <data name="Settings_Data_DisableTelemetry_Text" xml:space="preserve">
+    <value>Telemetriyi kapat.
+İşaretlendiğinde anonim kullanım verileri toplanmaz.
+Bu veriler uygulamayı geliştirmemize ve sorunları düzeltmemize yardımcı olur. Kişisel bilgi paylaşılmaz.</value>
+  </data>
+  <data name="Settings_Various_ForceAdsDisplay_Text" xml:space="preserve">
+    <value>Reklam gösterimini zorla </value>
+  </data>
+  <data name="Settings_Various_SwipeToMarkAsSeen_Text" xml:space="preserve">
+    <value>Liste modunda sonraki bölümü izlendi olarak işaretlemek için kaydırma kullanılsın mı?</value>
+  </data>
+  <data name="Settings_WidgetCounterIncludesShowsToStart" xml:space="preserve">
+    <value>İzlenmeye başlanacak dizileri kalan bölüm sayacı widget sayısına dahil et.</value>
+  </data>
+  <data name="Settings_BadgeCounterIncludesShowsToStart" xml:space="preserve">
+    <value>İzlenmeye başlanacak dizileri bölüm simgesi rozet sayısına dahil et.</value>
+  </data>
+  <data name="MediaItemDetails_AppBar_BackHome_Label" xml:space="preserve">
+    <value>Ana sayfaya geri dön</value>
+  </data>
+  <data name="Global_LoadMoreButton_Text" xml:space="preserve">
+    <value>Daha fazla yükle...</value>
+  </data>
+  <data name="Global_TVShows" xml:space="preserve">
+    <value>Diziler</value>
+  </data>
+  <data name="Global_Movies" xml:space="preserve">
+    <value>Filmler</value>
+  </data>
+  <data name="MovieDetails_Info_PanelHeader_Header" xml:space="preserve">
+    <value>GENEL BAKIŞ</value>
+  </data>
+  <data name="MovieDetails_Comments_PanelTitle_Header" xml:space="preserve">
+    <value>YORUMLAR</value>
+  </data>
+  <data name="MovieDetails_Code_Share_CheckOutThisMovieFormat" xml:space="preserve">
+    <value>Şu filme göz at: “{0}” {1}</value>
+  </data>
+  <data name="MovieDetails_Code_Share_DiscoveredWith" xml:space="preserve">
+    <value>TV Show &amp; Movie Tracker ile keşfedildi #TVSTT</value>
+  </data>
+  <data name="MovieDetails_AppBar_Remove_Label" xml:space="preserve">
+    <value>Bu filmi kaldır</value>
+  </data>
+  <data name="MovieDetails_AppBar_Add_Label" xml:space="preserve">
+    <value>Bu filmi ekle</value>
+  </data>
+  <data name="Movie_List_AddToAList_Label" xml:space="preserve">
+    <value>Bir listeye ekle</value>
+  </data>
+  <data name="MovieDetails_Similar_PanelHeader_Header" xml:space="preserve">
+    <value>İLGİLİ VE BENZER FİLMLER</value>
+  </data>
+  <data name="MovieDetails_MovieInfo_FirstYear_Text" xml:space="preserve">
+    <value>Yıl: </value>
+  </data>
+  <data name="MovieDetails_Runtime_Text" xml:space="preserve">
+    <value>Süre</value>
+  </data>
+  <data name="MovieDetails_Info_BudgetHeader_Text" xml:space="preserve">
+    <value>Bütçe</value>
+  </data>
+  <data name="RateAMovie_ActionButton_Content" xml:space="preserve">
+    <value>BU FİLMİ PUANLA</value>
+  </data>
+  <data name="Global_VotePlural" xml:space="preserve">
+    <value>oy</value>
+  </data>
+  <data name="MovieDetails_ReleaseDateHeader" xml:space="preserve">
+    <value>Yayınlandı</value>
+  </data>
+  <data name="MovieDetails_Menu_AddToTVST" xml:space="preserve">
+    <value>Ekle</value>
+  </data>
+  <data name="MovieDetails_Menu_AdddingWhereSubtitleFormat" xml:space="preserve">
+    <value>“{0}” ekleniyor</value>
+  </data>
+  <data name="MovieDetails_Menu_RemoveFromTVST" xml:space="preserve">
+    <value>Kaldır</value>
+  </data>
+  <data name="MovieDetails_Menu_SetAsNotSeen" xml:space="preserve">
+    <value>Geçmişten kaldır</value>
+  </data>
+  <data name="MovieDetails_Menu_SetAsSeen" xml:space="preserve">
+    <value>Bu filmi izlendi olarak işaretle</value>
+  </data>
+  <data name="MovieDetails_Menu_SetAsSeenAgain" xml:space="preserve">
+    <value>Bu filmi tekrar izlendi olarak işaretle</value>
+  </data>
+  <data name="MovieDetails_Menu_RemoveFromCollection" xml:space="preserve">
+    <value>Koleksiyondan kaldır</value>
+  </data>
+  <data name="MovieDetails_Menu_AddToCollection" xml:space="preserve">
+    <value>Koleksiyona ekle</value>
+  </data>
+  <data name="MovieDetails_Menu_RemoveFromWatchlist" xml:space="preserve">
+    <value>İzleme listemden kaldır</value>
+  </data>
+  <data name="MovieDetails_Menu_AddToWatchlist" xml:space="preserve">
+    <value>İzleme listeme ekle</value>
+  </data>
+  <data name="MovieDetails_Menu_Share" xml:space="preserve">
+    <value>Bu filmi paylaş</value>
+  </data>
+  <data name="MovieDetails_AskRemovingTitle" xml:space="preserve">
+    <value>BU FİLM KALDIRILSIN MI?</value>
+  </data>
+  <data name="MovieDetails_AskRemovingContent" xml:space="preserve">
+    <value>UYARI: Bu işlem Trakt.tv'deki bu filmle ilgili TÜM VERİLERİ kaldırır: koleksiyon, izleme listesi, izleme geçmişi vb.
+
+Onaylıyor musun?
+        </value>
+  </data>
+  <data name="MovieDetails_Add_Where_Title" xml:space="preserve">
+    <value>NEREYE?</value>
+  </data>
+  <data name="MovieDetails_Add_Where_Collected" xml:space="preserve">
+    <value>Koleksiyonuma ekle</value>
+  </data>
+  <data name="MovieDetails_Add_Where_Watchlist" xml:space="preserve">
+    <value>İzleme listeme ekle</value>
+  </data>
+  <data name="MovieDetails_Add_Where_Watched" xml:space="preserve">
+    <value>Bunu zaten izledim</value>
+  </data>
+  <data name="Home_UserMenu_Movies" xml:space="preserve">
+    <value>Filmler</value>
+  </data>
+  <data name="Home_UserMenu_Shows" xml:space="preserve">
+    <value>Diziler</value>
+  </data>
+  <data name="MoviesLists_PanelHeader_Watched" xml:space="preserve">
+    <value>Zaten izlendi</value>
+  </data>
+  <data name="MoviesLists_PanelHeader_Watchlist" xml:space="preserve">
+    <value>İzleme listesi</value>
+  </data>
+  <data name="MoviesLists_PanelHeader_MoviesToRate" xml:space="preserve">
+    <value>Henüz puanlanmadı</value>
+  </data>
+  <data name="MoviesLists_PanelHeader_Collected" xml:space="preserve">
+    <value>Koleksiyonda</value>
+  </data>
+  <data name="StatusDisplay_SyncingMovieImages" xml:space="preserve">
+    <value>film görselleri alınıyor...</value>
+  </data>
+  <data name="MovieInList_WatchedAtFormat" xml:space="preserve">
+    <value>İzlendi
+{0}</value>
+  </data>
+  <data name="MovieInList_CollectedAtFormat" xml:space="preserve">
+    <value>Koleksiyona eklendi
+{0}</value>
+  </data>
+  <data name="MovieInList_WatchlistedAtFormat" xml:space="preserve">
+    <value>Listeye eklendi
+{0}</value>
+  </data>
+  <data name="RateAMovie_Title_Text" xml:space="preserve">
+    <value>Bu filmi nasıl puanlarsın?</value>
+  </data>
+  <data name="StatusDisplay_SyncingMovieInfos" xml:space="preserve">
+    <value>film bilgileri alınıyor...</value>
+  </data>
+  <data name="Home_MoviesListsPageTitlePlural" xml:space="preserve">
+    <value>{0} film</value>
+  </data>
+  <data name="MoviesLists_SortChoice_Title" xml:space="preserve">
+    <value>ŞUNA GÖRE SIRALA</value>
+  </data>
+  <data name="MoviesLists_SortChoice_SortOption_Alphabetic" xml:space="preserve">
+    <value>Alfabetik</value>
+  </data>
+  <data name="MoviesLists_SortChoice_SortOption_AlphabeticReverse" xml:space="preserve">
+    <value>Alfabetik ters</value>
+  </data>
+  <data name="MoviesLists_SortChoice_SortOption_ActionTime" xml:space="preserve">
+    <value>İşlem tarihi</value>
+  </data>
+  <data name="MoviesLists_SortChoice_SortOption_ActionTimeReverse" xml:space="preserve">
+    <value>İşlem tarihi ters - varsayılan</value>
+  </data>
+  <data name="MoviesLists_SortChoice_SortOption_ReleaseDateReverse" xml:space="preserve">
+    <value>Yayın tarihi ters</value>
+  </data>
+  <data name="MoviesLists_SortChoice_SortOption_ReleaseDate" xml:space="preserve">
+    <value>Yayın tarihi</value>
+  </data>
+  <data name="MediaItem_YourRatingFormat" xml:space="preserve">
+    <value>Puanın: {0}</value>
+  </data>
+  <data name="Global_When" xml:space="preserve">
+    <value>NE ZAMAN?</value>
+  </data>
+  <data name="MovieInfo_ErrorWhenHidingRecommendation" xml:space="preserve">
+    <value>Bu film önerilerinden gizlenirken bir hata oluştu...</value>
+  </data>
+  <data name="Home_Code_Popular_MoviesReleasedThisMonthFormat" xml:space="preserve">
+    <value>{0} İÇİNDE YAYINLANAN FİLMLER</value>
+  </data>
+  <data name="Home_Code_Popular_MoviePopular" xml:space="preserve">
+    <value>EN POPÜLER</value>
+  </data>
+  <data name="Home_Code_Popular_MovieTrending" xml:space="preserve">
+    <value>ŞU ANDA TREND OLANLAR</value>
+  </data>
+  <data name="Settings_Display_MovieStartupPage_Text" xml:space="preserve">
+    <value>Filmler sayfası: varsayılan sekme</value>
+  </data>
+  <data name="Settings_Display_ShowDetailsStartupPage_Text" xml:space="preserve">
+    <value>Dizi detay sayfası: varsayılan sekme</value>
+  </data>
+  <data name="Settings_Various_SendTokenToDev" xml:space="preserve">
+    <value>Hata ayıklama bilgisini Jonathan'a gönder!</value>
+  </data>
+  <data name="Movie_Checkin_Label" xml:space="preserve">
+    <value>İzliyorum</value>
+  </data>
+  <data name="Home_AppBar_FullRefresh_Label" xml:space="preserve">
+    <value>Tam eşitleme</value>
+  </data>
+  <data name="Home_AppBar_Home_Label" xml:space="preserve">
+    <value>Ana sayfa</value>
+  </data>
+  <data name="EpisodeDetails_WhereToWatch" xml:space="preserve">
+    <value>Nereden izlenir?</value>
+  </data>
+  <data name="EpisodeDetails_WhereToWatchSettingsName" xml:space="preserve">
+    <value>Bölüm/film izleme ülkesi:</value>
+  </data>
+  <data name="EpisodeDetails_WhereToWatchCountry" xml:space="preserve">
+    <value>Hangi ülke kullanılsın?</value>
+  </data>
+  <data name="Notifications_Settings_WhichStyleHeader" xml:space="preserve">
+    <value>Bildirim stili</value>
+  </data>
+  <data name="Notifications_Style_Android" xml:space="preserve">
+    <value>Android</value>
+  </data>
+  <data name="Notifications_Style_Enhanced" xml:space="preserve">
+    <value>Geliştirilmiş</value>
+  </data>
+  <data name="Notifications_Style_TestButton" xml:space="preserve">
+    <value>Görünümü test et</value>
+  </data>
+  <data name="Global_openingPage" xml:space="preserve">
+    <value>Sayfa açılıyor...</value>
+  </data>
+  <data name="Comment_DisplayUserProfile" xml:space="preserve">
+    <value>Yazarın kullanıcı profilini göster</value>
+  </data>
+  <data name="Episodes_SetPreviousEpisodeAsSeenTooQuestion" xml:space="preserve">
+    <value>Önceki bölümleri de izlendi olarak işaretlemek ister misin?</value>
+  </data>
+  <data name="Setting_Episodes_SetPreviousEpisodeAsSeenToo" xml:space="preserve">
+    <value>Bir bölümü izlendi olarak işaretlerken önceki bölümleri de işaretlemeyi sor?</value>
+  </data>
+  <data name="HistoryItem_Remove" xml:space="preserve">
+    <value>Bunu geçmişimden kaldır</value>
+  </data>
+  <data name="EpisodeDetails_SeenAt_RemoveItemQuestion" xml:space="preserve">
+    <value>Bu kayıt geçmişimden kaldırılsın mı?</value>
+  </data>
+  <data name="ListContent_SortChoice_SortOption_Alphabetic" xml:space="preserve">
+    <value>Alfabetik</value>
+  </data>
+  <data name="ListContent_SortChoice_SortOption_AlphabeticReverse" xml:space="preserve">
+    <value>Alfabetik ters</value>
+  </data>
+  <data name="ListContent_SortChoice_SortOption_Rank" xml:space="preserve">
+    <value>Sıra - varsayılan</value>
+  </data>
+  <data name="ListContent_SortChoice_SortOption_RankReverse" xml:space="preserve">
+    <value>Sıra ters</value>
+  </data>
+  <data name="ListContent_SortChoice_SortOption_YearReverse" xml:space="preserve">
+    <value>Yayın yılı ters</value>
+  </data>
+  <data name="ListContent_SortChoice_SortOption_Year" xml:space="preserve">
+    <value>Yayın yılı</value>
+  </data>
+  <data name="ListContent_SortChoice_SortOption_ListedAtReverse" xml:space="preserve">
+    <value>Listeye eklenme tarihi ters</value>
+  </data>
+  <data name="ListContent_SortChoice_SortOption_ListedAt" xml:space="preserve">
+    <value>Listeye eklenme tarihi</value>
+  </data>
+  <data name="MediaItem_AskPersonalNoteTitle" xml:space="preserve">
+    <value>Kişisel notlar</value>
+  </data>
+  <data name="MediaItem_PersonalNoteHeader" xml:space="preserve">
+    <value>Kişisel notlar</value>
+  </data>
+  <data name="MediaItem_PersonalNoteMenuItem" xml:space="preserve">
+    <value>Kişisel notlarını ekle/düzenle</value>
+  </data>
+  <data name="ShowDetailsStartupPage_DefaultChoice" xml:space="preserve">
+    <value>Dinamik, geldiğin yere göre - varsayılan</value>
+  </data>
+  <data name="Settings_DisplayShowChannelOnHomePage" xml:space="preserve">
+    <value>Ana listede dizinin yayınlandığı kanal gösterilsin mi?</value>
+  </data>
+  <data name="Settings_DisplayShowSeasonPremiereOnHomePage" xml:space="preserve">
+    <value>Ana listede sezon prömiyeri etiketi gösterilsin mi?</value>
+  </data>
+  <data name="MediaItemDetails_ShowInfo_CertificationHeader" xml:space="preserve">
+    <value>Sertifika</value>
+  </data>
+  <data name="Home_Code_Popular_Anticipated" xml:space="preserve">
+    <value>EN ÇOK BEKLENEN FİLMLER</value>
+  </data>
+  <data name="Settings_Data_EnableSeasonsGroupCollapsing_Text" xml:space="preserve">
+    <value>Sezonlar daraltılıp genişletilebilsin mi?</value>
+  </data>
+  <data name="Settings_CollapsingSectionHeader" xml:space="preserve">
+    <value>Daraltma</value>
+  </data>
+  <data name="Settings_SeasonCollapsingMode_Header" xml:space="preserve">
+    <value>Sezon daraltma modu</value>
+  </data>
+  <data name="AvailableSeasonCollapsingMode_IfFullySeenOrNotNextToSee" xml:space="preserve">
+    <value>Tamamen izlendiyse veya sıradaki izlenecek değilse</value>
+  </data>
+  <data name="AvailableSeasonCollapsingMode_IfFullySeen" xml:space="preserve">
+    <value>Tamamen izlendiyse</value>
+  </data>
+  <data name="AvailableSeasonCollapsingMode_Always" xml:space="preserve">
+    <value>Her zaman</value>
+  </data>
+  <data name="AvailableSeasonCollapsingMode_Never" xml:space="preserve">
+    <value>Asla</value>
+  </data>
+  <data name="Home_Code_MyShowsHiddenGroupHeader_Single" xml:space="preserve">
+    <value>{0} GİZLİ DİZİ</value>
+  </data>
+  <data name="Home_Code_Incoming_XDaysAgoSingle" xml:space="preserve">
+    <value>{0} gün önce</value>
+  </data>
+  <data name="Home_Code_Incoming_InXDaysSingle" xml:space="preserve">
+    <value>{0} gün içinde</value>
+  </data>
+  <data name="Home_Code_MyShowWithEpisodeToSeeButEndedGroupHeader_Single" xml:space="preserve">
+    <value>İZLENMEMİŞ BÖLÜMLERİ OLAN {0} BİTMİŞ DİZİ</value>
+  </data>
+  <data name="Home_Code_MyShowWithEpisodeToSeeGroupHeader_Single" xml:space="preserve">
+    <value>İZLENMEMİŞ BÖLÜMLERİ OLAN {0} DİZİ</value>
+  </data>
+  <data name="Home_Code_MyShowWithEpisodeToSeeNotEndedGroupHeader_Single" xml:space="preserve">
+    <value>İZLENMEMİŞ BÖLÜMLERİ OLAN {0} DEVAM EDEN DİZİ</value>
+  </data>
+  <data name="Home_Code_MyShowWithNoEpisodeToSeeEndedGroupHeader_Single" xml:space="preserve">
+    <value>{0} BİTMİŞ DİZİ, İZLEME TAMAMLANDI</value>
+  </data>
+  <data name="Home_Code_MyShowWithNoEpisodeToSeeGroupHeader_Single" xml:space="preserve">
+    <value>{0} DEVAM EDEN DİZİ, TÜM BÖLÜMLER İZLENDİ</value>
+  </data>
+  <data name="Home_UserStats_Code_ToWatchEpisodeLabelSingle" xml:space="preserve">
+    <value>izlenecek {0} bölüm</value>
+  </data>
+  <data name="Home_UserStats_Code_WatchedEpisodeLabelSingle" xml:space="preserve">
+    <value>{0} bölüm izlendi</value>
+  </data>
+  <data name="People_Code_ActingInXEpisodeSingle" xml:space="preserve">
+    <value>{0} bölüm</value>
+  </data>
+  <data name="People_Code_ActingInXMoviesSingle" xml:space="preserve">
+    <value>{0} FİLMDE OYNUYOR</value>
+  </data>
+  <data name="People_Code_ActingInXShowsSingle" xml:space="preserve">
+    <value>{0} DİZİDE OYNUYOR</value>
+  </data>
+  <data name="People_Code_AsCastNumberSingle" xml:space="preserve">
+    <value>{0} oyuncu kaydı</value>
+  </data>
+  <data name="People_Code_AsCrewNumberSingle" xml:space="preserve">
+    <value>{0} ekip kaydı</value>
+  </data>
+  <data name="People_Code_CrewingInXMoviesSingle" xml:space="preserve">
+    <value>{0} FİLMİN EKİBİNDE</value>
+  </data>
+  <data name="People_Code_CrewingInXShowsSingle" xml:space="preserve">
+    <value>{0} DİZİNİN EKİBİNDE</value>
+  </data>
+  <data name="Home_UserLists_Code_NumberOfElementSingle" xml:space="preserve">
+    <value>Bu listede {0} içerik</value>
+  </data>
+  <data name="MediaItemDetails_Comments_Code_TotalCommentsNumberLabelSingle" xml:space="preserve">
+    <value>Toplam {0} yorum var</value>
+  </data>
+  <data name="Menu_ShowNumberSingle" xml:space="preserve">
+    <value>{0} dizi takip ediliyor</value>
+  </data>
+  <data name="Incoming_InXDaySingle" xml:space="preserve">
+    <value>{0} gün içinde</value>
+  </data>
+  <data name="Home_MoviesListsPageTitleSingle" xml:space="preserve">
+    <value>{0} film</value>
+  </data>
+  <data name="Global_VoteSingle" xml:space="preserve">
+    <value>oy</value>
+  </data>
+  <data name="ShowDetails_Code_Episode_AiredEpisodesSingle" xml:space="preserve">
+    <value>YAYINLANAN BÖLÜM</value>
+  </data>
+  <data name="ShowDetails_Code_EpisodeSingle" xml:space="preserve">
+    <value>bölüm</value>
+  </data>
+  <data name="ShowDetails_Code_Episode_TotalSeasonNumberSingle" xml:space="preserve">
+    <value>SEZON</value>
+  </data>
+  <data name="ShowDetails_Code_Episode_TotalEpisodeLeftSingle" xml:space="preserve">
+    <value>İZLENECEK BÖLÜM</value>
+  </data>
+  <data name="ShowDetails_HideSeason" xml:space="preserve">
+    <value>Bu sezonu gizle</value>
+  </data>
+  <data name="ShowDetails_HideSeasonWithPrevious" xml:space="preserve">
+    <value>Bu sezonu ve önceki sezonları gizle</value>
+  </data>
+  <data name="ShowDetails_UnhideSeason" xml:space="preserve">
+    <value>Bu sezonu yeniden göster</value>
+  </data>
+  <data name="Trakt_AccountLockedContent" xml:space="preserve">
+    <value>Hesabın hareketsizlik nedeniyle devre dışı bırakıldı. Yeniden açmek için lütfen https://app.trakt.tv adresinden hesabına giriş yap.
+
+Giriş yaptıktan sonra hesabına hâlâ erişemiyorsan lütfen support@trakt.tv adresinden Trakt ekibiyle iletişime geç.</value>
+  </data>
+  <data name="Trakt_AccountLockedContactButton" xml:space="preserve">
+    <value>ONLARLA İLETİŞİME GEÇ</value>
+  </data>
+  <data name="Trakt_AccountLockedOpenLink" xml:space="preserve">
+    <value>TRAKT.TV'Yİ AÇ</value>
+  </data>
+  <data name="Trakt_AccountLockedTitle" xml:space="preserve">
+    <value>HESAP DEVRE DIŞI</value>
+  </data>
+  <data name="ProcessItemsToBeSetAsSeen_CantBeDoneNow" xml:space="preserve">
+    <value>Son değişikliklerin Trakt'a gönderilemedi ama endişelenme, daha sonra senin için tekrar deneyeceğiz!</value>
+  </data>
+  <data name="Settings_OpenMovieWorldInsteadOfTVShow" xml:space="preserve">
+    <value>Başlangıçta diziler yerine filmler sayfası açılsın mı?</value>
+  </data>
+  <data name="MovieDetails_Info_Director_Single" xml:space="preserve">
+    <value>Yönetmen</value>
+  </data>
+  <data name="MovieDetails_Info_Director_Plural" xml:space="preserve">
+    <value>Yönetmenler</value>
+  </data>
+  <data name="ShowDetails_OpenHomePage" xml:space="preserve">
+    <value>Resmi site</value>
+  </data>
+  <data name="MovieDetails_OpenHomePage" xml:space="preserve">
+    <value>Resmi site</value>
+  </data>
+  <data name="UserLists_SortChoice_SortOption_Alphabetic" xml:space="preserve">
+    <value>Alfabetik</value>
+  </data>
+  <data name="UserLists_SortChoice_SortOption_AlphabeticReverse" xml:space="preserve">
+    <value>Alfabetik ters</value>
+  </data>
+  <data name="UserLists_SortChoice_SortOption_Rank" xml:space="preserve">
+    <value>Sıra - varsayılan</value>
+  </data>
+  <data name="UserLists_SortChoice_SortOption_RankReverse" xml:space="preserve">
+    <value>Sıra ters</value>
+  </data>
+  <data name="UserLists_SortChoice_SortOption_ItemsReverse" xml:space="preserve">
+    <value>Ters sıralama</value>
+  </data>
+  <data name="UserLists_SortChoice_SortOption_Items" xml:space="preserve">
+    <value>İçerikler</value>
+  </data>
+  <data name="UserLists_SortChoice_SortOption_UpdatedAtReverse" xml:space="preserve">
+    <value>Son güncelleme tarihi ters</value>
+  </data>
+  <data name="UserLists_SortChoice_SortOption_UpdatedAt" xml:space="preserve">
+    <value>Son güncelleme tarihi</value>
+  </data>
+  <data name="SearchView_OpenKeyboardOnSearch" xml:space="preserve">
+    <value>Arama açıldığında klavyeyi göster</value>
+  </data>
+  <data name="SearchView_DoNotOpenKeyboardOnSearch" xml:space="preserve">
+    <value>Arama açıldığında klavyeyi gizle</value>
+  </data>
+  <data name="SearchView_Genre_All" xml:space="preserve">
+    <value>Tüm türler</value>
+  </data>
+  <data name="SearchView_Network_All" xml:space="preserve">
+    <value>Tüm kanallar</value>
+  </data>
+  <data name="SearchView_Years_All" xml:space="preserve">
+    <value>Tüm yıllar</value>
+  </data>
+  <data name="SearchView_Ratings_All" xml:space="preserve">
+    <value>Tüm puanlar</value>
+  </data>
+  <data name="Search_Rating_MoreThanFormat" xml:space="preserve">
+    <value>{0}/10'dan fazla</value>
+  </data>
+  <data name="Home_Popular_TopByGenreSectionHeader" xml:space="preserve">
+    <value>TÜRE GÖRE EN POPÜLER DİZİLER
+</value>
+  </data>
+  <data name="ShowDetails_ShowInfo_Genre" xml:space="preserve">
+    <value>Türler</value>
+  </data>
+  <data name="Settings_Various_RemoveAnimeFromRecommendations" xml:space="preserve">
+    <value>Kişisel önerilerimden anime çıkarılsın mı?</value>
+  </data>
+  <data name="MovieList_NumberOfElementPlural" xml:space="preserve">
+    <value>Bu listede {0} film</value>
+  </data>
+  <data name="MovieList_NumberOfElementSingle" xml:space="preserve">
+    <value>Bu listede {0} film</value>
+  </data>
+  <data name="Settings_Various_ExportDatabase" xml:space="preserve">
+    <value>Veritabanını dışa aktar</value>
+  </data>
+  <data name="Settings_Various_ExportSettings" xml:space="preserve">
+    <value>Uygulama ayarlarını dışa aktar</value>
+  </data>
+  <data name="Settings_Various_ExportCsv" xml:space="preserve">
+    <value>CSV olarak dışa aktar</value>
+  </data>
+  <data name="Settings_Various_ImportCsv" xml:space="preserve">
+    <value>CSV içe aktar</value>
+  </data>
+  <data name="Settings_CsvExport_Explanation" xml:space="preserve">
+    <value>Bu dışa aktarım, izleme listen ve gizli içerikler dışında özel listelerinin içeriğini içermez. Yalnızca uygulamanın bildiği mevcut durumdaki filmler, diziler, bölümler, izleme listesi kayıtları, izleme geçmişi ve puanlar dışa aktarılır.</value>
+  </data>
+  <data name="Settings_CsvImport_Explanation" xml:space="preserve">
+    <value>CSV içe aktarmak için Trakt web sitesine yönlendirileceksin. Bunu Trakt hesabına giriş yaptıktan sonra web sitesinde yapmalısın.</value>
+  </data>
+  <data name="Settings_ExportCsv_NoData" xml:space="preserve">
+    <value>Dışa aktarılacak veri yok</value>
+  </data>
+  <data name="Settings_ExportHeaderText" xml:space="preserve">
+    <value>YEDEKLEME VE GERİ YÜKLEME</value>
+  </data>
+  <data name="Settings_DebugHeaderText" xml:space="preserve">
+    <value>OPTİMİZASYONLAR</value>
+  </data>
+  <data name="RestoreSettings_ChooserTitle" xml:space="preserve">
+    <value>Geri yüklenecek ayar dosyasını seç
+</value>
+  </data>
+  <data name="Settings_RestoreSettingsButtonTitle" xml:space="preserve">
+    <value>Ayar yedeğini geri yükle</value>
+  </data>
+  <data name="Settings_RestoreDatabaseButtonTitle" xml:space="preserve">
+    <value>Veritabanı yedeğini geri yükle</value>
+  </data>
+  <data name="Restore_FileReceivedToast" xml:space="preserve">
+    <value>Dosya alındı, geri yükleme işlemi başlatılıyor</value>
+  </data>
+  <data name="Restore_CompleteToast" xml:space="preserve">
+    <value>Geri yükleme tamamlandı</value>
+  </data>
+  <data name="Recommendations_BackToStart" xml:space="preserve">
+    <value>Başa dön</value>
+  </data>
+  <data name="Recommendations_NextItem" xml:space="preserve">
+    <value>Sonraki öneri</value>
+  </data>
+  <data name="Recommendations_HidingRecommendation" xml:space="preserve">
+    <value>Bu öneri gizleniyor</value>
+  </data>
+  <data name="Home_Popular_ViewMoreButtonText" xml:space="preserve">
+    <value>Daha fazla kişiselleştirilmiş öneri
+</value>
+  </data>
+  <data name="ShowDetails_ShowInfo_TotalRuntime" xml:space="preserve">
+    <value>Toplam süre</value>
+  </data>
+  <data name="GenreName_biography" xml:space="preserve">
+    <value>Biyografi</value>
+  </data>
+  <data name="GenreName_children" xml:space="preserve">
+    <value>Çocuk</value>
+  </data>
+  <data name="GenreName_comedy" xml:space="preserve">
+    <value>Komedi</value>
+  </data>
+  <data name="GenreName_crime" xml:space="preserve">
+    <value>Suç</value>
+  </data>
+  <data name="GenreName_documentary" xml:space="preserve">
+    <value>Belgesel</value>
+  </data>
+  <data name="GenreName_drama" xml:space="preserve">
+    <value>Dram</value>
+  </data>
+  <data name="GenreName_family" xml:space="preserve">
+    <value>Aile</value>
+  </data>
+  <data name="GenreName_fantasy" xml:space="preserve">
+    <value>Fantastik</value>
+  </data>
+  <data name="GenreName_game_show" xml:space="preserve">
+    <value>Yarışma Programı</value>
+  </data>
+  <data name="GenreName_history" xml:space="preserve">
+    <value>Tarih</value>
+  </data>
+  <data name="GenreName_holiday" xml:space="preserve">
+    <value>Tatil</value>
+  </data>
+  <data name="GenreName_home_and_garden" xml:space="preserve">
+    <value>Ev ve Bahçe</value>
+  </data>
+  <data name="GenreName_horror" xml:space="preserve">
+    <value>Korku</value>
+  </data>
+  <data name="GenreName_music" xml:space="preserve">
+    <value>Müzik</value>
+  </data>
+  <data name="GenreName_musical" xml:space="preserve">
+    <value>Müzikal</value>
+  </data>
+  <data name="GenreName_mystery" xml:space="preserve">
+    <value>Gizem</value>
+  </data>
+  <data name="GenreName_news" xml:space="preserve">
+    <value>Haber</value>
+  </data>
+  <data name="GenreName_none" xml:space="preserve">
+    <value>Yok</value>
+  </data>
+  <data name="GenreName_reality" xml:space="preserve">
+    <value>Gerçeklik</value>
+  </data>
+  <data name="GenreName_romance" xml:space="preserve">
+    <value>Romantik</value>
+  </data>
+  <data name="GenreName_science_fiction" xml:space="preserve">
+    <value>Bilim Kurgu</value>
+  </data>
+  <data name="GenreName_short" xml:space="preserve">
+    <value>Kısa</value>
+  </data>
+  <data name="GenreName_soap" xml:space="preserve">
+    <value>Pembe Dizi</value>
+  </data>
+  <data name="GenreName_special_interest" xml:space="preserve">
+    <value>Özel İlgi</value>
+  </data>
+  <data name="GenreName_sporting_event" xml:space="preserve">
+    <value>Spor Etkinliği</value>
+  </data>
+  <data name="GenreName_superhero" xml:space="preserve">
+    <value>Süper Kahraman</value>
+  </data>
+  <data name="GenreName_suspense" xml:space="preserve">
+    <value>Gerilim</value>
+  </data>
+  <data name="GenreName_action" xml:space="preserve">
+    <value>Aksiyon</value>
+  </data>
+  <data name="GenreName_adventure" xml:space="preserve">
+    <value>Macera</value>
+  </data>
+  <data name="GenreName_animation" xml:space="preserve">
+    <value>Animasyon</value>
+  </data>
+  <data name="GenreName_anime" xml:space="preserve">
+    <value>Anime</value>
+  </data>
+  <data name="GenreName_talk_show" xml:space="preserve">
+    <value>Söyleşi</value>
+  </data>
+  <data name="GenreName_thriller" xml:space="preserve">
+    <value>Gerilim</value>
+  </data>
+  <data name="GenreName_war" xml:space="preserve">
+    <value>Savaş</value>
+  </data>
+  <data name="GenreName_western" xml:space="preserve">
+    <value>Vahşi Batı</value>
+  </data>
+  <data name="GenreName_tv_show" xml:space="preserve">
+    <value>Dizi</value>
+  </data>
+  <data name="ShowDetails_Info_Creator_Single" xml:space="preserve">
+    <value>Yaratıcı</value>
+  </data>
+  <data name="ShowDetails_Info_Creator_Plural" xml:space="preserve">
+    <value>Yaratıcılar</value>
+  </data>
+  <data name="Startup_ConnectionDevicodeCodeModeButton" xml:space="preserve">
+    <value>Yedek 1: kod kullanarak giriş yap</value>
+  </data>
+  <data name="Startup_ConnectionDevicodeCodeMode_Name" xml:space="preserve">
+    <value>Kod kullanarak giriş yap</value>
+  </data>
+  <data name="Startup_ConnectionDevicodeCodeModeExplanationFormat" xml:space="preserve">
+    <value>Tarayıcın açılacak.
+ 
+Trakt'a giriş yap, {0} kodunu gir (önceden doldurulmuş olmalı), ardından uygulamaya geri dön.
+ 
+Bağlantı otomatik olarak algılanacak.
+ 
+Hatırlatma: kodun {0}.</value>
+  </data>
+  <data name="Global_AuthenticationAttempt" xml:space="preserve">
+    <value>Bağlantı deneniyor...</value>
+  </data>
+  <data name="Startup_ConnectionDevicodeCodeModeError" xml:space="preserve">
+    <value>İşe yaramadı. Lütfen giriş işlemini tekrar dene.</value>
+  </data>
+  <data name="Startup_ConnectionLegacyModeButton" xml:space="preserve">
+    <value>Yedek 2: tarayıcıda giriş yap</value>
+  </data>
+  <data name="Settings_BackupAndRestoreTabHeader" xml:space="preserve">
+    <value>Yedekleme ve Geri Yükleme</value>
+  </data>
+  <data name="Show_RecommendThis" xml:space="preserve">
+    <value>Bu diziyi öner</value>
+  </data>
+  <data name="Show_UnrecommendThis" xml:space="preserve">
+    <value>Bu diziyi önerme</value>
+  </data>
+  <data name="Movie_RecommendThis" xml:space="preserve">
+    <value>Bu filmi öner</value>
+  </data>
+  <data name="Movie_UnrecommendThis" xml:space="preserve">
+    <value>Bu filmi önerme</value>
+  </data>
+  <data name="Watchlist_Name" xml:space="preserve">
+    <value>İzleme listesi</value>
+  </data>
+  <data name="Watchlist_Description" xml:space="preserve">
+    <value>İzlemeyi planladığım filmler ve diziler.
+
+</value>
+  </data>
+  <data name="ToastNotifications_Code_MovieReleased" xml:space="preserve">
+    <value>Bu film bugün yayınlandı!</value>
+  </data>
+  <data name="Settings_HideRatingsOfNotYetRatedItems" xml:space="preserve">
+    <value>Henüz kendin puanlamadığın içeriklerin puanları gizlensin mi?</value>
+  </data>
+  <data name="Global_RatingHidedBecauseNotRatedYourself" xml:space="preserve">
+    <value>Önce puanla</value>
+  </data>
+  <data name="Global_Unknow" xml:space="preserve">
+    <value>bilinmiyor</value>
+  </data>
+  <data name="Recommendations_SwitchToMovies" xml:space="preserve">
+    <value>Film önerilerini göster</value>
+  </data>
+  <data name="Recommendations_SwitchToShows" xml:space="preserve">
+    <value>Dizi önerilerini göster</value>
+  </data>
+  <data name="Settings_DisplayUserRatingOnMainList" xml:space="preserve">
+    <value>Dizi ve film listelerinde kendi puanın gösterilsin mi?</value>
+  </data>
+  <data name="Settings_DisplayMainListsConfigHeader" xml:space="preserve">
+    <value>DİZİ VE FİLMLERİNİN ANA LİSTESİ</value>
+  </data>
+  <data name="Settings_DisplayIsRecommendedOnMainList" xml:space="preserve">
+    <value>Dizi ve film listelerinde kişisel öneri durumu gösterilsin mi?</value>
+  </data>
+  <data name="MovieInList_ReleaseAtFormat" xml:space="preserve">
+    <value>Yayınlandı
+{0}</value>
+  </data>
+  <data name="MyRecommendations_Name" xml:space="preserve">
+    <value>Yaptığım öneriler</value>
+  </data>
+  <data name="MyRecommendations_Description" xml:space="preserve">
+    <value>İzlemeni önerdiğim diziler ve filmler.</value>
+  </data>
+  <data name="InAppPurchasePaymentPending_Message" xml:space="preserve">
+    <value>Teşekkürler, ödeme tamamlandığında bu özelliğe erişebileceksin.</value>
+  </data>
+  <data name="InAppPurchasePayment_Thanks_Message" xml:space="preserve">
+    <value>Teşekkür ederim, desteğin benim için çok değerli!</value>
+  </data>
+  <data name="MediaItem_DoNotRecommendThisAnymore" xml:space="preserve">
+    <value>Bunu artık önerme</value>
+  </data>
+  <data name="Settings_DisplayProgressOnMainList" xml:space="preserve">
+    <value>Dizi listelerinde ilerlemen gösterilsin mi?</value>
+  </data>
+  <data name="Settings_AvailableGridModeItemsByRow_Default" xml:space="preserve">
+    <value>Varsayılan - uygulama benim için seçsin</value>
+  </data>
+  <data name="Settings_Display_ItemsByRowHeader_MainHeader" xml:space="preserve">
+    <value>Izgara modunda satır başına içerik sayısı</value>
+  </data>
+  <data name="Settings_Various_SetAsWatchedAtCurrentDateForMovie" xml:space="preserve">
+    <value>Bir filmi izlendi olarak işaretlediğimde geçerli tarih ve saati kullan.</value>
+  </data>
+  <data name="ShowStatusChangesPageTitle" xml:space="preserve">
+    <value>Son dizi durum değişiklikleri</value>
+  </data>
+  <data name="ShowStatusChangesPage_EmptyPlaceholder" xml:space="preserve">
+    <value>En son dizi durum değişiklikleri burada görünecek.
+Şu anda hiç yok gibi görünüyor.
+Daha sonra tekrar gel!</value>
+  </data>
+  <data name="PersonalRecomendation_TooMuchExplanation" xml:space="preserve">
+    <value>Yalnızca 50 kişisel öneri ekleyebilirsin. Bunu eklemeden önce birini kaldır!</value>
+  </data>
+  <data name="Widget_RecentlyAiredEpisodes_Title" xml:space="preserve">
+    <value>YENİ YAYINLANAN BÖLÜMLER</value>
+  </data>
+  <data name="Global_EraseAccount_MenuItem" xml:space="preserve">
+    <value>Hesap silme</value>
+  </data>
+  <data name="Global_EraseAccount_Description" xml:space="preserve">
+    <value>Trakt.tv’den ayrıldığını görmek üzücü. Lütfen sonraki sayfada “hesabı sil” düğmesine tıkla.</value>
+  </data>
+  <data name="Settings_EnableNotifications" xml:space="preserve">
+    <value>Bildirimleri aç</value>
+  </data>
+  <data name="Android_FixNotificationLabel" xml:space="preserve">
+    <value>Bildirimler varsayılan olarak kapalıdır; ayrıca açman gerekir.</value>
+  </data>
+  <data name="Android_FixNotificationActionLabel" xml:space="preserve">
+    <value>DÜZELT</value>
+  </data>
+  <data name="Android_FixNotificationConfirmTitle" xml:space="preserve">
+    <value>Dizi ve film bildirimleri</value>
+  </data>
+  <data name="Android_FixNotificationConfirmQuestion" xml:space="preserve">
+    <value>Bildirimler varsayılan olarak kapalıdır; ayrıca açman gerekir. İki izne onay vermelisin: bildirimler ve kesin alarm.
+
+Bunu daha sonra uygulama ayarlarından istediğin zaman yapabilirsin.
+
+Şimdi yapmak ister misin?</value>
+  </data>
+  <data name="DemoMode_CantDoThis" xml:space="preserve">
+    <value>Bu demo modunda mümkün değil.</value>
+  </data>
+  <data name="Global_Error_AccountLimitExceededTitle" xml:space="preserve">
+    <value>Sınıra Ulaşıldı</value>
+  </data>
+  <data name="Global_Error_AccountLimitExceededContent" xml:space="preserve">
+    <value>Trakt'ın ücretsiz hesaplar için koyduğu sınırlardan birine ulaştın:  
+- İzleme listende en fazla 100 içerik  
+- En fazla 10 kişisel liste  
+
+Bu rahatsızlık için üzgünüm, ancak bu kısıtlamalar Trakt tarafından belirleniyor ve benim kontrolüm dışında.
+
+Yine de bir bölümü izlendi olarak işaretleyerek bir dizi ekleyebilirsin; bu sınıra dahil edilmez.
+
+Bu kısıtlamaları kaldırmak için Trakt'ta VIP aboneliğe yükseltmeyi değerlendirmeni öneririm.</value>
+  </data>
+  <data name="Global_Error_AccountLimitExceededGoToVip" xml:space="preserve">
+    <value>VIP'e yükselt</value>
+  </data>
+  <data name="Changelog_FooterText" xml:space="preserve">
+    <value>Geri bildirimlerin ve önerilerin için teşekkür ederim! Desteğin benim için çok değerli.  💙</value>
+  </data>
+  <data name="Global_OpenLink" xml:space="preserve">
+    <value>Bağlantıyı Aç</value>
+  </data>
+  <data name="Startup_ConnectionDevicodeCode_CopyCodeAndOpenLink" xml:space="preserve">
+    <value>Kodu kopyala ve bağlantıyı aç</value>
+  </data>
+  <data name="AskForTextPlaceholder" xml:space="preserve">
+    <value>Metnini buraya yaz...</value>
+  </data>
+  <data name="Episode_SetAsWatchedSuccess" xml:space="preserve">
+    <value>Bölüm izlendi olarak işaretlendi!</value>
+  </data>
+  <data name="Global_AvailableOptions_CurrentValuePrefix" xml:space="preserve">
+    <value> ➤ Geçerli değer</value>
+  </data>
+  <data name="IncitationToDonate_Title_Text" xml:space="preserve">
+    <value>🎉 Birlikte 100 gün!</value>
+  </data>
+  <data name="IncitationToDonate_Content_Text" xml:space="preserve">
+    <value>Teşekkür etmek için reklamlar 2 hafta boyunca kaldırıldı 😊.
+
+Bu uygulamayı boş zamanlarımda tek başıma geliştiriyorum (3 çocukla geriye ne kalıyorsa 😉).
+
+Projeyi desteklemek istersen çok mutlu olurum 💖!</value>
+  </data>
+  <data name="IncitationToDonate_Ok_Text" xml:space="preserve">
+    <value>Teşekkürler 🙏</value>
+  </data>
+  <data name="IncitationToDonate_Donate_Text" xml:space="preserve">
+    <value>Destek olmak istiyorum 💖</value>
+  </data>
+  <data name="DonationLink" xml:space="preserve">
+    <value>https://gofund.me/8e291670</value>
+  </data>
+  <data name="Calendar_IsSeasonFinaleIndicatorText" xml:space="preserve">
+    <value>SEZON FİNALİ</value>
+  </data>
+  <data name="Calendar_IsSeasonPremiereIndicatorText" xml:space="preserve">
+    <value>SEZON PRÖMİYERİ</value>
+  </data>
+  <data name="Home_UserStats_NumberOfPlaysLabelPlural" xml:space="preserve">
+    <value>bölüm izleme:</value>
+  </data>
+  <data name="Home_UserStats_NumberOfPlaysLabelSingular" xml:space="preserve">
+    <value>bölüm izleme</value>
+  </data>
+  <data name="Home_UserStats_FirstWatchedAt" xml:space="preserve">
+    <value>İlk izleme tarihi</value>
+  </data>
+  <data name="Home_UserStats_NumberOfPlaysPluralFormat" xml:space="preserve">
+    <value>{0} kez</value>
+  </data>
+  <data name="Home_UserStats_NumberOfPlaysSingularFormat" xml:space="preserve">
+    <value>yalnızca {0} kez</value>
+  </data>
+  <data name="Home_UserStats_SeasonsToStartPlural" xml:space="preserve">
+    <value>tam izlenmemiş sezonlar</value>
+  </data>
+  <data name="Home_UserStats_SeasonsToStartSingular" xml:space="preserve">
+    <value>tam izlenmemiş sezon</value>
+  </data>
+  <data name="Global_And" xml:space="preserve">
+    <value>ve</value>
+  </data>
+  <data name="Home_UserStats_WatchTime_EpSeenInSingular_Text" xml:space="preserve">
+    <value>içinde izlenen bölüm</value>
+  </data>
+  <data name="Global_UI_HintOfPinchPossibleContent" xml:space="preserve">
+    <value>Satır başına içerik sayısını değiştirmek için iki parmağınla yakınlaştırıp uzaklaştırabilirsin.</value>
+  </data>
+  <data name="Global_UI_HintToastTitle" xml:space="preserve">
+    <value>💡 İpucu</value>
+  </data>
+  <data name="Episode_SetAsUnseen_MultiplePlays_QuestionTitle" xml:space="preserve">
+    <value>Bu bölümü birden fazla kez izlemişsin!</value>
+  </data>
+  <data name="Episode_SetAsUnseen_MultiplePlays_QuestionContent" xml:space="preserve">
+    <value>Hangi izlemeleri geçmişinden kaldırmak istiyorsun?</value>
+  </data>
+  <data name="Episode_SetAsUnseen_MultiplePlays_QuestionAllRecords" xml:space="preserve">
+    <value>Tüm izlemeler</value>
+  </data>
+  <data name="Settings_LanguageAndFormatHeader_Text" xml:space="preserve">
+    <value>Dil ve Format</value>
+  </data>
+  <data name="Settings_DisplaySection_UserStatsHeader" xml:space="preserve">
+    <value>“İstatistiklerin” bölümü gösterilsin mi?</value>
+  </data>
+  <data name="Settings_HomeSectionsGroupHeader_Text" xml:space="preserve">
+    <value>ANA SAYFA BÖLÜMLERİ</value>
+  </data>
+  <data name="MoviesLists_PanelHeader_WatchlistNotReleased" xml:space="preserve">
+    <value>Yaklaşan</value>
+  </data>
+  <data name="MoviesLists_PanelHeader_WatchlistReleased" xml:space="preserve">
+    <value>Yayınlananlar</value>
+  </data>
+  <data name="Home_UserMenu_YourStats" xml:space="preserve">
+    <value>İzleme İstatistiklerin</value>
+  </data>
+  <data name="Settings_DisplaySectionsWarning" xml:space="preserve">
+    <value>💡 Aynı anda en fazla 5 bölüm gösterebilirsin, bu yüzden yalnızca senin için en önemli olanları bırak. 5’ten fazla seçersen “İstatistiklerin” bölümü otomatik olarak gizlenir.</value>
+  </data>
+  <data name="Home_UserStats_WatchedMoviesInLast6MonthsPlural" xml:space="preserve">
+    <value>son 6 ayda içinde izlenen film</value>
+  </data>
+  <data name="Home_UserStats_WatchedMoviesInLast6MonthsSingle" xml:space="preserve">
+    <value>son 6 ayda içinde izlenen film</value>
+  </data>
+  <data name="History_Filters_CurrentValue_OnlyYours" xml:space="preserve">
+    <value>Sadece seninkiler</value>
+  </data>
+  <data name="History_Filters_CurrentValue_YoursAndFriends" xml:space="preserve">
+    <value>Seninkiler + Arkadaşlar</value>
+  </data>
+  <data name="Settings_Display_ItemsByRowHeader_Home" xml:space="preserve">
+    <value>Dizileri göstermek için</value>
+  </data>
+  <data name="Settings_Display_ItemsByRowHeader_MovieList" xml:space="preserve">
+    <value>Filmleri göstermek için</value>
+  </data>
+  <data name="Settings_Display_ItemsByRowHeader_UserListContent" xml:space="preserve">
+    <value>Bir listenin içeriğini gösteren sayfada</value>
+  </data>
+  <data name="Settings_Display_ItemsByRowHeader_TopOfGenre" xml:space="preserve">
+    <value>Bir türün en iyi içeriklerini gösteren sayfada</value>
+  </data>
+  <data name="UserLists_AccessDenied" xml:space="preserve">
+    <value>Erişim reddedildi: artık bu listeye erişimin yok.</value>
+  </data>
+  <data name="Settings_GridModeRowsWarning" xml:space="preserve">
+    <value>💡 Her sayfada, satır başına içerik sayısını değiştirmek için yakınlaştırmak veya uzaklaştırmak üzere iki parmağınla sıkıştır.
+</value>
+  </data>
+  <data name="MediaItem_WhereToWatchHeader" xml:space="preserve">
+    <value>NEREDEN İZLENİR</value>
+  </data>
+  <data name="MediaItem_WhereToWatchNeedsJustWatchText" xml:space="preserve">
+    <value>Sağlayıcıları göstermek için ülkeni seç (JustWatch)</value>
+  </data>
+  <data name="MediaItem_WhereToWatch_DataProvidedByJustwatch" xml:space="preserve">
+    <value>Veriler JustWatch tarafından sağlanıyor</value>
+  </data>
+  <data name="MediaItem_WhereToWatch_NoProviderFound" xml:space="preserve">
+    <value>Ülkende kullanılabilir sağlayıcı yok gibi görünüyor.</value>
+  </data>
+  <data name="WatchProviderType_Buy" xml:space="preserve">
+    <value>Satın Al</value>
+  </data>
+  <data name="WatchProviderType_Free" xml:space="preserve">
+    <value>Ücretsiz</value>
+  </data>
+  <data name="WatchProviderType_Ads" xml:space="preserve">
+    <value>Yayın</value>
+  </data>
+  <data name="WatchProviderType_Flatrate" xml:space="preserve">
+    <value>Yayın</value>
+  </data>
+  <data name="WatchProviderType_Rent" xml:space="preserve">
+    <value>Kirala</value>
+  </data>
+  <data name="ShowCommentsHeader_Sentiment_Header" xml:space="preserve">
+    <value>TOPLULUK GERİ BİLDİRİMİ</value>
+  </data>
+  <data name="ShowCommentsHeader_Comments_Header" xml:space="preserve">
+    <value>YORUMLAR</value>
+  </data>
+  <data name="PhotoGallery_SetAsPreferredThumbnail" xml:space="preserve">
+    <value>Küçük resim olarak ayarla</value>
+  </data>
+  <data name="PhotoGallery_SetAsNoMorePreferredThumbnail" xml:space="preserve">
+    <value>Artık küçük resim olarak ayarlama</value>
+  </data>
+  <data name="PhotoGallery_Download" xml:space="preserve">
+    <value>Görseli indir</value>
+  </data>
+  <data name="PhotoGallery_IsPreferred" xml:space="preserve">
+    <value>Özel küçük resim</value>
+  </data>
+  <data name="PhotoGallery_SetAsPreferredThumbnail_Success" xml:space="preserve">
+    <value>Bu dizi için küçük resim ayarlandı!</value>
+  </data>
+  <data name="PhotoGallery_SetAsNoMorePreferredThumbnail_Success" xml:space="preserve">
+    <value>Küçük resim varsayılana sıfırlandı!</value>
+  </data>
+  <data name="PhotoGallery_TabTitle" xml:space="preserve">
+    <value>Fotoğraflar</value>
+  </data>
+  <data name="PhotoGallery_IsDefault" xml:space="preserve">
+    <value>Varsayılan küçük resim</value>
+  </data>
+  <data name="Global_CopyLink" xml:space="preserve">
+    <value>Bağlantıyı kopyala</value>
+  </data>
+  <data name="Startup_DifferentAccountDetected_Title" xml:space="preserve">
+    <value>Farklı hesap algılandı</value>
+  </data>
+  <data name="Startup_DifferentAccountDetected_Content" xml:space="preserve">
+    <value>Daha önce “{0}” hesabıyla giriş yapmıştın; şu anki hesap ise “{1}”. Devam edersen tüm yerel veriler silinecek.</value>
+  </data>
+  <data name="Startup_DifferentAccountDetected_Logout" xml:space="preserve">
+    <value>Çıkış yap</value>
+  </data>
+  <data name="Startup_DifferentAccountDetected_Continue" xml:space="preserve">
+    <value>Devam et ve verileri sil</value>
+  </data>
+</root>
