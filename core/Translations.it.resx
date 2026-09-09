@@ -4710,4 +4710,7 @@ Vuoi che l'app disattivi questa impostazione sul tuo account Trakt? Da ora in po
   <data name="TraktImport_Notice_DebugHookArmed" xml:space="preserve">
     <value>Debug: un interruttore del pannello di debug sta modificando il comportamento di questa importazione.</value>
   </data>
+  <data name="MediaItem_Menu_MoreActions" xml:space="preserve">
+    <value>Altre azioni</value>
+  </data>
 </root>

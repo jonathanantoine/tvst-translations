@@ -4736,4 +4736,7 @@ Recordatorio: tu código es {0}.</value>
   <data name="TraktImport_Notice_DebugHookArmed" xml:space="preserve">
     <value>Depuración: un interruptor del panel de depuración está cambiando el comportamiento de esta importación.</value>
   </data>
+  <data name="MediaItem_Menu_MoreActions" xml:space="preserve">
+    <value>Más acciones</value>
+  </data>
 </root>

@@ -4740,4 +4740,7 @@ Você quer que o aplicativo desative essa opção na sua conta Trakt? A partir d
   <data name="TraktImport_Notice_DebugHookArmed" xml:space="preserve">
     <value>Depuração: um interruptor do painel de depuração está alterando o comportamento desta importação.</value>
   </data>
+  <data name="MediaItem_Menu_MoreActions" xml:space="preserve">
+    <value>Mais ações</value>
+  </data>
 </root>

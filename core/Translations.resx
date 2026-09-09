@@ -4703,4 +4703,7 @@ Would you like the app to turn that setting off on your Trakt account? Your view
   <data name="TraktImport_Notice_DebugHookArmed" xml:space="preserve">
     <value>Debug: a switch of the debug panel is changing how this import behaves.</value>
   </data>
+  <data name="MediaItem_Menu_MoreActions" xml:space="preserve">
+    <value>More actions</value>
+  </data>
 </root>

@@ -5992,4 +5992,7 @@ Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? V
   <data name="TraktImport_Notice_DebugHookArmed" xml:space="preserve">
     <value>Debug : un interrupteur du panneau de debug modifie le comportement de cet import.</value>
   </data>
+  <data name="MediaItem_Menu_MoreActions" xml:space="preserve">
+    <value>Plus d'actions</value>
+  </data>
 </root>
