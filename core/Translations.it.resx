@@ -4713,4 +4713,7 @@ Vuoi che l'app disattivi questa impostazione sul tuo account Trakt? Da ora in po
   <data name="MediaItem_Menu_MoreActions" xml:space="preserve">
     <value>Altre azioni</value>
   </data>
+  <data name="ShowDetails_Code_AskMarkManyEpisodesAsNotSeenContent" xml:space="preserve">
+    <value>{0} episodi verranno rimossi dalla cronologia di visione. Confermi?</value>
+  </data>
 </root>

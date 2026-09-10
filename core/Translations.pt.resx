@@ -6082,4 +6082,7 @@ Você quer que o aplicativo desative essa opção na sua conta Trakt? A partir d
   <data name="MediaItem_Menu_MoreActions" xml:space="preserve">
     <value>Mais ações</value>
   </data>
+  <data name="ShowDetails_Code_AskMarkManyEpisodesAsNotSeenContent" xml:space="preserve">
+    <value>{0} episódios serão removidos do seu histórico de visualização. Confirma?</value>
+  </data>
 </root>
