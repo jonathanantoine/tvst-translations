@@ -2645,7 +2645,7 @@ d'être pleine de surprises !</value>
   </data><data
  name     ="Settings_Data_TrackingTargetLabel"
  xml:space="preserve">
-    <value>OÙ AJOUTER LES SÉRIES ?</value>
+    <value>Où ajouter les séries ?</value>
   </data><data
  name     ="Settings_Data_TrackingTarget_Both"
  xml:space="preserve">

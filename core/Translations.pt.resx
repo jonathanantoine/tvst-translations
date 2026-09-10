@@ -2580,7 +2580,7 @@ merece ser divertida!</value>
   <data
       name="Settings_Data_TrackingTargetLabel"
       xml:space="preserve">
-    <value>ONDE ADICIONAR AS SÉRIES?</value>
+    <value>Onde adicionar as séries?</value>
   </data>
   <data
       name="Settings_Data_TrackingTarget_Both"

@@ -1655,7 +1655,7 @@ merita di essere divertente!</value>
     <value>Esci dalla modalità demo.</value>
   </data>
     <data name="Settings_Data_TrackingTargetLabel" xml:space="preserve">
-    <value>DOVE AGGIUNGERE SERIE TV?</value>
+    <value>Dove aggiungere serie TV?</value>
   </data>
     <data name="Settings_Data_TrackingTarget_Both" xml:space="preserve">
     <value>Raccolta e Watchlist</value>

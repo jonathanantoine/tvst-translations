@@ -1675,7 +1675,7 @@ y tendencias mundiales!</value>
     <value>Salir del modo DEMO</value>
   </data>
     <data name="Settings_Data_TrackingTargetLabel" xml:space="preserve">
-    <value>¿DÓNDE ANUNCIAR TUS SERIES?</value>
+    <value>¿Dónde anunciar tus series?</value>
   </data>
     <data name="Settings_Data_TrackingTarget_Both" xml:space="preserve">
     <value>Colección y Watchlist</value>
