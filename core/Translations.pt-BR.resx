@@ -4746,4 +4746,19 @@ Você quer que o aplicativo desative essa opção na sua conta Trakt? A partir d
   <data name="ShowDetails_Code_AskMarkManyEpisodesAsNotSeenContent" xml:space="preserve">
     <value>{0} episódios serão removidos do seu histórico de visualização. Confirma?</value>
   </data>
+  <data name="SetAsSeenAtAGivenDate_Label_Date" xml:space="preserve">
+    <value>Data</value>
+  </data>
+  <data name="SetAsSeenAtAGivenDate_Label_Time" xml:space="preserve">
+    <value>Hora</value>
+  </data>
+  <data name="SetAsSeenAtAGivenDate_Shortcut_Now" xml:space="preserve">
+    <value>Agora</value>
+  </data>
+  <data name="SetAsSeenAtAGivenDate_Shortcut_Yesterday" xml:space="preserve">
+    <value>Ontem</value>
+  </data>
+  <data name="SetAsSeenAtAGivenDate_Shortcut_ReleaseDate" xml:space="preserve">
+    <value>Data de lançamento</value>
+  </data>
 </root>

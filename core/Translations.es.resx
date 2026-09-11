@@ -4742,4 +4742,19 @@ Recordatorio: tu código es {0}.</value>
   <data name="ShowDetails_Code_AskMarkManyEpisodesAsNotSeenContent" xml:space="preserve">
     <value>{0} episodios se eliminarán de su historial de visualización. ¿Confirma?</value>
   </data>
+  <data name="SetAsSeenAtAGivenDate_Label_Date" xml:space="preserve">
+    <value>Fecha</value>
+  </data>
+  <data name="SetAsSeenAtAGivenDate_Label_Time" xml:space="preserve">
+    <value>Hora</value>
+  </data>
+  <data name="SetAsSeenAtAGivenDate_Shortcut_Now" xml:space="preserve">
+    <value>Ahora</value>
+  </data>
+  <data name="SetAsSeenAtAGivenDate_Shortcut_Yesterday" xml:space="preserve">
+    <value>Ayer</value>
+  </data>
+  <data name="SetAsSeenAtAGivenDate_Shortcut_ReleaseDate" xml:space="preserve">
+    <value>Fecha de estreno</value>
+  </data>
 </root>
