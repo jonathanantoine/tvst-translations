@@ -6013,4 +6013,7 @@ Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? V
   <data name="SetAsSeenAtAGivenDate_Shortcut_ReleaseDate" xml:space="preserve">
     <value>Date de diffusion</value>
   </data>
+  <data name="SetAsSeenAtAGivenDate_ScreenTitle" xml:space="preserve">
+    <value>Quand l'avez-vous regardé ?</value>
+  </data>
 </root>

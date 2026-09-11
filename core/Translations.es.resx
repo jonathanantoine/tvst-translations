@@ -4757,4 +4757,7 @@ Recordatorio: tu código es {0}.</value>
   <data name="SetAsSeenAtAGivenDate_Shortcut_ReleaseDate" xml:space="preserve">
     <value>Fecha de estreno</value>
   </data>
+  <data name="SetAsSeenAtAGivenDate_ScreenTitle" xml:space="preserve">
+    <value>¿Cuándo lo vio?</value>
+  </data>
 </root>

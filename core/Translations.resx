@@ -4724,4 +4724,7 @@ Would you like the app to turn that setting off on your Trakt account? Your view
   <data name="SetAsSeenAtAGivenDate_Shortcut_ReleaseDate" xml:space="preserve">
     <value>Release date</value>
   </data>
+  <data name="SetAsSeenAtAGivenDate_ScreenTitle" xml:space="preserve">
+    <value>When did you watch it?</value>
+  </data>
 </root>

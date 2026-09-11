@@ -4731,4 +4731,7 @@ Vuoi che l'app disattivi questa impostazione sul tuo account Trakt? Da ora in po
   <data name="SetAsSeenAtAGivenDate_Shortcut_ReleaseDate" xml:space="preserve">
     <value>Data di uscita</value>
   </data>
+  <data name="SetAsSeenAtAGivenDate_ScreenTitle" xml:space="preserve">
+    <value>Quando l'ha guardato?</value>
+  </data>
 </root>

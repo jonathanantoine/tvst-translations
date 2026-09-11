@@ -6100,4 +6100,7 @@ Você quer que o aplicativo desative essa opção na sua conta Trakt? A partir d
   <data name="SetAsSeenAtAGivenDate_Shortcut_ReleaseDate" xml:space="preserve">
     <value>Data de lançamento</value>
   </data>
+  <data name="SetAsSeenAtAGivenDate_ScreenTitle" xml:space="preserve">
+    <value>Quando é que viu?</value>
+  </data>
 </root>
