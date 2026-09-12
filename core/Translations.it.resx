@@ -4734,4 +4734,7 @@ Vuoi che l'app disattivi questa impostazione sul tuo account Trakt? Da ora in po
   <data name="SetAsSeenAtAGivenDate_ScreenTitle" xml:space="preserve">
     <value>Quando l'ha guardato?</value>
   </data>
+  <data name="ShowDetails_ScrollToFirstNotSeenEpisode_Tooltip" xml:space="preserve">
+    <value>Vai al primo episodio non visto</value>
+  </data>
 </root>

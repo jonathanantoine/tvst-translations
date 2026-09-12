@@ -4764,4 +4764,7 @@ Você quer que o aplicativo desative essa opção na sua conta Trakt? A partir d
   <data name="SetAsSeenAtAGivenDate_ScreenTitle" xml:space="preserve">
     <value>Quando você assistiu?</value>
   </data>
+  <data name="ShowDetails_ScrollToFirstNotSeenEpisode_Tooltip" xml:space="preserve">
+    <value>Ir para o primeiro episódio não assistido</value>
+  </data>
 </root>

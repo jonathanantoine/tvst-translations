@@ -4760,4 +4760,7 @@ Recordatorio: tu código es {0}.</value>
   <data name="SetAsSeenAtAGivenDate_ScreenTitle" xml:space="preserve">
     <value>¿Cuándo lo vio?</value>
   </data>
+  <data name="ShowDetails_ScrollToFirstNotSeenEpisode_Tooltip" xml:space="preserve">
+    <value>Ir al primer episodio no visto</value>
+  </data>
 </root>

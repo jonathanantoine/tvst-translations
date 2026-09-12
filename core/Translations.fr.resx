@@ -6016,4 +6016,7 @@ Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? V
   <data name="SetAsSeenAtAGivenDate_ScreenTitle" xml:space="preserve">
     <value>Quand l'avez-vous regardé ?</value>
   </data>
+  <data name="ShowDetails_ScrollToFirstNotSeenEpisode_Tooltip" xml:space="preserve">
+    <value>Aller au premier épisode non vu</value>
+  </data>
 </root>

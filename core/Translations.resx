@@ -4727,4 +4727,7 @@ Would you like the app to turn that setting off on your Trakt account? Your view
   <data name="SetAsSeenAtAGivenDate_ScreenTitle" xml:space="preserve">
     <value>When did you watch it?</value>
   </data>
+  <data name="ShowDetails_ScrollToFirstNotSeenEpisode_Tooltip" xml:space="preserve">
+    <value>Go to the first episode not seen yet</value>
+  </data>
 </root>
