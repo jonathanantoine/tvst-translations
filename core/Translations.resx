@@ -226,7 +226,7 @@ Click here and make donation!</value>
     <value>No more results. Try refining your search, or switch the search engine from the menu in the top right corner.</value>
   </data>
   <data name="Search_CannotLoadFromTrakt" xml:space="preserve">
-    <value>Cannot perform a search on trakt.tv, please check your internet connection and retry.</value>
+    <value>Cannot perform a search on trakt.tv, please try again later.</value>
   </data>
   <data name="Donation_Button_Combo_Text" xml:space="preserve">
     <value>ALL IN ONE PACK!</value>
@@ -300,13 +300,13 @@ coffee and happiness from my kids and wife.</value>
     <value>ADD THE SHOW?</value>
   </data>
   <data name="Episode_Code_UpdateSeenInfo_ErrorMarkingAsNotSeen" xml:space="preserve">
-    <value>Cannot set this episode as NOT watched, check your internet connection and try again.</value>
+    <value>Cannot set this episode as NOT watched, please try again later.</value>
   </data>
   <data name="Episode_Code_UpdateSeenInfo_ErrorMarkingAsSeen" xml:space="preserve">
-    <value>Cannot set this episode as watched, check your internet connection and try again.</value>
+    <value>Cannot set this episode as watched, please try again later.</value>
   </data>
   <data name="Error_GenericText_Part1_Text" xml:space="preserve">
-    <value>An unexpected error occurred, please check your internet connection and try again.</value>
+    <value>An unexpected error occurred, please try again later.</value>
   </data>
   <data name="Frame_Code_OkButton" xml:space="preserve">
     <value>I'VE GOT IT</value>
@@ -4729,5 +4729,26 @@ Would you like the app to turn that setting off on your Trakt account? Your view
   </data>
   <data name="ShowDetails_ScrollToFirstNotSeenEpisode_Tooltip" xml:space="preserve">
     <value>Go to the first episode not seen yet</value>
+  </data>
+  <data name="Global_OpenMailApp" xml:space="preserve">
+    <value>Open the mail app</value>
+  </data>
+  <data name="Global_CopyEmailAddress" xml:space="preserve">
+    <value>Copy the email address</value>
+  </data>
+  <data name="Global_EmailAddressCopied" xml:space="preserve">
+    <value>Email address copied</value>
+  </data>
+  <data name="Settings_Various_CopyDebugInfo" xml:space="preserve">
+    <value>Copy the debug info</value>
+  </data>
+  <data name="Settings_Various_DebugInfoCopied" xml:space="preserve">
+    <value>Debug info copied</value>
+  </data>
+  <data name="Error_NoInternetConnection_Text" xml:space="preserve">
+    <value>No internet connection. Please check your connection and try again.</value>
+  </data>
+  <data name="StatusDisplay_SyncFailureUnknown" xml:space="preserve">
+    <value>sync failure ({0}), please try again later</value>
   </data>
 </root>

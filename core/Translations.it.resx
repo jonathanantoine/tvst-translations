@@ -226,7 +226,7 @@ Clicca qui e fai una donazione!</value>
     <value>SINCRONIZZAZIONE DEL CALENDARIO</value>
   </data>
     <data name="Search_CannotLoadFromTrakt" xml:space="preserve">
-    <value>Non è possibile accedere a Trakt.tv, controlla la tua connessione internet...</value>
+    <value>Non è possibile effettuare una ricerca su Trakt.tv, riprova più tardi.</value>
   </data>
     <data name="Search_Tutorial_Text" xml:space="preserve">
     <value>Inserisci "nomi completi", i titoli parziali potrebbero non essere trovati</value>
@@ -316,13 +316,13 @@ per i miei figli e mia moglie.</value>
     <value>VALUTA QUESTO EPISODIO</value>
   </data>
     <data name="Episode_Code_UpdateSeenInfo_ErrorMarkingAsNotSeen" xml:space="preserve">
-    <value>Impossibile contrassegnare questo episodio come NON visto, controlla la tua connessione Internet e riprova.</value>
+    <value>Impossibile contrassegnare questo episodio come NON visto, riprova più tardi.</value>
   </data>
     <data name="Episode_Code_UpdateSeenInfo_ErrorMarkingAsSeen" xml:space="preserve">
-    <value>Impossibile contrassegnare questo episodio come visto, controlla la tua connessione Internet e riprova.</value>
+    <value>Impossibile contrassegnare questo episodio come visto, riprova più tardi.</value>
   </data>
     <data name="Error_GenericText_Part1_Text" xml:space="preserve">
-    <value>Si è verificato un errore imprevisto, controlla la tua connessione Internet e riprova.</value>
+    <value>Si è verificato un errore imprevisto, riprova più tardi.</value>
   </data>
     <data name="Frame_Code_OkButton" xml:space="preserve">
     <value>OK</value>
@@ -4736,5 +4736,26 @@ Vuoi che l'app disattivi questa impostazione sul tuo account Trakt? Da ora in po
   </data>
   <data name="ShowDetails_ScrollToFirstNotSeenEpisode_Tooltip" xml:space="preserve">
     <value>Vai al primo episodio non visto</value>
+  </data>
+  <data name="Global_OpenMailApp" xml:space="preserve">
+    <value>Apri l'app di posta</value>
+  </data>
+  <data name="Global_CopyEmailAddress" xml:space="preserve">
+    <value>Copia l'indirizzo e-mail</value>
+  </data>
+  <data name="Global_EmailAddressCopied" xml:space="preserve">
+    <value>Indirizzo e-mail copiato</value>
+  </data>
+  <data name="Settings_Various_CopyDebugInfo" xml:space="preserve">
+    <value>Copia le informazioni di debug</value>
+  </data>
+  <data name="Settings_Various_DebugInfoCopied" xml:space="preserve">
+    <value>Informazioni di debug copiate</value>
+  </data>
+  <data name="Error_NoInternetConnection_Text" xml:space="preserve">
+    <value>Nessuna connessione Internet. Controlla la tua connessione e riprova.</value>
+  </data>
+  <data name="StatusDisplay_SyncFailureUnknown" xml:space="preserve">
+    <value>sincronizzazione non riuscita ({0}), riprova più tardi</value>
   </data>
 </root>

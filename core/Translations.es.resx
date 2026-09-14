@@ -231,7 +231,7 @@ Estás usando la versión {0}</value>
     <value>No hay más resultados. Intenta afinar tu búsqueda, o cambia de motor de búsqueda desde el menú en la esquina superior derecha.</value>
   </data>
     <data name="Search_CannotLoadFromTrakt" xml:space="preserve">
-    <value>No se puede hacer la búsqueda en trakt.tv, por favor comprueba tu conexión a internet e inténtalo de nuevo.</value>
+    <value>No se puede hacer la búsqueda en trakt.tv, por favor inténtalo de nuevo más tarde.</value>
   </data>
     <data name="Donation_Button_Combo_Text" xml:space="preserve">
     <value>¡TODO EN UN PAQUETE!</value>
@@ -305,13 +305,13 @@ y la felicidad de mis hijos y mi mujer.</value>
     <value>AÑADIR LA SERIE?</value>
   </data>
     <data name="Episode_Code_UpdateSeenInfo_ErrorMarkingAsNotSeen" xml:space="preserve">
-    <value>No se puede marcar este episodio como NO visto, comprueba tu conexión a internet y prueba de nuevo.</value>
+    <value>No se puede marcar este episodio como NO visto, por favor inténtalo de nuevo más tarde.</value>
   </data>
     <data name="Episode_Code_UpdateSeenInfo_ErrorMarkingAsSeen" xml:space="preserve">
-    <value>No se puede marcar este episodio como visto, comprueba tu conexión a internet y prueba de nuevo.</value>
+    <value>No se puede marcar este episodio como visto, por favor inténtalo de nuevo más tarde.</value>
   </data>
     <data name="Error_GenericText_Part1_Text" xml:space="preserve">
-    <value>Se ha producido un error, por favor comprueba tu conexión a internet y prueba de nuevo</value>
+    <value>Se ha producido un error inesperado, por favor inténtalo de nuevo más tarde.</value>
   </data>
     <data name="Frame_Code_OkButton" xml:space="preserve">
     <value>ENTENDIDO</value>
@@ -4762,5 +4762,26 @@ Recordatorio: tu código es {0}.</value>
   </data>
   <data name="ShowDetails_ScrollToFirstNotSeenEpisode_Tooltip" xml:space="preserve">
     <value>Ir al primer episodio no visto</value>
+  </data>
+  <data name="Global_OpenMailApp" xml:space="preserve">
+    <value>Abrir la aplicación de correo</value>
+  </data>
+  <data name="Global_CopyEmailAddress" xml:space="preserve">
+    <value>Copiar la dirección de correo</value>
+  </data>
+  <data name="Global_EmailAddressCopied" xml:space="preserve">
+    <value>Dirección de correo copiada</value>
+  </data>
+  <data name="Settings_Various_CopyDebugInfo" xml:space="preserve">
+    <value>Copiar la información de depuración</value>
+  </data>
+  <data name="Settings_Various_DebugInfoCopied" xml:space="preserve">
+    <value>Información de depuración copiada</value>
+  </data>
+  <data name="Error_NoInternetConnection_Text" xml:space="preserve">
+    <value>Sin conexión a internet. Por favor comprueba tu conexión y prueba de nuevo.</value>
+  </data>
+  <data name="StatusDisplay_SyncFailureUnknown" xml:space="preserve">
+    <value>fallo en la sincronización ({0}), por favor inténtalo de nuevo más tarde</value>
   </data>
 </root>

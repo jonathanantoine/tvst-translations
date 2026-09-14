@@ -245,7 +245,7 @@ Você está usando a versão {0}</value>
     <value>SINCRONIZAÇÃO DE CALENDÁRIO</value>
   </data>
     <data name="Search_CannotLoadFromTrakt" xml:space="preserve">
-    <value>Não é possível pesquisar no Trakt.tv, verifique sua conexão com a internet...</value>
+    <value>Não é possível pesquisar no Trakt.tv, por favor tente novamente mais tarde.</value>
   </data>
     <data name="Search_Tutorial_Text" xml:space="preserve">
     <value>Por favor, digite "nomes completos", títulos parciais podem não ser encontrados</value>
@@ -317,13 +317,13 @@ filhos e minha esposa.</value>
     <value>ADICIONAR A SÉRIE?</value>
   </data>
     <data name="Episode_Code_UpdateSeenInfo_ErrorMarkingAsNotSeen" xml:space="preserve">
-    <value>Impossível marcar este episódio como NÃO visto, verifique sua conexão com a internet e tente de novo.</value>
+    <value>Impossível marcar este episódio como NÃO visto, por favor tente novamente mais tarde.</value>
   </data>
     <data name="Episode_Code_UpdateSeenInfo_ErrorMarkingAsSeen" xml:space="preserve">
-    <value>Impossível marcar este episódio como visto , verifique sua conexão com a internet e tente de novo.</value>
+    <value>Impossível marcar este episódio como visto, por favor tente novamente mais tarde.</value>
   </data>
     <data name="Error_GenericText_Part1_Text" xml:space="preserve">
-    <value>Um erro inesperado aconteceu, por favor verifique sua conexão com a internet e tente novamente.</value>
+    <value>Ocorreu um erro inesperado, por favor tente novamente mais tarde.</value>
   </data>
     <data name="Frame_Code_OkButton" xml:space="preserve">
     <value>OK</value>
@@ -4766,5 +4766,26 @@ Você quer que o aplicativo desative essa opção na sua conta Trakt? A partir d
   </data>
   <data name="ShowDetails_ScrollToFirstNotSeenEpisode_Tooltip" xml:space="preserve">
     <value>Ir para o primeiro episódio não assistido</value>
+  </data>
+  <data name="Global_OpenMailApp" xml:space="preserve">
+    <value>Abrir o app de e-mail</value>
+  </data>
+  <data name="Global_CopyEmailAddress" xml:space="preserve">
+    <value>Copiar o endereço de e-mail</value>
+  </data>
+  <data name="Global_EmailAddressCopied" xml:space="preserve">
+    <value>Endereço de e-mail copiado</value>
+  </data>
+  <data name="Settings_Various_CopyDebugInfo" xml:space="preserve">
+    <value>Copiar as informações de depuração</value>
+  </data>
+  <data name="Settings_Various_DebugInfoCopied" xml:space="preserve">
+    <value>Informações de depuração copiadas</value>
+  </data>
+  <data name="Error_NoInternetConnection_Text" xml:space="preserve">
+    <value>Sem conexão com a internet. Por favor verifique sua conexão e tente novamente.</value>
+  </data>
+  <data name="StatusDisplay_SyncFailureUnknown" xml:space="preserve">
+    <value>a sincronização falhou ({0}), por favor tente novamente mais tarde</value>
   </data>
 </root>

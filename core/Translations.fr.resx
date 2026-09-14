@@ -342,7 +342,7 @@ Cliquez-ici pour faire une donation !</value>
   <data
       name     ="Search_CannotLoadFromTrakt"
       xml:space="preserve">
-    <value>Impossible d'effectuer une recherche sur Trakt.tv, merci de vérifier votre connexion internet...</value>
+    <value>Impossible d'effectuer une recherche sur Trakt.tv, merci de réessayer plus tard.</value>
   </data>
   <data
       name     ="Search_Tutorial_Text"
@@ -498,7 +498,7 @@ femme et mes enfants.</value>
   <data
     name     ="Error_GenericText_Part1_Text"
     xml:space="preserve">
-    <value>Une erreur s'est produite, merci de vérifier votre connexion internet...</value>
+    <value>Une erreur inattendue s'est produite, merci de réessayer plus tard.</value>
   </data>
   <data
       name     ="Frame_Code_OkButton"
@@ -6018,5 +6018,26 @@ Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? V
   </data>
   <data name="ShowDetails_ScrollToFirstNotSeenEpisode_Tooltip" xml:space="preserve">
     <value>Aller au premier épisode non vu</value>
+  </data>
+  <data name="Global_OpenMailApp" xml:space="preserve">
+    <value>Ouvrir l'application de messagerie</value>
+  </data>
+  <data name="Global_CopyEmailAddress" xml:space="preserve">
+    <value>Copier l'adresse e-mail</value>
+  </data>
+  <data name="Global_EmailAddressCopied" xml:space="preserve">
+    <value>Adresse e-mail copiée</value>
+  </data>
+  <data name="Settings_Various_CopyDebugInfo" xml:space="preserve">
+    <value>Copier les informations de débogage</value>
+  </data>
+  <data name="Settings_Various_DebugInfoCopied" xml:space="preserve">
+    <value>Informations de débogage copiées</value>
+  </data>
+  <data name="Error_NoInternetConnection_Text" xml:space="preserve">
+    <value>Pas de connexion internet. Merci de vérifier votre connexion et de réessayer.</value>
+  </data>
+  <data name="StatusDisplay_SyncFailureUnknown" xml:space="preserve">
+    <value>erreur de synchronisation ({0}), merci de réessayer plus tard</value>
   </data>
 </root>
