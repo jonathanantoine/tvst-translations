@@ -4784,4 +4784,19 @@ Recordatorio: tu código es {0}.</value>
   <data name="StatusDisplay_SyncFailureUnknown" xml:space="preserve">
     <value>fallo en la sincronización ({0}), por favor inténtalo de nuevo más tarde</value>
   </data>
+  <data name="Home_Code_MyShowWithNoEpisodeToSeeUnknownNextEpisodeGroupHeader_Plural" xml:space="preserve">
+    <value>{0} SERIES EN EMISIÓN, PRÓXIMO EP. DESCONOCIDO</value>
+  </data>
+  <data name="Home_Code_MyShowWithNoEpisodeToSeeUnknownNextEpisodeGroupHeader_Single" xml:space="preserve">
+    <value>{0} SERIE EN EMISIÓN, PRÓXIMO EP. DESCONOCIDO</value>
+  </data>
+  <data name="Settings_Data_GroupCurrentShowsWithUnknownNextEpisode_Text" xml:space="preserve">
+    <value>Un grupo separado para las series al día sin fecha de emisión conocida</value>
+  </data>
+  <data name="Settings_Data_GroupCurrentShowsWithUnknownNextEpisode_Subtitle" xml:space="preserve">
+    <value>Entre las series al día, mueve aquellas cuyo próximo episodio no tiene fecha de emisión conocida a un grupo justo debajo.</value>
+  </data>
+  <data name="Settings_Display_SeasonInProgressGroupFirst_Text" xml:space="preserve">
+    <value>Mostrar primero las temporadas en emisión</value>
+  </data>
 </root>

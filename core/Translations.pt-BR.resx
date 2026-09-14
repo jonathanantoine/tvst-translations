@@ -4788,4 +4788,19 @@ Você quer que o aplicativo desative essa opção na sua conta Trakt? A partir d
   <data name="StatusDisplay_SyncFailureUnknown" xml:space="preserve">
     <value>a sincronização falhou ({0}), por favor tente novamente mais tarde</value>
   </data>
+  <data name="Home_Code_MyShowWithNoEpisodeToSeeUnknownNextEpisodeGroupHeader_Plural" xml:space="preserve">
+    <value>{0} SÉRIES COMPLETAS, PRÓXIMO EPISÓDIO DESCONHECIDO</value>
+  </data>
+  <data name="Home_Code_MyShowWithNoEpisodeToSeeUnknownNextEpisodeGroupHeader_Single" xml:space="preserve">
+    <value>{0} SÉRIE COMPLETA, PRÓXIMO EPISÓDIO DESCONHECIDO</value>
+  </data>
+  <data name="Settings_Data_GroupCurrentShowsWithUnknownNextEpisode_Text" xml:space="preserve">
+    <value>Um grupo separado para as séries em dia sem data de exibição conhecida</value>
+  </data>
+  <data name="Settings_Data_GroupCurrentShowsWithUnknownNextEpisode_Subtitle" xml:space="preserve">
+    <value>Entre as séries em dia, move aquelas cujo próximo episódio não tem data de exibição conhecida para um grupo logo abaixo.</value>
+  </data>
+  <data name="Settings_Display_SeasonInProgressGroupFirst_Text" xml:space="preserve">
+    <value>Mostrar primeiro as temporadas em exibição</value>
+  </data>
 </root>

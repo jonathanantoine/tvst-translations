@@ -4751,4 +4751,19 @@ Would you like the app to turn that setting off on your Trakt account? Your view
   <data name="StatusDisplay_SyncFailureUnknown" xml:space="preserve">
     <value>sync failure ({0}), please try again later</value>
   </data>
+  <data name="Home_Code_MyShowWithNoEpisodeToSeeUnknownNextEpisodeGroupHeader_Plural" xml:space="preserve">
+    <value>{0} CURRENT SHOWS, NEXT EPISODE UNKNOWN</value>
+  </data>
+  <data name="Home_Code_MyShowWithNoEpisodeToSeeUnknownNextEpisodeGroupHeader_Single" xml:space="preserve">
+    <value>{0} CURRENT SHOW, NEXT EPISODE UNKNOWN</value>
+  </data>
+  <data name="Settings_Data_GroupCurrentShowsWithUnknownNextEpisode_Text" xml:space="preserve">
+    <value>A separate group for current shows with no known air date</value>
+  </data>
+  <data name="Settings_Data_GroupCurrentShowsWithUnknownNextEpisode_Subtitle" xml:space="preserve">
+    <value>Among the current shows you are up to date with, moves those whose next episode has no known air date to a group just below.</value>
+  </data>
+  <data name="Settings_Display_SeasonInProgressGroupFirst_Text" xml:space="preserve">
+    <value>Show the seasons still airing first</value>
+  </data>
 </root>

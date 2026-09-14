@@ -6040,4 +6040,19 @@ Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? V
   <data name="StatusDisplay_SyncFailureUnknown" xml:space="preserve">
     <value>erreur de synchronisation ({0}), merci de réessayer plus tard</value>
   </data>
+  <data name="Home_Code_MyShowWithNoEpisodeToSeeUnknownNextEpisodeGroupHeader_Plural" xml:space="preserve">
+    <value>{0} SÉRIES VUES, PROCHAIN ÉPISODE INCONNU</value>
+  </data>
+  <data name="Home_Code_MyShowWithNoEpisodeToSeeUnknownNextEpisodeGroupHeader_Single" xml:space="preserve">
+    <value>{0} SÉRIE VUE, PROCHAIN ÉPISODE INCONNU</value>
+  </data>
+  <data name="Settings_Data_GroupCurrentShowsWithUnknownNextEpisode_Text" xml:space="preserve">
+    <value>Un groupe séparé pour les séries à jour sans date de diffusion connue</value>
+  </data>
+  <data name="Settings_Data_GroupCurrentShowsWithUnknownNextEpisode_Subtitle" xml:space="preserve">
+    <value>Parmi les séries à jour, déplace celles dont le prochain épisode n'a pas de date de diffusion connue dans un groupe juste en dessous.</value>
+  </data>
+  <data name="Settings_Display_SeasonInProgressGroupFirst_Text" xml:space="preserve">
+    <value>Afficher les saisons en cours en premier</value>
+  </data>
 </root>

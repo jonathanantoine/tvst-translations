@@ -4758,4 +4758,19 @@ Vuoi che l'app disattivi questa impostazione sul tuo account Trakt? Da ora in po
   <data name="StatusDisplay_SyncFailureUnknown" xml:space="preserve">
     <value>sincronizzazione non riuscita ({0}), riprova più tardi</value>
   </data>
+  <data name="Home_Code_MyShowWithNoEpisodeToSeeUnknownNextEpisodeGroupHeader_Plural" xml:space="preserve">
+    <value>{0} SERIE TV VISTE, PROSSIMO EPISODIO SCONOSCIUTO</value>
+  </data>
+  <data name="Home_Code_MyShowWithNoEpisodeToSeeUnknownNextEpisodeGroupHeader_Single" xml:space="preserve">
+    <value>{0} SERIE TV VISTA, PROSSIMO EPISODIO SCONOSCIUTO</value>
+  </data>
+  <data name="Settings_Data_GroupCurrentShowsWithUnknownNextEpisode_Text" xml:space="preserve">
+    <value>Un gruppo separato per le serie in pari senza data di messa in onda nota</value>
+  </data>
+  <data name="Settings_Data_GroupCurrentShowsWithUnknownNextEpisode_Subtitle" xml:space="preserve">
+    <value>Tra le serie in pari, sposta quelle il cui prossimo episodio non ha una data di messa in onda nota in un gruppo subito sotto.</value>
+  </data>
+  <data name="Settings_Display_SeasonInProgressGroupFirst_Text" xml:space="preserve">
+    <value>Mostrare prima le stagioni in corso</value>
+  </data>
 </root>
