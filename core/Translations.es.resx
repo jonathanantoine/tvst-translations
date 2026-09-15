@@ -4811,4 +4811,74 @@ Recordatorio: tu código es {0}.</value>
   <data name="Profile_ChangeAvatar_OnWebsite" xml:space="preserve">
     <value>Su foto de perfil y su portada se cambian en el sitio web de Trakt, en los ajustes del perfil. ¿Abrir la página ahora?</value>
   </data>
+  <data name="Home_UserStats_ScreenTime_GroupHeader_Text" xml:space="preserve">
+    <value>TIEMPO DE PANTALLA</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_Period7Days" xml:space="preserve">
+    <value>7 días</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_Period30Days" xml:space="preserve">
+    <value>30 días</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_RangeFormat" xml:space="preserve">
+    <value>del {0} al {1}</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_EpisodesSingle" xml:space="preserve">
+    <value>{0} episodio</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_EpisodesPlural" xml:space="preserve">
+    <value>{0} episodios</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_MoviesSingle" xml:space="preserve">
+    <value>{0} película</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_MoviesPlural" xml:space="preserve">
+    <value>{0} películas</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_Today" xml:space="preserve">
+    <value>hoy</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_Tile_DailyAverage" xml:space="preserve">
+    <value>Media diaria</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_Tile_Total" xml:space="preserve">
+    <value>Total</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_Tile_Shows" xml:space="preserve">
+    <value>Series</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_Tile_Movies" xml:space="preserve">
+    <value>Películas</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_DeltaCaptionFormat" xml:space="preserve">
+    <value>▲ ▼ diferencia respecto a los {0} días anteriores ({1})</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_PeakHours_Header" xml:space="preserve">
+    <value>Horas punta</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_Hours_Morning" xml:space="preserve">
+    <value>Mañana</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_Hours_Afternoon" xml:space="preserve">
+    <value>Tarde</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_Hours_Evening" xml:space="preserve">
+    <value>Noche</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_Hours_Night" xml:space="preserve">
+    <value>Madrugada</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_Empty_Text" xml:space="preserve">
+    <value>Nada visto en este período.</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_PeakHours_Help" xml:space="preserve">
+    <value>Su tiempo de visionado por momento del día en el período elegido, según la hora en que cada episodio o película se marcó como visto.
+
+Mañana: de {0} a {1}
+Tarde: de {2} a {3}
+Noche: de {4} a {5}
+Madrugada: de {6} a {7}
+
+Una temporada marcada como vista de una vez cuenta a la hora en que la marcó.</value>
+  </data>
 </root>

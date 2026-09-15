@@ -4785,4 +4785,74 @@ Vuoi che l'app disattivi questa impostazione sul tuo account Trakt? Da ora in po
   <data name="Profile_ChangeAvatar_OnWebsite" xml:space="preserve">
     <value>La foto del profilo e la copertina si cambiano sul sito Trakt, nelle impostazioni del profilo. Aprire la pagina adesso?</value>
   </data>
+  <data name="Home_UserStats_ScreenTime_GroupHeader_Text" xml:space="preserve">
+    <value>TEMPO DI VISIONE</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_Period7Days" xml:space="preserve">
+    <value>7 gg</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_Period30Days" xml:space="preserve">
+    <value>30 gg</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_RangeFormat" xml:space="preserve">
+    <value>dal {0} al {1}</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_EpisodesSingle" xml:space="preserve">
+    <value>{0} episodio</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_EpisodesPlural" xml:space="preserve">
+    <value>{0} episodi</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_MoviesSingle" xml:space="preserve">
+    <value>{0} film</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_MoviesPlural" xml:space="preserve">
+    <value>{0} film</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_Today" xml:space="preserve">
+    <value>oggi</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_Tile_DailyAverage" xml:space="preserve">
+    <value>Media / giorno</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_Tile_Total" xml:space="preserve">
+    <value>Totale</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_Tile_Shows" xml:space="preserve">
+    <value>Serie TV</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_Tile_Movies" xml:space="preserve">
+    <value>Film</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_DeltaCaptionFormat" xml:space="preserve">
+    <value>▲ ▼ differenza rispetto ai {0} giorni precedenti ({1})</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_PeakHours_Header" xml:space="preserve">
+    <value>Ore di punta</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_Hours_Morning" xml:space="preserve">
+    <value>Mattina</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_Hours_Afternoon" xml:space="preserve">
+    <value>Pomeriggio</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_Hours_Evening" xml:space="preserve">
+    <value>Sera</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_Hours_Night" xml:space="preserve">
+    <value>Notte</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_Empty_Text" xml:space="preserve">
+    <value>Nessuna visione in questo periodo.</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_PeakHours_Help" xml:space="preserve">
+    <value>Il tempo di visione per momento della giornata nel periodo scelto, in base all'ora in cui ogni episodio o film è stato segnato come visto.
+
+Mattina: dalle {0} alle {1}
+Pomeriggio: dalle {2} alle {3}
+Sera: dalle {4} alle {5}
+Notte: dalle {6} alle {7}
+
+Una stagione segnata come vista in una volta conta all'ora in cui l'ha segnata.</value>
+  </data>
 </root>

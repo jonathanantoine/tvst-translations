@@ -4778,4 +4778,74 @@ Would you like the app to turn that setting off on your Trakt account? Your view
   <data name="Profile_ChangeAvatar_OnWebsite" xml:space="preserve">
     <value>Your profile photo and cover are changed on the Trakt website, in the profile settings. Open the page now?</value>
   </data>
+  <data name="Home_UserStats_ScreenTime_GroupHeader_Text" xml:space="preserve">
+    <value>SCREEN TIME</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_Period7Days" xml:space="preserve">
+    <value>7 days</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_Period30Days" xml:space="preserve">
+    <value>30 days</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_RangeFormat" xml:space="preserve">
+    <value>{0} to {1}</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_EpisodesSingle" xml:space="preserve">
+    <value>{0} episode</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_EpisodesPlural" xml:space="preserve">
+    <value>{0} episodes</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_MoviesSingle" xml:space="preserve">
+    <value>{0} movie</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_MoviesPlural" xml:space="preserve">
+    <value>{0} movies</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_Today" xml:space="preserve">
+    <value>today</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_Tile_DailyAverage" xml:space="preserve">
+    <value>Daily avg.</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_Tile_Total" xml:space="preserve">
+    <value>Total</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_Tile_Shows" xml:space="preserve">
+    <value>TV shows</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_Tile_Movies" xml:space="preserve">
+    <value>Movies</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_DeltaCaptionFormat" xml:space="preserve">
+    <value>▲ ▼ compared with the previous {0} days ({1})</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_PeakHours_Header" xml:space="preserve">
+    <value>Peak hours</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_Hours_Morning" xml:space="preserve">
+    <value>Morning</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_Hours_Afternoon" xml:space="preserve">
+    <value>Afternoon</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_Hours_Evening" xml:space="preserve">
+    <value>Evening</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_Hours_Night" xml:space="preserve">
+    <value>Night</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_Empty_Text" xml:space="preserve">
+    <value>Nothing watched over this period.</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_PeakHours_Help" xml:space="preserve">
+    <value>Your watch time by time of day over the selected period, based on when each episode or movie was marked as watched.
+
+Morning: {0} to {1}
+Afternoon: {2} to {3}
+Evening: {4} to {5}
+Night: {6} to {7}
+
+A season marked as watched in one go counts at the time you marked it.</value>
+  </data>
 </root>

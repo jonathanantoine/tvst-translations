@@ -4815,4 +4815,74 @@ Você quer que o aplicativo desative essa opção na sua conta Trakt? A partir d
   <data name="Profile_ChangeAvatar_OnWebsite" xml:space="preserve">
     <value>Sua foto de perfil e sua capa são alteradas no site do Trakt, nas configurações do perfil. Abrir a página agora?</value>
   </data>
+  <data name="Home_UserStats_ScreenTime_GroupHeader_Text" xml:space="preserve">
+    <value>TEMPO DE TELA</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_Period7Days" xml:space="preserve">
+    <value>7 dias</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_Period30Days" xml:space="preserve">
+    <value>30 dias</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_RangeFormat" xml:space="preserve">
+    <value>de {0} a {1}</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_EpisodesSingle" xml:space="preserve">
+    <value>{0} episódio</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_EpisodesPlural" xml:space="preserve">
+    <value>{0} episódios</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_MoviesSingle" xml:space="preserve">
+    <value>{0} filme</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_MoviesPlural" xml:space="preserve">
+    <value>{0} filmes</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_Today" xml:space="preserve">
+    <value>hoje</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_Tile_DailyAverage" xml:space="preserve">
+    <value>Média diária</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_Tile_Total" xml:space="preserve">
+    <value>Total</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_Tile_Shows" xml:space="preserve">
+    <value>Séries</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_Tile_Movies" xml:space="preserve">
+    <value>Filmes</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_DeltaCaptionFormat" xml:space="preserve">
+    <value>▲ ▼ diferença em relação aos {0} dias anteriores ({1})</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_PeakHours_Header" xml:space="preserve">
+    <value>Horários de pico</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_Hours_Morning" xml:space="preserve">
+    <value>Manhã</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_Hours_Afternoon" xml:space="preserve">
+    <value>Tarde</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_Hours_Evening" xml:space="preserve">
+    <value>Noite</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_Hours_Night" xml:space="preserve">
+    <value>Madrugada</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_Empty_Text" xml:space="preserve">
+    <value>Nada assistido neste período.</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_PeakHours_Help" xml:space="preserve">
+    <value>Seu tempo assistido por período do dia no intervalo escolhido, com base na hora em que cada episódio ou filme foi marcado como assistido.
+
+Manhã: das {0} às {1}
+Tarde: das {2} às {3}
+Noite: das {4} às {5}
+Madrugada: das {6} às {7}
+
+Uma temporada marcada como assistida de uma vez conta na hora em que você a marcou.</value>
+  </data>
 </root>
