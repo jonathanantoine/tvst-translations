@@ -6142,4 +6142,16 @@ Você quer que o aplicativo desative essa opção na sua conta Trakt? A partir d
   <data name="Settings_Display_SeasonInProgressGroupFirst_Text" xml:space="preserve">
     <value>Mostrar primeiro as temporadas em exibição</value>
   </data>
+  <data name="Profile_Chip_MoviesWatched" xml:space="preserve">
+    <value>{0} filmes vistos</value>
+  </data>
+  <data name="Profile_Chip_MoviesToWatch" xml:space="preserve">
+    <value>{0} filmes por ver</value>
+  </data>
+  <data name="Profile_ChangeAvatar_Label" xml:space="preserve">
+    <value>Alterar a foto</value>
+  </data>
+  <data name="Profile_ChangeAvatar_OnWebsite" xml:space="preserve">
+    <value>A sua foto de perfil e a sua capa alteram-se no site Trakt, nas definições do perfil. Abrir a página agora?</value>
+  </data>
 </root>

@@ -4766,4 +4766,16 @@ Would you like the app to turn that setting off on your Trakt account? Your view
   <data name="Settings_Display_SeasonInProgressGroupFirst_Text" xml:space="preserve">
     <value>Show the seasons still airing first</value>
   </data>
+  <data name="Profile_Chip_MoviesWatched" xml:space="preserve">
+    <value>{0} movies watched</value>
+  </data>
+  <data name="Profile_Chip_MoviesToWatch" xml:space="preserve">
+    <value>{0} movies to watch</value>
+  </data>
+  <data name="Profile_ChangeAvatar_Label" xml:space="preserve">
+    <value>Change photo</value>
+  </data>
+  <data name="Profile_ChangeAvatar_OnWebsite" xml:space="preserve">
+    <value>Your profile photo and cover are changed on the Trakt website, in the profile settings. Open the page now?</value>
+  </data>
 </root>

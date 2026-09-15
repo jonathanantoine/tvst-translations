@@ -6055,4 +6055,16 @@ Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? V
   <data name="Settings_Display_SeasonInProgressGroupFirst_Text" xml:space="preserve">
     <value>Afficher les saisons en cours en premier</value>
   </data>
+  <data name="Profile_Chip_MoviesWatched" xml:space="preserve">
+    <value>{0} films vus</value>
+  </data>
+  <data name="Profile_Chip_MoviesToWatch" xml:space="preserve">
+    <value>{0} films à voir</value>
+  </data>
+  <data name="Profile_ChangeAvatar_Label" xml:space="preserve">
+    <value>Changer la photo</value>
+  </data>
+  <data name="Profile_ChangeAvatar_OnWebsite" xml:space="preserve">
+    <value>Votre photo de profil et votre couverture se changent sur le site Trakt, dans les réglages du profil. Ouvrir la page maintenant ?</value>
+  </data>
 </root>

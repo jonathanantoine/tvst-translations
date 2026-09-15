@@ -4773,4 +4773,16 @@ Vuoi che l'app disattivi questa impostazione sul tuo account Trakt? Da ora in po
   <data name="Settings_Display_SeasonInProgressGroupFirst_Text" xml:space="preserve">
     <value>Mostrare prima le stagioni in corso</value>
   </data>
+  <data name="Profile_Chip_MoviesWatched" xml:space="preserve">
+    <value>{0} film visti</value>
+  </data>
+  <data name="Profile_Chip_MoviesToWatch" xml:space="preserve">
+    <value>{0} film da vedere</value>
+  </data>
+  <data name="Profile_ChangeAvatar_Label" xml:space="preserve">
+    <value>Cambia foto</value>
+  </data>
+  <data name="Profile_ChangeAvatar_OnWebsite" xml:space="preserve">
+    <value>La foto del profilo e la copertina si cambiano sul sito Trakt, nelle impostazioni del profilo. Aprire la pagina adesso?</value>
+  </data>
 </root>

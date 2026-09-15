@@ -4799,4 +4799,16 @@ Recordatorio: tu código es {0}.</value>
   <data name="Settings_Display_SeasonInProgressGroupFirst_Text" xml:space="preserve">
     <value>Mostrar primero las temporadas en emisión</value>
   </data>
+  <data name="Profile_Chip_MoviesWatched" xml:space="preserve">
+    <value>{0} películas vistas</value>
+  </data>
+  <data name="Profile_Chip_MoviesToWatch" xml:space="preserve">
+    <value>{0} películas por ver</value>
+  </data>
+  <data name="Profile_ChangeAvatar_Label" xml:space="preserve">
+    <value>Cambiar la foto</value>
+  </data>
+  <data name="Profile_ChangeAvatar_OnWebsite" xml:space="preserve">
+    <value>Su foto de perfil y su portada se cambian en el sitio web de Trakt, en los ajustes del perfil. ¿Abrir la página ahora?</value>
+  </data>
 </root>
