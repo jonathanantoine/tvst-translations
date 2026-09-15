@@ -4855,4 +4855,7 @@ Notte: dalle {6} alle {7}
 
 Una stagione segnata come vista in una volta conta all'ora in cui l'ha segnata.</value>
   </data>
+  <data name="Home_UserStats_Card_WatchedLegend" xml:space="preserve">
+    <value>visti</value>
+  </data>
 </root>

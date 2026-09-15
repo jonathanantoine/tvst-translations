@@ -6137,4 +6137,7 @@ Nuit : {6} à {7}
 
 Une saison marquée comme vue d'un coup compte à l'heure où vous l'avez marquée.</value>
   </data>
+  <data name="Home_UserStats_Card_WatchedLegend" xml:space="preserve">
+    <value>vus</value>
+  </data>
 </root>

@@ -4848,4 +4848,7 @@ Night: {6} to {7}
 
 A season marked as watched in one go counts at the time you marked it.</value>
   </data>
+  <data name="Home_UserStats_Card_WatchedLegend" xml:space="preserve">
+    <value>watched</value>
+  </data>
 </root>

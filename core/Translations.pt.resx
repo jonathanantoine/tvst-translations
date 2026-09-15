@@ -6224,4 +6224,7 @@ Madrugada: das {6} às {7}
 
 Uma temporada marcada como vista de uma só vez conta à hora a que a marcou.</value>
   </data>
+  <data name="Home_UserStats_Card_WatchedLegend" xml:space="preserve">
+    <value>vistos</value>
+  </data>
 </root>
