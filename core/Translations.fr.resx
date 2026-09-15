@@ -6140,4 +6140,13 @@ Une saison marquée comme vue d'un coup compte à l'heure où vous l'avez marqu�
   <data name="Home_UserStats_Card_WatchedLegend" xml:space="preserve">
     <value>vus</value>
   </data>
+  <data name="Home_UserStats_TopShows_PeriodAllTime" xml:space="preserve">
+    <value>Depuis toujours</value>
+  </data>
+  <data name="Home_UserStats_TopShows_ShareLastMonthFormat" xml:space="preserve">
+    <value>{0} de votre temps d'écran</value>
+  </data>
+  <data name="Home_UserStats_TopShows_ShareAllTimeFormat" xml:space="preserve">
+    <value>{0} de tout ce que vous avez regardé</value>
+  </data>
 </root>

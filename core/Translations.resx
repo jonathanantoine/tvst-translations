@@ -4851,4 +4851,13 @@ A season marked as watched in one go counts at the time you marked it.</value>
   <data name="Home_UserStats_Card_WatchedLegend" xml:space="preserve">
     <value>watched</value>
   </data>
+  <data name="Home_UserStats_TopShows_PeriodAllTime" xml:space="preserve">
+    <value>All time</value>
+  </data>
+  <data name="Home_UserStats_TopShows_ShareLastMonthFormat" xml:space="preserve">
+    <value>{0} of your screen time</value>
+  </data>
+  <data name="Home_UserStats_TopShows_ShareAllTimeFormat" xml:space="preserve">
+    <value>{0} of everything you watched</value>
+  </data>
 </root>

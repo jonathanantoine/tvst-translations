@@ -4858,4 +4858,13 @@ Una stagione segnata come vista in una volta conta all'ora in cui l'ha segnata.<
   <data name="Home_UserStats_Card_WatchedLegend" xml:space="preserve">
     <value>visti</value>
   </data>
+  <data name="Home_UserStats_TopShows_PeriodAllTime" xml:space="preserve">
+    <value>Da sempre</value>
+  </data>
+  <data name="Home_UserStats_TopShows_ShareLastMonthFormat" xml:space="preserve">
+    <value>{0} del suo tempo di visione</value>
+  </data>
+  <data name="Home_UserStats_TopShows_ShareAllTimeFormat" xml:space="preserve">
+    <value>{0} di tutto ciò che ha guardato</value>
+  </data>
 </root>

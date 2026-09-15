@@ -4884,4 +4884,13 @@ Una temporada marcada como vista de una vez cuenta a la hora en que la marcó.</
   <data name="Home_UserStats_Card_WatchedLegend" xml:space="preserve">
     <value>vistos</value>
   </data>
+  <data name="Home_UserStats_TopShows_PeriodAllTime" xml:space="preserve">
+    <value>Desde siempre</value>
+  </data>
+  <data name="Home_UserStats_TopShows_ShareLastMonthFormat" xml:space="preserve">
+    <value>{0} de su tiempo de pantalla</value>
+  </data>
+  <data name="Home_UserStats_TopShows_ShareAllTimeFormat" xml:space="preserve">
+    <value>{0} de todo lo que ha visto</value>
+  </data>
 </root>
