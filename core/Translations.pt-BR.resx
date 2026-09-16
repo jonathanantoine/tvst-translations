@@ -4857,70 +4857,70 @@ Uma temporada marcada como assistida de uma vez conta na hora em que você a mar
   <data name="Settings_HomeGroupsSectionHeader" xml:space="preserve">
     <value>GRUPOS DE SÉRIES NA PÁGINA INICIAL</value>
   </data>
-  <data name="Settings_HomeGroupsSectionSubtitle" xml:space="preserve">
-    <value>Na ordem em que aparecem na página inicial. Desative um grupo para juntar as suas séries ao grupo acima.</value>
-  </data>
-  <data name="Settings_HomeGroups_AlwaysShown_Subtitle" xml:space="preserve">
-    <value>Sempre visível.</value>
-  </data>
-  <data name="Settings_HomeGroups_UnseenEpisodes_Title" xml:space="preserve">
-    <value>Séries com episódios não vistos</value>
-  </data>
-  <data name="Settings_HomeGroups_SeasonInProgress_Title" xml:space="preserve">
-    <value>Temporada em exibição</value>
-  </data>
-  <data name="Settings_HomeGroups_SeasonInProgress_Subtitle" xml:space="preserve">
-    <value>Próxima temporada ainda em exibição. O grupo acima só mantém as completas.</value>
-  </data>
-  <data name="Settings_HomeGroups_SeasonInProgressFirst_Title" xml:space="preserve">
-    <value>Mostrar acima das temporadas completas</value>
-  </data>
-  <data name="Settings_HomeGroups_EndedWithUnseen_Title" xml:space="preserve">
-    <value>Séries finalizadas com episódios não vistos</value>
-  </data>
-  <data name="Settings_HomeGroups_ShowsToStart_Title" xml:space="preserve">
-    <value>Séries para começar</value>
-  </data>
-  <data name="Settings_HomeGroups_ShowsToStart_Subtitle" xml:space="preserve">
-    <value>Séries da sua watchlist sem nenhum episódio visto.</value>
-  </data>
-  <data name="Settings_HomeGroups_NoEpisodeAvailable_Title" xml:space="preserve">
-    <value>Sem episódio disponível</value>
-  </data>
-  <data name="Settings_HomeGroups_NoEpisodeAvailable_Subtitle" xml:space="preserve">
-    <value>Séries para começar sem nenhum episódio exibido ou anunciado ainda.</value>
-  </data>
-  <data name="Settings_HomeGroups_AllWatched_Title" xml:space="preserve">
-    <value>Séries retornando, todos os episódios vistos</value>
-  </data>
-  <data name="Settings_HomeGroups_NextEpisodeUnknown_Title" xml:space="preserve">
-    <value>Próximo episódio desconhecido</value>
-  </data>
-  <data name="Settings_HomeGroups_NextEpisodeUnknown_Subtitle" xml:space="preserve">
-    <value>Séries em dia cujo próximo episódio não tem data de exibição conhecida.</value>
-  </data>
-  <data name="Settings_HomeGroups_EndedFinished_Title" xml:space="preserve">
-    <value>Séries completas, finalizadas</value>
-  </data>
-  <data name="Settings_HomeGroups_EndedFinished_Subtitle" xml:space="preserve">
-    <value>Desativado, estas séries não aparecem de todo na página inicial.</value>
-  </data>
   <data name="Settings_HomeGroups_Movies_Header" xml:space="preserve">
     <value>GRUPOS DE FILMES NA PÁGINA INICIAL</value>
   </data>
+  <data name="Settings_HomeGroupsSectionSubtitle" xml:space="preserve">
+    <value>A pré-visualização mostra a sua página inicial tal como os interruptores abaixo a moldam. Cada um separa um grupo; desativado, as suas séries ficam no grupo de origem.</value>
+  </data>
+  <data name="Settings_HomeGroups_Preview_Caption" xml:space="preserve">
+    <value>A sua página inicial, de cima para baixo</value>
+  </data>
+  <data name="Settings_HomeGroups_Preview_HiddenSuffix" xml:space="preserve">
+    <value>oculto</value>
+  </data>
+  <data name="Settings_HomeGroups_SplitSeasonInProgress_Title" xml:space="preserve">
+    <value>Separar as temporadas ainda em exibição</value>
+  </data>
+  <data name="Settings_HomeGroups_SplitSeasonInProgress_Subtitle" xml:space="preserve">
+    <value>Desativado: ficam em “Séries com episódios não vistos”.</value>
+  </data>
+  <data name="Settings_HomeGroups_SeasonInProgressFirst_Title" xml:space="preserve">
+    <value>… e mostrá-las acima das temporadas completas</value>
+  </data>
+  <data name="Settings_HomeGroups_SplitEndedWithUnseen_Title" xml:space="preserve">
+    <value>Separar as séries finalizadas com episódios não vistos</value>
+  </data>
+  <data name="Settings_HomeGroups_SplitEndedWithUnseen_Subtitle" xml:space="preserve">
+    <value>Desativado: ficam em “Séries com episódios não vistos”.</value>
+  </data>
+  <data name="Settings_HomeGroups_SplitShowsToStart_Title" xml:space="preserve">
+    <value>Separar as séries para começar</value>
+  </data>
+  <data name="Settings_HomeGroups_SplitShowsToStart_Subtitle" xml:space="preserve">
+    <value>Séries da sua watchlist sem nenhum episódio visto. Desativado: são ordenadas com as outras, conforme os seus episódios.</value>
+  </data>
+  <data name="Settings_HomeGroups_SplitNoEpisodeAvailable_Title" xml:space="preserve">
+    <value>… e, entre elas, as que não têm episódio disponível</value>
+  </data>
+  <data name="Settings_HomeGroups_SplitNoEpisodeAvailable_Subtitle" xml:space="preserve">
+    <value>Nenhum episódio exibido ou anunciado. Desativado: ficam em “Séries para começar”.</value>
+  </data>
+  <data name="Settings_HomeGroups_SplitNextEpisodeUnknown_Title" xml:space="preserve">
+    <value>Separar as séries em dia cujo próximo episódio é desconhecido</value>
+  </data>
+  <data name="Settings_HomeGroups_SplitNextEpisodeUnknown_Subtitle" xml:space="preserve">
+    <value>Séries em dia sem data de exibição conhecida. Desativado: ficam em “Séries completas, retornando”.</value>
+  </data>
+  <data name="Settings_HomeGroups_ShowEndedFinished_Title" xml:space="preserve">
+    <value>Mostrar as séries finalizadas que já terminou de ver</value>
+  </data>
+  <data name="Settings_HomeGroups_ShowEndedFinished_Subtitle" xml:space="preserve">
+    <value>Desativado: não aparecem de todo na página inicial.</value>
+  </data>
   <data name="Settings_HomeGroups_Movies_Subtitle" xml:space="preserve">
-    <value>Na ordem em que aparecem na página inicial.</value>
+    <value>A pré-visualização mostra a seção watchlist da sua página inicial.</value>
   </data>
-  <data name="Settings_HomeGroups_Watchlist_Title" xml:space="preserve">
-    <value>Watchlist</value>
+  <data name="Settings_HomeGroups_SplitUpcomingMovies_Title" xml:space="preserve">
+    <value>Separar os filmes em breve</value>
   </data>
-  <data name="Settings_HomeGroups_UpcomingMovies_Title" xml:space="preserve">
-    <value>Filmes em breve</value>
-  </data>
-  <data name="Settings_HomeGroups_UpcomingMovies_Subtitle" xml:space="preserve">
-    <value>Filmes da sua watchlist ainda não lançados.</value>
+  <data name="Settings_HomeGroups_SplitUpcomingMovies_Subtitle" xml:space="preserve">
+    <value>Filmes ainda não lançados. Desativado: ficam na watchlist com os outros.</value>
   </data>
   <data name="Settings_HomeGroups_UpcomingMoviesFirst_Title" xml:space="preserve">
-    <value>Mostrar acima dos filmes lançados</value>
+    <value>… e mostrá-los acima dos filmes lançados</value>
+  </data>
+  <data name="Settings_HomeGroups_Preview_Badge" xml:space="preserve">
+    <value>PRÉ-VISUALIZAÇÃO</value>
   </data>
 </root>
