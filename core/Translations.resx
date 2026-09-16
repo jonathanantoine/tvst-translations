@@ -3340,7 +3340,7 @@ Do you confirm?</value>
     <value>Creates a spreadsheet-readable file that can be imported later</value>
   </data>
   <data name="Settings_Backup_ExportDatabase_Subtitle" xml:space="preserve">
-    <value>Creates a full backup of your local data for DEBUG</value>
+    <value>Creates a full backup of your local data, ready to restore or to import into Trakt</value>
   </data>
   <data name="Settings_Backup_ExportSettings_Subtitle" xml:space="preserve">
     <value>Saves your display and behavior preferences</value>
@@ -4831,6 +4831,9 @@ A season marked as watched in one go counts at the time you marked it.</value>
   </data>
   <data name="Settings_HomeGroups_Preview_HiddenSuffix" xml:space="preserve">
     <value>hidden</value>
+  </data>
+  <data name="Settings_HomeGroups_Preview_AlwaysSuffix" xml:space="preserve">
+    <value>always shown</value>
   </data>
   <data name="Settings_HomeGroups_SplitSeasonInProgress_Title" xml:space="preserve">
     <value>Split off the seasons still airing</value>

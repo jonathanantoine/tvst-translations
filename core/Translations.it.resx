@@ -3338,7 +3338,7 @@ t  <data name="Settings_Modern_Badge_Premium" xml:space="preserve">
     <value>Crea un file leggibile in un foglio di calcolo che potrà essere importato più tardi</value>
   </data>
   <data name="Settings_Backup_ExportDatabase_Subtitle" xml:space="preserve">
-    <value>Crea un backup completo dei dati locali per DEBUG</value>
+    <value>Crea un backup completo dei dati locali, pronto per essere ripristinato o importato in Trakt</value>
   </data>
   <data name="Settings_Backup_ExportSettings_Subtitle" xml:space="preserve">
     <value>Salva le preferenze di visualizzazione e comportamento</value>
@@ -4838,6 +4838,9 @@ Una stagione segnata come vista in una volta conta all'ora in cui l'ha segnata.<
   </data>
   <data name="Settings_HomeGroups_Preview_HiddenSuffix" xml:space="preserve">
     <value>nascosto</value>
+  </data>
+  <data name="Settings_HomeGroups_Preview_AlwaysSuffix" xml:space="preserve">
+    <value>sempre visibile</value>
   </data>
   <data name="Settings_HomeGroups_SplitSeasonInProgress_Title" xml:space="preserve">
     <value>Separa le stagioni ancora in onda</value>

@@ -4615,7 +4615,7 @@ Rappel : votre code est {0}.</value>
     <value>Crée un fichier lisible dans un tableur et import possible plus tard</value>
   </data>
   <data name="Settings_Backup_ExportDatabase_Subtitle" xml:space="preserve">
-    <value>Crée une sauvegarde complète de vos données locales pour DEBUG</value>
+    <value>Crée une sauvegarde complète de vos données locales, prête à être restaurée ou importée dans Trakt</value>
   </data>
   <data name="Settings_Backup_ExportSettings_Subtitle" xml:space="preserve">
     <value>Sauvegarde vos préférences d’affichage et de comportement</value>
@@ -6112,6 +6112,9 @@ Une saison marquée comme vue d'un coup compte à l'heure où vous l'avez marqu�
   </data>
   <data name="Settings_HomeGroups_Preview_HiddenSuffix" xml:space="preserve">
     <value>masqué</value>
+  </data>
+  <data name="Settings_HomeGroups_Preview_AlwaysSuffix" xml:space="preserve">
+    <value>toujours affiché</value>
   </data>
   <data name="Settings_HomeGroups_SplitSeasonInProgress_Title" xml:space="preserve">
     <value>Séparer les saisons encore en diffusion</value>

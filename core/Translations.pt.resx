@@ -4654,7 +4654,7 @@ Lembrete: o seu código é {0}.</value>
     <value>Cria um ficheiro legível numa folha de cálculo que poderá ser importado mais tarde</value>
   </data>
   <data name="Settings_Backup_ExportDatabase_Subtitle" xml:space="preserve">
-    <value>Cria uma cópia completa dos seus dados locais para DEBUG</value>
+    <value>Cria uma cópia completa dos seus dados locais, pronta a restaurar ou a importar para o Trakt</value>
   </data>
   <data name="Settings_Backup_ExportSettings_Subtitle" xml:space="preserve">
     <value>Guarda as suas preferências de visualização e comportamento</value>
@@ -6199,6 +6199,9 @@ Uma temporada marcada como vista de uma só vez conta à hora a que a marcou.</v
   </data>
   <data name="Settings_HomeGroups_Preview_HiddenSuffix" xml:space="preserve">
     <value>oculto</value>
+  </data>
+  <data name="Settings_HomeGroups_Preview_AlwaysSuffix" xml:space="preserve">
+    <value>sempre visível</value>
   </data>
   <data name="Settings_HomeGroups_SplitSeasonInProgress_Title" xml:space="preserve">
     <value>Separar as temporadas ainda em exibição</value>
