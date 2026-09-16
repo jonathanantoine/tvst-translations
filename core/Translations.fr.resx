@@ -1352,24 +1352,9 @@ Exprimez-vous !</value>
   </data>
 
   <data
-      name     ="Settings_Data_GroupShowsWithoutNextEpisode_Text"
-      xml:space="preserve">
-    <value>Un groupe séparé pour les séries à commencer sans épisode disponible.</value>
-  </data>
-  <data
       name     ="Settings_Data_MarkBatchAsSeenALongTimeAgo_Text"
       xml:space="preserve">
     <value>Lorsque je marque des saisons entière ou plus de 15 épisodes comme vus, indiquer à Trakt que cela s'est fait il y a longtemps ?</value>
-  </data>
-  <data
-      name     ="Settings_Data_PutAllShowWithEpToSeeInSameGroup_Text"
-      xml:space="preserve">
-      <value>Un seul groupe pour les séries avec des épisodes à voir, terminées ou non.</value>
-  </data>
-  <data
-      name     ="Settings_Data_PutShowToStartInASeparateGroup_Text"
-      xml:space="preserve">
-    <value>Un groupe séparé pour les séries à commencer (aucun épisode vu).</value>
   </data>
   <data
       name     ="Settings_Data_HideAndIgnoreSpecialEpisodes_Text"
@@ -1576,11 +1561,6 @@ Exprimez-vous !</value>
       xml:space="preserve">
     <value>POLICE</value>
   </data>
-  <data
-      name     ="Settings_Display_HideEndedAndSeenShowsFromHome_Text"
-      xml:space="preserve">
-        <value>Masquer les séries, terminées sans épisode à voir, de l'accueil ?</value>
-    </data>
   <data
       name     ="Settings_Display_DateFormatLabel_Text"
       xml:space="preserve">
@@ -4841,12 +4821,6 @@ Rappel : votre code est {0}.</value>
   <data name="PendingActions_FavoriteCancelled_QuotaReached" xml:space="preserve">
     <value>{0} n'a pas pu être ajouté à vos favoris : la limite Trakt est atteinte. La modification a été annulée.</value>
   </data>
-  <data name="Settings_HomeGroupsSectionHeader" xml:space="preserve">
-    <value>GROUPES DE LA PAGE D'ACCUEIL</value>
-  </data>
-  <data name="Settings_HomeGroupsSectionSubtitle" xml:space="preserve">
-    <value>Choisissez les groupes de séries et de films créés sur la page d'accueil.</value>
-  </data>
   <data name="Home_UserHistory_Grid_WatchedAtHourFormat" xml:space="preserve">
     <value>Vu à {0}</value>
   </data>
@@ -5565,16 +5539,6 @@ Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? V
       xml:space="preserve">
     <value> — SAISON EN COURS</value>
   </data>
-  <data
-      name     ="Settings_Data_SplitHomeGroupBySeasonReady_Text"
-      xml:space="preserve">
-    <value>Séparer les séries dont la saison est en cours</value>
-  </data>
-  <data
-      name     ="Settings_Data_SplitHomeGroupBySeasonReady_Subtitle"
-      xml:space="preserve">
-    <value>Ne garde dans le premier groupe de la page d'accueil que les séries dont la prochaine saison est entièrement diffusée. Les autres passent dans un groupe juste en dessous.</value>
-  </data>
   <data name="ShowDetails_Code_EpisodeShort" xml:space="preserve">
     <value>ép.</value>
   </data>
@@ -5607,15 +5571,6 @@ Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? V
   </data>
   <data name="MoviesLists_PanelHeader_WatchlistUpcomingGroup" xml:space="preserve">
     <value>Watchlist — à venir</value>
-  </data>
-  <data name="Settings_Display_SplitMoviesWatchlistOnHome_Text" xml:space="preserve">
-    <value>Séparer les films à venir</value>
-  </data>
-  <data name="Settings_Display_SplitMoviesWatchlistOnHome_Subtitle" xml:space="preserve">
-    <value>Sur l'écran d'accueil, les films de votre watchlist qui ne sont pas encore sortis forment leur propre section.</value>
-  </data>
-  <data name="Settings_Display_MoviesUpcomingGroupFirst_Text" xml:space="preserve">
-    <value>Afficher les films à venir en premier</value>
   </data>
   <data name="Settings_AnalyticsHeader" xml:space="preserve">
     <value>TÉLÉMÉTRIE</value>
@@ -6046,15 +6001,6 @@ Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? V
   <data name="Home_Code_MyShowWithNoEpisodeToSeeUnknownNextEpisodeGroupHeader_Single" xml:space="preserve">
     <value>{0} SÉRIE VUE, PROCHAIN ÉPISODE INCONNU</value>
   </data>
-  <data name="Settings_Data_GroupCurrentShowsWithUnknownNextEpisode_Text" xml:space="preserve">
-    <value>Un groupe séparé pour les séries à jour sans date de diffusion connue</value>
-  </data>
-  <data name="Settings_Data_GroupCurrentShowsWithUnknownNextEpisode_Subtitle" xml:space="preserve">
-    <value>Parmi les séries à jour, déplace celles dont le prochain épisode n'a pas de date de diffusion connue dans un groupe juste en dessous.</value>
-  </data>
-  <data name="Settings_Display_SeasonInProgressGroupFirst_Text" xml:space="preserve">
-    <value>Afficher les saisons en cours en premier</value>
-  </data>
   <data name="Profile_Chip_MoviesWatched" xml:space="preserve">
     <value>{0} films vus</value>
   </data>
@@ -6151,5 +6097,74 @@ Une saison marquée comme vue d'un coup compte à l'heure où vous l'avez marqu�
   </data>
   <data name="Home_UserStats_Genres_Empty_Text" xml:space="preserve">
     <value>Rien de vu pour l'instant.</value>
+  </data>
+  <data name="Settings_HomeGroupsSectionHeader" xml:space="preserve">
+    <value>GROUPES DE SÉRIES SUR L'ACCUEIL</value>
+  </data>
+  <data name="Settings_HomeGroupsSectionSubtitle" xml:space="preserve">
+    <value>Dans l'ordre où ils apparaissent sur l'accueil. Désactivez un groupe pour fondre ses séries dans le groupe au-dessus.</value>
+  </data>
+  <data name="Settings_HomeGroups_AlwaysShown_Subtitle" xml:space="preserve">
+    <value>Toujours affiché.</value>
+  </data>
+  <data name="Settings_HomeGroups_UnseenEpisodes_Title" xml:space="preserve">
+    <value>Séries avec des épisodes à voir</value>
+  </data>
+  <data name="Settings_HomeGroups_SeasonInProgress_Title" xml:space="preserve">
+    <value>Saison en cours</value>
+  </data>
+  <data name="Settings_HomeGroups_SeasonInProgress_Subtitle" xml:space="preserve">
+    <value>Prochaine saison en diffusion ; au-dessus, seules les saisons complètes restent.</value>
+  </data>
+  <data name="Settings_HomeGroups_SeasonInProgressFirst_Title" xml:space="preserve">
+    <value>L'afficher au-dessus des saisons complètes</value>
+  </data>
+  <data name="Settings_HomeGroups_EndedWithUnseen_Title" xml:space="preserve">
+    <value>Séries terminées avec des épisodes à voir</value>
+  </data>
+  <data name="Settings_HomeGroups_ShowsToStart_Title" xml:space="preserve">
+    <value>Séries à commencer</value>
+  </data>
+  <data name="Settings_HomeGroups_ShowsToStart_Subtitle" xml:space="preserve">
+    <value>Séries de votre watchlist dont aucun épisode n'a été vu.</value>
+  </data>
+  <data name="Settings_HomeGroups_NoEpisodeAvailable_Title" xml:space="preserve">
+    <value>Sans épisode disponible</value>
+  </data>
+  <data name="Settings_HomeGroups_NoEpisodeAvailable_Subtitle" xml:space="preserve">
+    <value>Séries à commencer dont aucun épisode n'a encore été diffusé ni annoncé.</value>
+  </data>
+  <data name="Settings_HomeGroups_AllWatched_Title" xml:space="preserve">
+    <value>Séries en cours, tous les épisodes vus</value>
+  </data>
+  <data name="Settings_HomeGroups_NextEpisodeUnknown_Title" xml:space="preserve">
+    <value>Prochain épisode inconnu</value>
+  </data>
+  <data name="Settings_HomeGroups_NextEpisodeUnknown_Subtitle" xml:space="preserve">
+    <value>Séries à jour dont le prochain épisode n'a pas de date de diffusion connue.</value>
+  </data>
+  <data name="Settings_HomeGroups_EndedFinished_Title" xml:space="preserve">
+    <value>Séries vues et terminées</value>
+  </data>
+  <data name="Settings_HomeGroups_EndedFinished_Subtitle" xml:space="preserve">
+    <value>Désactivé, ces séries n'apparaissent plus du tout sur l'accueil.</value>
+  </data>
+  <data name="Settings_HomeGroups_Movies_Header" xml:space="preserve">
+    <value>GROUPES DE FILMS SUR L'ACCUEIL</value>
+  </data>
+  <data name="Settings_HomeGroups_Movies_Subtitle" xml:space="preserve">
+    <value>Dans l'ordre où ils apparaissent sur l'accueil.</value>
+  </data>
+  <data name="Settings_HomeGroups_Watchlist_Title" xml:space="preserve">
+    <value>Watchlist</value>
+  </data>
+  <data name="Settings_HomeGroups_UpcomingMovies_Title" xml:space="preserve">
+    <value>Films à venir</value>
+  </data>
+  <data name="Settings_HomeGroups_UpcomingMovies_Subtitle" xml:space="preserve">
+    <value>Films de votre watchlist pas encore sortis.</value>
+  </data>
+  <data name="Settings_HomeGroups_UpcomingMoviesFirst_Title" xml:space="preserve">
+    <value>Les afficher au-dessus des films sortis</value>
   </data>
 </root>
