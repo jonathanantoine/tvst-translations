@@ -6236,4 +6236,7 @@ Uma temporada marcada como vista de uma só vez conta à hora a que a marcou.</v
   <data name="Home_UserStats_TopShows_ShareAllTimeFormat" xml:space="preserve">
     <value>{0} de tudo o que viu</value>
   </data>
+  <data name="Home_UserStats_Genres_Empty_Text" xml:space="preserve">
+    <value>Nada visto ainda.</value>
+  </data>
 </root>

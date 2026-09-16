@@ -4897,4 +4897,7 @@ Uma temporada marcada como assistida de uma vez conta na hora em que você a mar
   <data name="Home_UserStats_TopShows_ShareAllTimeFormat" xml:space="preserve">
     <value>{0} de tudo o que você assistiu</value>
   </data>
+  <data name="Home_UserStats_Genres_Empty_Text" xml:space="preserve">
+    <value>Nada assistido ainda.</value>
+  </data>
 </root>

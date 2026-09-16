@@ -6149,4 +6149,7 @@ Une saison marquée comme vue d'un coup compte à l'heure où vous l'avez marqu�
   <data name="Home_UserStats_TopShows_ShareAllTimeFormat" xml:space="preserve">
     <value>{0} de tout ce que vous avez regardé</value>
   </data>
+  <data name="Home_UserStats_Genres_Empty_Text" xml:space="preserve">
+    <value>Rien de vu pour l'instant.</value>
+  </data>
 </root>

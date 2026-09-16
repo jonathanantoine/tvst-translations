@@ -646,7 +646,7 @@ at least one TV show
 to see your stats.</value>
   </data>
   <data name="Home_UserStats_Genres_GroupHeader_Text" xml:space="preserve">
-    <value>TV SHOW GENRES</value>
+    <value>GENRES</value>
   </data>
   <data name="Home_UserStats_Networks_GroupHeader_Text" xml:space="preserve">
     <value>TV SHOW NETWORKS</value>
@@ -4859,5 +4859,8 @@ A season marked as watched in one go counts at the time you marked it.</value>
   </data>
   <data name="Home_UserStats_TopShows_ShareAllTimeFormat" xml:space="preserve">
     <value>{0} of everything you watched</value>
+  </data>
+  <data name="Home_UserStats_Genres_Empty_Text" xml:space="preserve">
+    <value>Nothing watched yet.</value>
   </data>
 </root>
