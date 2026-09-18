@@ -2646,12 +2646,11 @@ If you are still unable to access your account after logging in, please contact 
  
 Sign in to Trakt, enter the code {0} (it should be pre-filled), then return to the app.
  
+Trakt may first ask you to sign in, sometimes with a code sent by email: that email code goes in the browser, not in this app.
+ 
 The connection will be detected automatically.
  
 Reminder: your code is {0}.</value>
-  </data>
-    <data name="Global_AuthenticationAttempt" xml:space="preserve">
-      <value>Attempting connection...</value>
   </data>
   <data name="Startup_ConnectionDevicodeCodeModeError" xml:space="preserve">
       <value>It did not work. Please try the sign-in process again.</value>
@@ -4888,5 +4887,23 @@ A season marked as watched in one go counts at the time you marked it.</value>
   </data>
   <data name="Settings_HomeGroups_Preview_Badge" xml:space="preserve">
     <value>PREVIEW</value>
+  </data>
+  <data name="Startup_ConnectionDevicodeCode_WaitingTitle" xml:space="preserve">
+    <value>Waiting for Trakt…</value>
+  </data>
+  <data name="Startup_ConnectionDevicodeCode_WaitingExplanation" xml:space="preserve">
+    <value>Finish signing in in your browser. If Trakt emails you a sign-in code, type it in the browser, not here. Once Trakt accepts the code below, the app connects by itself.</value>
+  </data>
+  <data name="Startup_ConnectionDevicodeCode_ReopenLink" xml:space="preserve">
+    <value>Reopen the Trakt page</value>
+  </data>
+  <data name="Startup_ConnectionDevicodeCode_CopyCode" xml:space="preserve">
+    <value>Copy the code</value>
+  </data>
+  <data name="Startup_ConnectionDevicodeCode_CodeCopied" xml:space="preserve">
+    <value>Code copied.</value>
+  </data>
+  <data name="Startup_ConnectionDevicodeCode_Expired" xml:space="preserve">
+    <value>The code has expired. Start the sign-in again to get a new one.</value>
   </data>
 </root>

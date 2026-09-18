@@ -3134,6 +3134,8 @@ Si desea dar un impulso adicional, el enlace de donación está aquí y siempre 
  
 Inicia sesión en Trakt, introduce el código {0} (debería estar prellenado) y vuelve a la app.
  
+Trakt puede pedirte primero que inicies sesión, a veces con un código enviado por correo: ese código se introduce en el navegador, no en esta app.
+ 
 La conexión se detectará automáticamente.
  
 Recordatorio: tu código es {0}.</value>
@@ -3146,9 +3148,6 @@ Recordatorio: tu código es {0}.</value>
     </data>
     <data name="Startup_ConnectionDevicodeCode_CopyCodeAndOpenLink" xml:space="preserve">
         <value>Copiar el código y abrir el enlace</value>
-    </data>
-    <data name="Global_AuthenticationAttempt" xml:space="preserve">
-        <value>Intentando conexión…</value>
     </data>
     <data name="Startup_ConnectionDevicodeCodeMode_Name" xml:space="preserve">
         <value>Iniciar sesión con un código</value>
@@ -4921,5 +4920,23 @@ Una temporada marcada como vista de una vez cuenta a la hora en que la marcó.</
   </data>
   <data name="Settings_HomeGroups_Preview_Badge" xml:space="preserve">
     <value>VISTA PREVIA</value>
+  </data>
+  <data name="Startup_ConnectionDevicodeCode_WaitingTitle" xml:space="preserve">
+    <value>Esperando a Trakt…</value>
+  </data>
+  <data name="Startup_ConnectionDevicodeCode_WaitingExplanation" xml:space="preserve">
+    <value>Termina de iniciar sesión en tu navegador. Si Trakt te envía un código por correo, introdúcelo en el navegador, no aquí. En cuanto Trakt acepte el código de abajo, la app se conectará sola.</value>
+  </data>
+  <data name="Startup_ConnectionDevicodeCode_ReopenLink" xml:space="preserve">
+    <value>Volver a abrir la página de Trakt</value>
+  </data>
+  <data name="Startup_ConnectionDevicodeCode_CopyCode" xml:space="preserve">
+    <value>Copiar el código</value>
+  </data>
+  <data name="Startup_ConnectionDevicodeCode_CodeCopied" xml:space="preserve">
+    <value>Código copiado.</value>
+  </data>
+  <data name="Startup_ConnectionDevicodeCode_Expired" xml:space="preserve">
+    <value>El código ha caducado. Vuelve a iniciar sesión para obtener uno nuevo.</value>
   </data>
 </root>

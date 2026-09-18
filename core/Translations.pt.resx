@@ -4469,6 +4469,8 @@ Confirma?</value>
  
 Inicie sessão no Trakt, introduza o código {0} (deverá estar pré-preenchido) e volte à app.
  
+O Trakt pode primeiro pedir-lhe para iniciar sessão, por vezes com um código enviado por e-mail: esse código introduz-se no navegador, não nesta app.
+ 
 A ligação será detetada automaticamente.
  
 Lembrete: o seu código é {0}.</value>
@@ -4481,9 +4483,6 @@ Lembrete: o seu código é {0}.</value>
     </data>
   <data name="Startup_ConnectionDevicodeCode_CopyCodeAndOpenLink" xml:space="preserve">
         <value>Copiar o código e abrir o link</value>
-    </data>
-  <data name="Global_AuthenticationAttempt" xml:space="preserve">
-        <value>Tentativa de conexão…</value>
     </data>
   <data name="Startup_ConnectionDevicodeCodeMode_Name" xml:space="preserve">
         <value>Entrar com um código</value>
@@ -6256,5 +6255,23 @@ Uma temporada marcada como vista de uma só vez conta à hora a que a marcou.</v
   </data>
   <data name="Settings_HomeGroups_Preview_Badge" xml:space="preserve">
     <value>PRÉ-VISUALIZAÇÃO</value>
+  </data>
+  <data name="Startup_ConnectionDevicodeCode_WaitingTitle" xml:space="preserve">
+    <value>À espera do Trakt…</value>
+  </data>
+  <data name="Startup_ConnectionDevicodeCode_WaitingExplanation" xml:space="preserve">
+    <value>Termine o início de sessão no seu navegador. Se o Trakt lhe enviar um código por e-mail, introduza-o no navegador, não aqui. Assim que o Trakt aceitar o código abaixo, a app liga-se sozinha.</value>
+  </data>
+  <data name="Startup_ConnectionDevicodeCode_ReopenLink" xml:space="preserve">
+    <value>Reabrir a página do Trakt</value>
+  </data>
+  <data name="Startup_ConnectionDevicodeCode_CopyCode" xml:space="preserve">
+    <value>Copiar o código</value>
+  </data>
+  <data name="Startup_ConnectionDevicodeCode_CodeCopied" xml:space="preserve">
+    <value>Código copiado.</value>
+  </data>
+  <data name="Startup_ConnectionDevicodeCode_Expired" xml:space="preserve">
+    <value>O código expirou. Volte a iniciar sessão para obter um novo.</value>
   </data>
 </root>

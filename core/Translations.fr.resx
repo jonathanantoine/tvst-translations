@@ -4427,6 +4427,8 @@ Confirmez-vous ?</value>
  
 Connectez-vous à Trakt, entrez le code {0} (il devrait être pré-rempli), puis revenez dans l’app.
  
+Trakt peut d’abord vous demander de vous connecter, parfois avec un code envoyé par e-mail : ce code e-mail se saisit dans le navigateur, pas dans cette app.
+ 
 La connexion sera détectée automatiquement.
  
 Rappel : votre code est {0}.</value>
@@ -4439,9 +4441,6 @@ Rappel : votre code est {0}.</value>
   </data>
   <data name="Startup_ConnectionDevicodeCode_CopyCodeAndOpenLink" xml:space="preserve">
       <value>Copier le code et ouvrir le lien</value>
-  </data>
-  <data name="Global_AuthenticationAttempt" xml:space="preserve">
-      <value>Tentative de connexion...</value>
   </data>
   <data name="Startup_ConnectionDevicodeCodeMode_Name" xml:space="preserve">
       <value>Se connecter avec un code</value>
@@ -6169,5 +6168,23 @@ Une saison marquée comme vue d'un coup compte à l'heure où vous l'avez marqu�
   </data>
   <data name="Settings_HomeGroups_Preview_Badge" xml:space="preserve">
     <value>APERÇU</value>
+  </data>
+  <data name="Startup_ConnectionDevicodeCode_WaitingTitle" xml:space="preserve">
+    <value>En attente de Trakt…</value>
+  </data>
+  <data name="Startup_ConnectionDevicodeCode_WaitingExplanation" xml:space="preserve">
+    <value>Terminez la connexion dans votre navigateur. Si Trakt vous envoie un code par e-mail, saisissez-le dans le navigateur, pas ici. Dès que Trakt accepte le code ci-dessous, l’app se connecte toute seule.</value>
+  </data>
+  <data name="Startup_ConnectionDevicodeCode_ReopenLink" xml:space="preserve">
+    <value>Rouvrir la page Trakt</value>
+  </data>
+  <data name="Startup_ConnectionDevicodeCode_CopyCode" xml:space="preserve">
+    <value>Copier le code</value>
+  </data>
+  <data name="Startup_ConnectionDevicodeCode_CodeCopied" xml:space="preserve">
+    <value>Code copié.</value>
+  </data>
+  <data name="Startup_ConnectionDevicodeCode_Expired" xml:space="preserve">
+    <value>Le code a expiré. Relancez la connexion pour en obtenir un nouveau.</value>
   </data>
 </root>

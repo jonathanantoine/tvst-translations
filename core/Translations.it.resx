@@ -3108,6 +3108,8 @@ Confermi?</value>
  
 Accedi a Trakt, inserisci il codice {0} (dovrebbe essere già compilato), poi torna nell’app.
  
+Trakt potrebbe prima chiederti di accedere, a volte con un codice inviato via e-mail: quel codice va inserito nel browser, non in questa app.
+ 
 La connessione verrà rilevata automaticamente.
  
 Promemoria: il tuo codice è {0}.</value>
@@ -3120,9 +3122,6 @@ Promemoria: il tuo codice è {0}.</value>
     </data>
     <data name="Startup_ConnectionDevicodeCode_CopyCodeAndOpenLink" xml:space="preserve">
         <value>Copiare il codice e aprire il link</value>
-    </data>
-    <data name="Global_AuthenticationAttempt" xml:space="preserve">
-        <value>Tentativo di connession…</value>
     </data>
     <data name="Startup_ConnectionDevicodeCodeMode_Name" xml:space="preserve">
         <value>Accedere con un codice</value>
@@ -4895,5 +4894,23 @@ Una stagione segnata come vista in una volta conta all'ora in cui l'ha segnata.<
   </data>
   <data name="Settings_HomeGroups_Preview_Badge" xml:space="preserve">
     <value>ANTEPRIMA</value>
+  </data>
+  <data name="Startup_ConnectionDevicodeCode_WaitingTitle" xml:space="preserve">
+    <value>In attesa di Trakt…</value>
+  </data>
+  <data name="Startup_ConnectionDevicodeCode_WaitingExplanation" xml:space="preserve">
+    <value>Completa l’accesso nel browser. Se Trakt ti invia un codice via e-mail, inseriscilo nel browser, non qui. Appena Trakt accetta il codice qui sotto, l’app si connette da sola.</value>
+  </data>
+  <data name="Startup_ConnectionDevicodeCode_ReopenLink" xml:space="preserve">
+    <value>Riapri la pagina di Trakt</value>
+  </data>
+  <data name="Startup_ConnectionDevicodeCode_CopyCode" xml:space="preserve">
+    <value>Copia il codice</value>
+  </data>
+  <data name="Startup_ConnectionDevicodeCode_CodeCopied" xml:space="preserve">
+    <value>Codice copiato.</value>
+  </data>
+  <data name="Startup_ConnectionDevicodeCode_Expired" xml:space="preserve">
+    <value>Il codice è scaduto. Riavvia l’accesso per ottenerne uno nuovo.</value>
   </data>
 </root>
