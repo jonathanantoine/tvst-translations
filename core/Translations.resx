@@ -4892,7 +4892,7 @@ A season marked as watched in one go counts at the time you marked it.</value>
     <value>Waiting for Trakt…</value>
   </data>
   <data name="Startup_ConnectionDevicodeCode_WaitingExplanation" xml:space="preserve">
-    <value>Finish signing in in your browser. If Trakt emails you a sign-in code, type it in the browser, not here. Once Trakt accepts the code below, the app connects by itself.</value>
+    <value>Finish signing in from your browser. If Trakt emails you a sign-in code, type the code in your browser, not here. Once Trakt accepts the code below, the app connects by itself.</value>
   </data>
   <data name="Startup_ConnectionDevicodeCode_ReopenLink" xml:space="preserve">
     <value>Reopen the Trakt page</value>
