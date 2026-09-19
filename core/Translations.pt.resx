@@ -3150,6 +3150,12 @@ Você confirma?
         xml:space="preserve">
     <value>data de lançamento</value>
   </data>
+  <data name="MoviesLists_SortChoice_SortOption_UserRatingReverse" xml:space="preserve">
+    <value>a minha avaliação (melhor primeiro)</value>
+  </data>
+  <data name="MoviesLists_SortChoice_SortOption_UserRating" xml:space="preserve">
+    <value>a minha avaliação (pior primeiro)</value>
+  </data>
   <data
  name     ="MediaItem_YourRatingFormat"
  xml:space="preserve">

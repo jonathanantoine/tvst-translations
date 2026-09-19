@@ -2005,6 +2005,12 @@ y tendencias mundiales!</value>
     <data name="MoviesLists_SortChoice_SortOption_ReleaseDate" xml:space="preserve">
     <value>Fecha de estreno</value>
   </data>
+  <data name="MoviesLists_SortChoice_SortOption_UserRatingReverse" xml:space="preserve">
+    <value>Mi valoración (mejor primero)</value>
+  </data>
+  <data name="MoviesLists_SortChoice_SortOption_UserRating" xml:space="preserve">
+    <value>Mi valoración (peor primero)</value>
+  </data>
     <data name="MediaItem_YourRatingFormat" xml:space="preserve">
     <value>Tu puntuación : {0}</value>
   </data>

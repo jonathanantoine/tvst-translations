@@ -3096,6 +3096,12 @@ Confirmez-vous ?
  name     ="MoviesLists_SortChoice_SortOption_ReleaseDate"
  xml:space="preserve">
     <value>Date de sortie</value>
+  </data>
+  <data name="MoviesLists_SortChoice_SortOption_UserRatingReverse" xml:space="preserve">
+    <value>Ma note (meilleure d'abord)</value>
+  </data>
+  <data name="MoviesLists_SortChoice_SortOption_UserRating" xml:space="preserve">
+    <value>Ma note (moins bonne d'abord)</value>
   </data><data
  name     ="MediaItem_YourRatingFormat"
  xml:space="preserve">

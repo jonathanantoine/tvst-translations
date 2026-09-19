@@ -1999,6 +1999,12 @@ Confermi?
     <data name="MoviesLists_SortChoice_SortOption_ReleaseDate" xml:space="preserve">
     <value>data di uscita</value>
   </data>
+  <data name="MoviesLists_SortChoice_SortOption_UserRatingReverse" xml:space="preserve">
+    <value>il mio voto (migliore prima)</value>
+  </data>
+  <data name="MoviesLists_SortChoice_SortOption_UserRating" xml:space="preserve">
+    <value>il mio voto (peggiore prima)</value>
+  </data>
     <data name="MediaItem_YourRatingFormat" xml:space="preserve">
     <value>Il tuo voto: {0}</value>
   </data>

@@ -2098,6 +2098,12 @@ Do you confirm ?
   <data name="MoviesLists_SortChoice_SortOption_ReleaseDate" xml:space="preserve">
     <value>Release date</value>
   </data>
+  <data name="MoviesLists_SortChoice_SortOption_UserRatingReverse" xml:space="preserve">
+    <value>My rating (highest first)</value>
+  </data>
+  <data name="MoviesLists_SortChoice_SortOption_UserRating" xml:space="preserve">
+    <value>My rating (lowest first)</value>
+  </data>
   <data name="MediaItem_YourRatingFormat" xml:space="preserve">
     <value>Your rating : {0}</value>
   </data>

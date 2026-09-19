@@ -1993,6 +1993,12 @@ Você confirma?
     <data name="MoviesLists_SortChoice_SortOption_ReleaseDate" xml:space="preserve">
     <value>data de lançamento</value>
   </data>
+  <data name="MoviesLists_SortChoice_SortOption_UserRatingReverse" xml:space="preserve">
+    <value>minha avaliação (melhor primeiro)</value>
+  </data>
+  <data name="MoviesLists_SortChoice_SortOption_UserRating" xml:space="preserve">
+    <value>minha avaliação (pior primeiro)</value>
+  </data>
     <data name="MediaItem_YourRatingFormat" xml:space="preserve">
     <value>Sua nota: {0}</value>
   </data>
