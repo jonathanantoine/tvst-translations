@@ -4919,4 +4919,10 @@ Una stagione segnata come vista in una volta conta all'ora in cui l'ha segnata.<
   <data name="Startup_ConnectionDevicodeCode_Expired" xml:space="preserve">
     <value>Il codice è scaduto. Riavvia l’accesso per ottenerne uno nuovo.</value>
   </data>
+  <data name="DataFreshness_Refresh_WatchedEpisodesUpdated" xml:space="preserve">
+    <value>Episodi visti: {0} nell'app, {1} su Trakt. L'app ora corrisponde a Trakt.</value>
+  </data>
+  <data name="DataFreshness_Refresh_WatchedEpisodesUpToDate" xml:space="preserve">
+    <value>Episodi visti: {0}, come su Trakt.</value>
+  </data>
 </root>

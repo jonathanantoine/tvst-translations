@@ -4912,4 +4912,10 @@ A season marked as watched in one go counts at the time you marked it.</value>
   <data name="Startup_ConnectionDevicodeCode_Expired" xml:space="preserve">
     <value>The code has expired. Start the sign-in again to get a new one.</value>
   </data>
+  <data name="DataFreshness_Refresh_WatchedEpisodesUpdated" xml:space="preserve">
+    <value>Watched episodes: {0} in the app, {1} on Trakt. The app now matches Trakt.</value>
+  </data>
+  <data name="DataFreshness_Refresh_WatchedEpisodesUpToDate" xml:space="preserve">
+    <value>Watched episodes: {0}, the same as on Trakt.</value>
+  </data>
 </root>

@@ -6193,4 +6193,10 @@ Une saison marquée comme vue d'un coup compte à l'heure où vous l'avez marqu�
   <data name="Startup_ConnectionDevicodeCode_Expired" xml:space="preserve">
     <value>Le code a expiré. Relancez la connexion pour en obtenir un nouveau.</value>
   </data>
+  <data name="DataFreshness_Refresh_WatchedEpisodesUpdated" xml:space="preserve">
+    <value>Épisodes vus : {0} dans l'application, {1} sur Trakt. L'application est maintenant alignée sur Trakt.</value>
+  </data>
+  <data name="DataFreshness_Refresh_WatchedEpisodesUpToDate" xml:space="preserve">
+    <value>Épisodes vus : {0}, comme sur Trakt.</value>
+  </data>
 </root>

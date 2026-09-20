@@ -4949,4 +4949,10 @@ Uma temporada marcada como assistida de uma vez conta na hora em que você a mar
   <data name="Startup_ConnectionDevicodeCode_Expired" xml:space="preserve">
     <value>O código expirou. Inicie o login novamente para obter um novo.</value>
   </data>
+  <data name="DataFreshness_Refresh_WatchedEpisodesUpdated" xml:space="preserve">
+    <value>Episódios vistos: {0} no aplicativo, {1} no Trakt. O aplicativo agora corresponde ao Trakt.</value>
+  </data>
+  <data name="DataFreshness_Refresh_WatchedEpisodesUpToDate" xml:space="preserve">
+    <value>Episódios vistos: {0}, igual ao Trakt.</value>
+  </data>
 </root>
