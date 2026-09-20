@@ -6199,4 +6199,7 @@ Une saison marquée comme vue d'un coup compte à l'heure où vous l'avez marqu�
   <data name="DataFreshness_Refresh_WatchedEpisodesUpToDate" xml:space="preserve">
     <value>Épisodes vus : {0}, comme sur Trakt.</value>
   </data>
+  <data name="SharedLink_EpisodeNotOpened" xml:space="preserve">
+    <value>L'épisode n'a pas pu être ouvert, voici sa série.</value>
+  </data>
 </root>

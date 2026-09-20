@@ -4918,4 +4918,7 @@ A season marked as watched in one go counts at the time you marked it.</value>
   <data name="DataFreshness_Refresh_WatchedEpisodesUpToDate" xml:space="preserve">
     <value>Watched episodes: {0}, the same as on Trakt.</value>
   </data>
+  <data name="SharedLink_EpisodeNotOpened" xml:space="preserve">
+    <value>The episode could not be opened, so here is its show.</value>
+  </data>
 </root>

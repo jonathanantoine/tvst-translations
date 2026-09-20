@@ -4951,4 +4951,7 @@ Una temporada marcada como vista de una vez cuenta a la hora en que la marcó.</
   <data name="DataFreshness_Refresh_WatchedEpisodesUpToDate" xml:space="preserve">
     <value>Episodios vistos: {0}, igual que en Trakt.</value>
   </data>
+  <data name="SharedLink_EpisodeNotOpened" xml:space="preserve">
+    <value>No se pudo abrir el episodio, aquí está su serie.</value>
+  </data>
 </root>
