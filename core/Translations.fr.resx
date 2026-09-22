@@ -5043,7 +5043,7 @@ Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? V
     <value>Descendre d'une place dans la watchlist</value>
   </data>
   <data name="PendingOperations_PageTitle" xml:space="preserve">
-    <value>Opérations en attente</value>
+    <value>Actions en attente</value>
   </data>
   <data name="PendingOperations_EmptyPlaceholder" xml:space="preserve">
     <value>Rien n'attend d'être envoyé à Trakt.</value>
@@ -5073,7 +5073,7 @@ Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? V
     <value>Abandonnées</value>
   </data>
   <data name="PendingOperations_Settings_Text" xml:space="preserve">
-    <value>Opérations en attente</value>
+    <value>Actions en attente</value>
   </data>
   <data name="PendingOperations_Settings_Subtitle" xml:space="preserve">
     <value>Voir les modifications déjà appliquées sur cet appareil et pas encore envoyées à Trakt.</value>
@@ -6201,5 +6201,11 @@ Une saison marquée comme vue d'un coup compte à l'heure où vous l'avez marqu�
   </data>
   <data name="SharedLink_EpisodeNotOpened" xml:space="preserve">
     <value>L'épisode n'a pas pu être ouvert, voici sa série.</value>
+  </data>
+  <data name="Settings_Data_HideAndIgnoreSpecialEpisodes_Subtitle" xml:space="preserve">
+    <value>Un épisode spécial n'appartient à aucune saison numérotée : extras, bonus, épisodes hors série diffusés entre deux saisons.</value>
+  </data>
+  <data name="Settings_Data_HideHiddenItems_Subtitle" xml:space="preserve">
+    <value>Une série masquée est une série que vous avez arrêté de suivre, sans perdre son historique (« abandonnée » sur Trakt). Si cette option est désactivée, les séries masquées restent regroupées en bas de la page d'accueil.</value>
   </data>
 </root>

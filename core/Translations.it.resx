@@ -3766,7 +3766,7 @@ Vuoi che l'app disattivi questa impostazione sul tuo account Trakt? Da ora in po
     <value>Scendere di una posizione nella watchlist</value>
   </data>
   <data name="PendingOperations_PageTitle" xml:space="preserve">
-    <value>Operazioni in sospeso</value>
+    <value>Azioni in sospeso</value>
   </data>
   <data name="PendingOperations_EmptyPlaceholder" xml:space="preserve">
     <value>Non c'è nulla in attesa di essere inviato a Trakt.</value>
@@ -3796,7 +3796,7 @@ Vuoi che l'app disattivi questa impostazione sul tuo account Trakt? Da ora in po
     <value>Abbandonate</value>
   </data>
   <data name="PendingOperations_Settings_Text" xml:space="preserve">
-    <value>Operazioni in sospeso</value>
+    <value>Azioni in sospeso</value>
   </data>
   <data name="PendingOperations_Settings_Subtitle" xml:space="preserve">
     <value>Consulta le modifiche già applicate su questo dispositivo e non ancora inviate a Trakt.</value>
@@ -4927,5 +4927,11 @@ Una stagione segnata come vista in una volta conta all'ora in cui l'ha segnata.<
   </data>
   <data name="SharedLink_EpisodeNotOpened" xml:space="preserve">
     <value>Non è stato possibile aprire l'episodio, ecco la sua serie.</value>
+  </data>
+  <data name="Settings_Data_HideAndIgnoreSpecialEpisodes_Subtitle" xml:space="preserve">
+    <value>Un episodio speciale non appartiene a nessuna stagione numerata: extra, contenuti bonus, episodi singoli trasmessi tra due stagioni.</value>
+  </data>
+  <data name="Settings_Data_HideHiddenItems_Subtitle" xml:space="preserve">
+    <value>Una Serie TV nascosta è una serie che hai smesso di seguire senza perderne la cronologia (“abbandonata” su Trakt). Se questa opzione è disattivata, le serie nascoste restano raggruppate in fondo alla pagina iniziale.</value>
   </data>
 </root>

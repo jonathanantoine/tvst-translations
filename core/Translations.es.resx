@@ -3762,7 +3762,7 @@ Recordatorio: tu código es {0}.</value>
     <value>Bajar un puesto en la lista de seguimiento</value>
   </data>
   <data name="PendingOperations_PageTitle" xml:space="preserve">
-    <value>Operaciones pendientes</value>
+    <value>Acciones pendientes</value>
   </data>
   <data name="PendingOperations_EmptyPlaceholder" xml:space="preserve">
     <value>No hay nada esperando a enviarse a Trakt.</value>
@@ -3792,7 +3792,7 @@ Recordatorio: tu código es {0}.</value>
     <value>Abandonadas</value>
   </data>
   <data name="PendingOperations_Settings_Text" xml:space="preserve">
-    <value>Operaciones pendientes</value>
+    <value>Acciones pendientes</value>
   </data>
   <data name="PendingOperations_Settings_Subtitle" xml:space="preserve">
     <value>Consulte los cambios ya aplicados en este dispositivo y aún no enviados a Trakt.</value>
@@ -4953,5 +4953,11 @@ Una temporada marcada como vista de una vez cuenta a la hora en que la marcó.</
   </data>
   <data name="SharedLink_EpisodeNotOpened" xml:space="preserve">
     <value>No se pudo abrir el episodio, aquí está su serie.</value>
+  </data>
+  <data name="Settings_Data_HideAndIgnoreSpecialEpisodes_Subtitle" xml:space="preserve">
+    <value>Un episodio especial no pertenece a ninguna temporada numerada: extras, contenido adicional, episodios sueltos emitidos entre temporadas.</value>
+  </data>
+  <data name="Settings_Data_HideHiddenItems_Subtitle" xml:space="preserve">
+    <value>Una serie oculta es una serie que dejaste de seguir sin perder su historial (“abandonada” en Trakt). Si esta opción está desactivada, las series ocultas quedan agrupadas al final de la página de inicio.</value>
   </data>
 </root>

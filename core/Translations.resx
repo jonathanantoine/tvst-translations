@@ -3765,7 +3765,7 @@ Would you like the app to turn that setting off on your Trakt account? Your view
     <value>Move down one place in the watchlist</value>
   </data>
   <data name="PendingOperations_PageTitle" xml:space="preserve">
-    <value>Pending operations</value>
+    <value>Pending actions</value>
   </data>
   <data name="PendingOperations_EmptyPlaceholder" xml:space="preserve">
     <value>Nothing is waiting to be sent to Trakt.</value>
@@ -3795,7 +3795,7 @@ Would you like the app to turn that setting off on your Trakt account? Your view
     <value>Given up on</value>
   </data>
   <data name="PendingOperations_Settings_Text" xml:space="preserve">
-    <value>Pending operations</value>
+    <value>Pending actions</value>
   </data>
   <data name="PendingOperations_Settings_Subtitle" xml:space="preserve">
     <value>See the changes already applied on this device and not yet sent to Trakt.</value>
@@ -4920,5 +4920,11 @@ A season marked as watched in one go counts at the time you marked it.</value>
   </data>
   <data name="SharedLink_EpisodeNotOpened" xml:space="preserve">
     <value>The episode could not be opened, so here is its show.</value>
+  </data>
+  <data name="Settings_Data_HideAndIgnoreSpecialEpisodes_Subtitle" xml:space="preserve">
+    <value>A special episode belongs to no numbered season: extras, bonus content, one-off episodes aired between seasons.</value>
+  </data>
+  <data name="Settings_Data_HideHiddenItems_Subtitle" xml:space="preserve">
+    <value>A hidden show is one you stopped following without losing its history (“dropped” on Trakt). When this is off, hidden shows stay grouped at the bottom of the home page.</value>
   </data>
 </root>
