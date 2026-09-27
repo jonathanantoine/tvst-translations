@@ -5003,6 +5003,9 @@ Una stagione segnata come vista in una volta conta all'ora in cui l'ha segnata.<
   <data name="UserRatings_Description" xml:space="preserve">
     <value>Le serie e i film che ho votato, i migliori prima.</value>
   </data>
+  <data name="UserRatings_GroupHeaderFormat" xml:space="preserve">
+    <value>Titoli che ho votato {0} ({1})</value>
+  </data>
   <data name="Home_UserStats_Ratings_Empty_Text" xml:space="preserve">
     <value>Nessun voto per ora.</value>
   </data>

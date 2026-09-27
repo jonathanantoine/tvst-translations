@@ -5029,6 +5029,9 @@ Una temporada marcada como vista de una vez cuenta a la hora en que la marcó.</
   <data name="UserRatings_Description" xml:space="preserve">
     <value>Las series y películas que he valorado, las mejores primero.</value>
   </data>
+  <data name="UserRatings_GroupHeaderFormat" xml:space="preserve">
+    <value>Títulos que valoré con {0} ({1})</value>
+  </data>
   <data name="Home_UserStats_Ratings_Empty_Text" xml:space="preserve">
     <value>Nada valorado todavía.</value>
   </data>

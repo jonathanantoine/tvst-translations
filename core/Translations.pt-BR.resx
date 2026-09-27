@@ -5033,6 +5033,9 @@ Uma temporada marcada como assistida de uma vez conta na hora em que você a mar
   <data name="UserRatings_Description" xml:space="preserve">
     <value>As séries e filmes que avaliei, os melhores primeiro.</value>
   </data>
+  <data name="UserRatings_GroupHeaderFormat" xml:space="preserve">
+    <value>Títulos que avaliei com {0} ({1})</value>
+  </data>
   <data name="Home_UserStats_Ratings_Empty_Text" xml:space="preserve">
     <value>Nada avaliado ainda.</value>
   </data>

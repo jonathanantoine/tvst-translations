@@ -4996,6 +4996,9 @@ A season marked as watched in one go counts at the time you marked it.</value>
   <data name="UserRatings_Description" xml:space="preserve">
     <value>Every show and movie I rated, best first.</value>
   </data>
+  <data name="UserRatings_GroupHeaderFormat" xml:space="preserve">
+    <value>Titles I rated {0} ({1})</value>
+  </data>
   <data name="Home_UserStats_Ratings_Empty_Text" xml:space="preserve">
     <value>Nothing rated yet.</value>
   </data>
