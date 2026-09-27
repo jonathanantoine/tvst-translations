@@ -5027,4 +5027,19 @@ Uma temporada marcada como assistida de uma vez conta na hora em que você a mar
   <data name="Lists_ItemRemovedToast" xml:space="preserve">
     <value>Removido da lista.</value>
   </data>
+  <data name="UserRatings_Name" xml:space="preserve">
+    <value>Minhas avaliações</value>
+  </data>
+  <data name="UserRatings_Description" xml:space="preserve">
+    <value>As séries e filmes que avaliei, os melhores primeiro.</value>
+  </data>
+  <data name="Home_UserStats_Ratings_Empty_Text" xml:space="preserve">
+    <value>Nada avaliado ainda.</value>
+  </data>
+  <data name="Home_UserStats_Profile_RatingsCountFormat_Single" xml:space="preserve">
+    <value>{0} avaliação</value>
+  </data>
+  <data name="Home_UserStats_Profile_RatingsCountFormat_Plural" xml:space="preserve">
+    <value>{0} avaliações</value>
+  </data>
 </root>

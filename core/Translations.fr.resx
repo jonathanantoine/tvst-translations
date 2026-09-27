@@ -6271,4 +6271,19 @@ Une saison marquée comme vue d'un coup compte à l'heure où vous l'avez marqu�
   <data name="Lists_ItemRemovedToast" xml:space="preserve">
     <value>Retiré de la liste.</value>
   </data>
+  <data name="UserRatings_Name" xml:space="preserve">
+    <value>Mes notes</value>
+  </data>
+  <data name="UserRatings_Description" xml:space="preserve">
+    <value>Les séries et films que j'ai notés, les mieux notés d'abord.</value>
+  </data>
+  <data name="Home_UserStats_Ratings_Empty_Text" xml:space="preserve">
+    <value>Rien de noté pour l'instant.</value>
+  </data>
+  <data name="Home_UserStats_Profile_RatingsCountFormat_Single" xml:space="preserve">
+    <value>{0} note</value>
+  </data>
+  <data name="Home_UserStats_Profile_RatingsCountFormat_Plural" xml:space="preserve">
+    <value>{0} notes</value>
+  </data>
 </root>

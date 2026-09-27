@@ -5023,4 +5023,19 @@ Una temporada marcada como vista de una vez cuenta a la hora en que la marcó.</
   <data name="Lists_ItemRemovedToast" xml:space="preserve">
     <value>Eliminado de la lista.</value>
   </data>
+  <data name="UserRatings_Name" xml:space="preserve">
+    <value>Mis valoraciones</value>
+  </data>
+  <data name="UserRatings_Description" xml:space="preserve">
+    <value>Las series y películas que he valorado, las mejores primero.</value>
+  </data>
+  <data name="Home_UserStats_Ratings_Empty_Text" xml:space="preserve">
+    <value>Nada valorado todavía.</value>
+  </data>
+  <data name="Home_UserStats_Profile_RatingsCountFormat_Single" xml:space="preserve">
+    <value>{0} valoración</value>
+  </data>
+  <data name="Home_UserStats_Profile_RatingsCountFormat_Plural" xml:space="preserve">
+    <value>{0} valoraciones</value>
+  </data>
 </root>

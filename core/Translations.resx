@@ -4990,4 +4990,19 @@ A season marked as watched in one go counts at the time you marked it.</value>
   <data name="Lists_ItemRemovedToast" xml:space="preserve">
     <value>Removed from the list.</value>
   </data>
+  <data name="UserRatings_Name" xml:space="preserve">
+    <value>My ratings</value>
+  </data>
+  <data name="UserRatings_Description" xml:space="preserve">
+    <value>Every show and movie I rated, best first.</value>
+  </data>
+  <data name="Home_UserStats_Ratings_Empty_Text" xml:space="preserve">
+    <value>Nothing rated yet.</value>
+  </data>
+  <data name="Home_UserStats_Profile_RatingsCountFormat_Single" xml:space="preserve">
+    <value>{0} rating</value>
+  </data>
+  <data name="Home_UserStats_Profile_RatingsCountFormat_Plural" xml:space="preserve">
+    <value>{0} ratings</value>
+  </data>
 </root>

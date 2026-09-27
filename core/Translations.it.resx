@@ -4997,4 +4997,19 @@ Una stagione segnata come vista in una volta conta all'ora in cui l'ha segnata.<
   <data name="Lists_ItemRemovedToast" xml:space="preserve">
     <value>Rimosso dall'elenco.</value>
   </data>
+  <data name="UserRatings_Name" xml:space="preserve">
+    <value>I miei voti</value>
+  </data>
+  <data name="UserRatings_Description" xml:space="preserve">
+    <value>Le serie e i film che ho votato, i migliori prima.</value>
+  </data>
+  <data name="Home_UserStats_Ratings_Empty_Text" xml:space="preserve">
+    <value>Nessun voto per ora.</value>
+  </data>
+  <data name="Home_UserStats_Profile_RatingsCountFormat_Single" xml:space="preserve">
+    <value>{0} voto</value>
+  </data>
+  <data name="Home_UserStats_Profile_RatingsCountFormat_Plural" xml:space="preserve">
+    <value>{0} voti</value>
+  </data>
 </root>
