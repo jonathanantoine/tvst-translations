@@ -179,7 +179,7 @@ Clicca qui e fai una donazione!</value>
     <value>ANNULLA</value>
   </data>
     <data name="Settings_Data_HideHiddenItems_Text" xml:space="preserve">
-    <value>Non mostrare le Serie TV nascoste</value>
+    <value>Non mostrare le Serie TV abbandonate</value>
   </data>
     <data name="Settings_Data_UsesSpecialsEpisodesInEpisodeLeftCount_Text" xml:space="preserve">
     <value>Calcola anche gli episodi speciali con il numero di episodi da vedere e le statistiche</value>
@@ -392,7 +392,7 @@ per i miei figli e mia moglie.</value>
     <value>LA MIA SERIE TV</value>
   </data>
     <data name="Home_Code_MyShowsHiddenGroupHeader_Plural" xml:space="preserve">
-    <value>{0} SERIE TV NASCOSTE</value>
+    <value>{0} SERIE TV ABBANDONATE</value>
   </data>
     <data name="Home_Code_MyShowToStartGroupHeaderPlural" xml:space="preserve">
     <value>{0} SERIE TV IN ARRIVO</value>
@@ -613,10 +613,10 @@ una connessione a Internet.</value>
     <value>SERIE TV visibile</value>
   </data>
     <data name="Home_UserStats_Code_HiddenShowCountSuffixLabelPlural" xml:space="preserve">
-    <value>SERIE TV nascoste</value>
+    <value>SERIE TV abbandonate</value>
   </data>
     <data name="Home_UserStats_Code_HiddenShowCountSuffixLabelSingular" xml:space="preserve">
-    <value>SERIE TV nascosta</value>
+    <value>SERIE TV abbandonata</value>
   </data>
     <data name="Home_UserStats_Code_VisibleAndHiddenShowCountPrefix" xml:space="preserve">
     <value>di cui</value>
@@ -685,7 +685,7 @@ per vedere le tue statistiche.</value>
     <value>Top serie degli ultimi 30 giorni</value>
   </data>
   <data name="TopShows_HiddenTag_Label" xml:space="preserve">
-    <value>Nascosta</value>
+    <value>Abbandonata</value>
   </data>
     <data name="Home_UserStats_WatchTime_EpLeftToSeeIn_Text" xml:space="preserve">
     <value>episodi da vedere in</value>
@@ -1125,7 +1125,7 @@ Regole: 5 o più parole, senza richieste di supporto, contrassegna se spoiler!</
     <value>Guarda la locandina</value>
   </data>
     <data name="ShowDetails_AppBar_Hide_Label" xml:space="preserve">
-    <value>Nascondi queste informazioni</value>
+    <value>Abbandona la serie</value>
   </data>
 
     <data name="ShowDetails_AppBar_RateShow_Label" xml:space="preserve">
@@ -1151,7 +1151,7 @@ Regole: 5 o più parole, senza richieste di supporto, contrassegna se spoiler!</
     <value>Aggiunto a TVST il {0}</value>
   </data>
     <data name="ShowDetails_AppBar_UnHide_Label" xml:space="preserve">
-    <value>Ripristina nella mia raccolta</value>
+    <value>Riprendi la serie</value>
   </data>
     <data name="ShowDetails_Similar_PanelHeader_Header" xml:space="preserve">
     <value>SERIE TV SIMILI</value>
@@ -2168,7 +2168,7 @@ Confermi?
   </data>
 
     <data name="Home_Code_MyShowsHiddenGroupHeader_Single" xml:space="preserve">
-    <value>{0} SERIE TV NASCOSTA</value>
+    <value>{0} SERIE TV ABBANDONATA</value>
   </data>
     <data name="Home_Code_Incoming_XDaysAgoSingle" xml:space="preserve">
     <value>{0} giorno fa</value>
@@ -2251,10 +2251,10 @@ Confermi?
   </data>
 
     <data name="ShowDetails_HideSeason" xml:space="preserve">
-    <value>Nascondi questa stagione</value>
+    <value>Salta questa stagione</value>
   </data>
     <data name="ShowDetails_UnhideSeason" xml:space="preserve">
-    <value>Non nasconderti più in questa stagione</value>
+    <value>Non saltare più questa stagione</value>
   </data>
 
     <data name="Trakt_AccountLockedContent" xml:space="preserve">
@@ -3095,7 +3095,7 @@ Confermi?</value>
         <value>Miniatura predefinita</value>
     </data>
     <data name="ShowDetails_HideSeasonWithPrevious" xml:space="preserve">
-        <value>Nascondi questa stagione e le precedenti</value>
+        <value>Salta questa stagione e le precedenti</value>
     </data>
     <data name="Settings_RaterAfterMovieWatchedHeader_Text" xml:space="preserve">
         <value>Film: richiedere una valutazione quando contrassegnato come visto</value>
@@ -4932,6 +4932,69 @@ Una stagione segnata come vista in una volta conta all'ora in cui l'ha segnata.<
     <value>Un episodio speciale non appartiene a nessuna stagione numerata: extra, contenuti bonus, episodi singoli trasmessi tra due stagioni.</value>
   </data>
   <data name="Settings_Data_HideHiddenItems_Subtitle" xml:space="preserve">
-    <value>Una Serie TV nascosta è una serie che hai smesso di seguire senza perderne la cronologia (“abbandonata” su Trakt). Se questa opzione è disattivata, le serie nascoste restano raggruppate in fondo alla pagina iniziale.</value>
+    <value>Una Serie TV abbandonata è una serie che hai smesso di seguire senza perderne la cronologia. Se questa opzione è disattivata, le serie abbandonate restano raggruppate in fondo alla pagina iniziale.</value>
+  </data>
+  <data name="Settings_SortHeaderForHiddenShows_Text" xml:space="preserve">
+    <value>Gruppo delle serie TV abbandonate</value>
+  </data>
+  <data name="ShowDetails_SeasonSkippedTag_Label" xml:space="preserve">
+    <value>Saltata</value>
+  </data>
+  <data name="ShowDetails_DroppedToast_InHomeGroup" xml:space="preserve">
+    <value>Serie TV abbandonata. La trovi nel gruppo delle serie TV abbandonate, in fondo alla pagina iniziale.</value>
+  </data>
+  <data name="ShowDetails_DroppedToast_NotDisplayed" xml:space="preserve">
+    <value>Serie TV abbandonata. Non compare più nella pagina iniziale.</value>
+  </data>
+  <data name="ShowDetails_SeasonSkippedToast_Single" xml:space="preserve">
+    <value>Stagione saltata: non conta più nei tuoi progressi.</value>
+  </data>
+  <data name="ShowDetails_SeasonSkippedToast_Plural" xml:space="preserve">
+    <value>Stagioni saltate: non contano più nei tuoi progressi.</value>
+  </data>
+  <data name="Show_AddedToast" xml:space="preserve">
+    <value>Serie aggiunta!</value>
+  </data>
+  <data name="Show_RemovedToast" xml:space="preserve">
+    <value>Serie rimossa.</value>
+  </data>
+  <data name="Show_RemovedFromCollectionToast" xml:space="preserve">
+    <value>Serie rimossa dalla tua collezione.</value>
+  </data>
+  <data name="Show_RemovedFromWatchlistToast" xml:space="preserve">
+    <value>Serie rimossa dalla tua watchlist.</value>
+  </data>
+  <data name="Movie_AddedToCollectionToast" xml:space="preserve">
+    <value>Film aggiunto alla tua collezione.</value>
+  </data>
+  <data name="Movie_RemovedFromCollectionToast" xml:space="preserve">
+    <value>Film rimosso dalla tua collezione.</value>
+  </data>
+  <data name="Movie_AddedToWatchlistToast" xml:space="preserve">
+    <value>Film aggiunto alla tua watchlist.</value>
+  </data>
+  <data name="Movie_RemovedFromWatchlistToast" xml:space="preserve">
+    <value>Film rimosso dalla tua watchlist.</value>
+  </data>
+  <data name="Movie_SetAsWatchedSuccess" xml:space="preserve">
+    <value>Film segnato come visto!</value>
+  </data>
+  <data name="Movie_SetAsUnwatchedSuccess" xml:space="preserve">
+    <value>Film segnato come non visto.</value>
+  </data>
+  <data name="Movie_RemovedToast" xml:space="preserve">
+    <value>Film rimosso.</value>
+  </data>
+  <data name="Episode_SetAsUnwatchedSuccess" xml:space="preserve">
+    <value>Episodio segnato come non visto.</value>
+  </data>
+  <data name="MediaItem_PlayRemovedToast" xml:space="preserve">
+    <value>Visione rimossa dalla tua cronologia.</value>
+  </data>
+  <data name="Lists_ItemAddedToast" xml:space="preserve">
+    <value>Aggiunto all'elenco.</value>
+  </data>
+  <data name="Lists_ItemRemovedToast" xml:space="preserve">
+    <value>Rimosso dall'elenco.</value>
   </data>
 </root>

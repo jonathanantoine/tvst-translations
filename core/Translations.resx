@@ -178,7 +178,7 @@ Click here and make donation!</value>
     <value>Enable the collapse/expand of the main list groups?</value>
   </data>
   <data name="Settings_Data_HideHiddenItems_Text" xml:space="preserve">
-    <value>Do not display at all hidden shows?</value>
+    <value>Do not display dropped shows at all?</value>
   </data>
   <data name="Changelog_CurrentVersionFormat" xml:space="preserve">
     <value>You are using version {0}</value>
@@ -382,7 +382,7 @@ coffee and happiness from my kids and wife.</value>
     <value>YOUR (LONELY) SHOW</value>
   </data>
   <data name="Home_Code_MyShowsHiddenGroupHeader_Plural" xml:space="preserve">
-    <value>{0} HIDDEN SHOWS</value>
+    <value>{0} DROPPED SHOWS</value>
   </data>
   <data name="Home_Code_MyShowToStartGroupHeaderPlural" xml:space="preserve">
     <value>{0} SHOWS TO START WATCHING</value>
@@ -614,10 +614,10 @@ internet connection.</value>
     <value>visible show</value>
   </data>
   <data name="Home_UserStats_Code_HiddenShowCountSuffixLabelPlural" xml:space="preserve">
-    <value>hidden shows</value>
+    <value>dropped shows</value>
   </data>
   <data name="Home_UserStats_Code_HiddenShowCountSuffixLabelSingular" xml:space="preserve">
-    <value>hidden show</value>
+    <value>dropped show</value>
   </data>
   <data name="Home_UserStats_Code_VisibleAndHiddenShowCountPrefix" xml:space="preserve">
     <value>including</value>
@@ -679,7 +679,7 @@ to see your stats.</value>
     <value>Last 30 days top shows</value>
   </data>
   <data name="TopShows_HiddenTag_Label" xml:space="preserve">
-    <value>Hidden</value>
+    <value>Dropped</value>
   </data>
   <data name="Home_UserStats_WatchTime_EpLeftToSeeIn_Text" xml:space="preserve">
     <value>ep. left to watch in</value>
@@ -1153,7 +1153,7 @@ Rules: 5+ words, no support requests, mark spoilers!</value>
     <value>Must be written in English.</value>
   </data>
   <data name="ShowDetails_AppBar_Hide_Label" xml:space="preserve">
-    <value>Hide from my collection</value>
+    <value>Drop this show</value>
   </data>
 
   <data name="ShowDetails_AppBar_RateShow_Label" xml:space="preserve">
@@ -1179,7 +1179,7 @@ Rules: 5+ words, no support requests, mark spoilers!</value>
     <value>Added to TVST on {0}</value>
   </data>
   <data name="ShowDetails_AppBar_UnHide_Label" xml:space="preserve">
-    <value>Restore/Unhide this show</value>
+    <value>Resume this show</value>
   </data>
   <data name="ShowDetails_Similar_PanelHeader_Header" xml:space="preserve">
     <value>RELATED SHOWS</value>
@@ -2278,7 +2278,7 @@ Do you confirm ?
     <value>Never</value>
   </data>
   <data name="Home_Code_MyShowsHiddenGroupHeader_Single" xml:space="preserve">
-    <value>{0} HIDDEN SHOW</value>
+    <value>{0} DROPPED SHOW</value>
   </data>
   <data name="Home_Code_Incoming_XDaysAgoSingle" xml:space="preserve">
     <value>{0} day ago</value>
@@ -2360,14 +2360,14 @@ Do you confirm ?
     <value>EP. LEFT TO SEE</value>
   </data>
   <data name="ShowDetails_HideSeason" xml:space="preserve">
-    <value>Hide this season</value>
+    <value>Skip this season</value>
   </data>
   <data name="ShowDetails_HideSeasonWithPrevious" xml:space="preserve">
-      <value>Hide this season and previous seasons</value>
+      <value>Skip this season and previous seasons</value>
   </data>
 
     <data name="ShowDetails_UnhideSeason" xml:space="preserve">
-    <value>Unhide this season</value>
+    <value>Stop skipping this season</value>
   </data>
   <data name="Trakt_AccountLockedContent" xml:space="preserve">
     <value>Your account has been deactivated due to inactivity. To reactivate it, please log in to your account at https://app.trakt.tv.
@@ -4925,6 +4925,69 @@ A season marked as watched in one go counts at the time you marked it.</value>
     <value>A special episode belongs to no numbered season: extras, bonus content, one-off episodes aired between seasons.</value>
   </data>
   <data name="Settings_Data_HideHiddenItems_Subtitle" xml:space="preserve">
-    <value>A hidden show is one you stopped following without losing its history (“dropped” on Trakt). When this is off, hidden shows stay grouped at the bottom of the home page.</value>
+    <value>A dropped show is one you stopped following without losing its history. When this is off, dropped shows stay grouped at the bottom of the home page.</value>
+  </data>
+  <data name="Settings_SortHeaderForHiddenShows_Text" xml:space="preserve">
+    <value>Dropped shows group</value>
+  </data>
+  <data name="ShowDetails_SeasonSkippedTag_Label" xml:space="preserve">
+    <value>Skipped</value>
+  </data>
+  <data name="ShowDetails_DroppedToast_InHomeGroup" xml:space="preserve">
+    <value>Show dropped. You will find it in the dropped shows group, at the bottom of the home page.</value>
+  </data>
+  <data name="ShowDetails_DroppedToast_NotDisplayed" xml:space="preserve">
+    <value>Show dropped. It no longer appears on the home page.</value>
+  </data>
+  <data name="ShowDetails_SeasonSkippedToast_Single" xml:space="preserve">
+    <value>Season skipped: it no longer counts toward your progress.</value>
+  </data>
+  <data name="ShowDetails_SeasonSkippedToast_Plural" xml:space="preserve">
+    <value>Seasons skipped: they no longer count toward your progress.</value>
+  </data>
+  <data name="Show_AddedToast" xml:space="preserve">
+    <value>Show added!</value>
+  </data>
+  <data name="Show_RemovedToast" xml:space="preserve">
+    <value>Show removed.</value>
+  </data>
+  <data name="Show_RemovedFromCollectionToast" xml:space="preserve">
+    <value>Show removed from your collection.</value>
+  </data>
+  <data name="Show_RemovedFromWatchlistToast" xml:space="preserve">
+    <value>Show removed from your watchlist.</value>
+  </data>
+  <data name="Movie_AddedToCollectionToast" xml:space="preserve">
+    <value>Movie added to your collection.</value>
+  </data>
+  <data name="Movie_RemovedFromCollectionToast" xml:space="preserve">
+    <value>Movie removed from your collection.</value>
+  </data>
+  <data name="Movie_AddedToWatchlistToast" xml:space="preserve">
+    <value>Movie added to your watchlist.</value>
+  </data>
+  <data name="Movie_RemovedFromWatchlistToast" xml:space="preserve">
+    <value>Movie removed from your watchlist.</value>
+  </data>
+  <data name="Movie_SetAsWatchedSuccess" xml:space="preserve">
+    <value>Movie marked as watched!</value>
+  </data>
+  <data name="Movie_SetAsUnwatchedSuccess" xml:space="preserve">
+    <value>Movie marked as not watched.</value>
+  </data>
+  <data name="Movie_RemovedToast" xml:space="preserve">
+    <value>Movie removed.</value>
+  </data>
+  <data name="Episode_SetAsUnwatchedSuccess" xml:space="preserve">
+    <value>Episode marked as not watched.</value>
+  </data>
+  <data name="MediaItem_PlayRemovedToast" xml:space="preserve">
+    <value>Play removed from your history.</value>
+  </data>
+  <data name="Lists_ItemAddedToast" xml:space="preserve">
+    <value>Added to the list.</value>
+  </data>
+  <data name="Lists_ItemRemovedToast" xml:space="preserve">
+    <value>Removed from the list.</value>
   </data>
 </root>
