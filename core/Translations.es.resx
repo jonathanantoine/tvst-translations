@@ -3462,7 +3462,7 @@ Recordatorio: tu código es {0}.</value>
     <value>No hay ningún navegador disponible</value>
   </data>
   <data name="Global_NoBrowserAvailableContent" xml:space="preserve">
-    <value>No hay ningún navegador web disponible o permitido en este dispositivo. Puede copiar el enlace para terminar de iniciar sesión desde otro dispositivo, o permitir un navegador y volver a intentarlo.</value>
+    <value>No hay ningún navegador web disponible o permitido en este dispositivo. Puede copiar el enlace para abrirlo en otro dispositivo, o permitir un navegador y volver a intentarlo.</value>
   </data>
   <data name="Global_LinkCopied" xml:space="preserve">
     <value>Enlace copiado</value>

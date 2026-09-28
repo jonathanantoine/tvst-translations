@@ -3418,7 +3418,7 @@ Lembrete: o seu código é {0}.</value>
     <value>Nenhum navegador disponível</value>
   </data>
   <data name="Global_NoBrowserAvailableContent" xml:space="preserve">
-    <value>Não há nenhum navegador web disponível ou permitido neste dispositivo. Você pode copiar o link para concluir o login em outro dispositivo, ou permitir um navegador e tentar novamente.</value>
+    <value>Não há nenhum navegador web disponível ou permitido neste dispositivo. Você pode copiar o link para abri-lo em outro dispositivo, ou permitir um navegador e tentar novamente.</value>
   </data>
   <data name="Global_LinkCopied" xml:space="preserve">
     <value>Link copiado</value>

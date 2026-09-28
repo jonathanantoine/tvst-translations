@@ -4782,7 +4782,7 @@ Lembrete: o seu código é {0}.</value>
     <value>Nenhum navegador disponível</value>
   </data>
   <data name="Global_NoBrowserAvailableContent" xml:space="preserve">
-    <value>Não existe nenhum navegador web disponível ou autorizado neste dispositivo. Pode copiar a ligação para terminar a autenticação a partir de outro dispositivo, ou autorizar um navegador e tentar novamente.</value>
+    <value>Não existe nenhum navegador web disponível ou autorizado neste dispositivo. Pode copiar a ligação para a abrir noutro dispositivo, ou autorizar um navegador e tentar novamente.</value>
   </data>
   <data name="Global_LinkCopied" xml:space="preserve">
     <value>Ligação copiada</value>

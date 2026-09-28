@@ -4743,7 +4743,7 @@ Rappel : votre code est {0}.</value>
     <value>Aucun navigateur disponible</value>
   </data>
   <data name="Global_NoBrowserAvailableContent" xml:space="preserve">
-    <value>Aucune application de navigation web n’est disponible ou autorisée sur cet appareil. Vous pouvez copier le lien pour terminer la connexion depuis un autre appareil, ou autoriser un navigateur puis réessayer.</value>
+    <value>Aucune application de navigation web n’est disponible ou autorisée sur cet appareil. Vous pouvez copier le lien pour l’ouvrir sur un autre appareil, ou autoriser un navigateur puis réessayer.</value>
   </data>
   <data name="Global_LinkCopied" xml:space="preserve">
     <value>Lien copié</value>
