@@ -4993,6 +4993,9 @@ A season marked as watched in one go counts at the time you marked it.</value>
   <data name="UserRatings_Name" xml:space="preserve">
     <value>My ratings</value>
   </data>
+  <data name="MediaItem_EpisodeRatings_PublicToggle" xml:space="preserve">
+    <value>Public</value>
+  </data>
   <data name="UserRatings_Description" xml:space="preserve">
     <value>Every show and movie I rated, best first.</value>
   </data>

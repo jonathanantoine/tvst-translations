@@ -5000,6 +5000,9 @@ Una stagione segnata come vista in una volta conta all'ora in cui l'ha segnata.<
   <data name="UserRatings_Name" xml:space="preserve">
     <value>I miei voti</value>
   </data>
+  <data name="MediaItem_EpisodeRatings_PublicToggle" xml:space="preserve">
+    <value>Pubblico</value>
+  </data>
   <data name="UserRatings_Description" xml:space="preserve">
     <value>Le serie e i film che ho votato, i migliori prima.</value>
   </data>

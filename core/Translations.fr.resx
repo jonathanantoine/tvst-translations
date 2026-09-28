@@ -6274,6 +6274,9 @@ Une saison marquée comme vue d'un coup compte à l'heure où vous l'avez marqu�
   <data name="UserRatings_Name" xml:space="preserve">
     <value>Mes notes</value>
   </data>
+  <data name="MediaItem_EpisodeRatings_PublicToggle" xml:space="preserve">
+    <value>Public</value>
+  </data>
   <data name="UserRatings_Description" xml:space="preserve">
     <value>Les séries et films que j'ai notés, les mieux notés d'abord.</value>
   </data>

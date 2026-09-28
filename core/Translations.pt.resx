@@ -6361,6 +6361,9 @@ Uma temporada marcada como vista de uma só vez conta à hora a que a marcou.</v
   <data name="UserRatings_Name" xml:space="preserve">
     <value>As minhas avaliações</value>
   </data>
+  <data name="MediaItem_EpisodeRatings_PublicToggle" xml:space="preserve">
+    <value>Público</value>
+  </data>
   <data name="UserRatings_Description" xml:space="preserve">
     <value>As séries e filmes que avaliei, os melhores primeiro.</value>
   </data>
