@@ -5044,4 +5044,19 @@ Una temporada marcada como vista de una vez cuenta a la hora en que la marcó.</
   <data name="Home_UserStats_Profile_RatingsCountFormat_Plural" xml:space="preserve">
     <value>{0} valoraciones</value>
   </data>
+  <data name="PendingActions_AlertCard_AwaitingTrakt_Title" xml:space="preserve">
+    <value>Esperando a Trakt</value>
+  </data>
+  <data name="PendingActions_AlertCard_AwaitingTrakt_BodyFormat" xml:space="preserve">
+    <value>{0} {1}, marcado a las {2}, llegó a Trakt, pero Trakt aún no lo muestra. Volverá a aparecer en cuanto Trakt esté al día: no es necesario marcarlo de nuevo.</value>
+  </data>
+  <data name="PendingActions_AlertCard_AwaitingTrakt_BodyPluralFormat" xml:space="preserve">
+    <value>{0} episodios llegaron a Trakt, pero Trakt aún no los muestra. Volverán a aparecer en cuanto Trakt esté al día: no es necesario marcarlos de nuevo.</value>
+  </data>
+  <data name="PendingOperations_Section_AwaitingTrakt_Text" xml:space="preserve">
+    <value>Trakt aún no los muestra</value>
+  </data>
+  <data name="PendingOperations_Section_AwaitingTrakt_Explanation" xml:space="preserve">
+    <value>Estos episodios llegaron a Trakt, pero Trakt aún no los devuelve, por eso aparecen como no vistos. Volverán solos en cuanto Trakt esté al día.</value>
+  </data>
 </root>

@@ -5011,4 +5011,19 @@ A season marked as watched in one go counts at the time you marked it.</value>
   <data name="Home_UserStats_Profile_RatingsCountFormat_Plural" xml:space="preserve">
     <value>{0} ratings</value>
   </data>
+  <data name="PendingActions_AlertCard_AwaitingTrakt_Title" xml:space="preserve">
+    <value>Waiting for Trakt</value>
+  </data>
+  <data name="PendingActions_AlertCard_AwaitingTrakt_BodyFormat" xml:space="preserve">
+    <value>{0} {1}, marked at {2}, reached Trakt, but Trakt does not show it yet. It will come back as soon as Trakt is up to date: there is no need to mark it again.</value>
+  </data>
+  <data name="PendingActions_AlertCard_AwaitingTrakt_BodyPluralFormat" xml:space="preserve">
+    <value>{0} episodes reached Trakt, but Trakt does not show them yet. They will come back as soon as Trakt is up to date: there is no need to mark them again.</value>
+  </data>
+  <data name="PendingOperations_Section_AwaitingTrakt_Text" xml:space="preserve">
+    <value>Not shown by Trakt yet</value>
+  </data>
+  <data name="PendingOperations_Section_AwaitingTrakt_Explanation" xml:space="preserve">
+    <value>These episodes reached Trakt, but Trakt does not send them back yet, so they show as unwatched. They will come back on their own as soon as Trakt is up to date.</value>
+  </data>
 </root>

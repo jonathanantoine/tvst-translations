@@ -5018,4 +5018,19 @@ Una stagione segnata come vista in una volta conta all'ora in cui l'ha segnata.<
   <data name="Home_UserStats_Profile_RatingsCountFormat_Plural" xml:space="preserve">
     <value>{0} voti</value>
   </data>
+  <data name="PendingActions_AlertCard_AwaitingTrakt_Title" xml:space="preserve">
+    <value>In attesa di Trakt</value>
+  </data>
+  <data name="PendingActions_AlertCard_AwaitingTrakt_BodyFormat" xml:space="preserve">
+    <value>{0} {1}, segnato alle {2}, è arrivato su Trakt, ma Trakt non lo mostra ancora. Riapparirà non appena Trakt sarà aggiornato: non è necessario segnarlo di nuovo.</value>
+  </data>
+  <data name="PendingActions_AlertCard_AwaitingTrakt_BodyPluralFormat" xml:space="preserve">
+    <value>{0} episodi sono arrivati su Trakt, ma Trakt non li mostra ancora. Riappariranno non appena Trakt sarà aggiornato: non è necessario segnarli di nuovo.</value>
+  </data>
+  <data name="PendingOperations_Section_AwaitingTrakt_Text" xml:space="preserve">
+    <value>Non ancora mostrati da Trakt</value>
+  </data>
+  <data name="PendingOperations_Section_AwaitingTrakt_Explanation" xml:space="preserve">
+    <value>Questi episodi sono arrivati su Trakt, ma Trakt non li restituisce ancora, quindi risultano non visti. Torneranno da soli non appena Trakt sarà aggiornato.</value>
+  </data>
 </root>

@@ -6292,4 +6292,19 @@ Une saison marquée comme vue d'un coup compte à l'heure où vous l'avez marqu�
   <data name="Home_UserStats_Profile_RatingsCountFormat_Plural" xml:space="preserve">
     <value>{0} notes</value>
   </data>
+  <data name="PendingActions_AlertCard_AwaitingTrakt_Title" xml:space="preserve">
+    <value>En attente de Trakt</value>
+  </data>
+  <data name="PendingActions_AlertCard_AwaitingTrakt_BodyFormat" xml:space="preserve">
+    <value>{0} {1}, marqué à {2}, est bien arrivé sur Trakt, mais Trakt ne l'affiche pas encore. Il réapparaîtra dès que Trakt sera à jour : inutile de le marquer à nouveau.</value>
+  </data>
+  <data name="PendingActions_AlertCard_AwaitingTrakt_BodyPluralFormat" xml:space="preserve">
+    <value>{0} épisodes sont bien arrivés sur Trakt, mais Trakt ne les affiche pas encore. Ils réapparaîtront dès que Trakt sera à jour : inutile de les marquer à nouveau.</value>
+  </data>
+  <data name="PendingOperations_Section_AwaitingTrakt_Text" xml:space="preserve">
+    <value>Pas encore affichés par Trakt</value>
+  </data>
+  <data name="PendingOperations_Section_AwaitingTrakt_Explanation" xml:space="preserve">
+    <value>Ces épisodes sont bien arrivés sur Trakt, mais Trakt ne les renvoie pas encore : ils apparaissent donc comme non vus. Ils reviendront d'eux-mêmes dès que Trakt sera à jour.</value>
+  </data>
 </root>

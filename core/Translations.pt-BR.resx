@@ -5048,4 +5048,19 @@ Uma temporada marcada como assistida de uma vez conta na hora em que você a mar
   <data name="Home_UserStats_Profile_RatingsCountFormat_Plural" xml:space="preserve">
     <value>{0} avaliações</value>
   </data>
+  <data name="PendingActions_AlertCard_AwaitingTrakt_Title" xml:space="preserve">
+    <value>Aguardando o Trakt</value>
+  </data>
+  <data name="PendingActions_AlertCard_AwaitingTrakt_BodyFormat" xml:space="preserve">
+    <value>{0} {1}, marcado às {2}, chegou ao Trakt, mas o Trakt ainda não o exibe. Ele vai reaparecer assim que o Trakt estiver atualizado: não é preciso marcá-lo de novo.</value>
+  </data>
+  <data name="PendingActions_AlertCard_AwaitingTrakt_BodyPluralFormat" xml:space="preserve">
+    <value>{0} episódios chegaram ao Trakt, mas o Trakt ainda não os exibe. Eles vão reaparecer assim que o Trakt estiver atualizado: não é preciso marcá-los de novo.</value>
+  </data>
+  <data name="PendingOperations_Section_AwaitingTrakt_Text" xml:space="preserve">
+    <value>Ainda não exibidos pelo Trakt</value>
+  </data>
+  <data name="PendingOperations_Section_AwaitingTrakt_Explanation" xml:space="preserve">
+    <value>Esses episódios chegaram ao Trakt, mas o Trakt ainda não os devolve, por isso aparecem como não assistidos. Eles vão voltar sozinhos assim que o Trakt estiver atualizado.</value>
+  </data>
 </root>
