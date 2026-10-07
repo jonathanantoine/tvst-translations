@@ -6394,4 +6394,43 @@ Uma temporada marcada como vista de uma só vez conta à hora a que a marcou.</v
   <data name="PendingOperations_Section_AwaitingTrakt_Explanation" xml:space="preserve">
     <value>Estes episódios chegaram ao Trakt, mas o Trakt ainda não os devolve, por isso aparecem como não vistos. Voltarão sozinhos assim que o Trakt estiver atualizado.</value>
   </data>
+  <data name="Home_Calendar_Filter_All" xml:space="preserve">
+    <value>Todos</value>
+  </data>
+  <data name="Home_Calendar_Filter_SeasonPremieres" xml:space="preserve">
+    <value>Estreias de temporada</value>
+  </data>
+  <data name="Home_Calendar_Filter_Finales" xml:space="preserve">
+    <value>Finais de temporada</value>
+  </data>
+  <data name="Home_Calendar_Filter_HideWatched" xml:space="preserve">
+    <value>Ocultar vistos</value>
+  </data>
+  <data name="Home_Calendar_Filter_IncludeHiddenShows" xml:space="preserve">
+    <value>Incluir as séries abandonadas</value>
+  </data>
+  <data name="Home_Calendar_Filter_EmptyPlaceholder" xml:space="preserve">
+    <value>Nada corresponde a estes filtros.</value>
+  </data>
+  <data name="ListContent_SortChoice_SortOption_HomeGroups" xml:space="preserve">
+    <value>Agrupado como as minhas séries</value>
+  </data>
+  <data name="ListContent_HomeGroups_NotTrackedGroupHeader_Plural" xml:space="preserve">
+    <value>{0} SÉRIES NÃO SEGUIDAS</value>
+  </data>
+  <data name="ListContent_HomeGroups_NotTrackedGroupHeader_Single" xml:space="preserve">
+    <value>{0} SÉRIE NÃO SEGUIDA</value>
+  </data>
+  <data name="ListContent_HomeGroups_MoviesGroupHeader_Plural" xml:space="preserve">
+    <value>{0} FILMES</value>
+  </data>
+  <data name="ListContent_HomeGroups_MoviesGroupHeader_Single" xml:space="preserve">
+    <value>{0} FILME</value>
+  </data>
+  <data name="Settings_Display_ItemsByRowHeader_Calendar" xml:space="preserve">
+    <value>No calendário</value>
+  </data>
+  <data name="Settings_Display_GridItemSize_Calendar" xml:space="preserve">
+    <value>Calendário</value>
+  </data>
 </root>

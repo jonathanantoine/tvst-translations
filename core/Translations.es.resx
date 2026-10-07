@@ -5059,4 +5059,43 @@ Una temporada marcada como vista de una vez cuenta a la hora en que la marcó.</
   <data name="PendingOperations_Section_AwaitingTrakt_Explanation" xml:space="preserve">
     <value>Estos episodios llegaron a Trakt, pero Trakt aún no los devuelve, por eso aparecen como no vistos. Volverán solos en cuanto Trakt esté al día.</value>
   </data>
+  <data name="Home_Calendar_Filter_All" xml:space="preserve">
+    <value>Todos</value>
+  </data>
+  <data name="Home_Calendar_Filter_SeasonPremieres" xml:space="preserve">
+    <value>Inicios de temporada</value>
+  </data>
+  <data name="Home_Calendar_Filter_Finales" xml:space="preserve">
+    <value>Finales de temporada</value>
+  </data>
+  <data name="Home_Calendar_Filter_HideWatched" xml:space="preserve">
+    <value>Ocultar vistos</value>
+  </data>
+  <data name="Home_Calendar_Filter_IncludeHiddenShows" xml:space="preserve">
+    <value>Incluir las series abandonadas</value>
+  </data>
+  <data name="Home_Calendar_Filter_EmptyPlaceholder" xml:space="preserve">
+    <value>Nada coincide con estos filtros.</value>
+  </data>
+  <data name="ListContent_SortChoice_SortOption_HomeGroups" xml:space="preserve">
+    <value>Agrupado como tus series</value>
+  </data>
+  <data name="ListContent_HomeGroups_NotTrackedGroupHeader_Plural" xml:space="preserve">
+    <value>{0} SERIES NO SEGUIDAS</value>
+  </data>
+  <data name="ListContent_HomeGroups_NotTrackedGroupHeader_Single" xml:space="preserve">
+    <value>{0} SERIE NO SEGUIDA</value>
+  </data>
+  <data name="ListContent_HomeGroups_MoviesGroupHeader_Plural" xml:space="preserve">
+    <value>{0} PELÍCULAS</value>
+  </data>
+  <data name="ListContent_HomeGroups_MoviesGroupHeader_Single" xml:space="preserve">
+    <value>{0} PELÍCULA</value>
+  </data>
+  <data name="Settings_Display_ItemsByRowHeader_Calendar" xml:space="preserve">
+    <value>En el calendario</value>
+  </data>
+  <data name="Settings_Display_GridItemSize_Calendar" xml:space="preserve">
+    <value>Calendario</value>
+  </data>
 </root>

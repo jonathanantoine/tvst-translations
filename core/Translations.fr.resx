@@ -6307,4 +6307,43 @@ Une saison marquée comme vue d'un coup compte à l'heure où vous l'avez marqu�
   <data name="PendingOperations_Section_AwaitingTrakt_Explanation" xml:space="preserve">
     <value>Ces épisodes sont bien arrivés sur Trakt, mais Trakt ne les renvoie pas encore : ils apparaissent donc comme non vus. Ils reviendront d'eux-mêmes dès que Trakt sera à jour.</value>
   </data>
+  <data name="Home_Calendar_Filter_All" xml:space="preserve">
+    <value>Tous</value>
+  </data>
+  <data name="Home_Calendar_Filter_SeasonPremieres" xml:space="preserve">
+    <value>Débuts de saison</value>
+  </data>
+  <data name="Home_Calendar_Filter_Finales" xml:space="preserve">
+    <value>Fins de saison</value>
+  </data>
+  <data name="Home_Calendar_Filter_HideWatched" xml:space="preserve">
+    <value>Masquer les vus</value>
+  </data>
+  <data name="Home_Calendar_Filter_IncludeHiddenShows" xml:space="preserve">
+    <value>Inclure les séries abandonnées</value>
+  </data>
+  <data name="Home_Calendar_Filter_EmptyPlaceholder" xml:space="preserve">
+    <value>Rien ne correspond à ces filtres.</value>
+  </data>
+  <data name="ListContent_SortChoice_SortOption_HomeGroups" xml:space="preserve">
+    <value>Groupé comme vos séries</value>
+  </data>
+  <data name="ListContent_HomeGroups_NotTrackedGroupHeader_Plural" xml:space="preserve">
+    <value>{0} SÉRIES NON SUIVIES</value>
+  </data>
+  <data name="ListContent_HomeGroups_NotTrackedGroupHeader_Single" xml:space="preserve">
+    <value>{0} SÉRIE NON SUIVIE</value>
+  </data>
+  <data name="ListContent_HomeGroups_MoviesGroupHeader_Plural" xml:space="preserve">
+    <value>{0} FILMS</value>
+  </data>
+  <data name="ListContent_HomeGroups_MoviesGroupHeader_Single" xml:space="preserve">
+    <value>{0} FILM</value>
+  </data>
+  <data name="Settings_Display_ItemsByRowHeader_Calendar" xml:space="preserve">
+    <value>Dans le calendrier</value>
+  </data>
+  <data name="Settings_Display_GridItemSize_Calendar" xml:space="preserve">
+    <value>Calendrier</value>
+  </data>
 </root>

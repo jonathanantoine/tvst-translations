@@ -5026,4 +5026,43 @@ A season marked as watched in one go counts at the time you marked it.</value>
   <data name="PendingOperations_Section_AwaitingTrakt_Explanation" xml:space="preserve">
     <value>These episodes reached Trakt, but Trakt does not send them back yet, so they show as unwatched. They will come back on their own as soon as Trakt is up to date.</value>
   </data>
+  <data name="Home_Calendar_Filter_All" xml:space="preserve">
+    <value>All</value>
+  </data>
+  <data name="Home_Calendar_Filter_SeasonPremieres" xml:space="preserve">
+    <value>Season premieres</value>
+  </data>
+  <data name="Home_Calendar_Filter_Finales" xml:space="preserve">
+    <value>Finales</value>
+  </data>
+  <data name="Home_Calendar_Filter_HideWatched" xml:space="preserve">
+    <value>Hide watched</value>
+  </data>
+  <data name="Home_Calendar_Filter_IncludeHiddenShows" xml:space="preserve">
+    <value>Include dropped shows</value>
+  </data>
+  <data name="Home_Calendar_Filter_EmptyPlaceholder" xml:space="preserve">
+    <value>Nothing matches these filters.</value>
+  </data>
+  <data name="ListContent_SortChoice_SortOption_HomeGroups" xml:space="preserve">
+    <value>Grouped like your shows</value>
+  </data>
+  <data name="ListContent_HomeGroups_NotTrackedGroupHeader_Plural" xml:space="preserve">
+    <value>{0} SHOWS NOT TRACKED</value>
+  </data>
+  <data name="ListContent_HomeGroups_NotTrackedGroupHeader_Single" xml:space="preserve">
+    <value>{0} SHOW NOT TRACKED</value>
+  </data>
+  <data name="ListContent_HomeGroups_MoviesGroupHeader_Plural" xml:space="preserve">
+    <value>{0} MOVIES</value>
+  </data>
+  <data name="ListContent_HomeGroups_MoviesGroupHeader_Single" xml:space="preserve">
+    <value>{0} MOVIE</value>
+  </data>
+  <data name="Settings_Display_ItemsByRowHeader_Calendar" xml:space="preserve">
+    <value>In the calendar</value>
+  </data>
+  <data name="Settings_Display_GridItemSize_Calendar" xml:space="preserve">
+    <value>Calendar</value>
+  </data>
 </root>
