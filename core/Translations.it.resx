@@ -5087,4 +5087,10 @@ Una stagione segnata come vista in una volta conta all'ora in cui l'ha segnata.<
   <data name="Settings_SortHeaderForEndedShowsWithNoEpToSee_Text" xml:space="preserve">
     <value>Serie concluse senza episodi da vedere</value>
   </data>
+  <data name="Settings_ResetHomeSorts_Text" xml:space="preserve">
+    <value>Ripristina gli ordinamenti predefiniti</value>
+  </data>
+  <data name="Settings_ResetHomeSorts_Confirmation" xml:space="preserve">
+    <value>Ogni gruppo della schermata iniziale tornerà al suo ordinamento predefinito.</value>
+  </data>
 </root>

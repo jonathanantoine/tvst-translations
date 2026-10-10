@@ -5113,4 +5113,10 @@ Una temporada marcada como vista de una vez cuenta a la hora en que la marcó.</
   <data name="Settings_SortHeaderForEndedShowsWithNoEpToSee_Text" xml:space="preserve">
     <value>Series finalizadas sin episodios por ver</value>
   </data>
+  <data name="Settings_ResetHomeSorts_Text" xml:space="preserve">
+    <value>Restablecer los órdenes predeterminados</value>
+  </data>
+  <data name="Settings_ResetHomeSorts_Confirmation" xml:space="preserve">
+    <value>Cada grupo de la pantalla de inicio volverá a su orden predeterminado.</value>
+  </data>
 </root>

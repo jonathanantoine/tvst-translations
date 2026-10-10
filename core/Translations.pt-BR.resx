@@ -5117,4 +5117,10 @@ Uma temporada marcada como assistida de uma vez conta na hora em que você a mar
   <data name="Settings_SortHeaderForEndedShowsWithNoEpToSee_Text" xml:space="preserve">
     <value>Séries encerradas sem episódios para assistir</value>
   </data>
+  <data name="Settings_ResetHomeSorts_Text" xml:space="preserve">
+    <value>Restaurar as ordenações padrão</value>
+  </data>
+  <data name="Settings_ResetHomeSorts_Confirmation" xml:space="preserve">
+    <value>Cada grupo da tela inicial voltará à sua ordenação padrão.</value>
+  </data>
 </root>

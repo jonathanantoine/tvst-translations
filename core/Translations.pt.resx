@@ -6448,4 +6448,10 @@ Uma temporada marcada como vista de uma só vez conta à hora a que a marcou.</v
   <data name="Settings_SortHeaderForEndedShowsWithNoEpToSee_Text" xml:space="preserve">
     <value>Séries terminadas sem episódios para ver</value>
   </data>
+  <data name="Settings_ResetHomeSorts_Text" xml:space="preserve">
+    <value>Repor as ordenações predefinidas</value>
+  </data>
+  <data name="Settings_ResetHomeSorts_Confirmation" xml:space="preserve">
+    <value>Cada grupo do ecrã inicial voltará à sua ordenação predefinida.</value>
+  </data>
 </root>

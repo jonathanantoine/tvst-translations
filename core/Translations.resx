@@ -5080,4 +5080,10 @@ A season marked as watched in one go counts at the time you marked it.</value>
   <data name="Settings_SortHeaderForEndedShowsWithNoEpToSee_Text" xml:space="preserve">
     <value>Ended shows without episodes to watch</value>
   </data>
+  <data name="Settings_ResetHomeSorts_Text" xml:space="preserve">
+    <value>Reset all sorts to default</value>
+  </data>
+  <data name="Settings_ResetHomeSorts_Confirmation" xml:space="preserve">
+    <value>Every group of the Home screen will go back to its default sort order.</value>
+  </data>
 </root>
