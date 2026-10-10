@@ -5098,4 +5098,7 @@ Una temporada marcada como vista de una vez cuenta a la hora en que la marcó.</
   <data name="Settings_Display_GridItemSize_Calendar" xml:space="preserve">
     <value>Calendario</value>
   </data>
+  <data name="EpisodeDetails_Cast_GuestStar_Text" xml:space="preserve">
+    <value>GUEST</value>
+  </data>
 </root>

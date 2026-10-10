@@ -5065,4 +5065,7 @@ A season marked as watched in one go counts at the time you marked it.</value>
   <data name="Settings_Display_GridItemSize_Calendar" xml:space="preserve">
     <value>Calendar</value>
   </data>
+  <data name="EpisodeDetails_Cast_GuestStar_Text" xml:space="preserve">
+    <value>GUEST</value>
+  </data>
 </root>

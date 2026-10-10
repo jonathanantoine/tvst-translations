@@ -5072,4 +5072,7 @@ Una stagione segnata come vista in una volta conta all'ora in cui l'ha segnata.<
   <data name="Settings_Display_GridItemSize_Calendar" xml:space="preserve">
     <value>Calendario</value>
   </data>
+  <data name="EpisodeDetails_Cast_GuestStar_Text" xml:space="preserve">
+    <value>GUEST</value>
+  </data>
 </root>

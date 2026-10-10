@@ -6346,4 +6346,7 @@ Une saison marquée comme vue d'un coup compte à l'heure où vous l'avez marqu�
   <data name="Settings_Display_GridItemSize_Calendar" xml:space="preserve">
     <value>Calendrier</value>
   </data>
+  <data name="EpisodeDetails_Cast_GuestStar_Text" xml:space="preserve">
+    <value>GUEST</value>
+  </data>
 </root>
