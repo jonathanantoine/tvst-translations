@@ -5105,4 +5105,16 @@ Uma temporada marcada como assistida de uma vez conta na hora em que você a mar
   <data name="EpisodeDetails_Cast_GuestStar_Text" xml:space="preserve">
     <value>GUEST</value>
   </data>
+  <data name="Settings_SortHeaderForIncompleteSeasonShows_Text" xml:space="preserve">
+    <value>Séries com episódios para assistir, temporada em andamento</value>
+  </data>
+  <data name="Settings_SortHeaderForEndedShowsWithEpToSee_Text" xml:space="preserve">
+    <value>Séries encerradas com episódios para assistir</value>
+  </data>
+  <data name="Settings_SortHeaderForShowsWithUnknownNextEpisode_Text" xml:space="preserve">
+    <value>Séries sem próximo episódio conhecido</value>
+  </data>
+  <data name="Settings_SortHeaderForEndedShowsWithNoEpToSee_Text" xml:space="preserve">
+    <value>Séries encerradas sem episódios para assistir</value>
+  </data>
 </root>

@@ -5068,4 +5068,16 @@ A season marked as watched in one go counts at the time you marked it.</value>
   <data name="EpisodeDetails_Cast_GuestStar_Text" xml:space="preserve">
     <value>GUEST</value>
   </data>
+  <data name="Settings_SortHeaderForIncompleteSeasonShows_Text" xml:space="preserve">
+    <value>Shows with episodes to watch, season in progress</value>
+  </data>
+  <data name="Settings_SortHeaderForEndedShowsWithEpToSee_Text" xml:space="preserve">
+    <value>Ended shows with episodes to watch</value>
+  </data>
+  <data name="Settings_SortHeaderForShowsWithUnknownNextEpisode_Text" xml:space="preserve">
+    <value>Shows with no known next episode</value>
+  </data>
+  <data name="Settings_SortHeaderForEndedShowsWithNoEpToSee_Text" xml:space="preserve">
+    <value>Ended shows without episodes to watch</value>
+  </data>
 </root>

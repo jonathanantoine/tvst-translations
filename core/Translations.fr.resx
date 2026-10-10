@@ -6349,4 +6349,16 @@ Une saison marquée comme vue d'un coup compte à l'heure où vous l'avez marqu�
   <data name="EpisodeDetails_Cast_GuestStar_Text" xml:space="preserve">
     <value>GUEST</value>
   </data>
+  <data name="Settings_SortHeaderForIncompleteSeasonShows_Text" xml:space="preserve">
+    <value>Séries avec des épisodes à voir, saison en cours</value>
+  </data>
+  <data name="Settings_SortHeaderForEndedShowsWithEpToSee_Text" xml:space="preserve">
+    <value>Séries terminées avec des épisodes à voir</value>
+  </data>
+  <data name="Settings_SortHeaderForShowsWithUnknownNextEpisode_Text" xml:space="preserve">
+    <value>Séries sans prochain épisode connu</value>
+  </data>
+  <data name="Settings_SortHeaderForEndedShowsWithNoEpToSee_Text" xml:space="preserve">
+    <value>Séries terminées sans épisode à voir</value>
+  </data>
 </root>

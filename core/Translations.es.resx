@@ -5101,4 +5101,16 @@ Una temporada marcada como vista de una vez cuenta a la hora en que la marcó.</
   <data name="EpisodeDetails_Cast_GuestStar_Text" xml:space="preserve">
     <value>GUEST</value>
   </data>
+  <data name="Settings_SortHeaderForIncompleteSeasonShows_Text" xml:space="preserve">
+    <value>Series con episodios por ver, temporada en curso</value>
+  </data>
+  <data name="Settings_SortHeaderForEndedShowsWithEpToSee_Text" xml:space="preserve">
+    <value>Series finalizadas con episodios por ver</value>
+  </data>
+  <data name="Settings_SortHeaderForShowsWithUnknownNextEpisode_Text" xml:space="preserve">
+    <value>Series sin próximo episodio conocido</value>
+  </data>
+  <data name="Settings_SortHeaderForEndedShowsWithNoEpToSee_Text" xml:space="preserve">
+    <value>Series finalizadas sin episodios por ver</value>
+  </data>
 </root>

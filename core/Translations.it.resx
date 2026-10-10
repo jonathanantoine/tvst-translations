@@ -5075,4 +5075,16 @@ Una stagione segnata come vista in una volta conta all'ora in cui l'ha segnata.<
   <data name="EpisodeDetails_Cast_GuestStar_Text" xml:space="preserve">
     <value>GUEST</value>
   </data>
+  <data name="Settings_SortHeaderForIncompleteSeasonShows_Text" xml:space="preserve">
+    <value>Serie con episodi da vedere, stagione in corso</value>
+  </data>
+  <data name="Settings_SortHeaderForEndedShowsWithEpToSee_Text" xml:space="preserve">
+    <value>Serie concluse con episodi da vedere</value>
+  </data>
+  <data name="Settings_SortHeaderForShowsWithUnknownNextEpisode_Text" xml:space="preserve">
+    <value>Serie senza prossimo episodio noto</value>
+  </data>
+  <data name="Settings_SortHeaderForEndedShowsWithNoEpToSee_Text" xml:space="preserve">
+    <value>Serie concluse senza episodi da vedere</value>
+  </data>
 </root>
