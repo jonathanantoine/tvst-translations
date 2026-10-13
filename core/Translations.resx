@@ -5086,4 +5086,25 @@ A season marked as watched in one go counts at the time you marked it.</value>
   <data name="Settings_ResetHomeSorts_Confirmation" xml:space="preserve">
     <value>Every group of the Home screen will go back to its default sort order.</value>
   </data>
+  <data name="Global_ElapsedYearSingle" xml:space="preserve">
+    <value>{0} year</value>
+  </data>
+  <data name="Global_ElapsedYearPlural" xml:space="preserve">
+    <value>{0} years</value>
+  </data>
+  <data name="Global_ElapsedMonthSingle" xml:space="preserve">
+    <value>{0} month</value>
+  </data>
+  <data name="Global_ElapsedMonthPlural" xml:space="preserve">
+    <value>{0} months</value>
+  </data>
+  <data name="Global_ElapsedDaySingle" xml:space="preserve">
+    <value>{0} day</value>
+  </data>
+  <data name="Global_ElapsedDayPlural" xml:space="preserve">
+    <value>{0} days</value>
+  </data>
+  <data name="Global_ElapsedTwoUnitsFormat" xml:space="preserve">
+    <value>{0} and {1}</value>
+  </data>
 </root>

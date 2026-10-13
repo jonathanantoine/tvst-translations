@@ -6454,4 +6454,25 @@ Uma temporada marcada como vista de uma só vez conta à hora a que a marcou.</v
   <data name="Settings_ResetHomeSorts_Confirmation" xml:space="preserve">
     <value>Cada grupo do ecrã inicial voltará à sua ordenação predefinida.</value>
   </data>
+  <data name="Global_ElapsedYearSingle" xml:space="preserve">
+    <value>{0} ano</value>
+  </data>
+  <data name="Global_ElapsedYearPlural" xml:space="preserve">
+    <value>{0} anos</value>
+  </data>
+  <data name="Global_ElapsedMonthSingle" xml:space="preserve">
+    <value>{0} mês</value>
+  </data>
+  <data name="Global_ElapsedMonthPlural" xml:space="preserve">
+    <value>{0} meses</value>
+  </data>
+  <data name="Global_ElapsedDaySingle" xml:space="preserve">
+    <value>{0} dia</value>
+  </data>
+  <data name="Global_ElapsedDayPlural" xml:space="preserve">
+    <value>{0} dias</value>
+  </data>
+  <data name="Global_ElapsedTwoUnitsFormat" xml:space="preserve">
+    <value>{0} e {1}</value>
+  </data>
 </root>

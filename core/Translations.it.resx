@@ -5093,4 +5093,25 @@ Una stagione segnata come vista in una volta conta all'ora in cui l'ha segnata.<
   <data name="Settings_ResetHomeSorts_Confirmation" xml:space="preserve">
     <value>Ogni gruppo della schermata iniziale tornerà al suo ordinamento predefinito.</value>
   </data>
+  <data name="Global_ElapsedYearSingle" xml:space="preserve">
+    <value>{0} anno</value>
+  </data>
+  <data name="Global_ElapsedYearPlural" xml:space="preserve">
+    <value>{0} anni</value>
+  </data>
+  <data name="Global_ElapsedMonthSingle" xml:space="preserve">
+    <value>{0} mese</value>
+  </data>
+  <data name="Global_ElapsedMonthPlural" xml:space="preserve">
+    <value>{0} mesi</value>
+  </data>
+  <data name="Global_ElapsedDaySingle" xml:space="preserve">
+    <value>{0} giorno</value>
+  </data>
+  <data name="Global_ElapsedDayPlural" xml:space="preserve">
+    <value>{0} giorni</value>
+  </data>
+  <data name="Global_ElapsedTwoUnitsFormat" xml:space="preserve">
+    <value>{0} e {1}</value>
+  </data>
 </root>

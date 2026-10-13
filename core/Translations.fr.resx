@@ -6367,4 +6367,25 @@ Une saison marquée comme vue d'un coup compte à l'heure où vous l'avez marqu�
   <data name="Settings_ResetHomeSorts_Confirmation" xml:space="preserve">
     <value>Chaque groupe de l'écran d'accueil retrouvera son tri par défaut.</value>
   </data>
+  <data name="Global_ElapsedYearSingle" xml:space="preserve">
+    <value>{0} an</value>
+  </data>
+  <data name="Global_ElapsedYearPlural" xml:space="preserve">
+    <value>{0} ans</value>
+  </data>
+  <data name="Global_ElapsedMonthSingle" xml:space="preserve">
+    <value>{0} mois</value>
+  </data>
+  <data name="Global_ElapsedMonthPlural" xml:space="preserve">
+    <value>{0} mois</value>
+  </data>
+  <data name="Global_ElapsedDaySingle" xml:space="preserve">
+    <value>{0} jour</value>
+  </data>
+  <data name="Global_ElapsedDayPlural" xml:space="preserve">
+    <value>{0} jours</value>
+  </data>
+  <data name="Global_ElapsedTwoUnitsFormat" xml:space="preserve">
+    <value>{0} et {1}</value>
+  </data>
 </root>
