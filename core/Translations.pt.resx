@@ -6475,4 +6475,10 @@ Uma temporada marcada como vista de uma só vez conta à hora a que a marcou.</v
   <data name="Global_ElapsedTwoUnitsFormat" xml:space="preserve">
     <value>{0} e {1}</value>
   </data>
+  <data name="People_Photos_Title" xml:space="preserve">
+    <value>Fotos de {0}</value>
+  </data>
+  <data name="People_Photos_ShowAll" xml:space="preserve">
+    <value>Todas as fotos</value>
+  </data>
 </root>

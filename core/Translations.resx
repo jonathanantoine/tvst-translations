@@ -5107,4 +5107,10 @@ A season marked as watched in one go counts at the time you marked it.</value>
   <data name="Global_ElapsedTwoUnitsFormat" xml:space="preserve">
     <value>{0} and {1}</value>
   </data>
+  <data name="People_Photos_Title" xml:space="preserve">
+    <value>Photos of {0}</value>
+  </data>
+  <data name="People_Photos_ShowAll" xml:space="preserve">
+    <value>All photos</value>
+  </data>
 </root>

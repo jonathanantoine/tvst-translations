@@ -5140,4 +5140,10 @@ Una temporada marcada como vista de una vez cuenta a la hora en que la marcó.</
   <data name="Global_ElapsedTwoUnitsFormat" xml:space="preserve">
     <value>{0} y {1}</value>
   </data>
+  <data name="People_Photos_Title" xml:space="preserve">
+    <value>Fotos de {0}</value>
+  </data>
+  <data name="People_Photos_ShowAll" xml:space="preserve">
+    <value>Todas las fotos</value>
+  </data>
 </root>
