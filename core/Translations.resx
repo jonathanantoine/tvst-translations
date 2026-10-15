@@ -4164,7 +4164,7 @@ Would you like the app to turn that setting off on your Trakt account? Your view
     <value>What you see</value>
   </data>
   <data name="DataFreshness_CheckAtSource_Text" xml:space="preserve">
-    <value>Information missing here is almost always information that does not exist on TMDB yet. Check at the source: if it is there, it will reach you on its own. If it is not, that is where it has to be corrected, and anyone can do it with a free account.</value>
+    <value>If something is missing here while this record is up to date with Trakt, Trakt does not have it either. Check TMDB: if it is there, Trakt will copy it within 24 hours and it will reach you on its own. If it is not, that is where it has to be added, and anyone can do it with a free account.</value>
   </data>
   <data name="DataFreshness_OpenTmdb" xml:space="preserve">
     <value>Open this record on TMDB</value>
@@ -5118,5 +5118,69 @@ A season marked as watched in one go counts at the time you marked it.</value>
   </data>
   <data name="ToRate_Description" xml:space="preserve">
     <value>Every show I follow and every movie I watched that I have not rated yet, the most recently watched first.</value>
+  </data>
+  <data name="MoviesLists_PanelHeader_WatchlistAwaitingDigitalGroup" xml:space="preserve">
+    <value>Watchlist — awaiting digital</value>
+  </data>
+  <data name="MovieInList_DigitalReleaseAtFormat" xml:space="preserve">
+    <value>Digital release on
+{0}</value>
+  </data>
+  <data name="Settings_HomeGroups_AwaitingDigitalMovies_Title" xml:space="preserve">
+    <value>Group the movies awaiting their digital release</value>
+  </data>
+  <data name="Settings_HomeGroups_AwaitingDigitalMovies_Subtitle" xml:space="preserve">
+    <value>Already in theaters, with a digital release date announced. Uses the country picked for where to watch, otherwise the US date.</value>
+  </data>
+  <data name="DataFreshness_Verdict_Checking" xml:space="preserve">
+    <value>Checking with Trakt…</value>
+  </data>
+  <data name="DataFreshness_Verdict_UpToDate_Title" xml:space="preserve">
+    <value>Up to date</value>
+  </data>
+  <data name="DataFreshness_Verdict_UpToDate_Text" xml:space="preserve">
+    <value>TVST has the latest version of this record that Trakt holds. Checked on {0}.</value>
+  </data>
+  <data name="DataFreshness_Verdict_Updated_Title" xml:space="preserve">
+    <value>Just updated</value>
+  </data>
+  <data name="DataFreshness_Verdict_Updated_Text" xml:space="preserve">
+    <value>Trakt had a newer version of this record: TVST downloaded it on {0}.</value>
+  </data>
+  <data name="DataFreshness_Verdict_Unreachable_Title" xml:space="preserve">
+    <value>Could not check</value>
+  </data>
+  <data name="DataFreshness_Verdict_Unreachable_Text" xml:space="preserve">
+    <value>Trakt did not answer. What you see is the copy TVST downloaded on {0}.</value>
+  </data>
+  <data name="Home_Menu_ContactMe_DataMissing_MailBody" xml:space="preserve">
+    <value>Show or movie concerned:
+
+What is missing or wrong:
+</value>
+  </data>
+  <data name="DataFreshness_State_TmdbUpdatedAt" xml:space="preserve">
+    <value>Updated on TMDB</value>
+  </data>
+  <data name="DataFreshness_State_TmdbNoChangeSince" xml:space="preserve">
+    <value>No change since {0}</value>
+  </data>
+  <data name="DataFreshness_State_Checking" xml:space="preserve">
+    <value>Checking…</value>
+  </data>
+  <data name="DataFreshness_Verdict_TraktBehind_Title" xml:space="preserve">
+    <value>Trakt not up to date yet</value>
+  </data>
+  <data name="DataFreshness_Verdict_TraktBehind_Text" xml:space="preserve">
+    <value>TMDB changed this record on {0}. Trakt has not copied it yet, which is normal for 24 hours: it will by {1} at the latest.</value>
+  </data>
+  <data name="DataFreshness_Verdict_TraktLate_Title" xml:space="preserve">
+    <value>Trakt is late</value>
+  </data>
+  <data name="DataFreshness_Verdict_TraktLate_Text" xml:space="preserve">
+    <value>TMDB changed this record on {0} and Trakt still has not copied it, more than 24 hours later. Report it to Trakt with the button below.</value>
+  </data>
+  <data name="DataFreshness_Verdict_Unreachable_NoCopyText" xml:space="preserve">
+    <value>Trakt did not answer. Try again in a moment.</value>
   </data>
 </root>

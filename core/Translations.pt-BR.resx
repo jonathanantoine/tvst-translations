@@ -4117,7 +4117,7 @@ Você quer que o aplicativo desative essa opção na sua conta Trakt? A partir d
     <value>O que você vê</value>
   </data>
   <data name="DataFreshness_CheckAtSource_Text" xml:space="preserve">
-    <value>Uma informação que falta aqui quase sempre é uma informação que ainda não existe no TMDB. Confira na fonte: se estiver lá, ela chegará até você sozinha. Se não estiver, é ali que ela precisa ser corrigida, e qualquer pessoa pode fazer isso com uma conta gratuita.</value>
+    <value>Se falta uma informação quando esta ficha está atualizada com o Trakt, é porque o Trakt também não tem. Confira no TMDB: se estiver lá, o Trakt vai copiá-la em até 24 horas e ela chegará até você sozinha. Se não estiver, é ali que ela precisa ser adicionada, e qualquer pessoa pode fazer isso com uma conta gratuita.</value>
   </data>
   <data name="DataFreshness_OpenTmdb" xml:space="preserve">
     <value>Abrir esta ficha no TMDB</value>
@@ -5155,5 +5155,69 @@ Uma temporada marcada como assistida de uma vez conta na hora em que você a mar
   </data>
   <data name="ToRate_Description" xml:space="preserve">
     <value>As séries que acompanho e os filmes que assisti, ainda sem avaliação, os assistidos mais recentemente primeiro.</value>
+  </data>
+  <data name="MoviesLists_PanelHeader_WatchlistAwaitingDigitalGroup" xml:space="preserve">
+    <value>Watchlist — aguardando o digital</value>
+  </data>
+  <data name="MovieInList_DigitalReleaseAtFormat" xml:space="preserve">
+    <value>Lançamento digital em
+{0}</value>
+  </data>
+  <data name="Settings_HomeGroups_AwaitingDigitalMovies_Title" xml:space="preserve">
+    <value>Agrupar os filmes aguardando o lançamento digital</value>
+  </data>
+  <data name="Settings_HomeGroups_AwaitingDigitalMovies_Subtitle" xml:space="preserve">
+    <value>Já lançados nos cinemas, com data de lançamento digital anunciada. Usa o país escolhido para onde assistir; caso contrário, a data dos EUA.</value>
+  </data>
+  <data name="DataFreshness_Verdict_Checking" xml:space="preserve">
+    <value>Verificando com o Trakt…</value>
+  </data>
+  <data name="DataFreshness_Verdict_UpToDate_Title" xml:space="preserve">
+    <value>Atualizado</value>
+  </data>
+  <data name="DataFreshness_Verdict_UpToDate_Text" xml:space="preserve">
+    <value>O TVST tem a versão mais recente desta ficha disponível no Trakt. Verificado em {0}.</value>
+  </data>
+  <data name="DataFreshness_Verdict_Updated_Title" xml:space="preserve">
+    <value>Recém-atualizado</value>
+  </data>
+  <data name="DataFreshness_Verdict_Updated_Text" xml:space="preserve">
+    <value>O Trakt tinha uma versão mais recente desta ficha: o TVST a baixou em {0}.</value>
+  </data>
+  <data name="DataFreshness_Verdict_Unreachable_Title" xml:space="preserve">
+    <value>Não foi possível verificar</value>
+  </data>
+  <data name="DataFreshness_Verdict_Unreachable_Text" xml:space="preserve">
+    <value>O Trakt não respondeu. O que você vê é a cópia baixada pelo TVST em {0}.</value>
+  </data>
+  <data name="Home_Menu_ContactMe_DataMissing_MailBody" xml:space="preserve">
+    <value>Série ou filme em questão:
+
+O que está faltando ou errado:
+</value>
+  </data>
+  <data name="DataFreshness_State_TmdbUpdatedAt" xml:space="preserve">
+    <value>Atualizado no TMDB</value>
+  </data>
+  <data name="DataFreshness_State_TmdbNoChangeSince" xml:space="preserve">
+    <value>Sem alterações desde {0}</value>
+  </data>
+  <data name="DataFreshness_State_Checking" xml:space="preserve">
+    <value>Verificando…</value>
+  </data>
+  <data name="DataFreshness_Verdict_TraktBehind_Title" xml:space="preserve">
+    <value>Trakt ainda não atualizado</value>
+  </data>
+  <data name="DataFreshness_Verdict_TraktBehind_Text" xml:space="preserve">
+    <value>O TMDB alterou esta ficha em {0}. O Trakt ainda não a copiou, o que é normal durante 24 horas: ele vai fazer isso no máximo em {1}.</value>
+  </data>
+  <data name="DataFreshness_Verdict_TraktLate_Title" xml:space="preserve">
+    <value>Trakt atrasado</value>
+  </data>
+  <data name="DataFreshness_Verdict_TraktLate_Text" xml:space="preserve">
+    <value>O TMDB alterou esta ficha em {0} e o Trakt ainda não a copiou, mais de 24 horas depois. Avise o Trakt pelo botão abaixo.</value>
+  </data>
+  <data name="DataFreshness_Verdict_Unreachable_NoCopyText" xml:space="preserve">
+    <value>O Trakt não respondeu. Tente de novo daqui a pouco.</value>
   </data>
 </root>

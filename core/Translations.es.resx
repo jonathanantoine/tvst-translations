@@ -4161,7 +4161,7 @@ Recordatorio: tu código es {0}.</value>
     <value>Lo que usted ve</value>
   </data>
   <data name="DataFreshness_CheckAtSource_Text" xml:space="preserve">
-    <value>Una información que falta aquí es casi siempre una información que todavía no existe en TMDB. Compruébelo en la fuente: si está allí, le llegará por sí sola. Si no está, es allí donde hay que corregirla, y cualquiera puede hacerlo con una cuenta gratuita.</value>
+    <value>Si falta una información aunque esta ficha esté al día con Trakt, es que Trakt tampoco la tiene. Compruébelo en TMDB: si está allí, Trakt la copiará en 24 horas y le llegará por sí sola. Si no está, es allí donde hay que añadirla, y cualquiera puede hacerlo con una cuenta gratuita.</value>
   </data>
   <data name="DataFreshness_OpenTmdb" xml:space="preserve">
     <value>Abrir esta ficha en TMDB</value>
@@ -5151,5 +5151,69 @@ Una temporada marcada como vista de una vez cuenta a la hora en que la marcó.</
   </data>
   <data name="ToRate_Description" xml:space="preserve">
     <value>Las series que sigo y las películas que he visto, aún sin valorar, las vistas más recientemente primero.</value>
+  </data>
+  <data name="MoviesLists_PanelHeader_WatchlistAwaitingDigitalGroup" xml:space="preserve">
+    <value>Watchlist — pendientes en digital</value>
+  </data>
+  <data name="MovieInList_DigitalReleaseAtFormat" xml:space="preserve">
+    <value>Estreno digital el
+{0}</value>
+  </data>
+  <data name="Settings_HomeGroups_AwaitingDigitalMovies_Title" xml:space="preserve">
+    <value>Agrupar las películas pendientes de su estreno digital</value>
+  </data>
+  <data name="Settings_HomeGroups_AwaitingDigitalMovies_Subtitle" xml:space="preserve">
+    <value>Ya estrenadas en cines, con una fecha de estreno digital anunciada. Usa el país elegido para dónde ver; si no, la fecha de EE. UU.</value>
+  </data>
+  <data name="DataFreshness_Verdict_Checking" xml:space="preserve">
+    <value>Comprobando con Trakt…</value>
+  </data>
+  <data name="DataFreshness_Verdict_UpToDate_Title" xml:space="preserve">
+    <value>Actualizado</value>
+  </data>
+  <data name="DataFreshness_Verdict_UpToDate_Text" xml:space="preserve">
+    <value>TVST tiene la última versión de esta ficha que tiene Trakt. Comprobado el {0}.</value>
+  </data>
+  <data name="DataFreshness_Verdict_Updated_Title" xml:space="preserve">
+    <value>Recién actualizado</value>
+  </data>
+  <data name="DataFreshness_Verdict_Updated_Text" xml:space="preserve">
+    <value>Trakt tenía una versión más reciente de esta ficha: TVST la descargó el {0}.</value>
+  </data>
+  <data name="DataFreshness_Verdict_Unreachable_Title" xml:space="preserve">
+    <value>No se pudo comprobar</value>
+  </data>
+  <data name="DataFreshness_Verdict_Unreachable_Text" xml:space="preserve">
+    <value>Trakt no respondió. Lo que ve es la copia que TVST descargó el {0}.</value>
+  </data>
+  <data name="Home_Menu_ContactMe_DataMissing_MailBody" xml:space="preserve">
+    <value>Serie o película:
+
+Qué falta o es incorrecto:
+</value>
+  </data>
+  <data name="DataFreshness_State_TmdbUpdatedAt" xml:space="preserve">
+    <value>Actualizado en TMDB</value>
+  </data>
+  <data name="DataFreshness_State_TmdbNoChangeSince" xml:space="preserve">
+    <value>Sin cambios desde el {0}</value>
+  </data>
+  <data name="DataFreshness_State_Checking" xml:space="preserve">
+    <value>Comprobando…</value>
+  </data>
+  <data name="DataFreshness_Verdict_TraktBehind_Title" xml:space="preserve">
+    <value>Trakt aún no está al día</value>
+  </data>
+  <data name="DataFreshness_Verdict_TraktBehind_Text" xml:space="preserve">
+    <value>TMDB modificó esta ficha el {0}. Trakt todavía no la ha copiado, lo cual es normal durante 24 horas: lo hará como muy tarde el {1}.</value>
+  </data>
+  <data name="DataFreshness_Verdict_TraktLate_Title" xml:space="preserve">
+    <value>Trakt va con retraso</value>
+  </data>
+  <data name="DataFreshness_Verdict_TraktLate_Text" xml:space="preserve">
+    <value>TMDB modificó esta ficha el {0} y Trakt aún no la ha copiado, más de 24 horas después. Comuníqueselo a Trakt con el botón de abajo.</value>
+  </data>
+  <data name="DataFreshness_Verdict_Unreachable_NoCopyText" xml:space="preserve">
+    <value>Trakt no respondió. Vuelva a intentarlo en un momento.</value>
   </data>
 </root>
