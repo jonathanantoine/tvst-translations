@@ -6464,4 +6464,7 @@ Ce qui manque ou est faux :
   <data name="DataFreshness_Verdict_Unreachable_NoCopyText" xml:space="preserve">
     <value>Trakt n'a pas répondu. Réessayez dans un instant.</value>
   </data>
+  <data name="MoviesLists_PanelHeader_WatchlistAwaitingDigital" xml:space="preserve">
+    <value>En attente du numérique</value>
+  </data>
 </root>

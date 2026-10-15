@@ -6551,4 +6551,7 @@ O que falta ou está errado:
   <data name="DataFreshness_Verdict_Unreachable_NoCopyText" xml:space="preserve">
     <value>O Trakt não respondeu. Tente novamente daqui a pouco.</value>
   </data>
+  <data name="MoviesLists_PanelHeader_WatchlistAwaitingDigital" xml:space="preserve">
+    <value>A aguardar o digital</value>
+  </data>
 </root>

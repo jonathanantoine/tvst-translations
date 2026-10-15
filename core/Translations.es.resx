@@ -5216,4 +5216,7 @@ Qué falta o es incorrecto:
   <data name="DataFreshness_Verdict_Unreachable_NoCopyText" xml:space="preserve">
     <value>Trakt no respondió. Vuelva a intentarlo en un momento.</value>
   </data>
+  <data name="MoviesLists_PanelHeader_WatchlistAwaitingDigital" xml:space="preserve">
+    <value>Pendientes en digital</value>
+  </data>
 </root>

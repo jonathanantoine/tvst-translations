@@ -5183,4 +5183,7 @@ What is missing or wrong:
   <data name="DataFreshness_Verdict_Unreachable_NoCopyText" xml:space="preserve">
     <value>Trakt did not answer. Try again in a moment.</value>
   </data>
+  <data name="MoviesLists_PanelHeader_WatchlistAwaitingDigital" xml:space="preserve">
+    <value>Awaiting digital</value>
+  </data>
 </root>
