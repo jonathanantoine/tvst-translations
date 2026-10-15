@@ -5113,10 +5113,10 @@ A season marked as watched in one go counts at the time you marked it.</value>
   <data name="People_Photos_ShowAll" xml:space="preserve">
     <value>All photos</value>
   </data>
-  <data name="ShowsToRate_Name" xml:space="preserve">
-    <value>Shows to rate</value>
+  <data name="ToRate_Name" xml:space="preserve">
+    <value>To rate</value>
   </data>
-  <data name="ShowsToRate_Description" xml:space="preserve">
-    <value>Every show I follow and have not rated yet, the most recently watched first.</value>
+  <data name="ToRate_Description" xml:space="preserve">
+    <value>Every show I follow and every movie I watched that I have not rated yet, the most recently watched first.</value>
   </data>
 </root>
