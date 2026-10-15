@@ -5146,4 +5146,10 @@ Una temporada marcada como vista de una vez cuenta a la hora en que la marcó.</
   <data name="People_Photos_ShowAll" xml:space="preserve">
     <value>Todas las fotos</value>
   </data>
+  <data name="ShowsToRate_Name" xml:space="preserve">
+    <value>Series por valorar</value>
+  </data>
+  <data name="ShowsToRate_Description" xml:space="preserve">
+    <value>Las series que sigo y que aún no he valorado, las vistas más recientemente primero.</value>
+  </data>
 </root>

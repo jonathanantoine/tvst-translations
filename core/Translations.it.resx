@@ -5120,4 +5120,10 @@ Una stagione segnata come vista in una volta conta all'ora in cui l'ha segnata.<
   <data name="People_Photos_ShowAll" xml:space="preserve">
     <value>Tutte le foto</value>
   </data>
+  <data name="ShowsToRate_Name" xml:space="preserve">
+    <value>Serie da votare</value>
+  </data>
+  <data name="ShowsToRate_Description" xml:space="preserve">
+    <value>Le serie che seguo e che non ho ancora votato, le ultime guardate prima.</value>
+  </data>
 </root>

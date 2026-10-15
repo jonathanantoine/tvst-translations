@@ -6481,4 +6481,10 @@ Uma temporada marcada como vista de uma só vez conta à hora a que a marcou.</v
   <data name="People_Photos_ShowAll" xml:space="preserve">
     <value>Todas as fotos</value>
   </data>
+  <data name="ShowsToRate_Name" xml:space="preserve">
+    <value>Séries por avaliar</value>
+  </data>
+  <data name="ShowsToRate_Description" xml:space="preserve">
+    <value>As séries que sigo e que ainda não avaliei, as vistas mais recentemente primeiro.</value>
+  </data>
 </root>
