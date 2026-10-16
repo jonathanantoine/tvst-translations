@@ -4399,7 +4399,7 @@ Confirmez-vous ?</value>
       <value>Télécharger l’image</value>
   </data>
   <data name="PhotoGallery_IsPreferred" xml:space="preserve">
-      <value>Miniature personnalisée</value>
+      <value>Image choisie</value>
   </data>
   <data name="PhotoGallery_SetAsPreferredThumbnail_Success" xml:space="preserve">
       <value>Miniature définie pour cette série !</value>
@@ -6466,5 +6466,26 @@ Ce qui manque ou est faux :
   </data>
   <data name="MoviesLists_PanelHeader_WatchlistAwaitingDigital" xml:space="preserve">
     <value>En attente du numérique</value>
+  </data>
+  <data name="PhotoGallery_UseAtTopOfInfos" xml:space="preserve">
+    <value>Utiliser en haut de l’onglet Infos</value>
+  </data>
+  <data name="PhotoGallery_StopUsingAtTopOfInfos" xml:space="preserve">
+    <value>Ne plus utiliser en haut de l’onglet Infos</value>
+  </data>
+  <data name="PhotoGallery_UseAtTopOfEpisodes" xml:space="preserve">
+    <value>Utiliser en haut de l’onglet Épisodes</value>
+  </data>
+  <data name="PhotoGallery_StopUsingAtTopOfEpisodes" xml:space="preserve">
+    <value>Ne plus utiliser en haut de l’onglet Épisodes</value>
+  </data>
+  <data name="PhotoGallery_UseAtTopOfPage" xml:space="preserve">
+    <value>Utiliser en haut de la page</value>
+  </data>
+  <data name="PhotoGallery_StopUsingAtTopOfPage" xml:space="preserve">
+    <value>Ne plus utiliser en haut de la page</value>
+  </data>
+  <data name="PhotoGallery_UserImage_Success" xml:space="preserve">
+    <value>Image mise à jour !</value>
   </data>
 </root>

@@ -3106,7 +3106,7 @@ Si desea dar un impulso adicional, el enlace de donación está aquí y siempre 
         <value>Descargar la imagen</value>
     </data>
     <data name="PhotoGallery_IsPreferred" xml:space="preserve">
-        <value>Miniatura personalizada</value>
+        <value>Imagen elegida</value>
     </data>
     <data name="PhotoGallery_SetAsPreferredThumbnail_Success" xml:space="preserve">
         <value>Miniatura establecida para esta serie!</value>
@@ -5218,5 +5218,26 @@ Qué falta o es incorrecto:
   </data>
   <data name="MoviesLists_PanelHeader_WatchlistAwaitingDigital" xml:space="preserve">
     <value>Pendientes en digital</value>
+  </data>
+  <data name="PhotoGallery_UseAtTopOfInfos" xml:space="preserve">
+    <value>Usar en la parte superior de la pestaña Detalles</value>
+  </data>
+  <data name="PhotoGallery_StopUsingAtTopOfInfos" xml:space="preserve">
+    <value>No usar más en la parte superior de la pestaña Detalles</value>
+  </data>
+  <data name="PhotoGallery_UseAtTopOfEpisodes" xml:space="preserve">
+    <value>Usar en la parte superior de la pestaña Episodios</value>
+  </data>
+  <data name="PhotoGallery_StopUsingAtTopOfEpisodes" xml:space="preserve">
+    <value>No usar más en la parte superior de la pestaña Episodios</value>
+  </data>
+  <data name="PhotoGallery_UseAtTopOfPage" xml:space="preserve">
+    <value>Usar en la parte superior de la página</value>
+  </data>
+  <data name="PhotoGallery_StopUsingAtTopOfPage" xml:space="preserve">
+    <value>No usar más en la parte superior de la página</value>
+  </data>
+  <data name="PhotoGallery_UserImage_Success" xml:space="preserve">
+    <value>¡Imagen actualizada!</value>
   </data>
 </root>
