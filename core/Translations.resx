@@ -5207,4 +5207,37 @@ What is missing or wrong:
   <data name="PhotoGallery_UserImage_Success" xml:space="preserve">
     <value>Image updated!</value>
   </data>
+  <data name="Comments_Reactions_SheetTitle" xml:space="preserve">
+    <value>Reactions</value>
+  </data>
+  <data name="Comments_Reactions_AddButton" xml:space="preserve">
+    <value>React</value>
+  </data>
+  <data name="Comments_Reactions_SheetHint" xml:space="preserve">
+    <value>One reaction per comment: choosing it again removes it.</value>
+  </data>
+  <data name="Settings_RateLastWatchedEpisodeCard_Title" xml:space="preserve">
+    <value>Offer to rate the last episode watched</value>
+  </data>
+  <data name="Settings_RateLastWatchedEpisodeCard_Subtitle" xml:space="preserve">
+    <value>When the app opens, if it has no rating yet</value>
+  </data>
+  <data name="RateLastEpisodeCard_Dismiss" xml:space="preserve">
+    <value>Not for this episode</value>
+  </data>
+  <data name="RateLastEpisodeCard_Undo" xml:space="preserve">
+    <value>Undo</value>
+  </data>
+  <data name="RateLastEpisodeCard_Rated" xml:space="preserve">
+    <value>Rated {0}/10</value>
+  </data>
+  <data name="RateLastEpisodeCard_WatchedToday" xml:space="preserve">
+    <value>Watched today at {0}</value>
+  </data>
+  <data name="RateLastEpisodeCard_WatchedYesterday" xml:space="preserve">
+    <value>Watched yesterday at {0}</value>
+  </data>
+  <data name="RateLastEpisodeCard_WatchedDaysAgo" xml:space="preserve">
+    <value>Watched {0} days ago</value>
+  </data>
 </root>

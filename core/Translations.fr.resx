@@ -6488,4 +6488,37 @@ Ce qui manque ou est faux :
   <data name="PhotoGallery_UserImage_Success" xml:space="preserve">
     <value>Image mise à jour !</value>
   </data>
+  <data name="Comments_Reactions_SheetTitle" xml:space="preserve">
+    <value>Réactions</value>
+  </data>
+  <data name="Comments_Reactions_AddButton" xml:space="preserve">
+    <value>Réagir</value>
+  </data>
+  <data name="Comments_Reactions_SheetHint" xml:space="preserve">
+    <value>Une réaction par commentaire : la choisir à nouveau la retire.</value>
+  </data>
+  <data name="Settings_RateLastWatchedEpisodeCard_Title" xml:space="preserve">
+    <value>Proposer de noter le dernier épisode vu</value>
+  </data>
+  <data name="Settings_RateLastWatchedEpisodeCard_Subtitle" xml:space="preserve">
+    <value>À l'ouverture de l'app, s'il n'a pas encore de note</value>
+  </data>
+  <data name="RateLastEpisodeCard_Dismiss" xml:space="preserve">
+    <value>Pas pour cet épisode</value>
+  </data>
+  <data name="RateLastEpisodeCard_Undo" xml:space="preserve">
+    <value>Annuler</value>
+  </data>
+  <data name="RateLastEpisodeCard_Rated" xml:space="preserve">
+    <value>Noté {0}/10</value>
+  </data>
+  <data name="RateLastEpisodeCard_WatchedToday" xml:space="preserve">
+    <value>Vu aujourd'hui à {0}</value>
+  </data>
+  <data name="RateLastEpisodeCard_WatchedYesterday" xml:space="preserve">
+    <value>Vu hier à {0}</value>
+  </data>
+  <data name="RateLastEpisodeCard_WatchedDaysAgo" xml:space="preserve">
+    <value>Vu il y a {0} jours</value>
+  </data>
 </root>

@@ -6575,4 +6575,37 @@ O que falta ou está errado:
   <data name="PhotoGallery_UserImage_Success" xml:space="preserve">
     <value>Imagem atualizada!</value>
   </data>
+  <data name="Comments_Reactions_SheetTitle" xml:space="preserve">
+    <value>Reações</value>
+  </data>
+  <data name="Comments_Reactions_AddButton" xml:space="preserve">
+    <value>Reagir</value>
+  </data>
+  <data name="Comments_Reactions_SheetHint" xml:space="preserve">
+    <value>Uma reação por comentário: escolhê-la de novo remove-a.</value>
+  </data>
+  <data name="Settings_RateLastWatchedEpisodeCard_Title" xml:space="preserve">
+    <value>Propor avaliar o último episódio visto</value>
+  </data>
+  <data name="Settings_RateLastWatchedEpisodeCard_Subtitle" xml:space="preserve">
+    <value>Ao abrir a app, se ainda não tiver avaliação</value>
+  </data>
+  <data name="RateLastEpisodeCard_Dismiss" xml:space="preserve">
+    <value>Não para este episódio</value>
+  </data>
+  <data name="RateLastEpisodeCard_Undo" xml:space="preserve">
+    <value>Anular</value>
+  </data>
+  <data name="RateLastEpisodeCard_Rated" xml:space="preserve">
+    <value>Avaliado com {0}/10</value>
+  </data>
+  <data name="RateLastEpisodeCard_WatchedToday" xml:space="preserve">
+    <value>Visto hoje às {0}</value>
+  </data>
+  <data name="RateLastEpisodeCard_WatchedYesterday" xml:space="preserve">
+    <value>Visto ontem às {0}</value>
+  </data>
+  <data name="RateLastEpisodeCard_WatchedDaysAgo" xml:space="preserve">
+    <value>Visto há {0} dias</value>
+  </data>
 </root>

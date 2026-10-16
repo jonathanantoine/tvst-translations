@@ -5244,4 +5244,37 @@ O que está faltando ou errado:
   <data name="PhotoGallery_UserImage_Success" xml:space="preserve">
     <value>Imagem atualizada!</value>
   </data>
+  <data name="Comments_Reactions_SheetTitle" xml:space="preserve">
+    <value>Reações</value>
+  </data>
+  <data name="Comments_Reactions_AddButton" xml:space="preserve">
+    <value>Reagir</value>
+  </data>
+  <data name="Comments_Reactions_SheetHint" xml:space="preserve">
+    <value>Uma reação por comentário: escolhê-la de novo a remove.</value>
+  </data>
+  <data name="Settings_RateLastWatchedEpisodeCard_Title" xml:space="preserve">
+    <value>Sugerir avaliar o último episódio assistido</value>
+  </data>
+  <data name="Settings_RateLastWatchedEpisodeCard_Subtitle" xml:space="preserve">
+    <value>Ao abrir o app, se ainda não tiver avaliação</value>
+  </data>
+  <data name="RateLastEpisodeCard_Dismiss" xml:space="preserve">
+    <value>Não para este episódio</value>
+  </data>
+  <data name="RateLastEpisodeCard_Undo" xml:space="preserve">
+    <value>Desfazer</value>
+  </data>
+  <data name="RateLastEpisodeCard_Rated" xml:space="preserve">
+    <value>Avaliado com {0}/10</value>
+  </data>
+  <data name="RateLastEpisodeCard_WatchedToday" xml:space="preserve">
+    <value>Assistido hoje às {0}</value>
+  </data>
+  <data name="RateLastEpisodeCard_WatchedYesterday" xml:space="preserve">
+    <value>Assistido ontem às {0}</value>
+  </data>
+  <data name="RateLastEpisodeCard_WatchedDaysAgo" xml:space="preserve">
+    <value>Assistido há {0} dias</value>
+  </data>
 </root>
