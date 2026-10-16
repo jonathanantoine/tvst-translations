@@ -2200,6 +2200,12 @@ Do you confirm ?
   <data name="ListContent_SortChoice_SortOption_Year" xml:space="preserve">
     <value>Release year</value>
   </data>
+  <data name="ListContent_SortChoice_SortOption_LastAction" xml:space="preserve">
+    <value>Last action</value>
+  </data>
+  <data name="ListContent_SortChoice_SortOption_LastActionReverse" xml:space="preserve">
+    <value>Last action reversed</value>
+  </data>
   <data name="ListContent_SortChoice_SortOption_ListedAtReverse" xml:space="preserve">
     <value>Listed at date reversed</value>
   </data>
@@ -5231,8 +5237,11 @@ What is missing or wrong:
   <data name="RateLastEpisodeCard_Dismiss" xml:space="preserve">
     <value>Not for this episode</value>
   </data>
-  <data name="RateLastEpisodeCard_Undo" xml:space="preserve">
-    <value>Undo</value>
+  <data name="RateLastEpisodeCard_Question" xml:space="preserve">
+    <value>What did you think of this episode?</value>
+  </data>
+  <data name="RateLastEpisodeCard_Confirm" xml:space="preserve">
+    <value>Rate this episode</value>
   </data>
   <data name="RateLastEpisodeCard_Rated" xml:space="preserve">
     <value>Rated {0}/10</value>

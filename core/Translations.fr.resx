@@ -3261,6 +3261,12 @@ xml:space="preserve">
     <value>Année de sortie</value>
   </data>
 
+  <data name="ListContent_SortChoice_SortOption_LastAction" xml:space="preserve">
+    <value>Dernière action</value>
+  </data>
+  <data name="ListContent_SortChoice_SortOption_LastActionReverse" xml:space="preserve">
+    <value>Dernière action inversé</value>
+  </data>
   <data
   name="ListContent_SortChoice_SortOption_ListedAtReverse"
   xml:space="preserve">
@@ -6512,8 +6518,11 @@ Ce qui manque ou est faux :
   <data name="RateLastEpisodeCard_Dismiss" xml:space="preserve">
     <value>Pas pour cet épisode</value>
   </data>
-  <data name="RateLastEpisodeCard_Undo" xml:space="preserve">
-    <value>Annuler</value>
+  <data name="RateLastEpisodeCard_Question" xml:space="preserve">
+    <value>Qu'avez-vous pensé de cet épisode ?</value>
+  </data>
+  <data name="RateLastEpisodeCard_Confirm" xml:space="preserve">
+    <value>Noter cet épisode</value>
   </data>
   <data name="RateLastEpisodeCard_Rated" xml:space="preserve">
     <value>Noté {0}/10</value>

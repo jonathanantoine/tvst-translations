@@ -2108,6 +2108,12 @@ Confermi?
     <value>Anno di uscita</value>
   </data>
 
+    <data name="ListContent_SortChoice_SortOption_LastAction" xml:space="preserve">
+    <value>Ultima azione</value>
+  </data>
+    <data name="ListContent_SortChoice_SortOption_LastActionReverse" xml:space="preserve">
+    <value>Ultima azione invertita</value>
+  </data>
     <data name="ListContent_SortChoice_SortOption_ListedAtReverse" xml:space="preserve">
     <value>Data aggiunta all'elenco invertito</value>
   </data>
@@ -5238,8 +5244,11 @@ Cosa manca o è sbagliato:
   <data name="RateLastEpisodeCard_Dismiss" xml:space="preserve">
     <value>Non per questo episodio</value>
   </data>
-  <data name="RateLastEpisodeCard_Undo" xml:space="preserve">
-    <value>Annulla</value>
+  <data name="RateLastEpisodeCard_Question" xml:space="preserve">
+    <value>Cosa ne pensi di questo episodio?</value>
+  </data>
+  <data name="RateLastEpisodeCard_Confirm" xml:space="preserve">
+    <value>Valuta questo episodio</value>
   </data>
   <data name="RateLastEpisodeCard_Rated" xml:space="preserve">
     <value>Votato {0}/10</value>

@@ -2119,6 +2119,12 @@ y tendencias mundiales!</value>
     <value>Año de lanzamiento</value>
   </data>
 
+    <data name="ListContent_SortChoice_SortOption_LastAction" xml:space="preserve">
+    <value>Última acción</value>
+  </data>
+    <data name="ListContent_SortChoice_SortOption_LastActionReverse" xml:space="preserve">
+    <value>Última acción inverso</value>
+  </data>
     <data name="ListContent_SortChoice_SortOption_ListedAtReverse" xml:space="preserve">
     <value>Fecha agregada a la lista inverso</value>
   </data>
@@ -5264,8 +5270,11 @@ Qué falta o es incorrecto:
   <data name="RateLastEpisodeCard_Dismiss" xml:space="preserve">
     <value>No para este episodio</value>
   </data>
-  <data name="RateLastEpisodeCard_Undo" xml:space="preserve">
-    <value>Deshacer</value>
+  <data name="RateLastEpisodeCard_Question" xml:space="preserve">
+    <value>¿Qué te pareció este episodio?</value>
+  </data>
+  <data name="RateLastEpisodeCard_Confirm" xml:space="preserve">
+    <value>Valorar este episodio</value>
   </data>
   <data name="RateLastEpisodeCard_Rated" xml:space="preserve">
     <value>Valorado con {0}/10</value>
