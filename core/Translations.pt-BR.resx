@@ -5283,4 +5283,34 @@ O que está faltando ou errado:
   <data name="RateLastEpisodeCard_WatchedDaysAgo" xml:space="preserve">
     <value>Assistido há {0} dias</value>
   </data>
+  <data name="ShowDetails_Calendar_UpcomingSectionHeader" xml:space="preserve">
+    <value>Próximos episódios</value>
+  </data>
+  <data name="ShowDetails_Calendar_WatchedSectionHeader" xml:space="preserve">
+    <value>Episódios assistidos</value>
+  </data>
+  <data name="ShowDetails_Calendar_WatchedDay_PlaysFormat" xml:space="preserve">
+    <value>Assistido {0} vezes</value>
+  </data>
+  <data name="InAppUpdate_Ready_Message" xml:space="preserve">
+    <value>Atualização baixada</value>
+  </data>
+  <data name="InAppUpdate_Ready_Restart" xml:space="preserve">
+    <value>Reiniciar</value>
+  </data>
+  <data name="InAppUpdate_Mandatory_Title" xml:space="preserve">
+    <value>Atualização necessária</value>
+  </data>
+  <data name="InAppUpdate_Mandatory_Message" xml:space="preserve">
+    <value>Esta versão do TV Show Tracker não pode mais ser usada. Instale a atualização para continuar acompanhando suas séries.</value>
+  </data>
+  <data name="InAppUpdate_Mandatory_Button" xml:space="preserve">
+    <value>Atualizar</value>
+  </data>
+  <data name="Settings_Debug_SimulateInAppUpdate_Text" xml:space="preserve">
+    <value>Simular uma atualização no app</value>
+  </data>
+  <data name="Settings_Debug_SimulateMandatoryUpdate_Text" xml:space="preserve">
+    <value>Simular uma atualização obrigatória (página de bloqueio)</value>
+  </data>
 </root>

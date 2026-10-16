@@ -5246,4 +5246,34 @@ What is missing or wrong:
   <data name="RateLastEpisodeCard_WatchedDaysAgo" xml:space="preserve">
     <value>Watched {0} days ago</value>
   </data>
+  <data name="ShowDetails_Calendar_UpcomingSectionHeader" xml:space="preserve">
+    <value>Upcoming episodes</value>
+  </data>
+  <data name="ShowDetails_Calendar_WatchedSectionHeader" xml:space="preserve">
+    <value>Watched episodes</value>
+  </data>
+  <data name="ShowDetails_Calendar_WatchedDay_PlaysFormat" xml:space="preserve">
+    <value>Watched {0} times</value>
+  </data>
+  <data name="InAppUpdate_Ready_Message" xml:space="preserve">
+    <value>Update downloaded</value>
+  </data>
+  <data name="InAppUpdate_Ready_Restart" xml:space="preserve">
+    <value>Restart</value>
+  </data>
+  <data name="InAppUpdate_Mandatory_Title" xml:space="preserve">
+    <value>Update required</value>
+  </data>
+  <data name="InAppUpdate_Mandatory_Message" xml:space="preserve">
+    <value>This version of TV Show Tracker can no longer be used. Install the update to keep following your shows.</value>
+  </data>
+  <data name="InAppUpdate_Mandatory_Button" xml:space="preserve">
+    <value>Update</value>
+  </data>
+  <data name="Settings_Debug_SimulateInAppUpdate_Text" xml:space="preserve">
+    <value>Simulate in-app update</value>
+  </data>
+  <data name="Settings_Debug_SimulateMandatoryUpdate_Text" xml:space="preserve">
+    <value>Simulate mandatory update (blocking page)</value>
+  </data>
 </root>

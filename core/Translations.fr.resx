@@ -6527,4 +6527,34 @@ Ce qui manque ou est faux :
   <data name="RateLastEpisodeCard_WatchedDaysAgo" xml:space="preserve">
     <value>Vu il y a {0} jours</value>
   </data>
+  <data name="ShowDetails_Calendar_UpcomingSectionHeader" xml:space="preserve">
+    <value>Épisodes à venir</value>
+  </data>
+  <data name="ShowDetails_Calendar_WatchedSectionHeader" xml:space="preserve">
+    <value>Épisodes vus</value>
+  </data>
+  <data name="ShowDetails_Calendar_WatchedDay_PlaysFormat" xml:space="preserve">
+    <value>Vu {0} fois</value>
+  </data>
+  <data name="InAppUpdate_Ready_Message" xml:space="preserve">
+    <value>Mise à jour téléchargée</value>
+  </data>
+  <data name="InAppUpdate_Ready_Restart" xml:space="preserve">
+    <value>Redémarrer</value>
+  </data>
+  <data name="InAppUpdate_Mandatory_Title" xml:space="preserve">
+    <value>Mise à jour nécessaire</value>
+  </data>
+  <data name="InAppUpdate_Mandatory_Message" xml:space="preserve">
+    <value>Cette version de TV Show Tracker ne peut plus être utilisée. Installez la mise à jour pour continuer à suivre vos séries.</value>
+  </data>
+  <data name="InAppUpdate_Mandatory_Button" xml:space="preserve">
+    <value>Mettre à jour</value>
+  </data>
+  <data name="Settings_Debug_SimulateInAppUpdate_Text" xml:space="preserve">
+    <value>Simuler une mise à jour dans l'app</value>
+  </data>
+  <data name="Settings_Debug_SimulateMandatoryUpdate_Text" xml:space="preserve">
+    <value>Simuler une mise à jour obligatoire (page bloquante)</value>
+  </data>
 </root>
