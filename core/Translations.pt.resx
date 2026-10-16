@@ -6584,6 +6584,12 @@ O que falta ou está errado:
   <data name="Comments_Reactions_SheetHint" xml:space="preserve">
     <value>Uma reação por comentário: escolhê-la de novo remove-a.</value>
   </data>
+  <data name="Comments_Reactions_Added" xml:space="preserve">
+    <value>Reação enviada</value>
+  </data>
+  <data name="Comments_Reactions_Removed" xml:space="preserve">
+    <value>Reação removida</value>
+  </data>
   <data name="Settings_RateLastWatchedEpisodeCard_Title" xml:space="preserve">
     <value>Propor avaliar o último episódio visto</value>
   </data>

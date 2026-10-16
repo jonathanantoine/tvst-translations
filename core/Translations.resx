@@ -5216,6 +5216,12 @@ What is missing or wrong:
   <data name="Comments_Reactions_SheetHint" xml:space="preserve">
     <value>One reaction per comment: choosing it again removes it.</value>
   </data>
+  <data name="Comments_Reactions_Added" xml:space="preserve">
+    <value>Reaction sent</value>
+  </data>
+  <data name="Comments_Reactions_Removed" xml:space="preserve">
+    <value>Reaction removed</value>
+  </data>
   <data name="Settings_RateLastWatchedEpisodeCard_Title" xml:space="preserve">
     <value>Offer to rate the last episode watched</value>
   </data>

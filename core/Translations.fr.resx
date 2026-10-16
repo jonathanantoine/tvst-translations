@@ -6497,6 +6497,12 @@ Ce qui manque ou est faux :
   <data name="Comments_Reactions_SheetHint" xml:space="preserve">
     <value>Une réaction par commentaire : la choisir à nouveau la retire.</value>
   </data>
+  <data name="Comments_Reactions_Added" xml:space="preserve">
+    <value>Réaction envoyée</value>
+  </data>
+  <data name="Comments_Reactions_Removed" xml:space="preserve">
+    <value>Réaction retirée</value>
+  </data>
   <data name="Settings_RateLastWatchedEpisodeCard_Title" xml:space="preserve">
     <value>Proposer de noter le dernier épisode vu</value>
   </data>

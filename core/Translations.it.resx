@@ -5223,6 +5223,12 @@ Cosa manca o è sbagliato:
   <data name="Comments_Reactions_SheetHint" xml:space="preserve">
     <value>Una reazione per commento: sceglierla di nuovo la rimuove.</value>
   </data>
+  <data name="Comments_Reactions_Added" xml:space="preserve">
+    <value>Reazione inviata</value>
+  </data>
+  <data name="Comments_Reactions_Removed" xml:space="preserve">
+    <value>Reazione rimossa</value>
+  </data>
   <data name="Settings_RateLastWatchedEpisodeCard_Title" xml:space="preserve">
     <value>Proponi di votare l'ultimo episodio visto</value>
   </data>
