@@ -5292,4 +5292,37 @@ Cosa manca o è sbagliato:
   <data name="Settings_Debug_SimulateMandatoryUpdate_Text" xml:space="preserve">
     <value>Simula un aggiornamento obbligatorio (pagina bloccante)</value>
   </data>
+  <data name="MissingOnTrakt_NoExternalId_Content" xml:space="preserve">
+    <value>L'app prende le serie e i film da Trakt. Trakt li copia automaticamente da TMDB, un database collaborativo di film e serie TV che funziona un po' come Wikipedia.
+
+Però Trakt copia un titolo solo se la sua scheda TMDB indica anche il suo ID IMDb (o TheTVDB per una serie). Questa scheda non ne ha nessuno: per questo il titolo manca.
+
+Chiunque può completare la scheda con un account TMDB gratuito:
+1. Cerchi il titolo su imdb.com. Il suo ID è nell'indirizzo della pagina e inizia con «tt», per esempio tt0944947.
+2. Scelga «Completa la scheda TMDB» qui sotto e incolli l'ID nel campo «IMDb ID».
+
+Il titolo arriverà poi nell'app, di solito entro 24 ore.</value>
+  </data>
+  <data name="MissingOnTrakt_ImportPending_Content" xml:space="preserve">
+    <value>L'app prende le serie e i film da Trakt. Trakt li copia automaticamente da TMDB, un database collaborativo di film e serie TV.
+
+La scheda TMDB di questo titolo ha tutto ciò che serve a Trakt, quindi dovrebbe arrivare da solo, di solito entro 24 ore.
+
+Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è già scritta in inglese con tutte le informazioni utili: deve solo inviarla.</value>
+  </data>
+  <data name="MissingOnTrakt_AddTmdbIds" xml:space="preserve">
+    <value>Completa la scheda TMDB</value>
+  </data>
+  <data name="MissingOnTrakt_OpenTmdbPage" xml:space="preserve">
+    <value>Vedi la scheda TMDB</value>
+  </data>
+  <data name="MissingOnTrakt_EmailTrakt" xml:space="preserve">
+    <value>Avvisa Trakt via e-mail</value>
+  </data>
+  <data name="Global_MailCopied" xml:space="preserve">
+    <value>E-mail copiata</value>
+  </data>
+  <data name="Global_CopyMail" xml:space="preserve">
+    <value>Copia l'e-mail</value>
+  </data>
 </root>

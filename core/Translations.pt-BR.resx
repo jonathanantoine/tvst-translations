@@ -5322,4 +5322,37 @@ O que está faltando ou errado:
   <data name="Settings_Debug_SimulateMandatoryUpdate_Text" xml:space="preserve">
     <value>Simular uma atualização obrigatória (página de bloqueio)</value>
   </data>
+  <data name="MissingOnTrakt_NoExternalId_Content" xml:space="preserve">
+    <value>O app busca as séries e os filmes no Trakt. O Trakt copia esses títulos automaticamente do TMDB, um banco de dados colaborativo de filmes e séries que funciona um pouco como a Wikipédia.
+
+Mas o Trakt só copia um título se a página dele no TMDB também informar o ID do IMDb (ou do TheTVDB, no caso de uma série). Esta página não tem nenhum: é por isso que o título está faltando.
+
+Qualquer pessoa pode completar a página com uma conta gratuita do TMDB:
+1. Procure o título em imdb.com. O ID está no endereço da página e começa com "tt", por exemplo tt0944947.
+2. Escolha "Completar a página do TMDB" aqui embaixo e cole o ID no campo "IMDb ID".
+
+Depois o título vai aparecer no app, geralmente em até 24 horas.</value>
+  </data>
+  <data name="MissingOnTrakt_ImportPending_Content" xml:space="preserve">
+    <value>O app busca as séries e os filmes no Trakt. O Trakt copia esses títulos automaticamente do TMDB, um banco de dados colaborativo de filmes e séries.
+
+A página deste título no TMDB tem tudo o que o Trakt precisa, então ele deve aparecer sozinho, geralmente em até 24 horas.
+
+Se depois disso ele ainda estiver faltando, você pode avisar a equipe do Trakt. O e-mail já está escrito em inglês com todas as informações úteis: é só enviar.</value>
+  </data>
+  <data name="MissingOnTrakt_AddTmdbIds" xml:space="preserve">
+    <value>Completar a página do TMDB</value>
+  </data>
+  <data name="MissingOnTrakt_OpenTmdbPage" xml:space="preserve">
+    <value>Ver a página do TMDB</value>
+  </data>
+  <data name="MissingOnTrakt_EmailTrakt" xml:space="preserve">
+    <value>Avisar o Trakt por e-mail</value>
+  </data>
+  <data name="Global_MailCopied" xml:space="preserve">
+    <value>E-mail copiado</value>
+  </data>
+  <data name="Global_CopyMail" xml:space="preserve">
+    <value>Copiar o e-mail</value>
+  </data>
 </root>

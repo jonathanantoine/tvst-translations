@@ -5285,4 +5285,37 @@ What is missing or wrong:
   <data name="Settings_Debug_SimulateMandatoryUpdate_Text" xml:space="preserve">
     <value>Simulate mandatory update (blocking page)</value>
   </data>
+  <data name="MissingOnTrakt_NoExternalId_Content" xml:space="preserve">
+    <value>The app gets its shows and movies from Trakt. Trakt copies them automatically from TMDB, a community-built database of movies and TV shows that works a bit like Wikipedia.
+
+But Trakt only copies a title if its TMDB page also lists its IMDb ID (or its TheTVDB ID for a show). This page has neither, which is why the title is missing.
+
+Anyone can complete the page with a free TMDB account:
+1. Look up the title on imdb.com. Its ID is in the page address and starts with "tt", for example tt0944947.
+2. Choose "Complete the TMDB page" below and paste this ID in the "IMDb ID" field.
+
+The title should then show up in the app, usually within 24 hours.</value>
+  </data>
+  <data name="MissingOnTrakt_ImportPending_Content" xml:space="preserve">
+    <value>The app gets its shows and movies from Trakt. Trakt copies them automatically from TMDB, a community-built database of movies and TV shows.
+
+This title's TMDB page has everything Trakt needs, so it should show up on its own, usually within 24 hours.
+
+If it is still missing after that, you can let the Trakt team know. The email is already written, in English, with all the useful details: you only need to send it.</value>
+  </data>
+  <data name="MissingOnTrakt_AddTmdbIds" xml:space="preserve">
+    <value>Complete the TMDB page</value>
+  </data>
+  <data name="MissingOnTrakt_OpenTmdbPage" xml:space="preserve">
+    <value>View the TMDB page</value>
+  </data>
+  <data name="MissingOnTrakt_EmailTrakt" xml:space="preserve">
+    <value>Email the Trakt team</value>
+  </data>
+  <data name="Global_MailCopied" xml:space="preserve">
+    <value>Email copied</value>
+  </data>
+  <data name="Global_CopyMail" xml:space="preserve">
+    <value>Copy the email</value>
+  </data>
 </root>

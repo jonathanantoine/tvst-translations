@@ -5318,4 +5318,37 @@ Qué falta o es incorrecto:
   <data name="Settings_Debug_SimulateMandatoryUpdate_Text" xml:space="preserve">
     <value>Simular una actualización obligatoria (página bloqueante)</value>
   </data>
+  <data name="MissingOnTrakt_NoExternalId_Content" xml:space="preserve">
+    <value>La aplicación obtiene sus series y películas de Trakt. Trakt las copia automáticamente de TMDB, una base de datos colaborativa de películas y series que funciona un poco como Wikipedia.
+
+Pero Trakt solo copia un título si su ficha de TMDB indica también su identificador de IMDb (o de TheTVDB para una serie). Esta ficha no tiene ninguno: por eso falta el título.
+
+Cualquiera puede completar la ficha con una cuenta gratuita de TMDB:
+1. Busque el título en imdb.com. Su identificador está en la dirección de la página y empieza por «tt», por ejemplo tt0944947.
+2. Elija «Completar la ficha de TMDB» aquí abajo y pegue ese identificador en el campo «IMDb ID».
+
+El título aparecerá después en la aplicación, normalmente en menos de 24 horas.</value>
+  </data>
+  <data name="MissingOnTrakt_ImportPending_Content" xml:space="preserve">
+    <value>La aplicación obtiene sus series y películas de Trakt. Trakt las copia automáticamente de TMDB, una base de datos colaborativa de películas y series.
+
+La ficha de TMDB de este título tiene todo lo que Trakt necesita, así que debería aparecer solo, normalmente en menos de 24 horas.
+
+Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya está redactado en inglés con toda la información útil: solo tiene que enviarlo.</value>
+  </data>
+  <data name="MissingOnTrakt_AddTmdbIds" xml:space="preserve">
+    <value>Completar la ficha de TMDB</value>
+  </data>
+  <data name="MissingOnTrakt_OpenTmdbPage" xml:space="preserve">
+    <value>Ver la ficha de TMDB</value>
+  </data>
+  <data name="MissingOnTrakt_EmailTrakt" xml:space="preserve">
+    <value>Avisar a Trakt por correo</value>
+  </data>
+  <data name="Global_MailCopied" xml:space="preserve">
+    <value>Correo copiado</value>
+  </data>
+  <data name="Global_CopyMail" xml:space="preserve">
+    <value>Copiar el correo</value>
+  </data>
 </root>

@@ -6653,4 +6653,37 @@ O que falta ou está errado:
   <data name="Settings_Debug_SimulateMandatoryUpdate_Text" xml:space="preserve">
     <value>Simular uma atualização obrigatória (página de bloqueio)</value>
   </data>
+  <data name="MissingOnTrakt_NoExternalId_Content" xml:space="preserve">
+    <value>A aplicação obtém as séries e os filmes a partir do Trakt. O Trakt copia-os automaticamente do TMDB, uma base de dados colaborativa de filmes e séries que funciona um pouco como a Wikipédia.
+
+Mas o Trakt só copia um título se a ficha TMDB indicar também o seu ID IMDb (ou TheTVDB, no caso de uma série). Esta ficha não tem nenhum: é por isso que o título falta.
+
+Qualquer pessoa pode completar a ficha com uma conta TMDB gratuita:
+1. Procure o título em imdb.com. O ID está no endereço da página e começa por «tt», por exemplo tt0944947.
+2. Escolha «Completar a ficha TMDB» aqui em baixo e cole o ID no campo «IMDb ID».
+
+O título chegará depois à aplicação, normalmente em menos de 24 horas.</value>
+  </data>
+  <data name="MissingOnTrakt_ImportPending_Content" xml:space="preserve">
+    <value>A aplicação obtém as séries e os filmes a partir do Trakt. O Trakt copia-os automaticamente do TMDB, uma base de dados colaborativa de filmes e séries.
+
+A ficha TMDB deste título tem tudo o que o Trakt precisa, por isso deverá aparecer sozinho, normalmente em menos de 24 horas.
+
+Se depois disso continuar a faltar, pode avisar a equipa do Trakt. O e-mail já está escrito em inglês com todas as informações úteis: só tem de o enviar.</value>
+  </data>
+  <data name="MissingOnTrakt_AddTmdbIds" xml:space="preserve">
+    <value>Completar a ficha TMDB</value>
+  </data>
+  <data name="MissingOnTrakt_OpenTmdbPage" xml:space="preserve">
+    <value>Ver a ficha TMDB</value>
+  </data>
+  <data name="MissingOnTrakt_EmailTrakt" xml:space="preserve">
+    <value>Avisar o Trakt por e-mail</value>
+  </data>
+  <data name="Global_MailCopied" xml:space="preserve">
+    <value>E-mail copiado</value>
+  </data>
+  <data name="Global_CopyMail" xml:space="preserve">
+    <value>Copiar o e-mail</value>
+  </data>
 </root>
