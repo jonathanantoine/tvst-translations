@@ -3204,13 +3204,28 @@ Do you confirm?</value>
       <value>Different account detected</value>
   </data>
   <data name="Startup_DifferentAccountDetected_Content" xml:space="preserve">
-      <value>You were previously logged in as "{0}" but the current account is "{1}". If you continue, all local data will be erased.</value>
+      <value>You were signed in as "{0}", but you just signed in as "{1}". The data of "{0}" is still on this device and on Trakt.</value>
   </data>
-  <data name="Startup_DifferentAccountDetected_Logout" xml:space="preserve">
-      <value>Log out</value>
+  <data name="Startup_DifferentAccountDetected_KeepData" xml:space="preserve">
+      <value>Keep my data (stay disconnected)</value>
+  </data>
+  <data name="Startup_DifferentAccountDetected_PreviousEmail" xml:space="preserve">
+      <value>The "{0}" account uses the email address {1}.</value>
+  </data>
+  <data name="Startup_DifferentAccountDetected_Cancel" xml:space="preserve">
+      <value>Cancel (back to sign-in)</value>
   </data>
   <data name="Startup_DifferentAccountDetected_Continue" xml:space="preserve">
-      <value>Continue and erase data</value>
+      <value>Use "{0}" and erase the data</value>
+  </data>
+  <data name="Startup_DifferentAccountDetected_WipeConfirm_Title" xml:space="preserve">
+      <value>Erase the data on this device?</value>
+  </data>
+  <data name="Startup_DifferentAccountDetected_WipeConfirm_Content" xml:space="preserve">
+      <value>Everything the app shows for "{0}" will be erased from this device, including the actions not yet sent to Trakt. What is already on Trakt stays on the "{0}" account.</value>
+  </data>
+  <data name="Startup_DifferentAccountDetected_WipeConfirm_Button" xml:space="preserve">
+      <value>Erase</value>
   </data>
   <data name="Search_Engine_Label" xml:space="preserve">
     <value>Search engine</value>

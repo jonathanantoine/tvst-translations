@@ -3202,13 +3202,28 @@ Promemoria: il tuo codice è {0}.</value>
       <value>Account diverso rilevato</value>
   </data>
   <data name="Startup_DifferentAccountDetected_Content" xml:space="preserve">
-      <value>Eri connesso come "{0}" ma l'account attuale è "{1}". Se continui, tutti i dati locali verranno cancellati.</value>
+      <value>Eri connesso come "{0}", ma hai appena effettuato l'accesso come "{1}". I dati di "{0}" sono ancora su questo dispositivo e su Trakt.</value>
   </data>
-  <data name="Startup_DifferentAccountDetected_Logout" xml:space="preserve">
-      <value>Disconnettersi</value>
+  <data name="Startup_DifferentAccountDetected_KeepData" xml:space="preserve">
+      <value>Conserva i miei dati (resta disconnesso)</value>
+  </data>
+  <data name="Startup_DifferentAccountDetected_PreviousEmail" xml:space="preserve">
+      <value>L'account "{0}" usa l'indirizzo email {1}.</value>
+  </data>
+  <data name="Startup_DifferentAccountDetected_Cancel" xml:space="preserve">
+      <value>Annulla (torna all'accesso)</value>
   </data>
   <data name="Startup_DifferentAccountDetected_Continue" xml:space="preserve">
-      <value>Continua e cancella i dati</value>
+      <value>Usa "{0}" e cancella i dati</value>
+  </data>
+  <data name="Startup_DifferentAccountDetected_WipeConfirm_Title" xml:space="preserve">
+      <value>Cancellare i dati di questo dispositivo?</value>
+  </data>
+  <data name="Startup_DifferentAccountDetected_WipeConfirm_Content" xml:space="preserve">
+      <value>Tutto ciò che l'app mostra per "{0}" verrà cancellato da questo dispositivo, comprese le azioni non ancora inviate a Trakt. Ciò che è già su Trakt resta sull'account "{0}".</value>
+  </data>
+  <data name="Startup_DifferentAccountDetected_WipeConfirm_Button" xml:space="preserve">
+      <value>Cancella</value>
   </data>
   <data name="Search_Engine_Label" xml:space="preserve">
     <value>Motore di ricerca</value>

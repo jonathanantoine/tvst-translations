@@ -4476,13 +4476,28 @@ Rappel : votre code est {0}.</value>
       <value>Compte différent détecté</value>
   </data>
   <data name="Startup_DifferentAccountDetected_Content" xml:space="preserve">
-      <value>Vous étiez connecté en tant que "{0}" mais le compte actuel est "{1}". Si vous continuez, toutes les données locales seront effacées.</value>
+      <value>Vous étiez connecté en tant que "{0}", mais vous venez de vous connecter avec "{1}". Les données de "{0}" sont toujours sur cet appareil et sur Trakt.</value>
   </data>
-  <data name="Startup_DifferentAccountDetected_Logout" xml:space="preserve">
-      <value>Se déconnecter</value>
+  <data name="Startup_DifferentAccountDetected_KeepData" xml:space="preserve">
+      <value>Garder mes données (rester déconnecté)</value>
+  </data>
+  <data name="Startup_DifferentAccountDetected_PreviousEmail" xml:space="preserve">
+      <value>Le compte "{0}" utilise l'adresse e-mail {1}.</value>
+  </data>
+  <data name="Startup_DifferentAccountDetected_Cancel" xml:space="preserve">
+      <value>Annuler (revenir à la connexion)</value>
   </data>
   <data name="Startup_DifferentAccountDetected_Continue" xml:space="preserve">
-      <value>Continuer et effacer les données</value>
+      <value>Utiliser "{0}" et effacer les données</value>
+  </data>
+  <data name="Startup_DifferentAccountDetected_WipeConfirm_Title" xml:space="preserve">
+      <value>Effacer les données de cet appareil ?</value>
+  </data>
+  <data name="Startup_DifferentAccountDetected_WipeConfirm_Content" xml:space="preserve">
+      <value>Tout ce que l'application affiche pour "{0}" sera effacé de cet appareil, y compris les actions pas encore envoyées à Trakt. Ce qui est déjà sur Trakt reste sur le compte "{0}".</value>
+  </data>
+  <data name="Startup_DifferentAccountDetected_WipeConfirm_Button" xml:space="preserve">
+      <value>Effacer</value>
   </data>
   <data name="TopShows_HiddenTag_Label" xml:space="preserve">
       <value>Abandonnée</value>

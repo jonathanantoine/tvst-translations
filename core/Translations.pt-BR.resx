@@ -4328,13 +4328,28 @@ Você quer que o aplicativo desative essa opção na sua conta Trakt? A partir d
     <value>TRAILER</value>
   </data>
   <data name="Startup_DifferentAccountDetected_Content" xml:space="preserve">
-    <value>Você estava conectado como "{0}", mas a conta atual é "{1}". Se continuar, todos os dados locais serão apagados.</value>
+    <value>Você estava conectado como "{0}", mas acabou de entrar como "{1}". Os dados de "{0}" continuam neste dispositivo e no Trakt.</value>
   </data>
   <data name="Startup_DifferentAccountDetected_Continue" xml:space="preserve">
-    <value>Continuar e apagar os dados</value>
+    <value>Usar "{0}" e apagar os dados</value>
   </data>
-  <data name="Startup_DifferentAccountDetected_Logout" xml:space="preserve">
-    <value>Sair</value>
+  <data name="Startup_DifferentAccountDetected_Cancel" xml:space="preserve">
+    <value>Cancelar (voltar ao login)</value>
+  </data>
+  <data name="Startup_DifferentAccountDetected_KeepData" xml:space="preserve">
+    <value>Manter meus dados (continuar desconectado)</value>
+  </data>
+  <data name="Startup_DifferentAccountDetected_PreviousEmail" xml:space="preserve">
+    <value>A conta "{0}" usa o endereço de e-mail {1}.</value>
+  </data>
+  <data name="Startup_DifferentAccountDetected_WipeConfirm_Button" xml:space="preserve">
+    <value>Apagar</value>
+  </data>
+  <data name="Startup_DifferentAccountDetected_WipeConfirm_Content" xml:space="preserve">
+    <value>Tudo o que o app mostra para "{0}" será apagado deste dispositivo, incluindo as ações ainda não enviadas ao Trakt. O que já está no Trakt fica na conta "{0}".</value>
+  </data>
+  <data name="Startup_DifferentAccountDetected_WipeConfirm_Title" xml:space="preserve">
+    <value>Apagar os dados deste dispositivo?</value>
   </data>
   <data name="Startup_DifferentAccountDetected_Title" xml:space="preserve">
     <value>Conta diferente detectada</value>
