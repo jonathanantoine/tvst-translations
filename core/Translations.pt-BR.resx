@@ -5284,7 +5284,7 @@ O que está faltando ou errado:
     <value>Sugerir avaliar o último episódio assistido</value>
   </data>
   <data name="Settings_RateLastWatchedEpisodeCard_Subtitle" xml:space="preserve">
-    <value>Ao abrir o app, se ainda não tiver avaliação</value>
+    <value>Ao abrir o app e depois de marcá-lo como assistido, se ainda não tiver avaliação</value>
   </data>
   <data name="RateLastEpisodeCard_Dismiss" xml:space="preserve">
     <value>Não para este episódio</value>
@@ -5306,6 +5306,12 @@ O que está faltando ou errado:
   </data>
   <data name="RateLastEpisodeCard_WatchedDaysAgo" xml:space="preserve">
     <value>Assistido há {0} dias</value>
+  </data>
+  <data name="RateLastEpisodeCard_NeverAsk" xml:space="preserve">
+    <value>Não perguntar de novo</value>
+  </data>
+  <data name="RateLastEpisodeCard_TurnedOffToast" xml:space="preserve">
+    <value>Desativado. Para reativar: Configurações &gt; {0}.</value>
   </data>
   <data name="ShowDetails_Calendar_UpcomingSectionHeader" xml:space="preserve">
     <value>Próximos episódios</value>

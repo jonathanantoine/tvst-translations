@@ -5247,7 +5247,7 @@ What is missing or wrong:
     <value>Offer to rate the last episode watched</value>
   </data>
   <data name="Settings_RateLastWatchedEpisodeCard_Subtitle" xml:space="preserve">
-    <value>When the app opens, if it has no rating yet</value>
+    <value>When the app opens and after you mark it as watched, if it has no rating yet</value>
   </data>
   <data name="RateLastEpisodeCard_Dismiss" xml:space="preserve">
     <value>Not for this episode</value>
@@ -5269,6 +5269,12 @@ What is missing or wrong:
   </data>
   <data name="RateLastEpisodeCard_WatchedDaysAgo" xml:space="preserve">
     <value>Watched {0} days ago</value>
+  </data>
+  <data name="RateLastEpisodeCard_NeverAsk" xml:space="preserve">
+    <value>Don't ask again</value>
+  </data>
+  <data name="RateLastEpisodeCard_TurnedOffToast" xml:space="preserve">
+    <value>Turned off. To turn back on: Settings &gt; {0}.</value>
   </data>
   <data name="ShowDetails_Calendar_UpcomingSectionHeader" xml:space="preserve">
     <value>Upcoming episodes</value>

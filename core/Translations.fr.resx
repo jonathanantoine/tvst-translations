@@ -6528,7 +6528,7 @@ Ce qui manque ou est faux :
     <value>Proposer de noter le dernier épisode vu</value>
   </data>
   <data name="Settings_RateLastWatchedEpisodeCard_Subtitle" xml:space="preserve">
-    <value>À l'ouverture de l'app, s'il n'a pas encore de note</value>
+    <value>À l'ouverture de l'app et après l'avoir marqué comme vu, s'il n'a pas encore de note</value>
   </data>
   <data name="RateLastEpisodeCard_Dismiss" xml:space="preserve">
     <value>Pas pour cet épisode</value>
@@ -6550,6 +6550,12 @@ Ce qui manque ou est faux :
   </data>
   <data name="RateLastEpisodeCard_WatchedDaysAgo" xml:space="preserve">
     <value>Vu il y a {0} jours</value>
+  </data>
+  <data name="RateLastEpisodeCard_NeverAsk" xml:space="preserve">
+    <value>Ne plus me demander</value>
+  </data>
+  <data name="RateLastEpisodeCard_TurnedOffToast" xml:space="preserve">
+    <value>Désactivé. Pour réactiver : Paramètres &gt; {0}.</value>
   </data>
   <data name="ShowDetails_Calendar_UpcomingSectionHeader" xml:space="preserve">
     <value>Épisodes à venir</value>

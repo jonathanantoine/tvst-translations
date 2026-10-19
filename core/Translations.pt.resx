@@ -6615,7 +6615,7 @@ O que falta ou está errado:
     <value>Propor avaliar o último episódio visto</value>
   </data>
   <data name="Settings_RateLastWatchedEpisodeCard_Subtitle" xml:space="preserve">
-    <value>Ao abrir a app, se ainda não tiver avaliação</value>
+    <value>Ao abrir a app e depois de o marcar como visto, se ainda não tiver avaliação</value>
   </data>
   <data name="RateLastEpisodeCard_Dismiss" xml:space="preserve">
     <value>Não para este episódio</value>
@@ -6637,6 +6637,12 @@ O que falta ou está errado:
   </data>
   <data name="RateLastEpisodeCard_WatchedDaysAgo" xml:space="preserve">
     <value>Visto há {0} dias</value>
+  </data>
+  <data name="RateLastEpisodeCard_NeverAsk" xml:space="preserve">
+    <value>Não voltar a perguntar</value>
+  </data>
+  <data name="RateLastEpisodeCard_TurnedOffToast" xml:space="preserve">
+    <value>Desativado. Para reativar: Configurações &gt; {0}.</value>
   </data>
   <data name="ShowDetails_Calendar_UpcomingSectionHeader" xml:space="preserve">
     <value>Próximos episódios</value>

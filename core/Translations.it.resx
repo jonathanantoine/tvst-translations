@@ -5254,7 +5254,7 @@ Cosa manca o è sbagliato:
     <value>Proponi di votare l'ultimo episodio visto</value>
   </data>
   <data name="Settings_RateLastWatchedEpisodeCard_Subtitle" xml:space="preserve">
-    <value>All'apertura dell'app, se non ha ancora un voto</value>
+    <value>All'apertura dell'app e dopo averlo segnato come visto, se non ha ancora un voto</value>
   </data>
   <data name="RateLastEpisodeCard_Dismiss" xml:space="preserve">
     <value>Non per questo episodio</value>
@@ -5276,6 +5276,12 @@ Cosa manca o è sbagliato:
   </data>
   <data name="RateLastEpisodeCard_WatchedDaysAgo" xml:space="preserve">
     <value>Visto {0} giorni fa</value>
+  </data>
+  <data name="RateLastEpisodeCard_NeverAsk" xml:space="preserve">
+    <value>Non chiedere più</value>
+  </data>
+  <data name="RateLastEpisodeCard_TurnedOffToast" xml:space="preserve">
+    <value>Disattivato. Per riattivare: Impostazioni &gt; {0}.</value>
   </data>
   <data name="ShowDetails_Calendar_UpcomingSectionHeader" xml:space="preserve">
     <value>Prossimi episodi</value>
