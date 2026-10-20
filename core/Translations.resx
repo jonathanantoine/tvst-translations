@@ -5354,4 +5354,61 @@ If it is still missing after that, you can let the Trakt team know. The email is
   <data name="ToastNotifications_Code_ShowEndingOpen" xml:space="preserve">
     <value>The story is left unfinished.</value>
   </data>
+  <data name="Settings_Streaming_MySubscriptions" xml:space="preserve">
+    <value>My subscriptions</value>
+  </data>
+  <data name="Settings_Streaming_MySubscriptions_Subtitle" xml:space="preserve">
+    <value>Check the platforms you have, free ones included.</value>
+  </data>
+  <data name="Settings_Streaming_AcceptedPurchases" xml:space="preserve">
+    <value>Buying and renting</value>
+  </data>
+  <data name="Settings_Streaming_AcceptedPurchases_Subtitle" xml:space="preserve">
+    <value>Check the platforms where you're happy to buy or rent a show or movie. The ones only offered there will show "To buy".</value>
+  </data>
+  <data name="Settings_Streaming_NoneSelected" xml:space="preserve">
+    <value>None</value>
+  </data>
+  <data name="Settings_Streaming_ChooseCountryFirst" xml:space="preserve">
+    <value>Choose your country first</value>
+  </data>
+  <data name="Settings_Display_DisplayStreamingOnHomeItems" xml:space="preserve">
+    <value>Show your streaming platform</value>
+  </data>
+  <data name="Settings_Display_DisplayStreamingOnHomeItems_Subtitle" xml:space="preserve">
+    <value>On each show or movie, the name of your platform that has it.</value>
+  </data>
+  <data name="Settings_HomeGroups_GroupNotOnMyServices_Title" xml:space="preserve">
+    <value>Separate what's not on your platforms</value>
+  </data>
+  <data name="Settings_HomeGroups_GroupNotOnMyServices_Subtitle" xml:space="preserve">
+    <value>Shows to start and movies to watch, already released, that none of your platforms offers yet.</value>
+  </data>
+  <data name="Settings_HomeGroups_HideNotOnMyServices_Title" xml:space="preserve">
+    <value>Hide what's not on your platforms</value>
+  </data>
+  <data name="Settings_HomeGroups_HideNotOnMyServices_Subtitle" xml:space="preserve">
+    <value>These shows and movies leave the home page. They stay in your watchlist.</value>
+  </data>
+  <data name="Home_Code_ShowsToStartNotOnMyServicesGroupHeaderPlural" xml:space="preserve">
+    <value>{0} SHOWS NOT ON YOUR PLATFORMS</value>
+  </data>
+  <data name="Home_Code_ShowsToStartNotOnMyServicesGroupHeaderSingular" xml:space="preserve">
+    <value>1 SHOW NOT ON YOUR PLATFORMS</value>
+  </data>
+  <data name="MoviesLists_PanelHeader_WatchlistNotOnMyServicesGroup" xml:space="preserve">
+    <value>Watchlist, not on your platforms</value>
+  </data>
+  <data name="MoviesLists_PanelHeader_WatchlistNotOnMyServices" xml:space="preserve">
+    <value>Not on your platforms</value>
+  </data>
+  <data name="Home_StreamingChip_Buy" xml:space="preserve">
+    <value>To buy</value>
+  </data>
+  <data name="Profile_MyStreamingServices" xml:space="preserve">
+    <value>My platforms</value>
+  </data>
+  <data name="StatusDisplay_SyncingWatchProviders" xml:space="preserve">
+    <value>retrieving streaming platforms...</value>
+  </data>
 </root>

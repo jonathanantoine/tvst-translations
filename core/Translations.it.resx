@@ -5361,4 +5361,61 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
   <data name="ToastNotifications_Code_ShowEndingOpen" xml:space="preserve">
     <value>La storia resta incompiuta.</value>
   </data>
+  <data name="Settings_Streaming_MySubscriptions" xml:space="preserve">
+    <value>I miei abbonamenti</value>
+  </data>
+  <data name="Settings_Streaming_MySubscriptions_Subtitle" xml:space="preserve">
+    <value>Seleziona le piattaforme che hai, comprese quelle gratuite.</value>
+  </data>
+  <data name="Settings_Streaming_AcceptedPurchases" xml:space="preserve">
+    <value>Acquisto e noleggio</value>
+  </data>
+  <data name="Settings_Streaming_AcceptedPurchases_Subtitle" xml:space="preserve">
+    <value>Seleziona le piattaforme dove accetti di acquistare o noleggiare una serie o un film. Quelli disponibili solo lì mostreranno «Da acquistare».</value>
+  </data>
+  <data name="Settings_Streaming_NoneSelected" xml:space="preserve">
+    <value>Nessuna</value>
+  </data>
+  <data name="Settings_Streaming_ChooseCountryFirst" xml:space="preserve">
+    <value>Scegli prima il tuo paese</value>
+  </data>
+  <data name="Settings_Display_DisplayStreamingOnHomeItems" xml:space="preserve">
+    <value>Mostra la tua piattaforma streaming</value>
+  </data>
+  <data name="Settings_Display_DisplayStreamingOnHomeItems_Subtitle" xml:space="preserve">
+    <value>Su ogni serie o film, il nome della tua piattaforma che lo offre.</value>
+  </data>
+  <data name="Settings_HomeGroups_GroupNotOnMyServices_Title" xml:space="preserve">
+    <value>Separa ciò che non è sulle tue piattaforme</value>
+  </data>
+  <data name="Settings_HomeGroups_GroupNotOnMyServices_Subtitle" xml:space="preserve">
+    <value>Serie da iniziare e film da vedere, già usciti, che nessuna delle tue piattaforme offre ancora.</value>
+  </data>
+  <data name="Settings_HomeGroups_HideNotOnMyServices_Title" xml:space="preserve">
+    <value>Nascondi ciò che non è sulle tue piattaforme</value>
+  </data>
+  <data name="Settings_HomeGroups_HideNotOnMyServices_Subtitle" xml:space="preserve">
+    <value>Queste serie e questi film spariscono dalla home. Restano nella tua watchlist.</value>
+  </data>
+  <data name="Home_Code_ShowsToStartNotOnMyServicesGroupHeaderPlural" xml:space="preserve">
+    <value>{0} SERIE NON SULLE TUE PIATTAFORME</value>
+  </data>
+  <data name="Home_Code_ShowsToStartNotOnMyServicesGroupHeaderSingular" xml:space="preserve">
+    <value>1 SERIE NON SULLE TUE PIATTAFORME</value>
+  </data>
+  <data name="MoviesLists_PanelHeader_WatchlistNotOnMyServicesGroup" xml:space="preserve">
+    <value>Watchlist, non sulle tue piattaforme</value>
+  </data>
+  <data name="MoviesLists_PanelHeader_WatchlistNotOnMyServices" xml:space="preserve">
+    <value>Non sulle tue piattaforme</value>
+  </data>
+  <data name="Home_StreamingChip_Buy" xml:space="preserve">
+    <value>Da acquistare</value>
+  </data>
+  <data name="Profile_MyStreamingServices" xml:space="preserve">
+    <value>Le mie piattaforme</value>
+  </data>
+  <data name="StatusDisplay_SyncingWatchProviders" xml:space="preserve">
+    <value>Caricamento delle piattaforme streaming...</value>
+  </data>
 </root>
