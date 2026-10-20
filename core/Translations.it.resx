@@ -5346,4 +5346,19 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
   <data name="Global_CopyMail" xml:space="preserve">
     <value>Copia l'e-mail</value>
   </data>
+  <data name="ShowDetails_ShowInfo_Ending_Header" xml:space="preserve">
+    <value>Storia</value>
+  </data>
+  <data name="ShowDetails_ShowInfo_Ending_Concluded" xml:space="preserve">
+    <value>Completa</value>
+  </data>
+  <data name="ShowDetails_ShowInfo_Ending_Open" xml:space="preserve">
+    <value>Incompiuta</value>
+  </data>
+  <data name="ToastNotifications_Code_ShowEndingConcluded" xml:space="preserve">
+    <value>La storia è completa.</value>
+  </data>
+  <data name="ToastNotifications_Code_ShowEndingOpen" xml:space="preserve">
+    <value>La storia resta incompiuta.</value>
+  </data>
 </root>

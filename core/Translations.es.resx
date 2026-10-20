@@ -5372,4 +5372,19 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
   <data name="Global_CopyMail" xml:space="preserve">
     <value>Copiar el correo</value>
   </data>
+  <data name="ShowDetails_ShowInfo_Ending_Header" xml:space="preserve">
+    <value>Historia</value>
+  </data>
+  <data name="ShowDetails_ShowInfo_Ending_Concluded" xml:space="preserve">
+    <value>Completa</value>
+  </data>
+  <data name="ShowDetails_ShowInfo_Ending_Open" xml:space="preserve">
+    <value>Inconclusa</value>
+  </data>
+  <data name="ToastNotifications_Code_ShowEndingConcluded" xml:space="preserve">
+    <value>La historia está completa.</value>
+  </data>
+  <data name="ToastNotifications_Code_ShowEndingOpen" xml:space="preserve">
+    <value>La historia queda inconclusa.</value>
+  </data>
 </root>

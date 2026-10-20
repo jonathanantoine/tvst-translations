@@ -6707,4 +6707,19 @@ Se depois disso continuar a faltar, pode avisar a equipa do Trakt. O e-mail já 
   <data name="Global_CopyMail" xml:space="preserve">
     <value>Copiar o e-mail</value>
   </data>
+  <data name="ShowDetails_ShowInfo_Ending_Header" xml:space="preserve">
+    <value>História</value>
+  </data>
+  <data name="ShowDetails_ShowInfo_Ending_Concluded" xml:space="preserve">
+    <value>Completa</value>
+  </data>
+  <data name="ShowDetails_ShowInfo_Ending_Open" xml:space="preserve">
+    <value>Inacabada</value>
+  </data>
+  <data name="ToastNotifications_Code_ShowEndingConcluded" xml:space="preserve">
+    <value>A história está completa.</value>
+  </data>
+  <data name="ToastNotifications_Code_ShowEndingOpen" xml:space="preserve">
+    <value>A história fica inacabada.</value>
+  </data>
 </root>
