@@ -6795,7 +6795,10 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
     <value>Ajouter une image à partir d’un lien</value>
   </data>
   <data name="PhotoGallery_AddFromLink_WhereTitle" xml:space="preserve">
-    <value>Où utiliser cette image ?</value>
+    <value>Où voulez-vous mettre cette image ?</value>
+  </data>
+  <data name="PhotoGallery_AddFromLink_DecideLater" xml:space="preserve">
+    <value>Je déciderai plus tard</value>
   </data>
   <data name="PhotoGallery_Slot_Thumbnail" xml:space="preserve">
     <value>Miniature</value>

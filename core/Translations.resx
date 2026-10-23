@@ -5514,7 +5514,10 @@ If it is still missing after that, you can let the Trakt team know. The email is
     <value>Add an image from a link</value>
   </data>
   <data name="PhotoGallery_AddFromLink_WhereTitle" xml:space="preserve">
-    <value>Where should this image go?</value>
+    <value>Where do you want to put this image?</value>
+  </data>
+  <data name="PhotoGallery_AddFromLink_DecideLater" xml:space="preserve">
+    <value>I’ll decide later</value>
   </data>
   <data name="PhotoGallery_Slot_Thumbnail" xml:space="preserve">
     <value>Thumbnail</value>

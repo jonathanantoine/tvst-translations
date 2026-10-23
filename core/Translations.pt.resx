@@ -6882,7 +6882,10 @@ Se depois disso continuar a faltar, pode avisar a equipa do Trakt. O e-mail já 
     <value>Adicionar uma imagem a partir de uma ligação</value>
   </data>
   <data name="PhotoGallery_AddFromLink_WhereTitle" xml:space="preserve">
-    <value>Onde usar esta imagem?</value>
+    <value>Onde quer colocar esta imagem?</value>
+  </data>
+  <data name="PhotoGallery_AddFromLink_DecideLater" xml:space="preserve">
+    <value>Decido mais tarde</value>
   </data>
   <data name="PhotoGallery_Slot_Thumbnail" xml:space="preserve">
     <value>Miniatura</value>

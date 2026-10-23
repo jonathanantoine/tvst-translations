@@ -5547,7 +5547,10 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
     <value>Añadir una imagen desde un enlace</value>
   </data>
   <data name="PhotoGallery_AddFromLink_WhereTitle" xml:space="preserve">
-    <value>¿Dónde usar esta imagen?</value>
+    <value>¿Dónde quieres poner esta imagen?</value>
+  </data>
+  <data name="PhotoGallery_AddFromLink_DecideLater" xml:space="preserve">
+    <value>Lo decidiré más tarde</value>
   </data>
   <data name="PhotoGallery_Slot_Thumbnail" xml:space="preserve">
     <value>Miniatura</value>

@@ -5551,7 +5551,10 @@ Se depois disso ele ainda estiver faltando, você pode avisar a equipe do Trakt.
     <value>Adicionar uma imagem a partir de um link</value>
   </data>
   <data name="PhotoGallery_AddFromLink_WhereTitle" xml:space="preserve">
-    <value>Onde usar esta imagem?</value>
+    <value>Onde você quer colocar esta imagem?</value>
+  </data>
+  <data name="PhotoGallery_AddFromLink_DecideLater" xml:space="preserve">
+    <value>Vou decidir depois</value>
   </data>
   <data name="PhotoGallery_Slot_Thumbnail" xml:space="preserve">
     <value>Miniatura</value>
