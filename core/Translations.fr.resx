@@ -4623,7 +4623,7 @@ Rappel : votre code est {0}.</value>
     <value>Actions de visionnage</value>
   </data>
   <data name="Settings_Modern_Section_StreamingPlatform" xml:space="preserve">
-    <value>Streaming platform</value>
+    <value>Plateforme de streaming</value>
   </data>
   <data name="Settings_Modern_Section_Export" xml:space="preserve">
     <value>EXPORTER</value>
@@ -6639,13 +6639,22 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
     <value>Mes abonnements</value>
   </data>
   <data name="Settings_Streaming_MySubscriptions_Subtitle" xml:space="preserve">
-    <value>Cochez les plateformes que vous avez, gratuites comprises.</value>
+    <value>Cochez aussi les plateformes gratuites.</value>
   </data>
   <data name="Settings_Streaming_AcceptedPurchases" xml:space="preserve">
     <value>Achat et location</value>
   </data>
   <data name="Settings_Streaming_AcceptedPurchases_Subtitle" xml:space="preserve">
     <value>Cochez les plateformes où vous acceptez d'acheter ou de louer une série ou un film. Ceux proposés seulement là afficheront « À l'achat ».</value>
+  </data>
+  <data name="Settings_Streaming_PurchasesSameAsSubscriptions" xml:space="preserve">
+    <value>Acheter et louer sur les mêmes plateformes</value>
+  </data>
+  <data name="Settings_Streaming_PurchasesSameAsSubscriptions_Subtitle" xml:space="preserve">
+    <value>L'achat et la location y comptent aussi, par exemple sur Amazon Video si vous avez Prime Video.</value>
+  </data>
+  <data name="Settings_Modern_Section_StreamingPlatform_Subtitle" xml:space="preserve">
+    <value>Sur l'accueil, chaque série et film indique la plateforme où le regarder, et ce qui n'est sur aucune des vôtres est regroupé à part. La fiche d'un épisode ou d'un film montre aussi où le voir dans votre pays.</value>
   </data>
   <data name="Settings_Streaming_NoneSelected" xml:space="preserve">
     <value>Aucune</value>
@@ -6665,12 +6674,6 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
   <data name="Settings_HomeGroups_GroupNotOnMyServices_Subtitle" xml:space="preserve">
     <value>Séries à commencer et films à voir, déjà sortis, qu'aucune de vos plateformes ne propose encore.</value>
   </data>
-  <data name="Settings_HomeGroups_HideNotOnMyServices_Title" xml:space="preserve">
-    <value>Masquer ce qui n'est pas sur vos plateformes</value>
-  </data>
-  <data name="Settings_HomeGroups_HideNotOnMyServices_Subtitle" xml:space="preserve">
-    <value>Ces séries et films disparaissent de l'accueil. Ils restent dans votre watchlist.</value>
-  </data>
   <data name="Home_Code_ShowsToStartNotOnMyServicesGroupHeaderPlural" xml:space="preserve">
     <value>{0} SÉRIES PAS SUR VOS PLATEFORMES</value>
   </data>
@@ -6689,7 +6692,145 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
   <data name="Profile_MyStreamingServices" xml:space="preserve">
     <value>Mes plateformes</value>
   </data>
+  <data name="Settings_Modern_Streaming_Subtitle" xml:space="preserve">
+    <value>Pays, abonnements, achat et location</value>
+  </data>
+  <data name="MediaItem_WhereToWatch_PickMyServicesHint" xml:space="preserve">
+    <value>Choisissez vos plateformes : elles s'afficheront en premier</value>
+  </data>
   <data name="StatusDisplay_SyncingWatchProviders" xml:space="preserve">
     <value>récupération des plateformes de streaming...</value>
+  </data>
+  <data name="MediaItem_WhereToWatch_AddToMyServices" xml:space="preserve">
+    <value>Ajouter à mes plateformes</value>
+  </data>
+  <data name="MediaItem_WhereToWatch_RemoveFromMyServices" xml:space="preserve">
+    <value>Retirer de mes plateformes</value>
+  </data>
+  <data name="MediaItem_WhereToWatch_OnMyPlatforms" xml:space="preserve">
+    <value>Sur vos plateformes</value>
+  </data>
+  <data name="MediaItem_WhereToWatch_OtherPlatforms" xml:space="preserve">
+    <value>Autres plateformes</value>
+  </data>
+  <data name="MediaItem_WhereToWatch_Streaming" xml:space="preserve">
+    <value>En streaming</value>
+  </data>
+  <data name="MediaItem_WhereToWatch_ViaChannel" xml:space="preserve">
+    <value>via {0}</value>
+  </data>
+  <data name="MediaItem_WhereToWatch_ChangeCountry" xml:space="preserve">
+    <value>Changer de pays</value>
+  </data>
+  <data name="MediaItem_WhereToWatch_SheetTitle" xml:space="preserve">
+    <value>Où regarder</value>
+  </data>
+  <data name="MediaItem_WhereToWatch_Subscription" xml:space="preserve">
+    <value>Abonnement</value>
+  </data>
+  <data name="MediaItem_WhereToWatch_Yours" xml:space="preserve">
+    <value>Les vôtres</value>
+  </data>
+  <data name="Home_Filter_Episodes_All" xml:space="preserve">
+    <value>Toutes</value>
+  </data>
+  <data name="Home_Filter_Episodes_ToWatch" xml:space="preserve">
+    <value>Épisodes à voir</value>
+  </data>
+  <data name="Home_Filter_Episodes_SeasonReady" xml:space="preserve">
+    <value>Saison entière sortie</value>
+  </data>
+  <data name="Home_Filter_ShowDroppedShows" xml:space="preserve">
+    <value>Afficher les séries abandonnées</value>
+  </data>
+  <data name="Home_Filter_ShowEndedAndSeenShows" xml:space="preserve">
+    <value>Afficher les séries vues et terminées</value>
+  </data>
+  <data name="Home_Filter_OnlyOnMyServices" xml:space="preserve">
+    <value>Seulement sur vos plateformes</value>
+  </data>
+  <data name="Home_Filter_ShowRatedShows" xml:space="preserve">
+    <value>Afficher les séries déjà notées</value>
+  </data>
+  <data name="Home_Filter_ShowNotStartedShows" xml:space="preserve">
+    <value>Afficher les séries pas encore commencées</value>
+  </data>
+  <data name="Notifications_StreamingAvailability_StreamingFormat" xml:space="preserve">
+    <value>Maintenant en streaming sur {0}</value>
+  </data>
+  <data name="Notifications_StreamingAvailability_ToBuyOrRentFormat" xml:space="preserve">
+    <value>Maintenant à l'achat ou à la location sur {0}</value>
+  </data>
+  <data name="Settings_Notifications_StreamingAvailability_Title" xml:space="preserve">
+    <value>Quand une série ou un film devient disponible</value>
+  </data>
+  <data name="Settings_Notifications_StreamingAvailability_Subtitle" xml:space="preserve">
+    <value>Films de votre watchlist et séries que vous n'avez pas fini de regarder. Ailleurs, l'achat et la location comptent aussi. Choisissez d'abord votre pays et vos plateformes.</value>
+  </data>
+  <data name="Settings_Notifications_ExactTime_Title" xml:space="preserve">
+    <value>Notifications à l'heure exacte</value>
+  </data>
+  <data name="Settings_Notifications_ExactTime_Subtitle" xml:space="preserve">
+    <value>Vous êtes prévenu à l'heure, même écran éteint. Désactivez pour économiser un peu de batterie : la notification peut alors arriver en retard, quand vous reprenez le téléphone.</value>
+  </data>
+  <data name="Settings_Notifications_StreamingAvailability_Off" xml:space="preserve">
+    <value>Jamais</value>
+  </data>
+  <data name="Settings_Notifications_StreamingAvailability_OnMyServices" xml:space="preserve">
+    <value>Sur vos plateformes</value>
+  </data>
+  <data name="Settings_Notifications_StreamingAvailability_AlsoAnywhere" xml:space="preserve">
+    <value>Aussi dès qu'il est disponible ailleurs</value>
+  </data>
+  <data name="MediaItemDetails_PopularListsHeader" xml:space="preserve">
+    <value>DANS DES LISTES POPULAIRES</value>
+  </data>
+  <data name="Home_ShowsPageTitlePlural" xml:space="preserve">
+    <value>{0} séries</value>
+  </data>
+  <data name="Home_ShowsPageTitleSingle" xml:space="preserve">
+    <value>{0} série</value>
+  </data>
+  <data name="PhotoGallery_AddFromLink" xml:space="preserve">
+    <value>Ajouter une image à partir d’un lien</value>
+  </data>
+  <data name="PhotoGallery_AddFromLink_WhereTitle" xml:space="preserve">
+    <value>Où utiliser cette image ?</value>
+  </data>
+  <data name="PhotoGallery_Slot_Thumbnail" xml:space="preserve">
+    <value>Miniature</value>
+  </data>
+  <data name="PhotoGallery_Slot_TopOfInfos" xml:space="preserve">
+    <value>Haut de l’onglet Infos</value>
+  </data>
+  <data name="PhotoGallery_Slot_TopOfEpisodes" xml:space="preserve">
+    <value>Haut de l’onglet Épisodes</value>
+  </data>
+  <data name="PhotoGallery_Slot_TopOfPage" xml:space="preserve">
+    <value>Haut de la page</value>
+  </data>
+  <data name="PhotoGallery_AddFromLink_LinkHint" xml:space="preserve">
+    <value>Lien de l’image (https://…)</value>
+  </data>
+  <data name="PhotoGallery_AddFromLink_PreviewEmpty" xml:space="preserve">
+    <value>Collez le lien d’une image pour la voir ici</value>
+  </data>
+  <data name="PhotoGallery_AddFromLink_NoImage" xml:space="preserve">
+    <value>Aucune image à ce lien. Copiez le lien de l’image elle-même, pas celui de la page.</value>
+  </data>
+  <data name="PhotoGallery_AddFromLink_HttpsOnly" xml:space="preserve">
+    <value>Le lien doit commencer par https://</value>
+  </data>
+  <data name="PhotoGallery_AddFromLink_StaysOnDevice" xml:space="preserve">
+    <value>Cette image reste sur cet appareil. Elle n’apparaîtra pas sur vos autres appareils.</value>
+  </data>
+  <data name="PhotoGallery_AddFromLink_Use" xml:space="preserve">
+    <value>Utiliser cette image</value>
+  </data>
+  <data name="PhotoGallery_AddedByUser" xml:space="preserve">
+    <value>Votre image</value>
+  </data>
+  <data name="PhotoGallery_RemoveAddedImage" xml:space="preserve">
+    <value>Retirer cette image</value>
   </data>
 </root>
