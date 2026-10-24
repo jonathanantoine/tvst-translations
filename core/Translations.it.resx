@@ -5562,4 +5562,7 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
   <data name="PhotoGallery_RemoveAddedImage" xml:space="preserve">
     <value>Rimuovi questa immagine</value>
   </data>
+  <data name="RateAnItem_Favorite_Description" xml:space="preserve">
+    <value>Si aggiunge alla tua lista «I miei preferiti» e aiuta a proporti titoli che ti piaceranno.</value>
+  </data>
 </root>

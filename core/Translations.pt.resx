@@ -6923,4 +6923,7 @@ Se depois disso continuar a faltar, pode avisar a equipa do Trakt. O e-mail já 
   <data name="PhotoGallery_RemoveAddedImage" xml:space="preserve">
     <value>Remover esta imagem</value>
   </data>
+  <data name="RateAnItem_Favorite_Description" xml:space="preserve">
+    <value>Entra na sua lista «Meus favoritos» e ajuda a sugerir-lhe títulos de que vai gostar.</value>
+  </data>
 </root>

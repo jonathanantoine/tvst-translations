@@ -6836,4 +6836,7 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
   <data name="PhotoGallery_RemoveAddedImage" xml:space="preserve">
     <value>Retirer cette image</value>
   </data>
+  <data name="RateAnItem_Favorite_Description" xml:space="preserve">
+    <value>L'ajoute à votre liste « Mes favoris » et aide à vous proposer des titres qui vous plairont.</value>
+  </data>
 </root>

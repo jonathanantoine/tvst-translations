@@ -5592,4 +5592,7 @@ Se depois disso ele ainda estiver faltando, você pode avisar a equipe do Trakt.
   <data name="PhotoGallery_RemoveAddedImage" xml:space="preserve">
     <value>Remover esta imagem</value>
   </data>
+  <data name="RateAnItem_Favorite_Description" xml:space="preserve">
+    <value>Entra na sua lista “Meus favoritos” e ajuda a sugerir títulos de que você vai gostar.</value>
+  </data>
 </root>

@@ -5588,4 +5588,7 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
   <data name="PhotoGallery_RemoveAddedImage" xml:space="preserve">
     <value>Quitar esta imagen</value>
   </data>
+  <data name="RateAnItem_Favorite_Description" xml:space="preserve">
+    <value>Se añade a su lista «Mis favoritos» y ayuda a proponerle títulos que le gustarán.</value>
+  </data>
 </root>
