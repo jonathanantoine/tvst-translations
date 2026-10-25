@@ -1221,12 +1221,6 @@ Confirmas ?
     <data name="ShowDetails_Code_SeasonHeader_EpisodeLeftPlural" xml:space="preserve">
     <value>{0} ep. restantes</value>
   </data>
-    <data name="ShowDetails_Code_Episode_TotalEpisodeLeftPlural" xml:space="preserve">
-    <value>EP. POR VER</value>
-  </data>
-    <data name="ShowDetails_Code_Episode_TotalSeasonNumberPlural" xml:space="preserve">
-    <value>TEMPORADAS</value>
-  </data>
     <data name="ShowDetails_Code_Removing" xml:space="preserve">
     <value>Eliminando la serie…</value>
   </data>
@@ -2275,9 +2269,6 @@ y tendencias mundiales!</value>
   </data>
     <data name="ShowDetails_Code_Episode_TotalEpisodeLeftSingle" xml:space="preserve">
     <value>EP. POR VER</value>
-  </data>
-    <data name="ShowDetails_Code_Episode_TotalSeasonNumberSingle" xml:space="preserve">
-    <value>TEMPORADA</value>
   </data>
 
     <data name="ShowDetails_HideSeason" xml:space="preserve">
@@ -5668,5 +5659,29 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
   </data>
   <data name="EpisodeDetails_Overview_Empty" xml:space="preserve">
     <value>Aún no hay sinopsis para este episodio.</value>
+  </data>
+  <data name="ShowDetails_Code_SeasonHeader_Season" xml:space="preserve">
+    <value>Temporada {0}</value>
+  </data>
+  <data name="ShowDetails_Code_SeasonHeader_Specials" xml:space="preserve">
+    <value>Especiales</value>
+  </data>
+  <data name="ShowDetails_EpisodeList_Pill_SeasonSingle" xml:space="preserve">
+    <value>temporada</value>
+  </data>
+  <data name="ShowDetails_EpisodeList_Pill_SeasonPlural" xml:space="preserve">
+    <value>temporadas</value>
+  </data>
+  <data name="ShowDetails_EpisodeList_Pill_AiredSingle" xml:space="preserve">
+    <value>emitido</value>
+  </data>
+  <data name="ShowDetails_EpisodeList_Pill_AiredPlural" xml:space="preserve">
+    <value>emitidos</value>
+  </data>
+  <data name="ShowDetails_EpisodeList_Pill_MinutesPerEpisode" xml:space="preserve">
+    <value>min/episodio</value>
+  </data>
+  <data name="ShowDetails_EpisodeList_Pill_LeftToSee" xml:space="preserve">
+    <value>por ver</value>
   </data>
 </root>

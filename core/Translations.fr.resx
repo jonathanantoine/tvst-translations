@@ -1935,16 +1935,6 @@ Confirmez-vous ?
     <value>{0} ép. restants</value>
   </data>
   <data
-      name     ="ShowDetails_Code_Episode_TotalEpisodeLeftPlural"
-      xml:space="preserve">
-    <value>ÉPISODES À VOIR</value>
-  </data>
-  <data
-      name     ="ShowDetails_Code_Episode_TotalSeasonNumberPlural"
-      xml:space="preserve">
-    <value>SAISONS</value>
-  </data>
-  <data
       name     ="ShowDetails_Code_Removing"
       xml:space="preserve">
     <value>Suppression de cette série...</value>
@@ -3496,11 +3486,6 @@ xml:space="preserve">
       name     ="ShowDetails_Code_Episode_TotalEpisodeLeftSingle"
       xml:space="preserve">
     <value>ÉPISODE À VOIR</value>
-  </data>
-  <data
-      name     ="ShowDetails_Code_Episode_TotalSeasonNumberSingle"
-      xml:space="preserve">
-    <value>SAISON</value>
   </data>
 
   <data
@@ -6916,5 +6901,29 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
   </data>
   <data name="EpisodeDetails_Overview_Empty" xml:space="preserve">
     <value>Pas encore de résumé pour cet épisode.</value>
+  </data>
+  <data name="ShowDetails_Code_SeasonHeader_Season" xml:space="preserve">
+    <value>Saison {0}</value>
+  </data>
+  <data name="ShowDetails_Code_SeasonHeader_Specials" xml:space="preserve">
+    <value>Épisodes hors saison</value>
+  </data>
+  <data name="ShowDetails_EpisodeList_Pill_SeasonSingle" xml:space="preserve">
+    <value>saison</value>
+  </data>
+  <data name="ShowDetails_EpisodeList_Pill_SeasonPlural" xml:space="preserve">
+    <value>saisons</value>
+  </data>
+  <data name="ShowDetails_EpisodeList_Pill_AiredSingle" xml:space="preserve">
+    <value>diffusé</value>
+  </data>
+  <data name="ShowDetails_EpisodeList_Pill_AiredPlural" xml:space="preserve">
+    <value>diffusés</value>
+  </data>
+  <data name="ShowDetails_EpisodeList_Pill_MinutesPerEpisode" xml:space="preserve">
+    <value>min/épisode</value>
+  </data>
+  <data name="ShowDetails_EpisodeList_Pill_LeftToSee" xml:space="preserve">
+    <value>à voir</value>
   </data>
 </root>

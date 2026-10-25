@@ -1888,16 +1888,6 @@ para essa série</value>
     <value>{0} ep. restantes</value>
   </data>
   <data
-      name="ShowDetails_Code_Episode_TotalEpisodeLeftPlural"
-      xml:space="preserve">
-    <value>EPS. RESTANTES PARA ASSISTIR</value>
-  </data>
-  <data
-      name="ShowDetails_Code_Episode_TotalSeasonNumberPlural"
-      xml:space="preserve">
-    <value>TEMPORADAS</value>
-  </data>
-  <data
       name="ShowDetails_Code_Removing"
       xml:space="preserve">
     <value>Removendo essa série...</value>
@@ -3572,11 +3562,6 @@ xml:space="preserve">
       name="ShowDetails_Code_Episode_TotalEpisodeLeftSingle"
       xml:space="preserve">
     <value>EP. RESTANTES PARA ASSISTIR</value>
-  </data>
-  <data
-      name="ShowDetails_Code_Episode_TotalSeasonNumberSingle"
-      xml:space="preserve">
-    <value>TEMPORADA</value>
   </data>
   <data
 name     ="ShowDetails_HideSeason"
@@ -7003,5 +6988,29 @@ Se depois disso continuar a faltar, pode avisar a equipa do Trakt. O e-mail já 
   </data>
   <data name="EpisodeDetails_Overview_Empty" xml:space="preserve">
     <value>Ainda não há resumo para este episódio.</value>
+  </data>
+  <data name="ShowDetails_Code_SeasonHeader_Season" xml:space="preserve">
+    <value>Temporada {0}</value>
+  </data>
+  <data name="ShowDetails_Code_SeasonHeader_Specials" xml:space="preserve">
+    <value>Especiais</value>
+  </data>
+  <data name="ShowDetails_EpisodeList_Pill_SeasonSingle" xml:space="preserve">
+    <value>temporada</value>
+  </data>
+  <data name="ShowDetails_EpisodeList_Pill_SeasonPlural" xml:space="preserve">
+    <value>temporadas</value>
+  </data>
+  <data name="ShowDetails_EpisodeList_Pill_AiredSingle" xml:space="preserve">
+    <value>exibido</value>
+  </data>
+  <data name="ShowDetails_EpisodeList_Pill_AiredPlural" xml:space="preserve">
+    <value>exibidos</value>
+  </data>
+  <data name="ShowDetails_EpisodeList_Pill_MinutesPerEpisode" xml:space="preserve">
+    <value>min/episódio</value>
+  </data>
+  <data name="ShowDetails_EpisodeList_Pill_LeftToSee" xml:space="preserve">
+    <value>por ver</value>
   </data>
 </root>
