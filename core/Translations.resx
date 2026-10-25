@@ -5600,6 +5600,12 @@ If it is still missing after that, you can let the Trakt team know. The email is
   <data name="EpisodeDetails_NextEpisode" xml:space="preserve">
     <value>Next episode</value>
   </data>
+  <data name="EpisodeDetails_PreviousInCalendar" xml:space="preserve">
+    <value>Previous in calendar</value>
+  </data>
+  <data name="EpisodeDetails_NextInCalendar" xml:space="preserve">
+    <value>Next in calendar</value>
+  </data>
   <data name="EpisodeDetails_NoPreviousEpisode" xml:space="preserve">
     <value>No previous episode</value>
   </data>
@@ -5623,5 +5629,11 @@ If it is still missing after that, you can let the Trakt team know. The email is
   </data>
   <data name="EpisodeType_SeriesFinale" xml:space="preserve">
     <value>Series finale</value>
+  </data>
+  <data name="EpisodeDetails_Overview_NotAiredYet" xml:space="preserve">
+    <value>No summary yet, and that's normal: it usually comes out when the episode airs.</value>
+  </data>
+  <data name="EpisodeDetails_Overview_Empty" xml:space="preserve">
+    <value>No summary for this episode yet.</value>
   </data>
 </root>

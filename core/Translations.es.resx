@@ -5633,6 +5633,12 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
   <data name="EpisodeDetails_NextEpisode" xml:space="preserve">
     <value>Episodio siguiente</value>
   </data>
+  <data name="EpisodeDetails_PreviousInCalendar" xml:space="preserve">
+    <value>Anterior en el calendario</value>
+  </data>
+  <data name="EpisodeDetails_NextInCalendar" xml:space="preserve">
+    <value>Siguiente en el calendario</value>
+  </data>
   <data name="EpisodeDetails_NoPreviousEpisode" xml:space="preserve">
     <value>No hay episodio anterior</value>
   </data>
@@ -5656,5 +5662,11 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
   </data>
   <data name="EpisodeType_SeriesFinale" xml:space="preserve">
     <value>Final de la serie</value>
+  </data>
+  <data name="EpisodeDetails_Overview_NotAiredYet" xml:space="preserve">
+    <value>Aún no hay sinopsis, es normal: suele llegar cuando se emite el episodio.</value>
+  </data>
+  <data name="EpisodeDetails_Overview_Empty" xml:space="preserve">
+    <value>Aún no hay sinopsis para este episodio.</value>
   </data>
 </root>

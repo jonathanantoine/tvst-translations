@@ -5607,6 +5607,12 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
   <data name="EpisodeDetails_NextEpisode" xml:space="preserve">
     <value>Episodio successivo</value>
   </data>
+  <data name="EpisodeDetails_PreviousInCalendar" xml:space="preserve">
+    <value>Precedente nel calendario</value>
+  </data>
+  <data name="EpisodeDetails_NextInCalendar" xml:space="preserve">
+    <value>Successivo nel calendario</value>
+  </data>
   <data name="EpisodeDetails_NoPreviousEpisode" xml:space="preserve">
     <value>Nessun episodio precedente</value>
   </data>
@@ -5630,5 +5636,11 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
   </data>
   <data name="EpisodeType_SeriesFinale" xml:space="preserve">
     <value>Finale della serie</value>
+  </data>
+  <data name="EpisodeDetails_Overview_NotAiredYet" xml:space="preserve">
+    <value>Nessuna trama per ora, è normale: di solito arriva quando l'episodio va in onda.</value>
+  </data>
+  <data name="EpisodeDetails_Overview_Empty" xml:space="preserve">
+    <value>Ancora nessuna trama per questo episodio.</value>
   </data>
 </root>

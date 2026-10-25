@@ -6881,6 +6881,12 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
   <data name="EpisodeDetails_NextEpisode" xml:space="preserve">
     <value>Épisode suivant</value>
   </data>
+  <data name="EpisodeDetails_PreviousInCalendar" xml:space="preserve">
+    <value>Précédent dans le calendrier</value>
+  </data>
+  <data name="EpisodeDetails_NextInCalendar" xml:space="preserve">
+    <value>Suivant dans le calendrier</value>
+  </data>
   <data name="EpisodeDetails_NoPreviousEpisode" xml:space="preserve">
     <value>Aucun épisode précédent</value>
   </data>
@@ -6904,5 +6910,11 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
   </data>
   <data name="EpisodeType_SeriesFinale" xml:space="preserve">
     <value>Final de la série</value>
+  </data>
+  <data name="EpisodeDetails_Overview_NotAiredYet" xml:space="preserve">
+    <value>Pas encore de résumé, c'est normal : il arrive en général quand l'épisode est diffusé.</value>
+  </data>
+  <data name="EpisodeDetails_Overview_Empty" xml:space="preserve">
+    <value>Pas encore de résumé pour cet épisode.</value>
   </data>
 </root>

@@ -5637,6 +5637,12 @@ Se depois disso ele ainda estiver faltando, você pode avisar a equipe do Trakt.
   <data name="EpisodeDetails_NextEpisode" xml:space="preserve">
     <value>Próximo episódio</value>
   </data>
+  <data name="EpisodeDetails_PreviousInCalendar" xml:space="preserve">
+    <value>Anterior no calendário</value>
+  </data>
+  <data name="EpisodeDetails_NextInCalendar" xml:space="preserve">
+    <value>Próximo no calendário</value>
+  </data>
   <data name="EpisodeDetails_NoPreviousEpisode" xml:space="preserve">
     <value>Nenhum episódio anterior</value>
   </data>
@@ -5660,5 +5666,11 @@ Se depois disso ele ainda estiver faltando, você pode avisar a equipe do Trakt.
   </data>
   <data name="EpisodeType_SeriesFinale" xml:space="preserve">
     <value>Final da série</value>
+  </data>
+  <data name="EpisodeDetails_Overview_NotAiredYet" xml:space="preserve">
+    <value>Ainda sem sinopse, é normal: ela costuma aparecer quando o episódio vai ao ar.</value>
+  </data>
+  <data name="EpisodeDetails_Overview_Empty" xml:space="preserve">
+    <value>Ainda não há sinopse para este episódio.</value>
   </data>
 </root>

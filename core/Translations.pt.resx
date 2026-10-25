@@ -6968,6 +6968,12 @@ Se depois disso continuar a faltar, pode avisar a equipa do Trakt. O e-mail já 
   <data name="EpisodeDetails_NextEpisode" xml:space="preserve">
     <value>Episódio seguinte</value>
   </data>
+  <data name="EpisodeDetails_PreviousInCalendar" xml:space="preserve">
+    <value>Anterior no calendário</value>
+  </data>
+  <data name="EpisodeDetails_NextInCalendar" xml:space="preserve">
+    <value>Seguinte no calendário</value>
+  </data>
   <data name="EpisodeDetails_NoPreviousEpisode" xml:space="preserve">
     <value>Não há episódio anterior</value>
   </data>
@@ -6991,5 +6997,11 @@ Se depois disso continuar a faltar, pode avisar a equipa do Trakt. O e-mail já 
   </data>
   <data name="EpisodeType_SeriesFinale" xml:space="preserve">
     <value>Final da série</value>
+  </data>
+  <data name="EpisodeDetails_Overview_NotAiredYet" xml:space="preserve">
+    <value>Ainda sem resumo, é normal: costuma chegar quando o episódio é emitido.</value>
+  </data>
+  <data name="EpisodeDetails_Overview_Empty" xml:space="preserve">
+    <value>Ainda não há resumo para este episódio.</value>
   </data>
 </root>
