@@ -5633,6 +5633,12 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
   <data name="EpisodeDetails_NextEpisode" xml:space="preserve">
     <value>Episodio siguiente</value>
   </data>
+  <data name="EpisodeDetails_NoPreviousEpisode" xml:space="preserve">
+    <value>No hay episodio anterior</value>
+  </data>
+  <data name="EpisodeDetails_NoNextEpisode" xml:space="preserve">
+    <value>No hay episodio siguiente</value>
+  </data>
   <data name="EpisodeType_SeriesPremiere" xml:space="preserve">
     <value>Estreno de la serie</value>
   </data>

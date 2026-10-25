@@ -6968,6 +6968,12 @@ Se depois disso continuar a faltar, pode avisar a equipa do Trakt. O e-mail já 
   <data name="EpisodeDetails_NextEpisode" xml:space="preserve">
     <value>Episódio seguinte</value>
   </data>
+  <data name="EpisodeDetails_NoPreviousEpisode" xml:space="preserve">
+    <value>Não há episódio anterior</value>
+  </data>
+  <data name="EpisodeDetails_NoNextEpisode" xml:space="preserve">
+    <value>Não há episódio seguinte</value>
+  </data>
   <data name="EpisodeType_SeriesPremiere" xml:space="preserve">
     <value>Estreia da série</value>
   </data>

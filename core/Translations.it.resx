@@ -5607,6 +5607,12 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
   <data name="EpisodeDetails_NextEpisode" xml:space="preserve">
     <value>Episodio successivo</value>
   </data>
+  <data name="EpisodeDetails_NoPreviousEpisode" xml:space="preserve">
+    <value>Nessun episodio precedente</value>
+  </data>
+  <data name="EpisodeDetails_NoNextEpisode" xml:space="preserve">
+    <value>Nessun episodio successivo</value>
+  </data>
   <data name="EpisodeType_SeriesPremiere" xml:space="preserve">
     <value>Debutto della serie</value>
   </data>
