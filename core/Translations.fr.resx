@@ -6839,4 +6839,64 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
   <data name="RateAnItem_Favorite_Description" xml:space="preserve">
     <value>L'ajoute à votre liste « Mes favoris » et aide à vous proposer des titres qui vous plairont.</value>
   </data>
+  <data name="EpisodeDetails_MarkAsWatched" xml:space="preserve">
+    <value>Marquer comme vu</value>
+  </data>
+  <data name="EpisodeDetails_Watched" xml:space="preserve">
+    <value>Vu</value>
+  </data>
+  <data name="EpisodeDetails_Rate" xml:space="preserve">
+    <value>Noter</value>
+  </data>
+  <data name="EpisodeDetails_OtherDate" xml:space="preserve">
+    <value>Autre date</value>
+  </data>
+  <data name="EpisodeDetails_WatchedAgain" xml:space="preserve">
+    <value>Vu à nouveau</value>
+  </data>
+  <data name="EpisodeDetails_WhereToWatchShort" xml:space="preserve">
+    <value>Où regarder</value>
+  </data>
+  <data name="EpisodeDetails_SeasonEpisodeFormat" xml:space="preserve">
+    <value>Saison {0} · Épisode {1}</value>
+  </data>
+  <data name="EpisodeDetails_SpecialEpisodeFormat" xml:space="preserve">
+    <value>Épisode spécial {0}</value>
+  </data>
+  <data name="EpisodeDetails_SeasonFormat" xml:space="preserve">
+    <value>Saison {0}</value>
+  </data>
+  <data name="EpisodeDetails_Specials" xml:space="preserve">
+    <value>Épisodes spéciaux</value>
+  </data>
+  <data name="EpisodeDetails_SeasonProgressFormat" xml:space="preserve">
+    <value>{0} sur {1} vus</value>
+  </data>
+  <data name="EpisodeDetails_SeasonAllWatched" xml:space="preserve">
+    <value>Tout vu</value>
+  </data>
+  <data name="EpisodeDetails_PreviousEpisode" xml:space="preserve">
+    <value>Épisode précédent</value>
+  </data>
+  <data name="EpisodeDetails_NextEpisode" xml:space="preserve">
+    <value>Épisode suivant</value>
+  </data>
+  <data name="EpisodeType_SeriesPremiere" xml:space="preserve">
+    <value>Début de la série</value>
+  </data>
+  <data name="EpisodeType_SeasonPremiere" xml:space="preserve">
+    <value>Début de saison</value>
+  </data>
+  <data name="EpisodeType_MidSeasonFinale" xml:space="preserve">
+    <value>Final de mi-saison</value>
+  </data>
+  <data name="EpisodeType_MidSeasonPremiere" xml:space="preserve">
+    <value>Reprise de mi-saison</value>
+  </data>
+  <data name="EpisodeType_SeasonFinale" xml:space="preserve">
+    <value>Final de saison</value>
+  </data>
+  <data name="EpisodeType_SeriesFinale" xml:space="preserve">
+    <value>Final de la série</value>
+  </data>
 </root>
