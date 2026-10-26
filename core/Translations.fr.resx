@@ -554,12 +554,12 @@ femme et mes enfants.</value>
   <data
       name     ="Home_Code_Incoming_Yesterday"
       xml:space="preserve">
-    <value>HIER</value>
+    <value>Hier</value>
   </data>
   <data
       name     ="Home_Code_Incoming_BeforeYesterday"
       xml:space="preserve">
-    <value>AVANT-HIER</value>
+    <value>Avant-hier</value>
   </data>
   <data
       name     ="Home_Past_PanelTitle_Header"
@@ -574,17 +574,17 @@ femme et mes enfants.</value>
   <data
       name     ="Home_Code_Incoming_Later"
       xml:space="preserve">
-    <value>DATE NON ANNONCÉE</value>
+    <value>Date pas encore connue</value>
   </data>
   <data
       name     ="Home_Code_Incoming_Today"
       xml:space="preserve">
-    <value>AUJOURD'HUI</value>
+    <value>Aujourd'hui</value>
   </data>
   <data
       name     ="Home_Code_Incoming_Tomorrow"
       xml:space="preserve">
-    <value>DEMAIN</value>
+    <value>Demain</value>
   </data>
   <data
       name     ="Home_Code_MyShowPanelHeader_Default"
@@ -614,57 +614,52 @@ femme et mes enfants.</value>
   <data
       name     ="Home_Code_MyShowsHiddenGroupHeader_Plural"
       xml:space="preserve">
-    <value>{0} SÉRIES ABANDONNÉES</value>
+    <value>{0} séries abandonnées</value>
   </data>
   <data
       name     ="Home_Code_MyShowToStartGroupHeaderPlural"
       xml:space="preserve">
-    <value>{0} SÉRIES À COMMENCER</value>
+    <value>{0} séries à commencer</value>
   </data>
   <data
       name     ="Home_Code_MyShowToStartGroupHeaderSingular"
       xml:space="preserve">
-    <value>1 SÉRIE À COMMENCER</value>
+    <value>1 série à commencer</value>
   </data>
   <data
       name     ="Home_Code_MyShowToStartWithoutNextEpisodeGroupHeaderPlural"
       xml:space="preserve">
-    <value>{0} SÉRIES SANS ÉPISODE DISPONIBLE</value>
+    <value>{0} séries pas encore diffusées</value>
   </data>
   <data
       name     ="Home_Code_MyShowToStartWithoutNextEpisodeGroupHeaderSingular"
       xml:space="preserve">
-    <value>1 SÉRIE SANS ÉPISODE DISPONIBLE</value>
+    <value>1 série pas encore diffusée</value>
   </data>
   <data
       name     ="Home_Code_MyShowWithEpisodeToSeeButEndedGroupHeader_Plural"
       xml:space="preserve">
-    <value>{0} SÉRIES TERMINÉES AVEC DES ÉP. À VOIR</value>
+    <value>{0} séries à finir</value>
   </data>
   <data
       name     ="Home_Code_MyShowWithEpisodeToSeeGroupHeader_Plural"
       xml:space="preserve">
-    <value>{0} SÉRIES AVEC DES ÉPISODES À VOIR</value>
-  </data>
-  <data
-      name     ="Home_Code_MyShowWithEpisodeToSeeNotEndedGroupHeader_Plural"
-      xml:space="preserve">
-    <value>{0} SÉRIES EN COURS AVEC DES ÉP. À VOIR</value>
+    <value>{0} séries à continuer</value>
   </data>
   <data
       name     ="Home_Code_MyShowWithNoEpisodeToSeeEndedGroupHeader_Plural"
       xml:space="preserve">
-    <value>{0} SÉRIES VUES ET TERMINÉES</value>
+    <value>{0} séries vues en entier</value>
   </data>
   <data
       name     ="Home_Code_MyShowWithNoEpisodeToSeeGroupHeader_Plural"
       xml:space="preserve">
-    <value>{0} SÉRIES VUES, NON TERMINÉES</value>
+    <value>{0} séries en attente de la suite</value>
   </data>
   <data
       name     ="Home_Code_Popular_Popular"
       xml:space="preserve">
-    <value>LES PLUS POPULAIRES</value>
+    <value>Les plus populaires</value>
   </data>
   <data
       name     ="Home_Code_Popular_PopularGenreFormat"
@@ -709,17 +704,12 @@ femme et mes enfants.</value>
   <data
     name     ="Home_Code_Popular_Recommandations"
     xml:space="preserve">
-    <value>SÉRIES &amp; FILMS CONSEILLÉS</value>
-  </data>
-  <data
-      name     ="Home_Code_Popular_ReleasedThisMonthFormat"
-      xml:space="preserve">
-    <value>NOUVELLES SÉRIES DE {0}</value>
+    <value>Conseillés pour vous</value>
   </data>
   <data
       name     ="Home_Code_Popular_Trending"
       xml:space="preserve">
-    <value>SÉRIES LES PLUS VUES EN CE MOMENT</value>
+    <value>Tendances</value>
   </data>
   <data
       name     ="Home_Code_WelcomeHeaderTextDefault"
@@ -833,12 +823,12 @@ qu'avec une connexion internet.</value>
   <data
       name     ="Home_UserHistory_Code_LastWeek"
       xml:space="preserve">
-    <value>LES 7 JOURS D'AVANT</value>
+    <value>Les 7 jours d'avant</value>
   </data>
   <data
       name     ="Home_UserHistory_Code_Today"
       xml:space="preserve">
-    <value>AUJOURD'HUI</value>
+    <value>Aujourd'hui</value>
   </data>
   <data
       name     ="HomeNavigationSystem_Responsive_Header"
@@ -863,7 +853,7 @@ qu'avec une connexion internet.</value>
   <data
       name     ="Home_UserHistory_Code_Yesterday"
       xml:space="preserve">
-    <value>HIER</value>
+    <value>Hier</value>
   </data>
   <data
       name     ="Home_UserHistory_PanelTitle_Header"
@@ -1001,7 +991,7 @@ qu'avec une connexion internet.</value>
   <data
       name     ="Home_UserStats_FriendsStatsHeader"
       xml:space="preserve">
-    <value>VOUS ET VOS AMIS</value>
+    <value>Vous et vos amis</value>
   </data>
   <data
       name     ="Global_You"
@@ -1038,12 +1028,12 @@ pour voir vos stats</value>
   <data
       name     ="Home_UserStats_Genres_GroupHeader_Text"
       xml:space="preserve">
-    <value>RÉPARTITION PAR GENRE</value>
+    <value>Répartition par genre</value>
   </data>
   <data
       name     ="Home_UserStats_Networks_GroupHeader_Text"
       xml:space="preserve">
-    <value>RÉPARTITION PAR RÉSEAU</value>
+    <value>Répartition par chaîne</value>
   </data>
   <data
       name     ="Home_UserStats_LastMonthEmpty_Text"
@@ -1053,12 +1043,12 @@ pour voir vos stats</value>
   <data
       name     ="Home_UserStats_LastMonthTopShow_GroupHeader_Text"
       xml:space="preserve">
-    <value>VOTRE TOP DES 30 DERNIERS JOURS</value>
+    <value>Votre top des 30 derniers jours</value>
   </data>
   <data
       name     ="Home_UserStats_LastMonth_GroupHeader_Text"
       xml:space="preserve">
-    <value>EP. VUS CES 30 DERNIERS JOURS</value>
+    <value>Épisodes vus ces 30 derniers jours</value>
     <comment>EP. VUS CES 30 DERNIERS JOURS</comment>
   </data>
   <data
@@ -1069,12 +1059,12 @@ pour voir vos stats</value>
   <data
       name     ="Home_UserStats_Progression_GroupHeader_Text"
       xml:space="preserve">
-    <value>VOTRE PROGRESSION</value>
+    <value>Votre progression</value>
   </data>
   <data
       name     ="Home_UserStats_TopShow_GroupHeader_Text"
       xml:space="preserve">
-    <value>VOTRE TOP DE SÉRIES</value>
+    <value>Votre top de séries</value>
   </data>
   <data name="Home_UserStats_SeeAll_Text" xml:space="preserve">
     <value>Tout voir</value>
@@ -1842,7 +1832,7 @@ Règles: au moins 5 mots, pas de demande d'aide, indiquez les spoilers !</value>
   <data
       name     ="ShowDetails_Similar_PanelHeader_Header"
       xml:space="preserve">
-    <value>SÉRIES SIMILAIRES</value>
+    <value>Séries similaires</value>
   </data>
   <data
       name     ="Show_List_AddToAList_Label"
@@ -2127,7 +2117,7 @@ Confirmez-vous ?
   <data
       name     ="ShowDetails_ShowInfo_CastGroupHeader_Text"
       xml:space="preserve">
-    <value>ACTEURS</value>
+    <value>Acteurs</value>
   </data>
   <data
       name     ="ShowDetails_ShowInfo_CastOrCrewEmpty_Text"
@@ -2138,7 +2128,7 @@ Confirmez-vous ?
   <data
       name     ="ShowDetails_ShowInfo_CrewGroupHeader_Text"
       xml:space="preserve">
-    <value>ÉQUIPE DE TOURNAGE</value>
+    <value>Équipe de tournage</value>
   </data>
   <data
       name     ="ShowDetails_ShowInfo_FirstYear_Text"
@@ -2225,7 +2215,7 @@ Confirmez-vous ?
   <data
       name     ="ShowDetails_ShowInfo_SeasonsRatingGroupHeader_Text"
       xml:space="preserve">
-    <value>NOTES DES SAISONS</value>
+    <value>Notes des saisons</value>
   </data>
   <data
       name     ="ShowDetails_ShowInfo_Status_Text"
@@ -2908,7 +2898,7 @@ d'être pleine de surprises !</value>
   </data><data
  name     ="MovieDetails_Similar_PanelHeader_Header"
  xml:space="preserve">
-    <value>FILMS SIMILAIRES</value>
+    <value>Films similaires</value>
   </data><data
  name     ="MovieDetails_MovieInfo_FirstYear_Text"
  xml:space="preserve">
@@ -3108,17 +3098,13 @@ Confirmez-vous ?
  xml:space="preserve">
     <value>Impossible de retirer ce film de vos recommendations pour le moment.</value>
   </data><data
- name     ="Home_Code_Popular_MoviesReleasedThisMonthFormat"
- xml:space="preserve">
-      <value>LES SORTIES DE {0}</value>
-  </data><data
  name     ="Home_Code_Popular_MoviePopular"
  xml:space="preserve">
-    <value>LES PLUS POPULAIRES</value>
+    <value>Les plus populaires</value>
   </data><data
  name     ="Home_Code_Popular_MovieTrending"
  xml:space="preserve">
-    <value>FILMS LES PLUS VUS EN CE MOMENT</value>
+    <value>Tendances</value>
         </data><data
         name     ="Settings_Display_MovieStartupPage_Text"
         xml:space="preserve">
@@ -3303,12 +3289,12 @@ xml:space="preserve">
   <data
         name="Home_Code_Popular_Anticipated"
         xml:space="preserve">
-    <value>FILMS LES PLUS ANTICIPÉS</value>
+    <value>Les plus attendus</value>
   </data>
   <data
         name="Home_Code_Popular_AnticipatedShows"
         xml:space="preserve">
-    <value>SÉRIES LES PLUS ANTICIPÉES</value>
+    <value>Les plus attendues</value>
   </data>
 
   <data
@@ -3352,33 +3338,28 @@ xml:space="preserve">
   <data
     name     ="Home_Code_MyShowsHiddenGroupHeader_Single"
     xml:space="preserve">
-    <value>{0} SÉRIE ABANDONNÉE</value>
+    <value>{0} série abandonnée</value>
   </data>
 
   <data
       name     ="Home_Code_MyShowWithEpisodeToSeeButEndedGroupHeader_Single"
       xml:space="preserve">
-    <value>{0} SÉRIE TERMINÉE AVEC DES ÉP. À VOIR</value>
+    <value>{0} série à finir</value>
   </data>
   <data
       name     ="Home_Code_MyShowWithEpisodeToSeeGroupHeader_Single"
       xml:space="preserve">
-    <value>{0} SÉRIE AVEC DES ÉPISODES À VOIR</value>
-  </data>
-  <data
-      name     ="Home_Code_MyShowWithEpisodeToSeeNotEndedGroupHeader_Single"
-      xml:space="preserve">
-    <value>{0} SÉRIE EN COURS AVEC DES ÉP. À VOIR</value>
+    <value>{0} série à continuer</value>
   </data>
   <data
       name     ="Home_Code_MyShowWithNoEpisodeToSeeEndedGroupHeader_Single"
       xml:space="preserve">
-    <value>{0} SÉRIE VUE ET TERMINÉE</value>
+    <value>{0} série vue en entier</value>
   </data>
   <data
       name     ="Home_Code_MyShowWithNoEpisodeToSeeGroupHeader_Single"
       xml:space="preserve">
-    <value>{0} SÉRIE VUE, NON TERMINÉE</value>
+    <value>{0} série en attente de la suite</value>
   </data>
   <data
       name     ="Home_Code_Incoming_XDaysAgoSingle"
@@ -3589,7 +3570,7 @@ Si vous ne pouvez toujours pas accéder à votre compte après la connexion, veu
         <value>Au moins {0}/10</value>
     </data>
   <data name="Home_Popular_TopByGenreSectionHeader" xml:space="preserve">
-        <value>SÉRIES LES PLUS POPULAIRES PAR GENRE</value>
+        <value>Les plus populaires par genre</value>
     </data>
   <data name="Genre_ChangeGenre_Label" xml:space="preserve">
         <value>Changer de genre</value>
@@ -4243,7 +4224,7 @@ Si vous souhaitez donner un coup de pouce supplémentaire, le lien de donation e
     <value>Ajout de "{0}"</value>
   </data>
   <data name="MoviesLists_PanelHeader_WatchlistNotReleased" xml:space="preserve">
-      <value>À venir</value>
+      <value>Pas encore sortis</value>
   </data>
   <data name="MoviesLists_PanelHeader_WatchlistReleased" xml:space="preserve">
       <value>Déjà sortis</value>
@@ -4324,7 +4305,7 @@ Confirmez-vous ?</value>
     <value>💡 Sur chaque page, pincez pour zoomer ou dézoomer et changer le nombre d’éléments par ligne.</value>
   </data>
   <data name="MediaItem_WhereToWatchHeader" xml:space="preserve">
-      <value>OÙ REGARDER</value>
+      <value>Où regarder</value>
   </data>
   <data name="MediaItem_WhereToWatchNeedsJustWatchText" xml:space="preserve">
       <value>Choisir un pays (JustWatch) pour afficher les plateformes</value>
@@ -4455,7 +4436,7 @@ Rappel : votre code est {0}.</value>
     <value>Aucune bande-annonce disponible pour le moment…</value>
   </data>
   <data name="ShowDetails_ShowInfo_TrailerHeader" xml:space="preserve">
-    <value>BANDE-ANNONCE</value>
+    <value>Bande-annonce</value>
   </data>
   <data name="Startup_DifferentAccountDetected_Title" xml:space="preserve">
       <value>Compte différent détecté</value>
@@ -4971,7 +4952,7 @@ Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? V
     <value>Chaîne</value>
   </data>
   <data name="MediaItemDetails_LinksHeader" xml:space="preserve">
-    <value>LIENS</value>
+    <value>Liens</value>
   </data>
   <data name="MovieDetails_Info_CreditsSceneHeader" xml:space="preserve">
     <value>Scène bonus</value>
@@ -5540,16 +5521,6 @@ Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? V
       xml:space="preserve">
     <value>Équipe films</value>
   </data>
-  <data
-      name     ="Home_Code_SeasonCompleteGroupHeaderSuffix"
-      xml:space="preserve">
-    <value> — SAISON COMPLÈTE</value>
-  </data>
-  <data
-      name     ="Home_Code_SeasonInProgressGroupHeaderSuffix"
-      xml:space="preserve">
-    <value> — SAISON EN COURS</value>
-  </data>
   <data name="ShowDetails_Code_EpisodeShort" xml:space="preserve">
     <value>ép.</value>
   </data>
@@ -5576,12 +5547,6 @@ Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? V
   </data>
   <data name="PendingOperations_SyncNow_Button" xml:space="preserve">
     <value>Synchroniser avec Trakt maintenant</value>
-  </data>
-  <data name="MoviesLists_PanelHeader_WatchlistReleasedGroup" xml:space="preserve">
-    <value>Watchlist — sortis</value>
-  </data>
-  <data name="MoviesLists_PanelHeader_WatchlistUpcomingGroup" xml:space="preserve">
-    <value>Watchlist — à venir</value>
   </data>
   <data name="Settings_AnalyticsHeader" xml:space="preserve">
     <value>TÉLÉMÉTRIE</value>
@@ -6007,10 +5972,10 @@ Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? V
     <value>erreur de synchronisation ({0}), merci de réessayer plus tard</value>
   </data>
   <data name="Home_Code_MyShowWithNoEpisodeToSeeUnknownNextEpisodeGroupHeader_Plural" xml:space="preserve">
-    <value>{0} SÉRIES VUES, PROCHAIN ÉPISODE INCONNU</value>
+    <value>{0} séries, suite sans date</value>
   </data>
   <data name="Home_Code_MyShowWithNoEpisodeToSeeUnknownNextEpisodeGroupHeader_Single" xml:space="preserve">
-    <value>{0} SÉRIE VUE, PROCHAIN ÉPISODE INCONNU</value>
+    <value>{0} série, suite sans date</value>
   </data>
   <data name="Profile_Chip_MoviesWatched" xml:space="preserve">
     <value>{0} films vus</value>
@@ -6025,7 +5990,7 @@ Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? V
     <value>Votre photo de profil et votre couverture se changent sur le site Trakt, dans les réglages du profil. Ouvrir la page maintenant ?</value>
   </data>
   <data name="Home_UserStats_ScreenTime_GroupHeader_Text" xml:space="preserve">
-    <value>TEMPS D'ÉCRAN</value>
+    <value>Temps d'écran</value>
   </data>
   <data name="Home_UserStats_ScreenTime_Period7Days" xml:space="preserve">
     <value>7 j</value>
@@ -6406,9 +6371,6 @@ Une saison marquée comme vue d'un coup compte à l'heure où vous l'avez marqu�
   <data name="ToRate_Description" xml:space="preserve">
     <value>Les séries que je suis et les films que j'ai vus, pas encore notés, les plus récemment regardés d'abord.</value>
   </data>
-  <data name="MoviesLists_PanelHeader_WatchlistAwaitingDigitalGroup" xml:space="preserve">
-    <value>Watchlist — en attente du numérique</value>
-  </data>
   <data name="MovieInList_DigitalReleaseAtFormat" xml:space="preserve">
     <value>Sortie numérique le
 {0}</value>
@@ -6471,7 +6433,7 @@ Ce qui manque ou est faux :
     <value>Trakt n'a pas répondu. Réessayez dans un instant.</value>
   </data>
   <data name="MoviesLists_PanelHeader_WatchlistAwaitingDigital" xml:space="preserve">
-    <value>En attente du numérique</value>
+    <value>Encore au cinéma</value>
   </data>
   <data name="PhotoGallery_UseAtTopOfInfos" xml:space="preserve">
     <value>Utiliser en haut de l’onglet Infos</value>
@@ -6660,16 +6622,13 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
     <value>Séries à commencer et films à voir, déjà sortis, qu'aucune de vos plateformes ne propose encore.</value>
   </data>
   <data name="Home_Code_ShowsToStartNotOnMyServicesGroupHeaderPlural" xml:space="preserve">
-    <value>{0} SÉRIES PAS SUR VOS PLATEFORMES</value>
+    <value>{0} séries hors de vos plateformes</value>
   </data>
   <data name="Home_Code_ShowsToStartNotOnMyServicesGroupHeaderSingular" xml:space="preserve">
-    <value>1 SÉRIE PAS SUR VOS PLATEFORMES</value>
-  </data>
-  <data name="MoviesLists_PanelHeader_WatchlistNotOnMyServicesGroup" xml:space="preserve">
-    <value>Watchlist, pas sur vos plateformes</value>
+    <value>1 série hors de vos plateformes</value>
   </data>
   <data name="MoviesLists_PanelHeader_WatchlistNotOnMyServices" xml:space="preserve">
-    <value>Pas sur vos plateformes</value>
+    <value>Hors de vos plateformes</value>
   </data>
   <data name="Home_StreamingChip_Buy" xml:space="preserve">
     <value>À l'achat</value>
@@ -6768,7 +6727,7 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
     <value>Aussi dès qu'il est disponible ailleurs</value>
   </data>
   <data name="MediaItemDetails_PopularListsHeader" xml:space="preserve">
-    <value>DANS DES LISTES POPULAIRES</value>
+    <value>Dans des listes populaires</value>
   </data>
   <data name="Home_ShowsPageTitlePlural" xml:space="preserve">
     <value>{0} séries</value>
@@ -6940,5 +6899,122 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
   </data>
   <data name="CalendarSync_AccessDenied_Content_Android" xml:space="preserve">
     <value>Pour ajouter vos prochains épisodes à votre agenda, autorisez TVST à accéder à votre agenda dans les paramètres de l'app, rubrique Autorisations. Ouvrir les paramètres maintenant ?</value>
+  </data>
+  <data name="Home_Code_SeasonCompleteGroupHeader_Plural" xml:space="preserve">
+    <value>{0} saisons complètes à voir</value>
+  </data>
+  <data name="Home_Code_SeasonCompleteGroupHeader_Single" xml:space="preserve">
+    <value>{0} saison complète à voir</value>
+  </data>
+  <data name="Home_Code_SeasonInProgressGroupHeader_Plural" xml:space="preserve">
+    <value>{0} saisons en diffusion</value>
+  </data>
+  <data name="Home_Code_SeasonInProgressGroupHeader_Single" xml:space="preserve">
+    <value>{0} saison en diffusion</value>
+  </data>
+  <data name="Home_Code_MyShowWithNoEpisodeToSeeKnownNextEpisodeGroupHeader_Plural" xml:space="preserve">
+    <value>{0} séries, suite programmée</value>
+  </data>
+  <data name="Home_Code_MyShowWithNoEpisodeToSeeKnownNextEpisodeGroupHeader_Single" xml:space="preserve">
+    <value>{0} série, suite programmée</value>
+  </data>
+  <data name="Home_Code_GroupSubtitle_EpisodesToSee" xml:space="preserve">
+    <value>épisodes à voir</value>
+  </data>
+  <data name="Home_Code_GroupSubtitle_NoLongerAiring" xml:space="preserve">
+    <value>diffusion terminée</value>
+  </data>
+  <data name="Home_Code_GroupSubtitle_NoEpisodeAired" xml:space="preserve">
+    <value>aucun épisode sorti</value>
+  </data>
+  <data name="Home_Code_GroupSubtitle_AllWatched" xml:space="preserve">
+    <value>tout est vu</value>
+  </data>
+  <data name="Home_Code_GroupSubtitle_EveryEpisodeOut" xml:space="preserve">
+    <value>tous les épisodes sont sortis</value>
+  </data>
+  <data name="Home_Code_GroupSubtitle_MoreEpisodesComing" xml:space="preserve">
+    <value>épisodes encore à venir</value>
+  </data>
+  <data name="Home_MoviesGroup_ToWatch_Plural" xml:space="preserve">
+    <value>{0} films à voir</value>
+  </data>
+  <data name="Home_MoviesGroup_ToWatch_Single" xml:space="preserve">
+    <value>{0} film à voir</value>
+  </data>
+  <data name="Home_MoviesGroup_StillInTheaters_Plural" xml:space="preserve">
+    <value>{0} films encore au cinéma</value>
+  </data>
+  <data name="Home_MoviesGroup_StillInTheaters_Single" xml:space="preserve">
+    <value>{0} film encore au cinéma</value>
+  </data>
+  <data name="Home_MoviesGroup_NotOnMyServices_Plural" xml:space="preserve">
+    <value>{0} films hors de vos plateformes</value>
+  </data>
+  <data name="Home_MoviesGroup_NotOnMyServices_Single" xml:space="preserve">
+    <value>{0} film hors de vos plateformes</value>
+  </data>
+  <data name="Home_MoviesGroup_Upcoming_Plural" xml:space="preserve">
+    <value>{0} films à venir</value>
+  </data>
+  <data name="Home_MoviesGroup_Upcoming_Single" xml:space="preserve">
+    <value>{0} film à venir</value>
+  </data>
+  <data name="Home_MoviesGroup_Watched_Plural" xml:space="preserve">
+    <value>{0} films vus</value>
+  </data>
+  <data name="Home_MoviesGroup_Watched_Single" xml:space="preserve">
+    <value>{0} film vu</value>
+  </data>
+  <data name="Home_MoviesGroup_Collected_Plural" xml:space="preserve">
+    <value>{0} films dans votre collection</value>
+  </data>
+  <data name="Home_MoviesGroup_Collected_Single" xml:space="preserve">
+    <value>{0} film dans votre collection</value>
+  </data>
+  <data name="Home_MoviesGroup_ToRate_Plural" xml:space="preserve">
+    <value>{0} films à noter</value>
+  </data>
+  <data name="Home_MoviesGroup_ToRate_Single" xml:space="preserve">
+    <value>{0} film à noter</value>
+  </data>
+  <data name="Home_MoviesGroup_Subtitle_Released_Plural" xml:space="preserve">
+    <value>déjà sortis</value>
+  </data>
+  <data name="Home_MoviesGroup_Subtitle_Released_Single" xml:space="preserve">
+    <value>déjà sorti</value>
+  </data>
+  <data name="Home_MoviesGroup_Subtitle_StillInTheaters" xml:space="preserve">
+    <value>pas encore en streaming ni en vidéo</value>
+  </data>
+  <data name="Home_MoviesGroup_Subtitle_Upcoming_Plural" xml:space="preserve">
+    <value>pas encore sortis</value>
+  </data>
+  <data name="Home_MoviesGroup_Subtitle_Upcoming_Single" xml:space="preserve">
+    <value>pas encore sorti</value>
+  </data>
+  <data name="Home_MoviesGroup_Subtitle_Collected" xml:space="preserve">
+    <value>que vous possédez</value>
+  </data>
+  <data name="Home_MoviesGroup_Subtitle_ToRate_Plural" xml:space="preserve">
+    <value>vus, sans note</value>
+  </data>
+  <data name="Home_MoviesGroup_Subtitle_ToRate_Single" xml:space="preserve">
+    <value>vu, sans note</value>
+  </data>
+  <data name="Home_Code_Popular_NewShows" xml:space="preserve">
+    <value>Nouvelles séries</value>
+  </data>
+  <data name="Home_Code_Popular_NewMovies" xml:space="preserve">
+    <value>Nouveaux films</value>
+  </data>
+  <data name="Home_Code_Popular_GenreSubtitle" xml:space="preserve">
+    <value>les plus populaires</value>
+  </data>
+  <data name="Home_UserStats_Ratings_GroupHeader_Text" xml:space="preserve">
+    <value>Vos notes</value>
+  </data>
+  <data name="MediaItemDetails_StatsHeader" xml:space="preserve">
+    <value>Statistiques</value>
   </data>
 </root>
