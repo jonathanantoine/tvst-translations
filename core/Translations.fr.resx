@@ -7016,4 +7016,13 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
   <data name="MediaItemDetails_StatsHeader" xml:space="preserve">
     <value>Statistiques</value>
   </data>
+  <data name="Search_Card_Add" xml:space="preserve">
+    <value>Ajouter</value>
+  </data>
+  <data name="Search_Card_InYourShows" xml:space="preserve">
+    <value>Dans vos séries</value>
+  </data>
+  <data name="Search_Card_InYourMovies" xml:space="preserve">
+    <value>Dans vos films</value>
+  </data>
 </root>

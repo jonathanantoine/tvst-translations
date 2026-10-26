@@ -5752,4 +5752,13 @@ If it is still missing after that, you can let the Trakt team know. The email is
   <data name="MediaItemDetails_StatsHeader" xml:space="preserve">
     <value>Statistics</value>
   </data>
+  <data name="Search_Card_Add" xml:space="preserve">
+    <value>Add</value>
+  </data>
+  <data name="Search_Card_InYourShows" xml:space="preserve">
+    <value>In your shows</value>
+  </data>
+  <data name="Search_Card_InYourMovies" xml:space="preserve">
+    <value>In your movies</value>
+  </data>
 </root>

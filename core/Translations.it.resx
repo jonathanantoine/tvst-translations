@@ -5759,4 +5759,13 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
   <data name="MediaItemDetails_StatsHeader" xml:space="preserve">
     <value>Statistiche</value>
   </data>
+  <data name="Search_Card_Add" xml:space="preserve">
+    <value>Aggiungi</value>
+  </data>
+  <data name="Search_Card_InYourShows" xml:space="preserve">
+    <value>Nelle tue serie</value>
+  </data>
+  <data name="Search_Card_InYourMovies" xml:space="preserve">
+    <value>Nei tuoi film</value>
+  </data>
 </root>

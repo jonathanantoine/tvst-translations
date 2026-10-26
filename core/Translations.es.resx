@@ -5785,4 +5785,13 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
   <data name="MediaItemDetails_StatsHeader" xml:space="preserve">
     <value>Estadísticas</value>
   </data>
+  <data name="Search_Card_Add" xml:space="preserve">
+    <value>Añadir</value>
+  </data>
+  <data name="Search_Card_InYourShows" xml:space="preserve">
+    <value>En tus series</value>
+  </data>
+  <data name="Search_Card_InYourMovies" xml:space="preserve">
+    <value>En tus películas</value>
+  </data>
 </root>

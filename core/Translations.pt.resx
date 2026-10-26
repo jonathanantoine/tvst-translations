@@ -7101,4 +7101,13 @@ Se depois disso continuar a faltar, pode avisar a equipa do Trakt. O e-mail já 
   <data name="MediaItemDetails_StatsHeader" xml:space="preserve">
     <value>Estatísticas</value>
   </data>
+  <data name="Search_Card_Add" xml:space="preserve">
+    <value>Adicionar</value>
+  </data>
+  <data name="Search_Card_InYourShows" xml:space="preserve">
+    <value>Nas suas séries</value>
+  </data>
+  <data name="Search_Card_InYourMovies" xml:space="preserve">
+    <value>Nos seus filmes</value>
+  </data>
 </root>
