@@ -3144,10 +3144,10 @@ Do you confirm?</value>
       <value>Rent</value>
   </data>
   <data name="ShowCommentsHeader_Sentiment_Header" xml:space="preserve">
-      <value>COMMUNITY FEEDBACK</value>
+      <value>Community feedback</value>
   </data>
   <data name="ShowCommentsHeader_Comments_Header" xml:space="preserve">
-      <value>COMMENTS</value>
+      <value>Comments</value>
   </data>
   <data name="PhotoGallery_SetAsPreferredThumbnail" xml:space="preserve">
       <value>Set as thumbnail</value>

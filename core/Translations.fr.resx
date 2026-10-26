@@ -4356,10 +4356,10 @@ Confirmez-vous ?</value>
       <value>Affiche les premiers caractères de votre note personnelle.</value>
   </data>
   <data name="ShowCommentsHeader_Sentiment_Header" xml:space="preserve">
-      <value>PERCEPTION DE LA COMMUNAUTÉ</value>
+      <value>Perception de la communauté</value>
   </data>
   <data name="ShowCommentsHeader_Comments_Header" xml:space="preserve">
-      <value>AVIS</value>
+      <value>Avis</value>
   </data>
   <data name="PhotoGallery_SetAsPreferredThumbnail" xml:space="preserve">
       <value>Utiliser comme miniature</value>

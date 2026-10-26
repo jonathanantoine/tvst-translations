@@ -3076,10 +3076,10 @@ Si desea dar un impulso adicional, el enlace de donación está aquí y siempre 
         <value>Muestra los primeros caracteres de tu nota personal.</value>
     </data>
     <data name="ShowCommentsHeader_Sentiment_Header" xml:space="preserve">
-        <value>SENTIMIENTO DE LA COMUNIDAD</value>
+        <value>Sentimiento de la comunidad</value>
     </data>
     <data name="ShowCommentsHeader_Comments_Header" xml:space="preserve">
-        <value>COMENTARIOS</value>
+        <value>Comentarios</value>
     </data>
     <data name="PhotoGallery_SetAsPreferredThumbnail" xml:space="preserve">
         <value>Establecer como miniatura del elemento</value>

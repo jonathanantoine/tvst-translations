@@ -3050,10 +3050,10 @@ Confermi?</value>
         <value>Mostra i primi caratteri della tua nota personale.</value>
     </data>
     <data name="ShowCommentsHeader_Sentiment_Header" xml:space="preserve">
-        <value>MOOD DELLA COMMUNITY</value>
+        <value>Mood della community</value>
     </data>
     <data name="ShowCommentsHeader_Comments_Header" xml:space="preserve">
-        <value>COMMENTI</value>
+        <value>Commenti</value>
     </data>
     <data name="PhotoGallery_SetAsPreferredThumbnail" xml:space="preserve">
         <value>Imposta come miniatura dell’elemento</value>

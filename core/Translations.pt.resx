@@ -4397,10 +4397,10 @@ Confirma?</value>
         <value>Mostra os primeiros caracteres da sua nota pessoal.</value>
     </data>
   <data name="ShowCommentsHeader_Sentiment_Header" xml:space="preserve">
-        <value>SENTIMENTO DA COMUNIDADE</value>
+        <value>Sentimento da comunidade</value>
     </data>
   <data name="ShowCommentsHeader_Comments_Header" xml:space="preserve">
-        <value>COMENTÁRIOS</value>
+        <value>Comentários</value>
     </data>
   <data name="PhotoGallery_SetAsPreferredThumbnail" xml:space="preserve">
         <value>Definir como miniatura do item</value>
