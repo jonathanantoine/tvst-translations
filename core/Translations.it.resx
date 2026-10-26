@@ -3319,7 +3319,7 @@ t  <data name="Settings_Modern_Badge_Premium" xml:space="preserve">
     <value>Integrazione Apple</value>
   </data>
   <data name="Settings_Category_iOSIntegration_Subtitle" xml:space="preserve">
-    <value>Badge dell'icona dell'app e funzioni specifiche di iOS</value>
+    <value>Calendario, badge dell'icona dell'app e funzioni specifiche di iOS</value>
   </data>
   <data name="Settings_Section_AndroidCalendar_Title" xml:space="preserve">
     <value>Calendario Android</value>
@@ -5657,5 +5657,20 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
   </data>
   <data name="ShowDetails_EpisodeList_Pill_LeftToSee" xml:space="preserve">
     <value>da vedere</value>
+  </data>
+  <data name="Settings_Section_iOSCalendar_Title" xml:space="preserve">
+    <value>App Calendario</value>
+  </data>
+  <data name="Settings_Section_iOSCalendar_Subtitle" xml:space="preserve">
+    <value>Quando l'opzione è attiva, TVST aggiunge i tuoi prossimi episodi al suo calendario, TV Show Tracker, e lo mantiene aggiornato. Viene salvato in iCloud se lo usi, quindi appare anche sugli altri tuoi dispositivi Apple. Nell'app Calendario, tocca Calendari in basso per mostrarlo o nasconderlo. Il link di ogni episodio lo apre in TVST.</value>
+  </data>
+  <data name="CalendarSync_AccessDenied_Title" xml:space="preserve">
+    <value>TVST non ha accesso al tuo calendario</value>
+  </data>
+  <data name="CalendarSync_AccessDenied_Content" xml:space="preserve">
+    <value>Per aggiungere i tuoi prossimi episodi al calendario, consenti l'accesso completo ai calendari per TVST nell'app Impostazioni. Aprire Impostazioni ora?</value>
+  </data>
+  <data name="CalendarSync_AccessDenied_Content_Android" xml:space="preserve">
+    <value>Per aggiungere i tuoi prossimi episodi al calendario, consenti a TVST di accedere al calendario nelle impostazioni dell'app, alla voce Autorizzazioni. Aprire le impostazioni ora?</value>
   </data>
 </root>

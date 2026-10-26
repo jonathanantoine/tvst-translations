@@ -3321,7 +3321,7 @@ Do you confirm?</value>
     <value>Apple integration</value>
   </data>
   <data name="Settings_Category_iOSIntegration_Subtitle" xml:space="preserve">
-    <value>App icon badge and iOS-specific features</value>
+    <value>Calendar, app icon badge and iOS-specific features</value>
   </data>
   <data name="Settings_Section_AndroidCalendar_Title" xml:space="preserve">
     <value>Android calendar</value>
@@ -5650,5 +5650,20 @@ If it is still missing after that, you can let the Trakt team know. The email is
   </data>
   <data name="ShowDetails_EpisodeList_Pill_LeftToSee" xml:space="preserve">
     <value>left to see</value>
+  </data>
+  <data name="Settings_Section_iOSCalendar_Title" xml:space="preserve">
+    <value>Calendar app</value>
+  </data>
+  <data name="Settings_Section_iOSCalendar_Subtitle" xml:space="preserve">
+    <value>When this is on, TVST adds your upcoming episodes to its own calendar, TV Show Tracker, and keeps it up to date. It's saved in iCloud if you use it, so it also shows on your other Apple devices. In the Calendar app, tap Calendars at the bottom to show or hide it. Each episode's link opens it in TVST.</value>
+  </data>
+  <data name="CalendarSync_AccessDenied_Title" xml:space="preserve">
+    <value>TVST can't access your calendar</value>
+  </data>
+  <data name="CalendarSync_AccessDenied_Content" xml:space="preserve">
+    <value>To add your upcoming episodes to your calendar, allow full access to calendars for TVST in the Settings app. Open Settings now?</value>
+  </data>
+  <data name="CalendarSync_AccessDenied_Content_Android" xml:space="preserve">
+    <value>To add your upcoming episodes to your calendar, allow TVST to access your calendar in the app's settings, under Permissions. Open the settings now?</value>
   </data>
 </root>
