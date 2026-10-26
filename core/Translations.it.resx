@@ -243,14 +243,17 @@ Clicca qui e fai una donazione!</value>
     <data name="ToastNotifications_Code_TapHereToKnowMore" xml:space="preserve">
     <value>Maggiori informazioni</value>
   </data>
-    <data name="Search_GroupHeader_AlreayInYourCollection" xml:space="preserve">
-    <value>GIÀ NELLA TUA COLLEZIONE</value>
+  <data name="Search_GroupHeader_InYourCollectionFormat" xml:space="preserve">
+    <value>{0} già nella tua collezione</value>
   </data>
-    <data name="Search_GroupHeader_FoundOnTrakt" xml:space="preserve">
-        <value>TROVATO SU</value>
-    </data>
+  <data name="Search_GroupHeader_ResultsOnFormat_Plural" xml:space="preserve">
+    <value>{0} risultati su {1}</value>
+  </data>
+  <data name="Search_GroupHeader_ResultsOnFormat_Single" xml:space="preserve">
+    <value>{0} risultato su {1}</value>
+  </data>
     <data name="Search_People_BirthdayThisMonth" xml:space="preserve">
-      <value>COMPLEANNI QUESTO MESE</value>
+      <value>Compleanni questo mese</value>
     </data>
     <data name="Donation_Button_RemoveAds_Text" xml:space="preserve">
     <value>RIMUOVI LA PUBBLICITÀ!</value>

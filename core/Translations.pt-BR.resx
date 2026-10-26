@@ -253,15 +253,17 @@ Você está usando a versão {0}</value>
     <data name="Search_NoMoreResults_RefineOrSwitchEngine" xml:space="preserve">
     <value>Não há mais resultados. Tente refinar sua pesquisa, ou mude o mecanismo de busca no menu no canto superior direito.</value>
   </data>
-    <data name="Search_GroupHeader_AlreayInYourCollection" xml:space="preserve">
-    <value>JÁ EM SUA COLEÇÃO</value>
+  <data name="Search_GroupHeader_InYourCollectionFormat" xml:space="preserve">
+    <value>{0} já na sua coleção</value>
   </data>
-    <data name="Search_GroupHeader_FoundOnTrakt" xml:space="preserve">
-        <value>ENCONTRADO NA
-</value>
-    </data>
+  <data name="Search_GroupHeader_ResultsOnFormat_Plural" xml:space="preserve">
+    <value>{0} resultados na {1}</value>
+  </data>
+  <data name="Search_GroupHeader_ResultsOnFormat_Single" xml:space="preserve">
+    <value>{0} resultado na {1}</value>
+  </data>
     <data name="Search_People_BirthdayThisMonth" xml:space="preserve">
-      <value>ANIVERSÁRIOS ESTE MÊS</value>
+      <value>Aniversários este mês</value>
     </data>
     <data name="Donation_Button_RemoveAds_Text" xml:space="preserve">
     <value>REMOVA A PUBLICIDADE!</value>
