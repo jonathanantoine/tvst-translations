@@ -793,8 +793,17 @@ corrisponda a questa ricerca
     <data name="Search_MissingMovieLink_Text" xml:space="preserve">
     <value>Film mancante? Tocca qui per aggiungerlo!</value>
   </data>
-    <data name="Search_PlaceHolder_Content" xml:space="preserve">
-    <value>Cerca SERIE TV per parole chiave.</value>
+  <data name="Search_PlaceHolder_Shows" xml:space="preserve">
+    <value>Cerca serie TV</value>
+  </data>
+  <data name="Search_PlaceHolder_Movies" xml:space="preserve">
+    <value>Cerca film</value>
+  </data>
+  <data name="Search_PlaceHolder_Lists" xml:space="preserve">
+    <value>Cerca liste</value>
+  </data>
+  <data name="Search_PlaceHolder_People" xml:space="preserve">
+    <value>Cerca persone</value>
   </data>
     <data name="Settings_SetAsSeenBehavior_Text" xml:space="preserve">
     <value>Quando un episodio è contrassegnato come visto</value>

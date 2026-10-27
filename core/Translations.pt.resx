@@ -1226,10 +1226,17 @@ corresponde à essa pesquisa
       xml:space="preserve">
     <value>Filme em falta? Clique aqui para o adicionar!</value>
   </data>
-  <data
-      name="Search_PlaceHolder_Content"
-      xml:space="preserve">
-    <value>Pesquise séries por palavras-chave.</value>
+  <data name="Search_PlaceHolder_Shows" xml:space="preserve">
+    <value>Pesquisar séries</value>
+  </data>
+  <data name="Search_PlaceHolder_Movies" xml:space="preserve">
+    <value>Pesquisar filmes</value>
+  </data>
+  <data name="Search_PlaceHolder_Lists" xml:space="preserve">
+    <value>Pesquisar listas</value>
+  </data>
+  <data name="Search_PlaceHolder_People" xml:space="preserve">
+    <value>Pesquisar pessoas</value>
   </data>
   <data
       name="Settings_BackgroundSyncEnabled_Text"

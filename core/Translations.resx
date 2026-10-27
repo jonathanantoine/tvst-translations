@@ -809,8 +809,17 @@ matches this search
   <data name="Search_MissingMovieLink_Text" xml:space="preserve">
     <value>Missing movie? Click here to add it!</value>
   </data>
-  <data name="Search_PlaceHolder_Content" xml:space="preserve">
-    <value>Search items by keyword</value>
+  <data name="Search_PlaceHolder_Shows" xml:space="preserve">
+    <value>Search shows</value>
+  </data>
+  <data name="Search_PlaceHolder_Movies" xml:space="preserve">
+    <value>Search movies</value>
+  </data>
+  <data name="Search_PlaceHolder_Lists" xml:space="preserve">
+    <value>Search lists</value>
+  </data>
+  <data name="Search_PlaceHolder_People" xml:space="preserve">
+    <value>Search people</value>
   </data>
   <data name="Settings_BackgroundSyncEnabled_Text" xml:space="preserve">
     <value>Enable background synchronization?</value>
