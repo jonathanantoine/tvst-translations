@@ -2207,7 +2207,7 @@ y tendencias mundiales!</value>
   </data>
 
     <data name="Home_UserStats_Code_ToWatchEpisodeLabelSingle" xml:space="preserve">
-    <value>{0} episodio_ por ver</value>
+    <value>{0} episodio por ver</value>
   </data>
     <data name="Home_UserStats_Code_WatchedEpisodeLabelSingle" xml:space="preserve">
         <value>{0} episido visto</value>
@@ -5070,6 +5070,9 @@ Una temporada marcada como vista de una vez cuenta a la hora en que la marcó.</
   <data name="Home_Calendar_Filter_IncludeHiddenShows" xml:space="preserve">
     <value>Incluir las series abandonadas</value>
   </data>
+  <data name="Home_Calendar_Filter_HideNotStartedShows" xml:space="preserve">
+    <value>Ocultar las series para empezar a ver</value>
+  </data>
   <data name="Home_Calendar_Filter_EmptyPlaceholder" xml:space="preserve">
     <value>Nada coincide con estos filtros.</value>
   </data>
@@ -5662,6 +5665,15 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
   <data name="ShowDetails_EpisodeList_Pill_LeftToSee" xml:space="preserve">
     <value>por ver</value>
   </data>
+  <data name="ShowDetails_EpisodeList_Pill_NextEpisodeFormat" xml:space="preserve">
+    <value>Próximo episodio: {0}</value>
+  </data>
+  <data name="ShowDetails_EpisodeList_Pill_WatchedInFull" xml:space="preserve">
+    <value>Vista por completo</value>
+  </data>
+  <data name="ShowDetails_EpisodeList_Pill_AllWatchedForNow" xml:space="preserve">
+    <value>Todo visto por ahora</value>
+  </data>
   <data name="Settings_Section_iOSCalendar_Title" xml:space="preserve">
     <value>App Calendario</value>
   </data>
@@ -5844,5 +5856,11 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
   </data>
   <data name="Search_Help_HowToAdd" xml:space="preserve">
     <value>Ver cómo hacerlo</value>
+  </data>
+  <data name="Settings_UITheme_System" xml:space="preserve">
+    <value>Automático</value>
+  </data>
+  <data name="Settings_UITheme_Chooser_Subtitle" xml:space="preserve">
+    <value>Automático: oscuro o claro, como tu dispositivo.</value>
   </data>
 </root>

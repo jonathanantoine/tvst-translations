@@ -6384,6 +6384,9 @@ Uma temporada marcada como vista de uma só vez conta à hora a que a marcou.</v
   <data name="Home_Calendar_Filter_IncludeHiddenShows" xml:space="preserve">
     <value>Incluir as séries abandonadas</value>
   </data>
+  <data name="Home_Calendar_Filter_HideNotStartedShows" xml:space="preserve">
+    <value>Ocultar as séries para começar</value>
+  </data>
   <data name="Home_Calendar_Filter_EmptyPlaceholder" xml:space="preserve">
     <value>Nada corresponde a estes filtros.</value>
   </data>
@@ -6976,6 +6979,15 @@ Se depois disso continuar a faltar, pode avisar a equipa do Trakt. O e-mail já 
   <data name="ShowDetails_EpisodeList_Pill_LeftToSee" xml:space="preserve">
     <value>por ver</value>
   </data>
+  <data name="ShowDetails_EpisodeList_Pill_NextEpisodeFormat" xml:space="preserve">
+    <value>Próximo episódio: {0}</value>
+  </data>
+  <data name="ShowDetails_EpisodeList_Pill_WatchedInFull" xml:space="preserve">
+    <value>Vista por completo</value>
+  </data>
+  <data name="ShowDetails_EpisodeList_Pill_AllWatchedForNow" xml:space="preserve">
+    <value>Tudo visto por agora</value>
+  </data>
   <data name="Settings_Section_iOSCalendar_Title" xml:space="preserve">
     <value>App Calendário</value>
   </data>
@@ -7158,5 +7170,11 @@ Se depois disso continuar a faltar, pode avisar a equipa do Trakt. O e-mail já 
   </data>
   <data name="Search_Help_HowToAdd" xml:space="preserve">
     <value>Ver como adicionar</value>
+  </data>
+  <data name="Settings_UITheme_System" xml:space="preserve">
+    <value>Automático</value>
+  </data>
+  <data name="Settings_UITheme_Chooser_Subtitle" xml:space="preserve">
+    <value>Automático: escuro ou claro, como o seu dispositivo.</value>
   </data>
 </root>
