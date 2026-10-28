@@ -5256,7 +5256,7 @@ Você quer que o aplicativo desative essa opção na sua conta Trakt? A partir d
     <value>A sua conta Trakt está cheia</value>
   </data>
   <data name="PendingOperations_GlobalIssue_AccountLimit_Body" xml:space="preserve">
-    <value>A sua conta Trakt atingiu o limite do plano gratuito. Pode subscrever o Trakt VIP ou remover elementos para libertar espaço. As alterações bloqueadas seguirão então por si próprias, ou de imediato com «Tentar novamente».</value>
+    <value>A sua conta Trakt atingiu o limite do plano gratuito. Remova alguns títulos da lista cheia ou subscreva o Trakt VIP e, depois, toque em «Tentar enviar ao Trakt de novo».</value>
   </data>
   <data name="Settings_Debug_EnableDebugMode_Text" xml:space="preserve">
     <value>Modo de depuração</value>

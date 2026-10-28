@@ -3976,7 +3976,7 @@ Vuoi che l'app disattivi questa impostazione sul tuo account Trakt? Da ora in po
     <value>Il tuo account Trakt è pieno</value>
   </data>
   <data name="PendingOperations_GlobalIssue_AccountLimit_Body" xml:space="preserve">
-    <value>Il tuo account Trakt ha raggiunto il limite del piano gratuito. Puoi abbonarti a Trakt VIP oppure rimuovere elementi per fare spazio. Le modifiche bloccate partiranno poi da sole, o subito con «Riprova».</value>
+    <value>Il tuo account Trakt ha raggiunto il limite del piano gratuito. Rimuovi qualche titolo dalla lista piena oppure abbonati a Trakt VIP, poi tocca «Riprova a inviare a Trakt».</value>
   </data>
   <data name="Settings_Debug_EnableDebugMode_Text" xml:space="preserve">
     <value>Modalità debug</value>

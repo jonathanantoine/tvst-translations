@@ -3975,7 +3975,7 @@ Would you like the app to turn that setting off on your Trakt account? Your view
     <value>Your Trakt account is full</value>
   </data>
   <data name="PendingOperations_GlobalIssue_AccountLimit_Body" xml:space="preserve">
-    <value>Your Trakt account has reached the limit of the free plan. You can subscribe to Trakt VIP, or remove some items to make room. The blocked changes will then leave on their own, or right away with “Retry now”.</value>
+    <value>Your Trakt account has reached the limit of the free plan. Remove a few titles from the full list, or subscribe to Trakt VIP, then tap “Try sending to Trakt again”.</value>
   </data>
   <data name="Settings_Debug_EnableDebugMode_Text" xml:space="preserve">
     <value>Debug mode</value>

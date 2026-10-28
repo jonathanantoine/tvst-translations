@@ -5234,7 +5234,7 @@ Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? V
     <value>Votre compte Trakt est plein</value>
   </data>
   <data name="PendingOperations_GlobalIssue_AccountLimit_Body" xml:space="preserve">
-    <value>Votre compte Trakt a atteint la limite de l’offre gratuite. Vous pouvez souscrire à Trakt VIP, ou retirer des éléments pour faire de la place. Les modifications bloquées repartiront alors d’elles-mêmes, ou immédiatement avec « Réessayer ».</value>
+    <value>Votre compte Trakt a atteint la limite de l’offre gratuite. Retirez quelques titres de la liste pleine, ou abonnez-vous à Trakt VIP, puis touchez « Réessayer d'envoyer à Trakt ».</value>
   </data>
   <data name="Settings_Debug_EnableDebugMode_Text" xml:space="preserve">
     <value>Mode debug</value>
