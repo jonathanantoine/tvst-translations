@@ -5770,4 +5770,46 @@ If it is still missing after that, you can let the Trakt team know. The email is
   <data name="Search_Card_InYourMovies" xml:space="preserve">
     <value>In your movies</value>
   </data>
+  <data name="Search_DisplayTip_Text" xml:space="preserve">
+    <value>Change the view: list, grid or cards</value>
+  </data>
+  <data name="Settings_Debug_ResetFeatureTips_Text" xml:space="preserve">
+    <value>Show tips again</value>
+  </data>
+  <data name="Settings_Debug_ResetFeatureTips_Toast" xml:space="preserve">
+    <value>Tips will show again</value>
+  </data>
+  <data name="Search_Help_Title_Show" xml:space="preserve">
+    <value>Can't find your show?</value>
+  </data>
+  <data name="Search_Help_Title_Movie" xml:space="preserve">
+    <value>Can't find your movie?</value>
+  </data>
+  <data name="Search_Help_NoShowFormat" xml:space="preserve">
+    <value>No show matches “{0}”</value>
+  </data>
+  <data name="Search_Help_NoMovieFormat" xml:space="preserve">
+    <value>No movie matches “{0}”</value>
+  </data>
+  <data name="Search_Help_TryEngineFormat" xml:space="preserve">
+    <value>Try the {0} search engine</value>
+  </data>
+  <data name="Search_Help_ClearYearFormat" xml:space="preserve">
+    <value>Remove the {0} filter</value>
+  </data>
+  <data name="Search_Help_SearchMovies" xml:space="preserve">
+    <value>Search movies</value>
+  </data>
+  <data name="Search_Help_SearchShows" xml:space="preserve">
+    <value>Search shows</value>
+  </data>
+  <data name="Search_Help_MissingShow" xml:space="preserve">
+    <value>Show missing from Trakt?</value>
+  </data>
+  <data name="Search_Help_MissingMovie" xml:space="preserve">
+    <value>Movie missing from Trakt?</value>
+  </data>
+  <data name="Search_Help_HowToAdd" xml:space="preserve">
+    <value>See how to add it</value>
+  </data>
 </root>

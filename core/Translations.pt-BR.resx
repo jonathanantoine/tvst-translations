@@ -5806,4 +5806,46 @@ Se depois disso ele ainda estiver faltando, você pode avisar a equipe do Trakt.
   <data name="Search_Card_InYourMovies" xml:space="preserve">
     <value>Nos seus filmes</value>
   </data>
+  <data name="Search_DisplayTip_Text" xml:space="preserve">
+    <value>Mude a exibição: lista, grade ou cartões</value>
+  </data>
+  <data name="Settings_Debug_ResetFeatureTips_Text" xml:space="preserve">
+    <value>Mostrar as dicas de novo</value>
+  </data>
+  <data name="Settings_Debug_ResetFeatureTips_Toast" xml:space="preserve">
+    <value>As dicas vão aparecer de novo</value>
+  </data>
+  <data name="Search_Help_Title_Show" xml:space="preserve">
+    <value>Não encontrou sua série?</value>
+  </data>
+  <data name="Search_Help_Title_Movie" xml:space="preserve">
+    <value>Não encontrou seu filme?</value>
+  </data>
+  <data name="Search_Help_NoShowFormat" xml:space="preserve">
+    <value>Nenhuma série corresponde a “{0}”</value>
+  </data>
+  <data name="Search_Help_NoMovieFormat" xml:space="preserve">
+    <value>Nenhum filme corresponde a “{0}”</value>
+  </data>
+  <data name="Search_Help_TryEngineFormat" xml:space="preserve">
+    <value>Tentar o motor {0}</value>
+  </data>
+  <data name="Search_Help_ClearYearFormat" xml:space="preserve">
+    <value>Remover o filtro {0}</value>
+  </data>
+  <data name="Search_Help_SearchMovies" xml:space="preserve">
+    <value>Pesquisar nos filmes</value>
+  </data>
+  <data name="Search_Help_SearchShows" xml:space="preserve">
+    <value>Pesquisar nas séries</value>
+  </data>
+  <data name="Search_Help_MissingShow" xml:space="preserve">
+    <value>Série ausente no Trakt?</value>
+  </data>
+  <data name="Search_Help_MissingMovie" xml:space="preserve">
+    <value>Filme ausente no Trakt?</value>
+  </data>
+  <data name="Search_Help_HowToAdd" xml:space="preserve">
+    <value>Ver como adicionar</value>
+  </data>
 </root>

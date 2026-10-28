@@ -5777,4 +5777,46 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
   <data name="Search_Card_InYourMovies" xml:space="preserve">
     <value>Nei tuoi film</value>
   </data>
+  <data name="Search_DisplayTip_Text" xml:space="preserve">
+    <value>Cambia la visualizzazione: lista, griglia o schede</value>
+  </data>
+  <data name="Settings_Debug_ResetFeatureTips_Text" xml:space="preserve">
+    <value>Mostra di nuovo i suggerimenti</value>
+  </data>
+  <data name="Settings_Debug_ResetFeatureTips_Toast" xml:space="preserve">
+    <value>I suggerimenti verranno mostrati di nuovo</value>
+  </data>
+  <data name="Search_Help_Title_Show" xml:space="preserve">
+    <value>Non trovi la tua serie?</value>
+  </data>
+  <data name="Search_Help_Title_Movie" xml:space="preserve">
+    <value>Non trovi il tuo film?</value>
+  </data>
+  <data name="Search_Help_NoShowFormat" xml:space="preserve">
+    <value>Nessuna serie corrisponde a “{0}”</value>
+  </data>
+  <data name="Search_Help_NoMovieFormat" xml:space="preserve">
+    <value>Nessun film corrisponde a “{0}”</value>
+  </data>
+  <data name="Search_Help_TryEngineFormat" xml:space="preserve">
+    <value>Prova il motore {0}</value>
+  </data>
+  <data name="Search_Help_ClearYearFormat" xml:space="preserve">
+    <value>Rimuovi il filtro {0}</value>
+  </data>
+  <data name="Search_Help_SearchMovies" xml:space="preserve">
+    <value>Cerca tra i film</value>
+  </data>
+  <data name="Search_Help_SearchShows" xml:space="preserve">
+    <value>Cerca tra le serie</value>
+  </data>
+  <data name="Search_Help_MissingShow" xml:space="preserve">
+    <value>Serie assente su Trakt?</value>
+  </data>
+  <data name="Search_Help_MissingMovie" xml:space="preserve">
+    <value>Film assente su Trakt?</value>
+  </data>
+  <data name="Search_Help_HowToAdd" xml:space="preserve">
+    <value>Scopri come fare</value>
+  </data>
 </root>
