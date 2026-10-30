@@ -5182,11 +5182,15 @@ Una temporada marcada como vista de una vez cuenta a la hora en que la marcó.</
   <data name="DataFreshness_Verdict_Unreachable_Text" xml:space="preserve">
     <value>Trakt no respondió. Lo que ve es la copia que TVST descargó el {0}.</value>
   </data>
-  <data name="Home_Menu_ContactMe_DataMissing_MailBody" xml:space="preserve">
-    <value>Serie o película:
+  <data name="Home_Menu_ContactMe_DataMissing_DialogTitle" xml:space="preserve">
+    <value>Esta información viene de Trakt</value>
+  </data>
+  <data name="Home_Menu_ContactMe_DataMissing_DialogContent" xml:space="preserve">
+    <value>Las fechas, temporadas y episodios que se muestran vienen de Trakt, un servicio de seguimiento de series, que los copia de TMDB, una base de datos que completan personas voluntarias. Como desarrollador de la app, no puedo corregirlos.
 
-Qué falta o es incorrecto:
-</value>
+Para comprobar si una serie o una película está al día: abra su ficha, toque los tres puntos arriba a la derecha y luego «Frescura de los datos».
+
+Si algún dato es incorrecto, infórmelo en el foro de asistencia del sitio web de Trakt: abra una conversación nueva e indique la serie o la película y qué es lo que falla.</value>
   </data>
   <data name="DataFreshness_State_TmdbUpdatedAt" xml:space="preserve">
     <value>Actualizado en TMDB</value>

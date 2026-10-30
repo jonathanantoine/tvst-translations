@@ -5149,11 +5149,15 @@ A season marked as watched in one go counts at the time you marked it.</value>
   <data name="DataFreshness_Verdict_Unreachable_Text" xml:space="preserve">
     <value>Trakt did not answer. What you see is the copy TVST downloaded on {0}.</value>
   </data>
-  <data name="Home_Menu_ContactMe_DataMissing_MailBody" xml:space="preserve">
-    <value>Show or movie concerned:
+  <data name="Home_Menu_ContactMe_DataMissing_DialogTitle" xml:space="preserve">
+    <value>This information comes from Trakt</value>
+  </data>
+  <data name="Home_Menu_ContactMe_DataMissing_DialogContent" xml:space="preserve">
+    <value>The dates, seasons and episodes shown come from Trakt, a show tracking service, which copies them from TMDB, a database filled in by volunteers. As the app's developer, I can't correct them.
 
-What is missing or wrong:
-</value>
+To check whether a show or movie is up to date: open its page, tap the three dots at the top right, then "Data freshness".
+
+If something is wrong, report it on the support forum of Trakt's website: start a new conversation and say which show or movie is concerned and what is wrong.</value>
   </data>
   <data name="DataFreshness_State_TmdbUpdatedAt" xml:space="preserve">
     <value>Updated on TMDB</value>

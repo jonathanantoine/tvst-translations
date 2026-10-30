@@ -6411,11 +6411,15 @@ Une saison marquée comme vue d'un coup compte à l'heure où vous l'avez marqu�
   <data name="DataFreshness_Verdict_Unreachable_Text" xml:space="preserve">
     <value>Trakt n'a pas répondu. Vous voyez la copie téléchargée par TVST le {0}.</value>
   </data>
-  <data name="Home_Menu_ContactMe_DataMissing_MailBody" xml:space="preserve">
-    <value>Série ou film concerné :
+  <data name="Home_Menu_ContactMe_DataMissing_DialogTitle" xml:space="preserve">
+    <value>Ces informations viennent de Trakt</value>
+  </data>
+  <data name="Home_Menu_ContactMe_DataMissing_DialogContent" xml:space="preserve">
+    <value>Les dates, saisons et épisodes affichés viennent de Trakt, un service de suivi de séries, qui les recopie depuis TMDB, une base remplie par des bénévoles. En tant que développeur de l'app, je ne peux pas les corriger.
 
-Ce qui manque ou est faux :
-</value>
+Pour vérifier si une série ou un film est à jour : ouvrez sa fiche, appuyez sur les trois points en haut à droite, puis sur « Fraîcheur des données ».
+
+Si une information est fausse, signalez-la sur le forum d'assistance du site de Trakt : ouvrez une nouvelle conversation, indiquez la série ou le film et ce qui ne va pas.</value>
   </data>
   <data name="DataFreshness_State_TmdbUpdatedAt" xml:space="preserve">
     <value>Mise à jour chez TMDB</value>
