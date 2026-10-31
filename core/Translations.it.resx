@@ -5625,6 +5625,18 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
   <data name="Movie_Journal_RemoveFromCollection" xml:space="preserve">
     <value>Rimuovi dalla collezione</value>
   </data>
+  <data name="Movie_Journal_Today" xml:space="preserve">
+    <value>oggi</value>
+  </data>
+  <data name="Movie_Journal_Yesterday" xml:space="preserve">
+    <value>ieri</value>
+  </data>
+  <data name="Movie_Journal_TwiceFormat" xml:space="preserve">
+    <value>due volte {0}</value>
+  </data>
+  <data name="Movie_Journal_TimesFormat" xml:space="preserve">
+    <value>{0} volte {1}</value>
+  </data>
   <data name="Movie_RemovePlay_ConfirmTitle" xml:space="preserve">
     <value>Rimuovere questa visione?</value>
   </data>

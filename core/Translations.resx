@@ -5618,6 +5618,18 @@ If it is still missing after that, you can let the Trakt team know. The email is
   <data name="Movie_Journal_RemoveFromCollection" xml:space="preserve">
     <value>Remove from collection</value>
   </data>
+  <data name="Movie_Journal_Today" xml:space="preserve">
+    <value>today</value>
+  </data>
+  <data name="Movie_Journal_Yesterday" xml:space="preserve">
+    <value>yesterday</value>
+  </data>
+  <data name="Movie_Journal_TwiceFormat" xml:space="preserve">
+    <value>twice {0}</value>
+  </data>
+  <data name="Movie_Journal_TimesFormat" xml:space="preserve">
+    <value>{0} times {1}</value>
+  </data>
   <data name="Movie_RemovePlay_ConfirmTitle" xml:space="preserve">
     <value>Remove this viewing?</value>
   </data>

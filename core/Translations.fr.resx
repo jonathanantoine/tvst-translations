@@ -6876,6 +6876,18 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
   <data name="Movie_Journal_RemoveFromCollection" xml:space="preserve">
     <value>Retirer de ma collection</value>
   </data>
+  <data name="Movie_Journal_Today" xml:space="preserve">
+    <value>aujourd'hui</value>
+  </data>
+  <data name="Movie_Journal_Yesterday" xml:space="preserve">
+    <value>hier</value>
+  </data>
+  <data name="Movie_Journal_TwiceFormat" xml:space="preserve">
+    <value>deux fois {0}</value>
+  </data>
+  <data name="Movie_Journal_TimesFormat" xml:space="preserve">
+    <value>{0} fois {1}</value>
+  </data>
   <data name="Movie_RemovePlay_ConfirmTitle" xml:space="preserve">
     <value>Retirer ce visionnage ?</value>
   </data>

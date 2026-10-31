@@ -5651,6 +5651,18 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
   <data name="Movie_Journal_RemoveFromCollection" xml:space="preserve">
     <value>Quitar de mi colección</value>
   </data>
+  <data name="Movie_Journal_Today" xml:space="preserve">
+    <value>hoy</value>
+  </data>
+  <data name="Movie_Journal_Yesterday" xml:space="preserve">
+    <value>ayer</value>
+  </data>
+  <data name="Movie_Journal_TwiceFormat" xml:space="preserve">
+    <value>dos veces {0}</value>
+  </data>
+  <data name="Movie_Journal_TimesFormat" xml:space="preserve">
+    <value>{0} veces {1}</value>
+  </data>
   <data name="Movie_RemovePlay_ConfirmTitle" xml:space="preserve">
     <value>¿Quitar este visionado?</value>
   </data>

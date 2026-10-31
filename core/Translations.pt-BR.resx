@@ -5654,6 +5654,18 @@ Se depois disso ele ainda estiver faltando, você pode avisar a equipe do Trakt.
   <data name="Movie_Journal_RemoveFromCollection" xml:space="preserve">
     <value>Remover da coleção</value>
   </data>
+  <data name="Movie_Journal_Today" xml:space="preserve">
+    <value>hoje</value>
+  </data>
+  <data name="Movie_Journal_Yesterday" xml:space="preserve">
+    <value>ontem</value>
+  </data>
+  <data name="Movie_Journal_TwiceFormat" xml:space="preserve">
+    <value>duas vezes {0}</value>
+  </data>
+  <data name="Movie_Journal_TimesFormat" xml:space="preserve">
+    <value>{0} vezes {1}</value>
+  </data>
   <data name="Movie_RemovePlay_ConfirmTitle" xml:space="preserve">
     <value>Remover esta exibição?</value>
   </data>
