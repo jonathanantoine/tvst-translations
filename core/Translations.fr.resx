@@ -1228,11 +1228,6 @@ Exprimez-vous !</value>
     <value>Impossible de noter la série pour le moment, merci de ré-essayer plus tard.</value>
   </data>
   <data
-      name     ="Search_AddingMediaItem_Text"
-      xml:space="preserve">
-        <value>Nous ajoutons cet élément...</value>
-    </data>
-  <data
       name     ="Search_EmptyPlaceholder_Text"
       xml:space="preserve">
     <value>Aucune série ne correspond
@@ -1929,11 +1924,6 @@ Confirmez-vous ?
       name     ="ShowDetails_Code_SeasonHeader_EpisodeLeftPlural"
       xml:space="preserve">
     <value>{0} ép. restants</value>
-  </data>
-  <data
-      name     ="ShowDetails_Code_Removing"
-      xml:space="preserve">
-    <value>Suppression de cette série...</value>
   </data>
   <data
       name     ="ShowDetails_Code_SeasonGroup_Season"
@@ -3630,9 +3620,6 @@ Si vous ne pouvez toujours pas accéder à votre compte après la connexion, veu
         <value>Restaurer une sauvegarde des données</value>
     </data>
 
-  <data name="Restore_FileReceivedToast" xml:space="preserve">
-        <value>Fichier reçu, démarrage du processus de réstauration</value>
-    </data>
   <data name="Restore_CompleteToast" xml:space="preserve">
         <value>Restauration terminée</value>
     </data>
@@ -6205,6 +6192,33 @@ Une saison marquée comme vue d'un coup compte à l'heure où vous l'avez marqu�
   </data>
   <data name="Show_AddedToast" xml:space="preserve">
     <value>Série ajoutée !</value>
+  </data>
+  <data name="Show_AddingProgress" xml:space="preserve">
+    <value>Ajout de la série…</value>
+  </data>
+  <data name="Movie_SetAsWatchedProgress" xml:space="preserve">
+    <value>Marquage comme vu…</value>
+  </data>
+  <data name="Show_RemovingProgress" xml:space="preserve">
+    <value>Suppression de la série…</value>
+  </data>
+  <data name="Restore_InProgress" xml:space="preserve">
+    <value>Restauration en cours…</value>
+  </data>
+  <data name="Backup_PreparingProgress" xml:space="preserve">
+    <value>Préparation de la sauvegarde…</value>
+  </data>
+  <data name="Backup_ReadyToast" xml:space="preserve">
+    <value>Sauvegarde prête</value>
+  </data>
+  <data name="AddComment_PostedToast" xml:space="preserve">
+    <value>Commentaire publié</value>
+  </data>
+  <data name="CsvExport_PreparingProgress" xml:space="preserve">
+    <value>Préparation de l'export…</value>
+  </data>
+  <data name="CsvExport_ReadyToast" xml:space="preserve">
+    <value>Export prêt</value>
   </data>
   <data name="Show_RemovedToast" xml:space="preserve">
     <value>Série supprimée.</value>

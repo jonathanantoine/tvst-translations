@@ -757,9 +757,6 @@ Expresse-se!</value>
     <data name="RateShow_Code_Error" xml:space="preserve">
     <value>Impossível avaliar a série agora, por favor tente novamente depois.</value>
   </data>
-    <data name="Search_AddingMediaItem_Text" xml:space="preserve">
-        <value>Este elemento está sendo adicionado...</value>
-    </data>
     <data name="Search_EmptyPlaceholder_Text" xml:space="preserve">
     <value>Parece que nenhuma série
 corresponde à essa pesquisa
@@ -1178,9 +1175,6 @@ para essa série</value>
   </data>
     <data name="ShowDetails_Code_SeasonHeader_EpisodeLeftPlural" xml:space="preserve">
     <value>{0} ep. restantes</value>
-  </data>
-    <data name="ShowDetails_Code_Removing" xml:space="preserve">
-    <value>Removendo essa série...</value>
   </data>
     <data name="ShowDetails_Code_SeasonGroup_Season" xml:space="preserve">
     <value>TEMPORADA</value>
@@ -4262,9 +4256,6 @@ Você quer que o aplicativo desative essa opção na sua conta Trakt? A partir d
   <data name="Restore_CompleteToast" xml:space="preserve">
     <value>Restauração concluída</value>
   </data>
-  <data name="Restore_FileReceivedToast" xml:space="preserve">
-    <value>Arquivo recebido, iniciando a restauração</value>
-  </data>
   <data name="Settings_AnalyticsHeader" xml:space="preserve">
     <value>TELEMETRIA</value>
   </data>
@@ -4979,6 +4970,33 @@ Uma temporada marcada como assistida de uma vez conta na hora em que você a mar
   </data>
   <data name="Show_AddedToast" xml:space="preserve">
     <value>Série adicionada!</value>
+  </data>
+  <data name="Show_AddingProgress" xml:space="preserve">
+    <value>Adicionando série…</value>
+  </data>
+  <data name="Movie_SetAsWatchedProgress" xml:space="preserve">
+    <value>Marcando como assistido…</value>
+  </data>
+  <data name="Show_RemovingProgress" xml:space="preserve">
+    <value>Removendo série…</value>
+  </data>
+  <data name="Restore_InProgress" xml:space="preserve">
+    <value>Restaurando…</value>
+  </data>
+  <data name="Backup_PreparingProgress" xml:space="preserve">
+    <value>Preparando o backup…</value>
+  </data>
+  <data name="Backup_ReadyToast" xml:space="preserve">
+    <value>Backup pronto</value>
+  </data>
+  <data name="AddComment_PostedToast" xml:space="preserve">
+    <value>Comentário publicado</value>
+  </data>
+  <data name="CsvExport_PreparingProgress" xml:space="preserve">
+    <value>Preparando a exportação…</value>
+  </data>
+  <data name="CsvExport_ReadyToast" xml:space="preserve">
+    <value>Exportação pronta</value>
   </data>
   <data name="Show_RemovedToast" xml:space="preserve">
     <value>Série removida.</value>

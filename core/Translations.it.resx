@@ -779,9 +779,6 @@ Esprimi il tuo parere!</value>
     <data name="RateShow_Code_Error" xml:space="preserve">
     <value>Impossibile valutare la SERIE TV ora, riprova più tardi.</value>
   </data>
-    <data name="Search_AddingMediaItem_Text" xml:space="preserve">
-        <value>Questa SerieTv è stata aggiunta..</value>
-    </data>
     <data name="Search_EmptyPlaceholder_Text" xml:space="preserve">
     <value>Sembra che nessuna SERIE TV
 corrisponda a questa ricerca
@@ -1214,9 +1211,6 @@ per questa SERIE TV</value>
   </data>
     <data name="ShowDetails_Code_SeasonHeader_EpisodeLeftPlural" xml:space="preserve">
     <value>{0} ep. rimanenti</value>
-  </data>
-    <data name="ShowDetails_Code_Removing" xml:space="preserve">
-    <value>Rimozione SERIE TV...</value>
   </data>
     <data name="ShowDetails_Code_SeasonGroup_Season" xml:space="preserve">
     <value>STAGIONE</value>
@@ -3135,9 +3129,6 @@ Promemoria: il tuo codice è {0}.</value>
     <data name="Restore_CompleteToast" xml:space="preserve">
       <value>Ripristino completato</value>
     </data>
-    <data name="Restore_FileReceivedToast" xml:space="preserve">
-      <value>File ricevuto, ripristino in corso</value>
-    </data>
     <data name="Settings_AnalyticsHeader" xml:space="preserve">
       <value>TELEMETRIA</value>
     </data>
@@ -4950,6 +4941,33 @@ Una stagione segnata come vista in una volta conta all'ora in cui l'ha segnata.<
   </data>
   <data name="Show_AddedToast" xml:space="preserve">
     <value>Serie aggiunta!</value>
+  </data>
+  <data name="Show_AddingProgress" xml:space="preserve">
+    <value>Aggiunta della serie…</value>
+  </data>
+  <data name="Movie_SetAsWatchedProgress" xml:space="preserve">
+    <value>Segno come visto…</value>
+  </data>
+  <data name="Show_RemovingProgress" xml:space="preserve">
+    <value>Rimozione della serie…</value>
+  </data>
+  <data name="Restore_InProgress" xml:space="preserve">
+    <value>Ripristino in corso…</value>
+  </data>
+  <data name="Backup_PreparingProgress" xml:space="preserve">
+    <value>Preparazione del backup…</value>
+  </data>
+  <data name="Backup_ReadyToast" xml:space="preserve">
+    <value>Backup pronto</value>
+  </data>
+  <data name="AddComment_PostedToast" xml:space="preserve">
+    <value>Commento pubblicato</value>
+  </data>
+  <data name="CsvExport_PreparingProgress" xml:space="preserve">
+    <value>Preparazione dell'esportazione…</value>
+  </data>
+  <data name="CsvExport_ReadyToast" xml:space="preserve">
+    <value>Esportazione pronta</value>
   </data>
   <data name="Show_RemovedToast" xml:space="preserve">
     <value>Serie rimossa.</value>

@@ -795,9 +795,6 @@ Express yourself!</value>
   <data name="RateShow_Code_Error" xml:space="preserve">
     <value>Cannot RATE THIS SHOW right now, please try again later.</value>
   </data>
-  <data name="Search_AddingMediaItem_Text" xml:space="preserve">
-    <value>This element is being added...</value>
-  </data>
   <data name="Search_EmptyPlaceholder_Text" xml:space="preserve">
     <value>It seems that no item
 matches this search
@@ -1263,9 +1260,6 @@ Do you confirm ?
   </data>
   <data name="ShowDetails_Code_SeasonHeader_EpisodeLeftPlural" xml:space="preserve">
     <value>{0} ep. left</value>
-  </data>
-  <data name="ShowDetails_Code_Removing" xml:space="preserve">
-    <value>Removing this show...</value>
   </data>
   <data name="ShowDetails_Code_SeasonGroup_Season" xml:space="preserve">
     <value>SEASON</value>
@@ -2498,9 +2492,6 @@ If you are still unable to access your account after logging in, please contact 
   </data>
   <data name="Settings_RestoreDatabaseButtonTitle" xml:space="preserve">
     <value>Restore a database backup</value>
-  </data>
-  <data name="Restore_FileReceivedToast" xml:space="preserve">
-    <value>File received, starting restoration process</value>
   </data>
   <data name="Restore_CompleteToast" xml:space="preserve">
     <value>Restore completed</value>
@@ -4943,6 +4934,33 @@ A season marked as watched in one go counts at the time you marked it.</value>
   </data>
   <data name="Show_AddedToast" xml:space="preserve">
     <value>Show added!</value>
+  </data>
+  <data name="Show_AddingProgress" xml:space="preserve">
+    <value>Adding show…</value>
+  </data>
+  <data name="Movie_SetAsWatchedProgress" xml:space="preserve">
+    <value>Marking as watched…</value>
+  </data>
+  <data name="Show_RemovingProgress" xml:space="preserve">
+    <value>Removing show…</value>
+  </data>
+  <data name="Restore_InProgress" xml:space="preserve">
+    <value>Restoring…</value>
+  </data>
+  <data name="Backup_PreparingProgress" xml:space="preserve">
+    <value>Preparing the backup…</value>
+  </data>
+  <data name="Backup_ReadyToast" xml:space="preserve">
+    <value>Backup ready</value>
+  </data>
+  <data name="AddComment_PostedToast" xml:space="preserve">
+    <value>Comment posted</value>
+  </data>
+  <data name="CsvExport_PreparingProgress" xml:space="preserve">
+    <value>Preparing the export…</value>
+  </data>
+  <data name="CsvExport_ReadyToast" xml:space="preserve">
+    <value>Export ready</value>
   </data>
   <data name="Show_RemovedToast" xml:space="preserve">
     <value>Show removed.</value>
