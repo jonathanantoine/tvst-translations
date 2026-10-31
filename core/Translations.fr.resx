@@ -6825,6 +6825,66 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
   <data name="EpisodeDetails_WatchedAgain" xml:space="preserve">
     <value>Vu à nouveau</value>
   </data>
+  <data name="Movie_SetAsUnwatched_ConfirmTitle" xml:space="preserve">
+    <value>Marquer ce film comme non vu ?</value>
+  </data>
+  <data name="Movie_SetAsUnwatched_ConfirmContent" xml:space="preserve">
+    <value>La date à laquelle vous l'avez vu sera retirée de votre historique.</value>
+  </data>
+  <data name="Movie_SetAsUnwatched_ConfirmButton" xml:space="preserve">
+    <value>Marquer comme non vu</value>
+  </data>
+  <data name="Movie_Journal_WatchedOnFormat" xml:space="preserve">
+    <value>Vous avez vu ce film {0}.</value>
+  </data>
+  <data name="Movie_Journal_Watched" xml:space="preserve">
+    <value>Vous avez vu ce film.</value>
+  </data>
+  <data name="Movie_Journal_NotWatched" xml:space="preserve">
+    <value>Vous n'avez pas encore vu ce film.</value>
+  </data>
+  <data name="Movie_Journal_DateFormat" xml:space="preserve">
+    <value>le {0}</value>
+  </data>
+  <data name="Movie_Journal_AndSeparator" xml:space="preserve">
+    <value> et </value>
+  </data>
+  <data name="Movie_Journal_AddedFormat" xml:space="preserve">
+    <value>Vous l'avez ajouté {0}.</value>
+  </data>
+  <data name="Movie_Journal_ToWatchlistFormat" xml:space="preserve">
+    <value>à votre liste « À voir »{0}</value>
+  </data>
+  <data name="Movie_Journal_ToWatchlistToRewatchFormat" xml:space="preserve">
+    <value>à votre liste « À voir »{0} pour le revoir</value>
+  </data>
+  <data name="Movie_Journal_ToCollectionFormat" xml:space="preserve">
+    <value>à votre collection{0}</value>
+  </data>
+  <data name="Movie_Journal_WatchedAgain" xml:space="preserve">
+    <value>Je l'ai revu</value>
+  </data>
+  <data name="Movie_Journal_AddToWatchlist" xml:space="preserve">
+    <value>Ajouter à « À voir »</value>
+  </data>
+  <data name="Movie_Journal_RemoveFromWatchlist" xml:space="preserve">
+    <value>Retirer de « À voir »</value>
+  </data>
+  <data name="Movie_Journal_AddToCollection" xml:space="preserve">
+    <value>Ajouter à ma collection</value>
+  </data>
+  <data name="Movie_Journal_RemoveFromCollection" xml:space="preserve">
+    <value>Retirer de ma collection</value>
+  </data>
+  <data name="Movie_RemovePlay_ConfirmTitle" xml:space="preserve">
+    <value>Retirer ce visionnage ?</value>
+  </data>
+  <data name="Movie_RemovePlay_ConfirmContentFormat" xml:space="preserve">
+    <value>Le visionnage du {0} à {1} sera retiré de votre historique.</value>
+  </data>
+  <data name="Movie_RemovePlay_ConfirmButton" xml:space="preserve">
+    <value>Retirer</value>
+  </data>
   <data name="EpisodeDetails_WhereToWatchShort" xml:space="preserve">
     <value>Où regarder</value>
   </data>

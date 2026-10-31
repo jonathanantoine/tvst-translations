@@ -5567,6 +5567,66 @@ If it is still missing after that, you can let the Trakt team know. The email is
   <data name="EpisodeDetails_WatchedAgain" xml:space="preserve">
     <value>Watched again</value>
   </data>
+  <data name="Movie_SetAsUnwatched_ConfirmTitle" xml:space="preserve">
+    <value>Mark this movie as not watched?</value>
+  </data>
+  <data name="Movie_SetAsUnwatched_ConfirmContent" xml:space="preserve">
+    <value>The date you watched it will be removed from your history.</value>
+  </data>
+  <data name="Movie_SetAsUnwatched_ConfirmButton" xml:space="preserve">
+    <value>Mark as not watched</value>
+  </data>
+  <data name="Movie_Journal_WatchedOnFormat" xml:space="preserve">
+    <value>You watched this movie {0}.</value>
+  </data>
+  <data name="Movie_Journal_Watched" xml:space="preserve">
+    <value>You watched this movie.</value>
+  </data>
+  <data name="Movie_Journal_NotWatched" xml:space="preserve">
+    <value>You haven't watched this movie yet.</value>
+  </data>
+  <data name="Movie_Journal_DateFormat" xml:space="preserve">
+    <value>on {0}</value>
+  </data>
+  <data name="Movie_Journal_AndSeparator" xml:space="preserve">
+    <value> and </value>
+  </data>
+  <data name="Movie_Journal_AddedFormat" xml:space="preserve">
+    <value>You added it {0}.</value>
+  </data>
+  <data name="Movie_Journal_ToWatchlistFormat" xml:space="preserve">
+    <value>to your watchlist{0}</value>
+  </data>
+  <data name="Movie_Journal_ToWatchlistToRewatchFormat" xml:space="preserve">
+    <value>to your watchlist{0} to watch it again</value>
+  </data>
+  <data name="Movie_Journal_ToCollectionFormat" xml:space="preserve">
+    <value>to your collection{0}</value>
+  </data>
+  <data name="Movie_Journal_WatchedAgain" xml:space="preserve">
+    <value>I watched it again</value>
+  </data>
+  <data name="Movie_Journal_AddToWatchlist" xml:space="preserve">
+    <value>Add to watchlist</value>
+  </data>
+  <data name="Movie_Journal_RemoveFromWatchlist" xml:space="preserve">
+    <value>Remove from watchlist</value>
+  </data>
+  <data name="Movie_Journal_AddToCollection" xml:space="preserve">
+    <value>Add to collection</value>
+  </data>
+  <data name="Movie_Journal_RemoveFromCollection" xml:space="preserve">
+    <value>Remove from collection</value>
+  </data>
+  <data name="Movie_RemovePlay_ConfirmTitle" xml:space="preserve">
+    <value>Remove this viewing?</value>
+  </data>
+  <data name="Movie_RemovePlay_ConfirmContentFormat" xml:space="preserve">
+    <value>Your viewing of {0} at {1} will be removed from your history.</value>
+  </data>
+  <data name="Movie_RemovePlay_ConfirmButton" xml:space="preserve">
+    <value>Remove</value>
+  </data>
   <data name="EpisodeDetails_WhereToWatchShort" xml:space="preserve">
     <value>Where to watch</value>
   </data>

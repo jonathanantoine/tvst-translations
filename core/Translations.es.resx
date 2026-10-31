@@ -5600,6 +5600,66 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
   <data name="EpisodeDetails_WatchedAgain" xml:space="preserve">
     <value>Visto de nuevo</value>
   </data>
+  <data name="Movie_SetAsUnwatched_ConfirmTitle" xml:space="preserve">
+    <value>¿Marcar esta película como no vista?</value>
+  </data>
+  <data name="Movie_SetAsUnwatched_ConfirmContent" xml:space="preserve">
+    <value>La fecha en que la viste se eliminará de tu historial.</value>
+  </data>
+  <data name="Movie_SetAsUnwatched_ConfirmButton" xml:space="preserve">
+    <value>Marcar como no vista</value>
+  </data>
+  <data name="Movie_Journal_WatchedOnFormat" xml:space="preserve">
+    <value>Viste esta película {0}.</value>
+  </data>
+  <data name="Movie_Journal_Watched" xml:space="preserve">
+    <value>Viste esta película.</value>
+  </data>
+  <data name="Movie_Journal_NotWatched" xml:space="preserve">
+    <value>Todavía no has visto esta película.</value>
+  </data>
+  <data name="Movie_Journal_DateFormat" xml:space="preserve">
+    <value>el {0}</value>
+  </data>
+  <data name="Movie_Journal_AndSeparator" xml:space="preserve">
+    <value> y </value>
+  </data>
+  <data name="Movie_Journal_AddedFormat" xml:space="preserve">
+    <value>La añadiste {0}.</value>
+  </data>
+  <data name="Movie_Journal_ToWatchlistFormat" xml:space="preserve">
+    <value>a tu watchlist{0}</value>
+  </data>
+  <data name="Movie_Journal_ToWatchlistToRewatchFormat" xml:space="preserve">
+    <value>a tu watchlist{0} para volver a verla</value>
+  </data>
+  <data name="Movie_Journal_ToCollectionFormat" xml:space="preserve">
+    <value>a tu colección{0}</value>
+  </data>
+  <data name="Movie_Journal_WatchedAgain" xml:space="preserve">
+    <value>La he vuelto a ver</value>
+  </data>
+  <data name="Movie_Journal_AddToWatchlist" xml:space="preserve">
+    <value>Añadir a la watchlist</value>
+  </data>
+  <data name="Movie_Journal_RemoveFromWatchlist" xml:space="preserve">
+    <value>Quitar de la watchlist</value>
+  </data>
+  <data name="Movie_Journal_AddToCollection" xml:space="preserve">
+    <value>Añadir a mi colección</value>
+  </data>
+  <data name="Movie_Journal_RemoveFromCollection" xml:space="preserve">
+    <value>Quitar de mi colección</value>
+  </data>
+  <data name="Movie_RemovePlay_ConfirmTitle" xml:space="preserve">
+    <value>¿Quitar este visionado?</value>
+  </data>
+  <data name="Movie_RemovePlay_ConfirmContentFormat" xml:space="preserve">
+    <value>El visionado del {0} a las {1} se quitará de tu historial.</value>
+  </data>
+  <data name="Movie_RemovePlay_ConfirmButton" xml:space="preserve">
+    <value>Quitar</value>
+  </data>
   <data name="EpisodeDetails_WhereToWatchShort" xml:space="preserve">
     <value>Dónde verlo</value>
   </data>
