@@ -7182,4 +7182,10 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
   <data name="Settings_UITheme_Chooser_Subtitle" xml:space="preserve">
     <value>Automatique : foncé ou clair, comme votre appareil.</value>
   </data>
+  <data name="Settings_Display_Code_SortOption_FirstAired" xml:space="preserve">
+    <value>Première diffusion (plus ancienne d'abord)</value>
+  </data>
+  <data name="Settings_Display_Code_SortOption_FirstAiredReverse" xml:space="preserve">
+    <value>Première diffusion (plus récente d'abord)</value>
+  </data>
 </root>

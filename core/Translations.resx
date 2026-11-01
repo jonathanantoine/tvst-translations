@@ -5924,4 +5924,10 @@ If it is still missing after that, you can let the Trakt team know. The email is
   <data name="Settings_UITheme_Chooser_Subtitle" xml:space="preserve">
     <value>Automatic: dark or light, matching your device.</value>
   </data>
+  <data name="Settings_Display_Code_SortOption_FirstAired" xml:space="preserve">
+    <value>First aired (oldest first)</value>
+  </data>
+  <data name="Settings_Display_Code_SortOption_FirstAiredReverse" xml:space="preserve">
+    <value>First aired (newest first)</value>
+  </data>
 </root>

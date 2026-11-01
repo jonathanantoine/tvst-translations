@@ -5960,4 +5960,10 @@ Se depois disso ele ainda estiver faltando, você pode avisar a equipe do Trakt.
   <data name="Settings_UITheme_Chooser_Subtitle" xml:space="preserve">
     <value>Automático: escuro ou claro, como o seu dispositivo.</value>
   </data>
+  <data name="Settings_Display_Code_SortOption_FirstAired" xml:space="preserve">
+    <value>Data de estreia (mais antiga primeiro)</value>
+  </data>
+  <data name="Settings_Display_Code_SortOption_FirstAiredReverse" xml:space="preserve">
+    <value>Data de estreia (mais recente primeiro)</value>
+  </data>
 </root>

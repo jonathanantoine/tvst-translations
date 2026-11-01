@@ -7267,4 +7267,10 @@ Se depois disso continuar a faltar, pode avisar a equipa do Trakt. O e-mail já 
   <data name="Settings_UITheme_Chooser_Subtitle" xml:space="preserve">
     <value>Automático: escuro ou claro, como o seu dispositivo.</value>
   </data>
+  <data name="Settings_Display_Code_SortOption_FirstAired" xml:space="preserve">
+    <value>Primeira emissão (mais antiga primeiro)</value>
+  </data>
+  <data name="Settings_Display_Code_SortOption_FirstAiredReverse" xml:space="preserve">
+    <value>Primeira emissão (mais recente primeiro)</value>
+  </data>
 </root>

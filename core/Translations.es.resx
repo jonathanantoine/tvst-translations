@@ -5957,4 +5957,10 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
   <data name="Settings_UITheme_Chooser_Subtitle" xml:space="preserve">
     <value>Automático: oscuro o claro, como tu dispositivo.</value>
   </data>
+  <data name="Settings_Display_Code_SortOption_FirstAired" xml:space="preserve">
+    <value>Fecha de estreno (más antigua primero)</value>
+  </data>
+  <data name="Settings_Display_Code_SortOption_FirstAiredReverse" xml:space="preserve">
+    <value>Fecha de estreno (más reciente primero)</value>
+  </data>
 </root>
