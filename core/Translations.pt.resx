@@ -4392,7 +4392,7 @@ Confirma?</value>
         <value>Mostra os primeiros caracteres da sua nota pessoal.</value>
     </data>
   <data name="ShowCommentsHeader_Sentiment_Header" xml:space="preserve">
-        <value>Sentimento da comunidade</value>
+        <value>O que dizem os espectadores</value>
     </data>
   <data name="ShowCommentsHeader_Comments_Header" xml:space="preserve">
         <value>Comentários</value>
@@ -7284,5 +7284,11 @@ Se depois disso continuar a faltar, pode avisar a equipa do Trakt. O e-mail já 
   </data>
   <data name="Settings_Display_Code_SortOption_FirstAiredReverse" xml:space="preserve">
     <value>Primeira emissão (mais recente primeiro)</value>
+  </data>
+  <data name="Comments_Header_CountFormat_Plural" xml:space="preserve">
+    <value>{0} comentários</value>
+  </data>
+  <data name="Comments_Header_CountFormat_Single" xml:space="preserve">
+    <value>{0} comentário</value>
   </data>
 </root>

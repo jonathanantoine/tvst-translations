@@ -3147,7 +3147,7 @@ Do you confirm?</value>
       <value>Rent</value>
   </data>
   <data name="ShowCommentsHeader_Sentiment_Header" xml:space="preserve">
-      <value>Community feedback</value>
+      <value>What viewers say</value>
   </data>
   <data name="ShowCommentsHeader_Comments_Header" xml:space="preserve">
       <value>Comments</value>
@@ -5941,5 +5941,11 @@ If it is still missing after that, you can let the Trakt team know. The email is
   </data>
   <data name="Settings_Display_Code_SortOption_FirstAiredReverse" xml:space="preserve">
     <value>First aired (newest first)</value>
+  </data>
+  <data name="Comments_Header_CountFormat_Plural" xml:space="preserve">
+    <value>{0} comments</value>
+  </data>
+  <data name="Comments_Header_CountFormat_Single" xml:space="preserve">
+    <value>{0} comment</value>
   </data>
 </root>

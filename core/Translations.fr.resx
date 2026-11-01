@@ -4349,10 +4349,10 @@ Confirmez-vous ?</value>
       <value>Affiche les premiers caractères de votre note personnelle.</value>
   </data>
   <data name="ShowCommentsHeader_Sentiment_Header" xml:space="preserve">
-      <value>Perception de la communauté</value>
+      <value>Ce qu'en disent les spectateurs</value>
   </data>
   <data name="ShowCommentsHeader_Comments_Header" xml:space="preserve">
-      <value>Avis</value>
+      <value>Commentaires</value>
   </data>
   <data name="PhotoGallery_SetAsPreferredThumbnail" xml:space="preserve">
       <value>Utiliser comme miniature</value>
@@ -7199,5 +7199,11 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
   </data>
   <data name="Settings_Display_Code_SortOption_FirstAiredReverse" xml:space="preserve">
     <value>Première diffusion (plus récente d'abord)</value>
+  </data>
+  <data name="Comments_Header_CountFormat_Plural" xml:space="preserve">
+    <value>{0} commentaires</value>
+  </data>
+  <data name="Comments_Header_CountFormat_Single" xml:space="preserve">
+    <value>{0} commentaire</value>
   </data>
 </root>

@@ -3082,7 +3082,7 @@ Si desea dar un impulso adicional, el enlace de donación está aquí y siempre 
         <value>Muestra los primeros caracteres de tu nota personal.</value>
     </data>
     <data name="ShowCommentsHeader_Sentiment_Header" xml:space="preserve">
-        <value>Sentimiento de la comunidad</value>
+        <value>Lo que dicen los espectadores</value>
     </data>
     <data name="ShowCommentsHeader_Comments_Header" xml:space="preserve">
         <value>Comentarios</value>
@@ -5974,5 +5974,11 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
   </data>
   <data name="Settings_Display_Code_SortOption_FirstAiredReverse" xml:space="preserve">
     <value>Fecha de estreno (más reciente primero)</value>
+  </data>
+  <data name="Comments_Header_CountFormat_Plural" xml:space="preserve">
+    <value>{0} comentarios</value>
+  </data>
+  <data name="Comments_Header_CountFormat_Single" xml:space="preserve">
+    <value>{0} comentario</value>
   </data>
 </root>
