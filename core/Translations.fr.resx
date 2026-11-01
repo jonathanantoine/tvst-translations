@@ -7206,4 +7206,40 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
   <data name="Comments_Header_CountFormat_Single" xml:space="preserve">
     <value>{0} commentaire</value>
   </data>
+  <data name="CommunityFeedback_Subtitle_PluralFormat" xml:space="preserve">
+    <value>Résumé par Trakt de {0} commentaires, en {1}</value>
+  </data>
+  <data name="CommunityFeedback_Subtitle_SingleFormat" xml:space="preserve">
+    <value>Résumé par Trakt d'un commentaire, en {1}</value>
+  </data>
+  <data name="CommunityFeedback_Positive_Plural" xml:space="preserve">
+    <value>positifs</value>
+  </data>
+  <data name="CommunityFeedback_Positive_Single" xml:space="preserve">
+    <value>positif</value>
+  </data>
+  <data name="CommunityFeedback_Negative_Plural" xml:space="preserve">
+    <value>négatifs</value>
+  </data>
+  <data name="CommunityFeedback_Negative_Single" xml:space="preserve">
+    <value>négatif</value>
+  </data>
+  <data name="CommunityFeedback_Neutral_Plural" xml:space="preserve">
+    <value>neutres</value>
+  </data>
+  <data name="CommunityFeedback_Neutral_Single" xml:space="preserve">
+    <value>neutre</value>
+  </data>
+  <data name="CommunityFeedback_Liked" xml:space="preserve">
+    <value>Ce qui plaît</value>
+  </data>
+  <data name="CommunityFeedback_Disliked" xml:space="preserve">
+    <value>Ce qui déplaît</value>
+  </data>
+  <data name="CommunityFeedback_PointComments_PluralFormat" xml:space="preserve">
+    <value>{0} commentaires le disent</value>
+  </data>
+  <data name="CommunityFeedback_PointComments_SingleFormat" xml:space="preserve">
+    <value>{0} commentaire le dit</value>
+  </data>
 </root>
