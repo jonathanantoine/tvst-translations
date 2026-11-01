@@ -6843,6 +6843,15 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
   <data name="Movie_Journal_Header" xml:space="preserve">
     <value>Votre historique</value>
   </data>
+  <data name="Show_Journal_AddedFormat" xml:space="preserve">
+    <value>Vous avez ajouté cette série {0}.</value>
+  </data>
+  <data name="Show_Journal_StartedFormat" xml:space="preserve">
+    <value>Vous avez commencé cette série {0}.</value>
+  </data>
+  <data name="Show_Journal_LastWatchedFormat" xml:space="preserve">
+    <value>Dernier épisode vu {0}.</value>
+  </data>
   <data name="Movie_Journal_NotWatched" xml:space="preserve">
     <value>Vous n'avez pas encore vu ce film.</value>
   </data>
