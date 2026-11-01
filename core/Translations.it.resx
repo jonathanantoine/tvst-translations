@@ -5589,6 +5589,9 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
   <data name="Movie_Journal_Watched" xml:space="preserve">
     <value>Hai visto questo film.</value>
   </data>
+  <data name="Movie_Journal_Header" xml:space="preserve">
+    <value>La tua cronologia</value>
+  </data>
   <data name="Movie_Journal_NotWatched" xml:space="preserve">
     <value>Non hai ancora visto questo film.</value>
   </data>

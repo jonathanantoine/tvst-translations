@@ -6925,6 +6925,9 @@ Se depois disso continuar a faltar, pode avisar a equipa do Trakt. O e-mail já 
   <data name="Movie_Journal_Watched" xml:space="preserve">
     <value>Viu este filme.</value>
   </data>
+  <data name="Movie_Journal_Header" xml:space="preserve">
+    <value>O seu histórico</value>
+  </data>
   <data name="Movie_Journal_NotWatched" xml:space="preserve">
     <value>Ainda não viu este filme.</value>
   </data>

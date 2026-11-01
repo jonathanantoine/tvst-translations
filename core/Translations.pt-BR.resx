@@ -5618,6 +5618,9 @@ Se depois disso ele ainda estiver faltando, você pode avisar a equipe do Trakt.
   <data name="Movie_Journal_Watched" xml:space="preserve">
     <value>Você assistiu a este filme.</value>
   </data>
+  <data name="Movie_Journal_Header" xml:space="preserve">
+    <value>Seu histórico</value>
+  </data>
   <data name="Movie_Journal_NotWatched" xml:space="preserve">
     <value>Você ainda não assistiu a este filme.</value>
   </data>

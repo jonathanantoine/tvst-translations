@@ -5615,6 +5615,9 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
   <data name="Movie_Journal_Watched" xml:space="preserve">
     <value>Viste esta película.</value>
   </data>
+  <data name="Movie_Journal_Header" xml:space="preserve">
+    <value>Tu historial</value>
+  </data>
   <data name="Movie_Journal_NotWatched" xml:space="preserve">
     <value>Todavía no has visto esta película.</value>
   </data>

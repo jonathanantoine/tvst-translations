@@ -5582,6 +5582,9 @@ If it is still missing after that, you can let the Trakt team know. The email is
   <data name="Movie_Journal_Watched" xml:space="preserve">
     <value>You watched this movie.</value>
   </data>
+  <data name="Movie_Journal_Header" xml:space="preserve">
+    <value>Your history</value>
+  </data>
   <data name="Movie_Journal_NotWatched" xml:space="preserve">
     <value>You haven't watched this movie yet.</value>
   </data>
