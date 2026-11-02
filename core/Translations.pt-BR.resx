@@ -6020,4 +6020,70 @@ Se depois disso ele ainda estiver faltando, você pode avisar a equipe do Trakt.
   <data name="CommunityFeedback_PointComments_SingleFormat" xml:space="preserve">
     <value>{0} comentário diz isso</value>
   </data>
+  <data name="Comments_Report_MenuItem" xml:space="preserve">
+    <value>Denunciar este comentário</value>
+  </data>
+  <data name="Comments_Report_ReasonTitle" xml:space="preserve">
+    <value>Por que denunciar este comentário?</value>
+  </data>
+  <data name="Comments_Report_ReasonSubtitle" xml:space="preserve">
+    <value>A equipe do Trakt vai analisá-lo e removê-lo se necessário.</value>
+  </data>
+  <data name="Comments_Report_Reason_Spoilers" xml:space="preserve">
+    <value>Contém spoilers</value>
+  </data>
+  <data name="Comments_Report_Reason_Abusive" xml:space="preserve">
+    <value>Assédio ou insultos</value>
+  </data>
+  <data name="Comments_Report_Reason_Spam" xml:space="preserve">
+    <value>Spam ou propaganda</value>
+  </data>
+  <data name="Comments_Report_Reason_Bigotry" xml:space="preserve">
+    <value>Discurso de ódio ou discriminação</value>
+  </data>
+  <data name="Comments_Report_Reason_Political" xml:space="preserve">
+    <value>Ataque político</value>
+  </data>
+  <data name="Comments_Report_Reason_OffTopic" xml:space="preserve">
+    <value>Fora do assunto</value>
+  </data>
+  <data name="Comments_Report_Reason_Support" xml:space="preserve">
+    <value>Pergunta sobre o uso do app</value>
+  </data>
+  <data name="Comments_Report_Reason_TooShort" xml:space="preserve">
+    <value>Curto demais para ser útil</value>
+  </data>
+  <data name="Comments_Report_Reason_Other" xml:space="preserve">
+    <value>Outro motivo</value>
+  </data>
+  <data name="Comments_Report_OtherSubtitle" xml:space="preserve">
+    <value>Explique o que está errado.</value>
+  </data>
+  <data name="Comments_Report_Sent" xml:space="preserve">
+    <value>Comentário denunciado ao Trakt</value>
+  </data>
+  <data name="Comments_Report_AlreadySent" xml:space="preserve">
+    <value>Você já denunciou este comentário</value>
+  </data>
+  <data name="AddComment_Header" xml:space="preserve">
+    <value>Seu comentário</value>
+  </data>
+  <data name="AddComment_FieldPlaceholder" xml:space="preserve">
+    <value>Escreva seu comentário…</value>
+  </data>
+  <data name="AddComment_RulesHint" xml:space="preserve">
+    <value>Público no Trakt: em inglês, sem pedidos de ajuda.</value>
+  </data>
+  <data name="AddComment_WordCountFormat" xml:space="preserve">
+    <value>{0}/{1} palavras no mínimo</value>
+  </data>
+  <data name="AddComment_ContainsSpoilers" xml:space="preserve">
+    <value>Contém spoilers</value>
+  </data>
+  <data name="AddComment_SpoilerDescription" xml:space="preserve">
+    <value>Esconde seu comentário atrás de um aviso.</value>
+  </data>
+  <data name="AddComment_PostButton" xml:space="preserve">
+    <value>Publicar</value>
+  </data>
 </root>
