@@ -2487,6 +2487,12 @@ If you are still unable to access your account after logging in, please contact 
     <value>Choose the settings file to restore
 </value>
   </data>
+  <data name="RestoreSettings_CsvFile_Title" xml:space="preserve">
+    <value>This isn't a settings backup</value>
+  </data>
+  <data name="RestoreSettings_CsvFile_Message" xml:space="preserve">
+    <value>This file is a CSV export. It doesn't restore the app, it's for importing your history into Trakt.</value>
+  </data>
   <data name="Settings_RestoreSettingsButtonTitle" xml:space="preserve">
     <value>Restore a settings backup</value>
   </data>

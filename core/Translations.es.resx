@@ -2373,6 +2373,12 @@ Si aún no puedes acceder a tu cuenta después de iniciar sesión, contáctanos 
     <data name="RestoreSettings_ChooserTitle" xml:space="preserve">
         <value>Elija el archivo de configuración para restaurar</value>
     </data>
+    <data name="RestoreSettings_CsvFile_Title" xml:space="preserve">
+        <value>Esto no es una copia de seguridad de la configuración</value>
+    </data>
+    <data name="RestoreSettings_CsvFile_Message" xml:space="preserve">
+        <value>Este archivo es una exportación CSV. No restaura la app, sirve para importar su historial a Trakt.</value>
+    </data>
     <data name="Settings_RestoreSettingsButtonTitle" xml:space="preserve">
         <value>Restaurar una copia de seguridad de la configuración</value>
     </data>

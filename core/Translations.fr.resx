@@ -3613,6 +3613,12 @@ Si vous ne pouvez toujours pas accéder à votre compte après la connexion, veu
   <data name="RestoreSettings_ChooserTitle" xml:space="preserve">
         <value>Choisissez le fichier de paramètres à restaurer</value>
     </data>
+  <data name="RestoreSettings_CsvFile_Title" xml:space="preserve">
+    <value>Ce n'est pas une sauvegarde des paramètres</value>
+  </data>
+  <data name="RestoreSettings_CsvFile_Message" xml:space="preserve">
+    <value>Ce fichier est un export CSV. Il ne restaure pas l'app, il sert à importer votre historique dans Trakt.</value>
+  </data>
   <data name="Settings_RestoreSettingsButtonTitle" xml:space="preserve">
         <value>Restaurer une sauvegarde des paramètres</value>
     </data>

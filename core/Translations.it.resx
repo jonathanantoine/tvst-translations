@@ -2344,6 +2344,12 @@ Se non riesci ancora ad accedere al tuo account dopo l'accesso, contattaci Trakt
     <data name="RestoreSettings_ChooserTitle" xml:space="preserve">
         <value>Scegli il file delle impostazioni da ripristinare</value>
     </data>
+    <data name="RestoreSettings_CsvFile_Title" xml:space="preserve">
+        <value>Questo non è un backup delle impostazioni</value>
+    </data>
+    <data name="RestoreSettings_CsvFile_Message" xml:space="preserve">
+        <value>Questo file è un'esportazione CSV. Non ripristina l'app, serve a importare la tua cronologia su Trakt.</value>
+    </data>
     <data name="Settings_RestoreSettingsButtonTitle" xml:space="preserve">
         <value>Ripristina un backup delle impostazioni</value>
     </data>

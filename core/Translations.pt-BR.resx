@@ -2353,6 +2353,12 @@ Se ainda não conseguir acessar sua conta após o login, entre em contato Trakt 
     <data name="RestoreSettings_ChooserTitle" xml:space="preserve">
         <value>Escolha o arquivo de configurações para restaurar</value>
     </data>
+    <data name="RestoreSettings_CsvFile_Title" xml:space="preserve">
+        <value>Este não é um backup de configurações</value>
+    </data>
+    <data name="RestoreSettings_CsvFile_Message" xml:space="preserve">
+        <value>Este arquivo é uma exportação CSV. Ele não restaura o app, serve para importar seu histórico para o Trakt.</value>
+    </data>
     <data name="Settings_RestoreSettingsButtonTitle" xml:space="preserve">
         <value>Restaurar um backup de configurações
 </value>
