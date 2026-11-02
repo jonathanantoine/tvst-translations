@@ -5962,10 +5962,16 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
     <value>{0} commento</value>
   </data>
   <data name="CommunityFeedback_Subtitle_PluralFormat" xml:space="preserve">
-    <value>Riassunto di Trakt su {0} commenti, a {1}</value>
+    <value>Riassunto automatico di {0} commenti, a {1}</value>
   </data>
   <data name="CommunityFeedback_Subtitle_SingleFormat" xml:space="preserve">
-    <value>Riassunto di Trakt su un commento, a {1}</value>
+    <value>Riassunto automatico di un commento, a {1}</value>
+  </data>
+  <data name="CommunityFeedback_Subtitle_NotFromComments" xml:space="preserve">
+    <value>Riassunto generato automaticamente</value>
+  </data>
+  <data name="CommunityFeedback_Title_NotFromComments" xml:space="preserve">
+    <value>In breve</value>
   </data>
   <data name="CommunityFeedback_Positive_Plural" xml:space="preserve">
     <value>positivi</value>
@@ -6062,5 +6068,74 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
   </data>
   <data name="AddComment_PostButton" xml:space="preserve">
     <value>Pubblica</value>
+  </data>
+  <data name="Settings_HomeGroupOrder_Title" xml:space="preserve">
+    <value>Ordine dei gruppi</value>
+  </data>
+  <data name="Settings_HomeGroupOrder_Default" xml:space="preserve">
+    <value>Ordine predefinito</value>
+  </data>
+  <data name="Settings_HomeGroupOrder_Custom" xml:space="preserve">
+    <value>Ordine personalizzato</value>
+  </data>
+  <data name="Settings_HomeGroupOrder_Explanation" xml:space="preserve">
+    <value>Trascina un gruppo per spostarlo nella schermata iniziale.</value>
+  </data>
+  <data name="Settings_HomeGroupOrder_Reset" xml:space="preserve">
+    <value>Ripristina l'ordine predefinito</value>
+  </data>
+  <data name="Settings_HomeGroupOrder_MoveUp" xml:space="preserve">
+    <value>Salire di una posizione</value>
+  </data>
+  <data name="Settings_HomeGroupOrder_MoveDown" xml:space="preserve">
+    <value>Scendere di una posizione</value>
+  </data>
+  <data name="Settings_HomeGroupOrder_NotOnHomeHeader" xml:space="preserve">
+    <value>Non nella schermata iniziale</value>
+  </data>
+  <data name="Settings_HomeGroupOrder_InGroupFormat" xml:space="preserve">
+    <value>Ora in «{0}»</value>
+  </data>
+  <data name="Settings_HomeGroupOrder_WithOtherShows" xml:space="preserve">
+    <value>Ora insieme alle sue altre serie</value>
+  </data>
+  <data name="Settings_HomeGroupOrder_ExcludedByFilters" xml:space="preserve">
+    <value>Escluse dai filtri della schermata iniziale</value>
+  </data>
+  <data name="Settings_HomeGroupOrder_Add" xml:space="preserve">
+    <value>Aggiungi alla schermata iniziale</value>
+  </data>
+  <data name="Settings_HomeGroupOrder_Remove" xml:space="preserve">
+    <value>Rimuovi dalla schermata iniziale</value>
+  </data>
+  <data name="Home_UserStats_Creators_GroupHeader_Text" xml:space="preserve">
+    <value>I creatori delle tue serie</value>
+  </data>
+  <data name="Home_UserStats_Creators_WatchedFormat" xml:space="preserve">
+    <value>{0} serie viste</value>
+  </data>
+  <data name="Home_UserStats_Creators_WatchedWithAverageFormat" xml:space="preserve">
+    <value>{0} serie viste · il tuo voto medio {1}</value>
+  </data>
+  <data name="Home_UserStats_Creators_OneToStartFormat" xml:space="preserve">
+    <value>1 serie da iniziare: {0}</value>
+  </data>
+  <data name="Global_NamesJoinFormat" xml:space="preserve">
+    <value>{0} e {1}</value>
+  </data>
+  <data name="ShowDetails_SameCreator_Header_Single" xml:space="preserve">
+    <value>Dello stesso creatore</value>
+  </data>
+  <data name="ShowDetails_SameCreator_Header_Plural" xml:space="preserve">
+    <value>Degli stessi creatori</value>
+  </data>
+  <data name="ShowDetails_SameCreator_ToStart" xml:space="preserve">
+    <value>Da iniziare</value>
+  </data>
+  <data name="ShowDetails_SameCreator_ToContinue" xml:space="preserve">
+    <value>Da continuare</value>
+  </data>
+  <data name="ShowDetails_SameCreator_ChooserTitle" xml:space="preserve">
+    <value>Vedi tutte le serie di…</value>
   </data>
 </root>

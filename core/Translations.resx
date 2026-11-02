@@ -5955,10 +5955,16 @@ If it is still missing after that, you can let the Trakt team know. The email is
     <value>{0} comment</value>
   </data>
   <data name="CommunityFeedback_Subtitle_PluralFormat" xml:space="preserve">
-    <value>Summarized by Trakt from {0} comments, in {1}</value>
+    <value>Automatic summary of {0} comments, in {1}</value>
   </data>
   <data name="CommunityFeedback_Subtitle_SingleFormat" xml:space="preserve">
-    <value>Summarized by Trakt from one comment, in {1}</value>
+    <value>Automatic summary of one comment, in {1}</value>
+  </data>
+  <data name="CommunityFeedback_Subtitle_NotFromComments" xml:space="preserve">
+    <value>Automatically generated summary</value>
+  </data>
+  <data name="CommunityFeedback_Title_NotFromComments" xml:space="preserve">
+    <value>In short</value>
   </data>
   <data name="CommunityFeedback_Positive_Plural" xml:space="preserve">
     <value>positive</value>
@@ -6055,5 +6061,74 @@ If it is still missing after that, you can let the Trakt team know. The email is
   </data>
   <data name="AddComment_PostButton" xml:space="preserve">
     <value>Post</value>
+  </data>
+  <data name="Settings_HomeGroupOrder_Title" xml:space="preserve">
+    <value>Group order</value>
+  </data>
+  <data name="Settings_HomeGroupOrder_Default" xml:space="preserve">
+    <value>Default order</value>
+  </data>
+  <data name="Settings_HomeGroupOrder_Custom" xml:space="preserve">
+    <value>Custom order</value>
+  </data>
+  <data name="Settings_HomeGroupOrder_Explanation" xml:space="preserve">
+    <value>Drag a group to move it on the Home screen.</value>
+  </data>
+  <data name="Settings_HomeGroupOrder_Reset" xml:space="preserve">
+    <value>Reset to default order</value>
+  </data>
+  <data name="Settings_HomeGroupOrder_MoveUp" xml:space="preserve">
+    <value>Move up one place</value>
+  </data>
+  <data name="Settings_HomeGroupOrder_MoveDown" xml:space="preserve">
+    <value>Move down one place</value>
+  </data>
+  <data name="Settings_HomeGroupOrder_NotOnHomeHeader" xml:space="preserve">
+    <value>Not on the Home screen</value>
+  </data>
+  <data name="Settings_HomeGroupOrder_InGroupFormat" xml:space="preserve">
+    <value>Currently in “{0}”</value>
+  </data>
+  <data name="Settings_HomeGroupOrder_WithOtherShows" xml:space="preserve">
+    <value>Currently with your other shows</value>
+  </data>
+  <data name="Settings_HomeGroupOrder_ExcludedByFilters" xml:space="preserve">
+    <value>Left out by the Home screen filters</value>
+  </data>
+  <data name="Settings_HomeGroupOrder_Add" xml:space="preserve">
+    <value>Add to the Home screen</value>
+  </data>
+  <data name="Settings_HomeGroupOrder_Remove" xml:space="preserve">
+    <value>Remove from the Home screen</value>
+  </data>
+  <data name="Home_UserStats_Creators_GroupHeader_Text" xml:space="preserve">
+    <value>Creators of your shows</value>
+  </data>
+  <data name="Home_UserStats_Creators_WatchedFormat" xml:space="preserve">
+    <value>{0} shows watched</value>
+  </data>
+  <data name="Home_UserStats_Creators_WatchedWithAverageFormat" xml:space="preserve">
+    <value>{0} shows watched · your average rating {1}</value>
+  </data>
+  <data name="Home_UserStats_Creators_OneToStartFormat" xml:space="preserve">
+    <value>1 show to start: {0}</value>
+  </data>
+  <data name="Global_NamesJoinFormat" xml:space="preserve">
+    <value>{0} and {1}</value>
+  </data>
+  <data name="ShowDetails_SameCreator_Header_Single" xml:space="preserve">
+    <value>From the same creator</value>
+  </data>
+  <data name="ShowDetails_SameCreator_Header_Plural" xml:space="preserve">
+    <value>From the same creators</value>
+  </data>
+  <data name="ShowDetails_SameCreator_ToStart" xml:space="preserve">
+    <value>To start</value>
+  </data>
+  <data name="ShowDetails_SameCreator_ToContinue" xml:space="preserve">
+    <value>To continue</value>
+  </data>
+  <data name="ShowDetails_SameCreator_ChooserTitle" xml:space="preserve">
+    <value>See every show by…</value>
   </data>
 </root>

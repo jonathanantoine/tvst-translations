@@ -7298,10 +7298,16 @@ Se depois disso continuar a faltar, pode avisar a equipa do Trakt. O e-mail já 
     <value>{0} comentário</value>
   </data>
   <data name="CommunityFeedback_Subtitle_PluralFormat" xml:space="preserve">
-    <value>Resumo do Trakt de {0} comentários, em {1}</value>
+    <value>Resumo automático de {0} comentários, em {1}</value>
   </data>
   <data name="CommunityFeedback_Subtitle_SingleFormat" xml:space="preserve">
-    <value>Resumo do Trakt de um comentário, em {1}</value>
+    <value>Resumo automático de um comentário, em {1}</value>
+  </data>
+  <data name="CommunityFeedback_Subtitle_NotFromComments" xml:space="preserve">
+    <value>Resumo gerado automaticamente</value>
+  </data>
+  <data name="CommunityFeedback_Title_NotFromComments" xml:space="preserve">
+    <value>Em poucas palavras</value>
   </data>
   <data name="CommunityFeedback_Positive_Plural" xml:space="preserve">
     <value>positivos</value>
@@ -7398,5 +7404,74 @@ Se depois disso continuar a faltar, pode avisar a equipa do Trakt. O e-mail já 
   </data>
   <data name="AddComment_PostButton" xml:space="preserve">
     <value>Publicar</value>
+  </data>
+  <data name="Settings_HomeGroupOrder_Title" xml:space="preserve">
+    <value>Ordem dos grupos</value>
+  </data>
+  <data name="Settings_HomeGroupOrder_Default" xml:space="preserve">
+    <value>Ordem predefinida</value>
+  </data>
+  <data name="Settings_HomeGroupOrder_Custom" xml:space="preserve">
+    <value>Ordem personalizada</value>
+  </data>
+  <data name="Settings_HomeGroupOrder_Explanation" xml:space="preserve">
+    <value>Arraste um grupo para o mover no ecrã inicial.</value>
+  </data>
+  <data name="Settings_HomeGroupOrder_Reset" xml:space="preserve">
+    <value>Repor a ordem predefinida</value>
+  </data>
+  <data name="Settings_HomeGroupOrder_MoveUp" xml:space="preserve">
+    <value>Subir uma posição</value>
+  </data>
+  <data name="Settings_HomeGroupOrder_MoveDown" xml:space="preserve">
+    <value>Descer uma posição</value>
+  </data>
+  <data name="Settings_HomeGroupOrder_NotOnHomeHeader" xml:space="preserve">
+    <value>Fora do ecrã inicial</value>
+  </data>
+  <data name="Settings_HomeGroupOrder_InGroupFormat" xml:space="preserve">
+    <value>Neste momento em «{0}»</value>
+  </data>
+  <data name="Settings_HomeGroupOrder_WithOtherShows" xml:space="preserve">
+    <value>Neste momento com as suas outras séries</value>
+  </data>
+  <data name="Settings_HomeGroupOrder_ExcludedByFilters" xml:space="preserve">
+    <value>Excluídas pelos filtros do ecrã inicial</value>
+  </data>
+  <data name="Settings_HomeGroupOrder_Add" xml:space="preserve">
+    <value>Adicionar ao ecrã inicial</value>
+  </data>
+  <data name="Settings_HomeGroupOrder_Remove" xml:space="preserve">
+    <value>Remover do ecrã inicial</value>
+  </data>
+  <data name="Home_UserStats_Creators_GroupHeader_Text" xml:space="preserve">
+    <value>Os criadores das suas séries</value>
+  </data>
+  <data name="Home_UserStats_Creators_WatchedFormat" xml:space="preserve">
+    <value>{0} séries vistas</value>
+  </data>
+  <data name="Home_UserStats_Creators_WatchedWithAverageFormat" xml:space="preserve">
+    <value>{0} séries vistas · a sua nota média {1}</value>
+  </data>
+  <data name="Home_UserStats_Creators_OneToStartFormat" xml:space="preserve">
+    <value>1 série por começar: {0}</value>
+  </data>
+  <data name="Global_NamesJoinFormat" xml:space="preserve">
+    <value>{0} e {1}</value>
+  </data>
+  <data name="ShowDetails_SameCreator_Header_Single" xml:space="preserve">
+    <value>Do mesmo criador</value>
+  </data>
+  <data name="ShowDetails_SameCreator_Header_Plural" xml:space="preserve">
+    <value>Dos mesmos criadores</value>
+  </data>
+  <data name="ShowDetails_SameCreator_ToStart" xml:space="preserve">
+    <value>Por começar</value>
+  </data>
+  <data name="ShowDetails_SameCreator_ToContinue" xml:space="preserve">
+    <value>Por continuar</value>
+  </data>
+  <data name="ShowDetails_SameCreator_ChooserTitle" xml:space="preserve">
+    <value>Ver todas as séries de…</value>
   </data>
 </root>
