@@ -6076,6 +6076,9 @@ Você quer que o aplicativo desative essa opção na sua conta Trakt? A partir d
   <data name="Home_UserStats_ScreenTime_Period30Days" xml:space="preserve">
     <value>30 dias</value>
   </data>
+  <data name="Home_UserStats_ScreenTime_Period12Months" xml:space="preserve">
+    <value>12 meses</value>
+  </data>
   <data name="Home_UserStats_ScreenTime_RangeFormat" xml:space="preserve">
     <value>de {0} a {1}</value>
   </data>
@@ -6108,6 +6111,9 @@ Você quer que o aplicativo desative essa opção na sua conta Trakt? A partir d
   </data>
   <data name="Home_UserStats_ScreenTime_DeltaCaptionFormat" xml:space="preserve">
     <value>▲ ▼ diferença em relação aos {0} dias anteriores ({1})</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_DeltaCaptionYearFormat" xml:space="preserve">
+    <value>▲ ▼ diferença em relação ao mesmo período um ano antes ({0})</value>
   </data>
   <data name="Home_UserStats_ScreenTime_PeakHours_Header" xml:space="preserve">
     <value>Horas de pico</value>

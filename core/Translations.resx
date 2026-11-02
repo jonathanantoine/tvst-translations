@@ -4733,6 +4733,9 @@ Would you like the app to turn that setting off on your Trakt account? Your view
   <data name="Home_UserStats_ScreenTime_Period30Days" xml:space="preserve">
     <value>30 days</value>
   </data>
+  <data name="Home_UserStats_ScreenTime_Period12Months" xml:space="preserve">
+    <value>12 months</value>
+  </data>
   <data name="Home_UserStats_ScreenTime_RangeFormat" xml:space="preserve">
     <value>{0} to {1}</value>
   </data>
@@ -4765,6 +4768,9 @@ Would you like the app to turn that setting off on your Trakt account? Your view
   </data>
   <data name="Home_UserStats_ScreenTime_DeltaCaptionFormat" xml:space="preserve">
     <value>▲ ▼ compared with the previous {0} days ({1})</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_DeltaCaptionYearFormat" xml:space="preserve">
+    <value>▲ ▼ compared with the same period a year earlier ({0})</value>
   </data>
   <data name="Home_UserStats_ScreenTime_PeakHours_Header" xml:space="preserve">
     <value>Peak hours</value>

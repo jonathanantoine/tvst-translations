@@ -5991,6 +5991,9 @@ Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? V
   <data name="Home_UserStats_ScreenTime_Period30Days" xml:space="preserve">
     <value>30 j</value>
   </data>
+  <data name="Home_UserStats_ScreenTime_Period12Months" xml:space="preserve">
+    <value>12 mois</value>
+  </data>
   <data name="Home_UserStats_ScreenTime_RangeFormat" xml:space="preserve">
     <value>du {0} au {1}</value>
   </data>
@@ -6023,6 +6026,9 @@ Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? V
   </data>
   <data name="Home_UserStats_ScreenTime_DeltaCaptionFormat" xml:space="preserve">
     <value>▲ ▼ écart par rapport aux {0} jours précédents ({1})</value>
+  </data>
+  <data name="Home_UserStats_ScreenTime_DeltaCaptionYearFormat" xml:space="preserve">
+    <value>▲ ▼ écart par rapport à la même période un an plus tôt ({0})</value>
   </data>
   <data name="Home_UserStats_ScreenTime_PeakHours_Header" xml:space="preserve">
     <value>Heures de pointe</value>
