@@ -7414,4 +7414,85 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
   <data name="HomeMovies_DiscoverMoviesLink" xml:space="preserve">
     <value>Découvrir des films</value>
   </data>
+  <data name="WhereToStart_Title" xml:space="preserve">
+    <value>Par où commencer ?</value>
+  </data>
+  <data name="WhereToStart_Sort_PositiveComments" xml:space="preserve">
+    <value>Commentaires positifs</value>
+  </data>
+  <data name="WhereToStart_Sort_BestRating" xml:space="preserve">
+    <value>Meilleure note</value>
+  </data>
+  <data name="WhereToStart_Sort_ShortEpisodes" xml:space="preserve">
+    <value>Épisodes courts</value>
+  </data>
+  <data name="WhereToStart_Sort_ShortShows" xml:space="preserve">
+    <value>Séries courtes</value>
+  </data>
+  <data name="WhereToStart_Filter_OnMyServices" xml:space="preserve">
+    <value>Sur mes plateformes</value>
+  </data>
+  <data name="WhereToStart_Loading" xml:space="preserve">
+    <value>Lecture des commentaires…</value>
+  </data>
+  <data name="WhereToStart_NotEnoughComments" xml:space="preserve">
+    <value>Pas encore assez de commentaires</value>
+  </data>
+  <data name="WhereToStart_Random" xml:space="preserve">
+    <value>Au hasard</value>
+  </data>
+  <data name="WhereToStart_PositiveCommentsFormat" xml:space="preserve">
+    <value>{0} % de commentaires positifs sur {1}</value>
+  </data>
+  <data name="WhereToStart_Status_Airing" xml:space="preserve">
+    <value>En diffusion</value>
+  </data>
+  <data name="WhereToStart_Status_Ended" xml:space="preserve">
+    <value>Diffusion terminée</value>
+  </data>
+  <data name="WhereToStart_UpcomingSeasonFormat" xml:space="preserve">
+    <value>Saison {0} le {1}</value>
+  </data>
+  <data name="WhereToStart_SameCreatorFormat" xml:space="preserve">
+    <value>Du créateur de la série {0}, que vous avez notée {1}</value>
+  </data>
+  <data name="WhereToStart_SeasonRatings_Header" xml:space="preserve">
+    <value>Note par saison</value>
+  </data>
+  <data name="WhereToStart_Trend_Up" xml:space="preserve">
+    <value>Monte au fil des saisons</value>
+  </data>
+  <data name="WhereToStart_Trend_Down" xml:space="preserve">
+    <value>Baisse au fil des saisons</value>
+  </data>
+  <data name="WhereToStart_Trend_Stable" xml:space="preserve">
+    <value>Stable au fil des saisons</value>
+  </data>
+  <data name="WhereToStart_SeasonRatingFormat" xml:space="preserve">
+    <value>Saison {0} : {1}</value>
+  </data>
+  <data name="WhereToStart_SeasonCount_Single" xml:space="preserve">
+    <value>1 saison</value>
+  </data>
+  <data name="WhereToStart_SeasonCount_PluralFormat" xml:space="preserve">
+    <value>{0} saisons</value>
+  </data>
+  <data name="WhereToStart_EpisodesFormat" xml:space="preserve">
+    <value>{0} ép. de {1} min</value>
+  </data>
+  <data name="WhereToStart_EpisodeCountFormat" xml:space="preserve">
+    <value>{0} ép.</value>
+  </data>
+  <data name="WhereToStart_TotalHoursFormat" xml:space="preserve">
+    <value>{0} h</value>
+  </data>
+  <data name="WhereToStart_TotalMinutesFormat" xml:space="preserve">
+    <value>{0} min</value>
+  </data>
+  <data name="WhereToStart_Empty" xml:space="preserve">
+    <value>Aucune série à commencer pour le moment.</value>
+  </data>
+  <data name="WhereToStart_Empty_OnMyServices" xml:space="preserve">
+    <value>Aucune de ces séries n'est sur vos plateformes.</value>
+  </data>
 </root>

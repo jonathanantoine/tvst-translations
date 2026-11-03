@@ -6165,4 +6165,85 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
   <data name="HomeMovies_DiscoverMoviesLink" xml:space="preserve">
     <value>Scopri film</value>
   </data>
+  <data name="WhereToStart_Title" xml:space="preserve">
+    <value>Da dove iniziare?</value>
+  </data>
+  <data name="WhereToStart_Sort_PositiveComments" xml:space="preserve">
+    <value>Commenti positivi</value>
+  </data>
+  <data name="WhereToStart_Sort_BestRating" xml:space="preserve">
+    <value>Voto migliore</value>
+  </data>
+  <data name="WhereToStart_Sort_ShortEpisodes" xml:space="preserve">
+    <value>Episodi brevi</value>
+  </data>
+  <data name="WhereToStart_Sort_ShortShows" xml:space="preserve">
+    <value>Serie brevi</value>
+  </data>
+  <data name="WhereToStart_Filter_OnMyServices" xml:space="preserve">
+    <value>Sulle mie piattaforme</value>
+  </data>
+  <data name="WhereToStart_Loading" xml:space="preserve">
+    <value>Lettura dei commenti…</value>
+  </data>
+  <data name="WhereToStart_NotEnoughComments" xml:space="preserve">
+    <value>Non ci sono ancora abbastanza commenti</value>
+  </data>
+  <data name="WhereToStart_Random" xml:space="preserve">
+    <value>A caso</value>
+  </data>
+  <data name="WhereToStart_PositiveCommentsFormat" xml:space="preserve">
+    <value>{0}% di commenti positivi su {1}</value>
+  </data>
+  <data name="WhereToStart_Status_Airing" xml:space="preserve">
+    <value>In onda</value>
+  </data>
+  <data name="WhereToStart_Status_Ended" xml:space="preserve">
+    <value>Trasmissione conclusa</value>
+  </data>
+  <data name="WhereToStart_UpcomingSeasonFormat" xml:space="preserve">
+    <value>Stagione {0} il {1}</value>
+  </data>
+  <data name="WhereToStart_SameCreatorFormat" xml:space="preserve">
+    <value>Dal creatore di {0}, a cui lei ha dato {1}</value>
+  </data>
+  <data name="WhereToStart_SeasonRatings_Header" xml:space="preserve">
+    <value>Voto per stagione</value>
+  </data>
+  <data name="WhereToStart_Trend_Up" xml:space="preserve">
+    <value>Sale stagione dopo stagione</value>
+  </data>
+  <data name="WhereToStart_Trend_Down" xml:space="preserve">
+    <value>Scende stagione dopo stagione</value>
+  </data>
+  <data name="WhereToStart_Trend_Stable" xml:space="preserve">
+    <value>Stabile stagione dopo stagione</value>
+  </data>
+  <data name="WhereToStart_SeasonRatingFormat" xml:space="preserve">
+    <value>Stagione {0}: {1}</value>
+  </data>
+  <data name="WhereToStart_SeasonCount_Single" xml:space="preserve">
+    <value>1 stagione</value>
+  </data>
+  <data name="WhereToStart_SeasonCount_PluralFormat" xml:space="preserve">
+    <value>{0} stagioni</value>
+  </data>
+  <data name="WhereToStart_EpisodesFormat" xml:space="preserve">
+    <value>{0} ep. da {1} min</value>
+  </data>
+  <data name="WhereToStart_EpisodeCountFormat" xml:space="preserve">
+    <value>{0} ep.</value>
+  </data>
+  <data name="WhereToStart_TotalHoursFormat" xml:space="preserve">
+    <value>{0} h</value>
+  </data>
+  <data name="WhereToStart_TotalMinutesFormat" xml:space="preserve">
+    <value>{0} min</value>
+  </data>
+  <data name="WhereToStart_Empty" xml:space="preserve">
+    <value>Nessuna serie da iniziare per ora.</value>
+  </data>
+  <data name="WhereToStart_Empty_OnMyServices" xml:space="preserve">
+    <value>Nessuna di queste serie è sulle sue piattaforme.</value>
+  </data>
 </root>

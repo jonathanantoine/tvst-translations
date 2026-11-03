@@ -6191,4 +6191,85 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
   <data name="HomeMovies_DiscoverMoviesLink" xml:space="preserve">
     <value>Descubrir películas</value>
   </data>
+  <data name="WhereToStart_Title" xml:space="preserve">
+    <value>¿Por dónde empezar?</value>
+  </data>
+  <data name="WhereToStart_Sort_PositiveComments" xml:space="preserve">
+    <value>Comentarios positivos</value>
+  </data>
+  <data name="WhereToStart_Sort_BestRating" xml:space="preserve">
+    <value>Mejor nota</value>
+  </data>
+  <data name="WhereToStart_Sort_ShortEpisodes" xml:space="preserve">
+    <value>Episodios cortos</value>
+  </data>
+  <data name="WhereToStart_Sort_ShortShows" xml:space="preserve">
+    <value>Series cortas</value>
+  </data>
+  <data name="WhereToStart_Filter_OnMyServices" xml:space="preserve">
+    <value>En mis plataformas</value>
+  </data>
+  <data name="WhereToStart_Loading" xml:space="preserve">
+    <value>Leyendo los comentarios…</value>
+  </data>
+  <data name="WhereToStart_NotEnoughComments" xml:space="preserve">
+    <value>Aún no hay suficientes comentarios</value>
+  </data>
+  <data name="WhereToStart_Random" xml:space="preserve">
+    <value>Al azar</value>
+  </data>
+  <data name="WhereToStart_PositiveCommentsFormat" xml:space="preserve">
+    <value>{0} % de comentarios positivos de {1}</value>
+  </data>
+  <data name="WhereToStart_Status_Airing" xml:space="preserve">
+    <value>En emisión</value>
+  </data>
+  <data name="WhereToStart_Status_Ended" xml:space="preserve">
+    <value>Emisión finalizada</value>
+  </data>
+  <data name="WhereToStart_UpcomingSeasonFormat" xml:space="preserve">
+    <value>Temporada {0} el {1}</value>
+  </data>
+  <data name="WhereToStart_SameCreatorFormat" xml:space="preserve">
+    <value>Del creador de {0}, que usted valoró con {1}</value>
+  </data>
+  <data name="WhereToStart_SeasonRatings_Header" xml:space="preserve">
+    <value>Nota por temporada</value>
+  </data>
+  <data name="WhereToStart_Trend_Up" xml:space="preserve">
+    <value>Sube con las temporadas</value>
+  </data>
+  <data name="WhereToStart_Trend_Down" xml:space="preserve">
+    <value>Baja con las temporadas</value>
+  </data>
+  <data name="WhereToStart_Trend_Stable" xml:space="preserve">
+    <value>Estable con las temporadas</value>
+  </data>
+  <data name="WhereToStart_SeasonRatingFormat" xml:space="preserve">
+    <value>Temporada {0}: {1}</value>
+  </data>
+  <data name="WhereToStart_SeasonCount_Single" xml:space="preserve">
+    <value>1 temporada</value>
+  </data>
+  <data name="WhereToStart_SeasonCount_PluralFormat" xml:space="preserve">
+    <value>{0} temporadas</value>
+  </data>
+  <data name="WhereToStart_EpisodesFormat" xml:space="preserve">
+    <value>{0} ep. de {1} min</value>
+  </data>
+  <data name="WhereToStart_EpisodeCountFormat" xml:space="preserve">
+    <value>{0} ep.</value>
+  </data>
+  <data name="WhereToStart_TotalHoursFormat" xml:space="preserve">
+    <value>{0} h</value>
+  </data>
+  <data name="WhereToStart_TotalMinutesFormat" xml:space="preserve">
+    <value>{0} min</value>
+  </data>
+  <data name="WhereToStart_Empty" xml:space="preserve">
+    <value>Ninguna serie por empezar por ahora.</value>
+  </data>
+  <data name="WhereToStart_Empty_OnMyServices" xml:space="preserve">
+    <value>Ninguna de estas series está en sus plataformas.</value>
+  </data>
 </root>
