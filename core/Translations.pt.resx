@@ -7480,4 +7480,28 @@ Se depois disso continuar a faltar, pode avisar a equipa do Trakt. O e-mail já 
   <data name="ShowDetails_SameCreator_ChooserTitle" xml:space="preserve">
     <value>Ver todas as séries de…</value>
   </data>
+  <data name="Discover_MediaTypeChip_Shows" xml:space="preserve">
+    <value>Séries</value>
+  </data>
+  <data name="Discover_MediaTypeChip_Movies" xml:space="preserve">
+    <value>Filmes</value>
+  </data>
+  <data name="Discover_OnMyServices_Header" xml:space="preserve">
+    <value>Nas suas plataformas</value>
+  </data>
+  <data name="Discover_NewShowsThisMonth_Header" xml:space="preserve">
+    <value>Novas séries este mês</value>
+  </data>
+  <data name="Discover_NewShowsNextMonth_Header" xml:space="preserve">
+    <value>Novas séries no próximo mês</value>
+  </data>
+  <data name="Discover_NewMoviesThisMonth_Header" xml:space="preserve">
+    <value>Novos filmes este mês</value>
+  </data>
+  <data name="Discover_NewMoviesNextMonth_Header" xml:space="preserve">
+    <value>Novos filmes no próximo mês</value>
+  </data>
+  <data name="HomeMovies_DiscoverMoviesLink" xml:space="preserve">
+    <value>Descobrir filmes</value>
+  </data>
 </root>

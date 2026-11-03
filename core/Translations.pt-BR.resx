@@ -6173,4 +6173,28 @@ Se depois disso ele ainda estiver faltando, você pode avisar a equipe do Trakt.
   <data name="ShowDetails_SameCreator_ChooserTitle" xml:space="preserve">
     <value>Ver todas as séries de…</value>
   </data>
+  <data name="Discover_MediaTypeChip_Shows" xml:space="preserve">
+    <value>Séries</value>
+  </data>
+  <data name="Discover_MediaTypeChip_Movies" xml:space="preserve">
+    <value>Filmes</value>
+  </data>
+  <data name="Discover_OnMyServices_Header" xml:space="preserve">
+    <value>Nas suas plataformas</value>
+  </data>
+  <data name="Discover_NewShowsThisMonth_Header" xml:space="preserve">
+    <value>Novas séries neste mês</value>
+  </data>
+  <data name="Discover_NewShowsNextMonth_Header" xml:space="preserve">
+    <value>Novas séries no mês que vem</value>
+  </data>
+  <data name="Discover_NewMoviesThisMonth_Header" xml:space="preserve">
+    <value>Novos filmes neste mês</value>
+  </data>
+  <data name="Discover_NewMoviesNextMonth_Header" xml:space="preserve">
+    <value>Novos filmes no mês que vem</value>
+  </data>
+  <data name="HomeMovies_DiscoverMoviesLink" xml:space="preserve">
+    <value>Descobrir filmes</value>
+  </data>
 </root>

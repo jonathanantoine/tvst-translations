@@ -6144,4 +6144,28 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
   <data name="ShowDetails_SameCreator_ChooserTitle" xml:space="preserve">
     <value>Vedi tutte le serie di…</value>
   </data>
+  <data name="Discover_MediaTypeChip_Shows" xml:space="preserve">
+    <value>Serie</value>
+  </data>
+  <data name="Discover_MediaTypeChip_Movies" xml:space="preserve">
+    <value>Film</value>
+  </data>
+  <data name="Discover_OnMyServices_Header" xml:space="preserve">
+    <value>Sulle tue piattaforme</value>
+  </data>
+  <data name="Discover_NewShowsThisMonth_Header" xml:space="preserve">
+    <value>Nuove serie questo mese</value>
+  </data>
+  <data name="Discover_NewShowsNextMonth_Header" xml:space="preserve">
+    <value>Nuove serie il mese prossimo</value>
+  </data>
+  <data name="Discover_NewMoviesThisMonth_Header" xml:space="preserve">
+    <value>Nuovi film questo mese</value>
+  </data>
+  <data name="Discover_NewMoviesNextMonth_Header" xml:space="preserve">
+    <value>Nuovi film il mese prossimo</value>
+  </data>
+  <data name="HomeMovies_DiscoverMoviesLink" xml:space="preserve">
+    <value>Scopri film</value>
+  </data>
 </root>
