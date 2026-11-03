@@ -2362,9 +2362,6 @@ Se non riesci ancora ad accedere al tuo account dopo l'accesso, contattaci Trakt
     <data name="Recommendations_HidingRecommendation" xml:space="preserve">
         <value>Cancellazione di questa raccomandazione ...</value>
     </data>
-    <data name="Home_Popular_ViewMoreButtonText" xml:space="preserve">
-        <value>Mostra consigli più personalizzati</value>
-    </data>
     <data name="ShowDetails_ShowInfo_TotalRuntime" xml:space="preserve">
         <value>Durata totale:</value>
     </data>
@@ -5883,12 +5880,6 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
   <data name="Home_MoviesGroup_Subtitle_ToRate_Single" xml:space="preserve">
     <value>visto, senza voto</value>
   </data>
-  <data name="Home_Code_Popular_NewShows" xml:space="preserve">
-    <value>Nuove serie</value>
-  </data>
-  <data name="Home_Code_Popular_NewMovies" xml:space="preserve">
-    <value>Nuovi film</value>
-  </data>
   <data name="Home_Code_Popular_GenreSubtitle" xml:space="preserve">
     <value>i più popolari</value>
   </data>
@@ -6152,6 +6143,12 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
   </data>
   <data name="Discover_OnMyServices_Header" xml:space="preserve">
     <value>Sulle tue piattaforme</value>
+  </data>
+  <data name="Discover_SeeAllRecommendations_Link" xml:space="preserve">
+    <value>Vedi tutti i tuoi consigli</value>
+  </data>
+  <data name="Discover_Recommendations_Subtitle" xml:space="preserve">
+    <value>In base a ciò che guardi</value>
   </data>
   <data name="Discover_NewShowsThisMonth_Header" xml:space="preserve">
     <value>Nuove serie questo mese</value>

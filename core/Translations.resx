@@ -2511,10 +2511,6 @@ If you are still unable to access your account after logging in, please contact 
   <data name="Recommendations_HidingRecommendation" xml:space="preserve">
     <value>Hiding this recommendation</value>
   </data>
-  <data name="Home_Popular_ViewMoreButtonText" xml:space="preserve">
-    <value>More personalized recommendations
-</value>
-  </data>
   <data name="ShowDetails_ShowInfo_TotalRuntime" xml:space="preserve">
     <value>Total runtime</value>
   </data>
@@ -5876,12 +5872,6 @@ If it is still missing after that, you can let the Trakt team know. The email is
   <data name="Home_MoviesGroup_Subtitle_ToRate_Single" xml:space="preserve">
     <value>watched, not rated</value>
   </data>
-  <data name="Home_Code_Popular_NewShows" xml:space="preserve">
-    <value>New shows</value>
-  </data>
-  <data name="Home_Code_Popular_NewMovies" xml:space="preserve">
-    <value>New movies</value>
-  </data>
   <data name="Home_Code_Popular_GenreSubtitle" xml:space="preserve">
     <value>most popular</value>
   </data>
@@ -6145,6 +6135,12 @@ If it is still missing after that, you can let the Trakt team know. The email is
   </data>
   <data name="Discover_OnMyServices_Header" xml:space="preserve">
     <value>On your platforms</value>
+  </data>
+  <data name="Discover_SeeAllRecommendations_Link" xml:space="preserve">
+    <value>See all your recommendations</value>
+  </data>
+  <data name="Discover_Recommendations_Subtitle" xml:space="preserve">
+    <value>Based on what you watch</value>
   </data>
   <data name="Discover_NewShowsThisMonth_Header" xml:space="preserve">
     <value>New shows this month</value>

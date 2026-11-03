@@ -3638,11 +3638,6 @@ Si vous ne pouvez toujours pas accéder à votre compte après la connexion, veu
   <data name="Recommendations_HidingRecommendation" xml:space="preserve">
         <value>Suppression de cette recommandation...</value>
     </data>
-  <data name="Home_Popular_ViewMoreButtonText" xml:space="preserve">
-        <value>En
-afficher
-plus</value>
-    </data>
   <data name="ShowDetails_ShowInfo_TotalRuntime" xml:space="preserve">
         <value>Durée totale</value>
     </data>
@@ -7134,12 +7129,6 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
   <data name="Home_MoviesGroup_Subtitle_ToRate_Single" xml:space="preserve">
     <value>vu, sans note</value>
   </data>
-  <data name="Home_Code_Popular_NewShows" xml:space="preserve">
-    <value>Nouvelles séries</value>
-  </data>
-  <data name="Home_Code_Popular_NewMovies" xml:space="preserve">
-    <value>Nouveaux films</value>
-  </data>
   <data name="Home_Code_Popular_GenreSubtitle" xml:space="preserve">
     <value>les plus populaires</value>
   </data>
@@ -7403,6 +7392,12 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
   </data>
   <data name="Discover_OnMyServices_Header" xml:space="preserve">
     <value>Sur vos plateformes</value>
+  </data>
+  <data name="Discover_SeeAllRecommendations_Link" xml:space="preserve">
+    <value>Voir toutes vos recommandations</value>
+  </data>
+  <data name="Discover_Recommendations_Subtitle" xml:space="preserve">
+    <value>D'après ce que vous regardez</value>
   </data>
   <data name="Discover_NewShowsThisMonth_Header" xml:space="preserve">
     <value>Nouvelles séries ce mois-ci</value>
