@@ -6287,4 +6287,7 @@ Se depois disso ele ainda estiver faltando, você pode avisar a equipe do Trakt.
   <data name="Discover_AllGenres_Link" xml:space="preserve">
     <value>Todos os gêneros</value>
   </data>
+  <data name="Recommendations_HiddenConfirmation" xml:space="preserve">
+    <value>Isso não será mais recomendado a você</value>
+  </data>
 </root>

@@ -6250,4 +6250,7 @@ If it is still missing after that, you can let the Trakt team know. The email is
   <data name="Discover_AllGenres_Link" xml:space="preserve">
     <value>All genres</value>
   </data>
+  <data name="Recommendations_HiddenConfirmation" xml:space="preserve">
+    <value>This won't be recommended to you again</value>
+  </data>
 </root>

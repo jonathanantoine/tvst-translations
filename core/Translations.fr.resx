@@ -7507,4 +7507,7 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
   <data name="Discover_AllGenres_Link" xml:space="preserve">
     <value>Tous les genres</value>
   </data>
+  <data name="Recommendations_HiddenConfirmation" xml:space="preserve">
+    <value>Cela ne vous sera plus recommandé</value>
+  </data>
 </root>

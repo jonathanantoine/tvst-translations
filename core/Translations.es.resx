@@ -6284,4 +6284,7 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
   <data name="Discover_AllGenres_Link" xml:space="preserve">
     <value>Todos los géneros</value>
   </data>
+  <data name="Recommendations_HiddenConfirmation" xml:space="preserve">
+    <value>No se le volverá a recomendar</value>
+  </data>
 </root>

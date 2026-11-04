@@ -7594,4 +7594,7 @@ Se depois disso continuar a faltar, pode avisar a equipa do Trakt. O e-mail já 
   <data name="Discover_AllGenres_Link" xml:space="preserve">
     <value>Todos os géneros</value>
   </data>
+  <data name="Recommendations_HiddenConfirmation" xml:space="preserve">
+    <value>Não voltará a ser-lhe recomendado</value>
+  </data>
 </root>

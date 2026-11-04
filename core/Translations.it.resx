@@ -6258,4 +6258,7 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
   <data name="Discover_AllGenres_Link" xml:space="preserve">
     <value>Tutti i generi</value>
   </data>
+  <data name="Recommendations_HiddenConfirmation" xml:space="preserve">
+    <value>Non le verrà più consigliato</value>
+  </data>
 </root>
