@@ -6180,8 +6180,8 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
   <data name="WhereToStart_Sort_ShortShows" xml:space="preserve">
     <value>Serie brevi</value>
   </data>
-  <data name="WhereToStart_Filter_OnMyServices" xml:space="preserve">
-    <value>Sulle mie piattaforme</value>
+  <data name="WhereToStart_ShowFilteredOut" xml:space="preserve">
+    <value>Mostra tutto</value>
   </data>
   <data name="WhereToStart_Loading" xml:space="preserve">
     <value>Lettura dei commenti…</value>
@@ -6248,6 +6248,12 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
   </data>
   <data name="WhereToStart_EntryHint" xml:space="preserve">
     <value>Non sa quale? Confronti queste serie</value>
+  </data>
+  <data name="WhereToStart_SortedByFormat" xml:space="preserve">
+    <value>Ordinato per: {0}</value>
+  </data>
+  <data name="WhereToStart_SeeLess" xml:space="preserve">
+    <value>Vedi meno</value>
   </data>
   <data name="Discover_AllGenres_Link" xml:space="preserve">
     <value>Tutti i generi</value>

@@ -6172,8 +6172,8 @@ If it is still missing after that, you can let the Trakt team know. The email is
   <data name="WhereToStart_Sort_ShortShows" xml:space="preserve">
     <value>Short shows</value>
   </data>
-  <data name="WhereToStart_Filter_OnMyServices" xml:space="preserve">
-    <value>On my platforms</value>
+  <data name="WhereToStart_ShowFilteredOut" xml:space="preserve">
+    <value>Show all</value>
   </data>
   <data name="WhereToStart_Loading" xml:space="preserve">
     <value>Reading the comments…</value>
@@ -6240,6 +6240,12 @@ If it is still missing after that, you can let the Trakt team know. The email is
   </data>
   <data name="WhereToStart_EntryHint" xml:space="preserve">
     <value>Not sure? Compare these shows</value>
+  </data>
+  <data name="WhereToStart_SortedByFormat" xml:space="preserve">
+    <value>Sorted by: {0}</value>
+  </data>
+  <data name="WhereToStart_SeeLess" xml:space="preserve">
+    <value>See less</value>
   </data>
   <data name="Discover_AllGenres_Link" xml:space="preserve">
     <value>All genres</value>

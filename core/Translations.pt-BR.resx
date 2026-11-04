@@ -6209,8 +6209,8 @@ Se depois disso ele ainda estiver faltando, você pode avisar a equipe do Trakt.
   <data name="WhereToStart_Sort_ShortShows" xml:space="preserve">
     <value>Séries curtas</value>
   </data>
-  <data name="WhereToStart_Filter_OnMyServices" xml:space="preserve">
-    <value>Nas minhas plataformas</value>
+  <data name="WhereToStart_ShowFilteredOut" xml:space="preserve">
+    <value>Mostrar tudo</value>
   </data>
   <data name="WhereToStart_Loading" xml:space="preserve">
     <value>Lendo os comentários…</value>
@@ -6277,6 +6277,12 @@ Se depois disso ele ainda estiver faltando, você pode avisar a equipe do Trakt.
   </data>
   <data name="WhereToStart_EntryHint" xml:space="preserve">
     <value>Na dúvida? Compare estas séries</value>
+  </data>
+  <data name="WhereToStart_SortedByFormat" xml:space="preserve">
+    <value>Ordenado por: {0}</value>
+  </data>
+  <data name="WhereToStart_SeeLess" xml:space="preserve">
+    <value>Ver menos</value>
   </data>
   <data name="Discover_AllGenres_Link" xml:space="preserve">
     <value>Todos os gêneros</value>

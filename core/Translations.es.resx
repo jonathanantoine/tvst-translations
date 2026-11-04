@@ -6206,8 +6206,8 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
   <data name="WhereToStart_Sort_ShortShows" xml:space="preserve">
     <value>Series cortas</value>
   </data>
-  <data name="WhereToStart_Filter_OnMyServices" xml:space="preserve">
-    <value>En mis plataformas</value>
+  <data name="WhereToStart_ShowFilteredOut" xml:space="preserve">
+    <value>Mostrar todo</value>
   </data>
   <data name="WhereToStart_Loading" xml:space="preserve">
     <value>Leyendo los comentarios…</value>
@@ -6274,6 +6274,12 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
   </data>
   <data name="WhereToStart_EntryHint" xml:space="preserve">
     <value>¿Dudas? Compare estas series</value>
+  </data>
+  <data name="WhereToStart_SortedByFormat" xml:space="preserve">
+    <value>Ordenado por: {0}</value>
+  </data>
+  <data name="WhereToStart_SeeLess" xml:space="preserve">
+    <value>Ver menos</value>
   </data>
   <data name="Discover_AllGenres_Link" xml:space="preserve">
     <value>Todos los géneros</value>
