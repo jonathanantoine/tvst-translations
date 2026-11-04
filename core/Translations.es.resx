@@ -5426,6 +5426,12 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
   <data name="Settings_Display_DisplayStreamingOnHomeItems_Subtitle" xml:space="preserve">
     <value>En cada serie o película, el nombre de su plataforma que la ofrece.</value>
   </data>
+  <data name="Settings_Display_ChooseStreamingServices_Title" xml:space="preserve">
+    <value>Elija primero sus plataformas</value>
+  </data>
+  <data name="Settings_Display_ChooseStreamingServices_Subtitle" xml:space="preserve">
+    <value>En la vista previa es solo un ejemplo. Todavía no aparece nada en sus listas.</value>
+  </data>
   <data name="Settings_HomeGroups_GroupNotOnMyServices_Title" xml:space="preserve">
     <value>Separar lo que no está en sus plataformas</value>
   </data>

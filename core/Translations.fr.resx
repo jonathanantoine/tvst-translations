@@ -6649,6 +6649,12 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
   <data name="Settings_Display_DisplayStreamingOnHomeItems_Subtitle" xml:space="preserve">
     <value>Sur chaque série ou film, le nom de votre plateforme qui le propose.</value>
   </data>
+  <data name="Settings_Display_ChooseStreamingServices_Title" xml:space="preserve">
+    <value>Choisissez d'abord vos plateformes</value>
+  </data>
+  <data name="Settings_Display_ChooseStreamingServices_Subtitle" xml:space="preserve">
+    <value>Dans l'aperçu, ce n'est qu'un exemple. Rien n'apparaît encore dans vos listes.</value>
+  </data>
   <data name="Settings_HomeGroups_GroupNotOnMyServices_Title" xml:space="preserve">
     <value>Séparer ce qui n'est pas sur vos plateformes</value>
   </data>
