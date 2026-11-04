@@ -6275,4 +6275,10 @@ Se depois disso ele ainda estiver faltando, você pode avisar a equipe do Trakt.
   <data name="WhereToStart_Empty_OnMyServices" xml:space="preserve">
     <value>Nenhuma dessas séries está nas suas plataformas.</value>
   </data>
+  <data name="WhereToStart_EntryHint" xml:space="preserve">
+    <value>Na dúvida? Compare estas séries</value>
+  </data>
+  <data name="Discover_AllGenres_Link" xml:space="preserve">
+    <value>Todos os gêneros</value>
+  </data>
 </root>

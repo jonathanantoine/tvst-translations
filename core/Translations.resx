@@ -6238,4 +6238,10 @@ If it is still missing after that, you can let the Trakt team know. The email is
   <data name="WhereToStart_Empty_OnMyServices" xml:space="preserve">
     <value>None of these shows is on your platforms.</value>
   </data>
+  <data name="WhereToStart_EntryHint" xml:space="preserve">
+    <value>Not sure? Compare these shows</value>
+  </data>
+  <data name="Discover_AllGenres_Link" xml:space="preserve">
+    <value>All genres</value>
+  </data>
 </root>

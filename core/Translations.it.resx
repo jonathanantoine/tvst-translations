@@ -6246,4 +6246,10 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
   <data name="WhereToStart_Empty_OnMyServices" xml:space="preserve">
     <value>Nessuna di queste serie è sulle sue piattaforme.</value>
   </data>
+  <data name="WhereToStart_EntryHint" xml:space="preserve">
+    <value>Non sa quale? Confronti queste serie</value>
+  </data>
+  <data name="Discover_AllGenres_Link" xml:space="preserve">
+    <value>Tutti i generi</value>
+  </data>
 </root>

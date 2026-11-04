@@ -6272,4 +6272,10 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
   <data name="WhereToStart_Empty_OnMyServices" xml:space="preserve">
     <value>Ninguna de estas series está en sus plataformas.</value>
   </data>
+  <data name="WhereToStart_EntryHint" xml:space="preserve">
+    <value>¿Dudas? Compare estas series</value>
+  </data>
+  <data name="Discover_AllGenres_Link" xml:space="preserve">
+    <value>Todos los géneros</value>
+  </data>
 </root>

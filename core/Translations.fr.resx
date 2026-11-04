@@ -7495,4 +7495,10 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
   <data name="WhereToStart_Empty_OnMyServices" xml:space="preserve">
     <value>Aucune de ces séries n'est sur vos plateformes.</value>
   </data>
+  <data name="WhereToStart_EntryHint" xml:space="preserve">
+    <value>Vous hésitez ? Comparez ces séries</value>
+  </data>
+  <data name="Discover_AllGenres_Link" xml:space="preserve">
+    <value>Tous les genres</value>
+  </data>
 </root>
