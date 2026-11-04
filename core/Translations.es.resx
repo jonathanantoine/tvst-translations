@@ -6287,4 +6287,7 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
   <data name="Recommendations_HiddenConfirmation" xml:space="preserve">
     <value>No se le volverá a recomendar</value>
   </data>
+  <data name="Settings_MovieSortHeader_Text" xml:space="preserve">
+    <value>ORDEN DE LAS PELÍCULAS</value>
+  </data>
 </root>

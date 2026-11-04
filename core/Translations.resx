@@ -6253,4 +6253,7 @@ If it is still missing after that, you can let the Trakt team know. The email is
   <data name="Recommendations_HiddenConfirmation" xml:space="preserve">
     <value>This won't be recommended to you again</value>
   </data>
+  <data name="Settings_MovieSortHeader_Text" xml:space="preserve">
+    <value>MOVIES SORTING</value>
+  </data>
 </root>

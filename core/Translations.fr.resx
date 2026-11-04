@@ -7510,4 +7510,7 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
   <data name="Recommendations_HiddenConfirmation" xml:space="preserve">
     <value>Cela ne vous sera plus recommandé</value>
   </data>
+  <data name="Settings_MovieSortHeader_Text" xml:space="preserve">
+    <value>TRI DES FILMS</value>
+  </data>
 </root>

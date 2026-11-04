@@ -6290,4 +6290,7 @@ Se depois disso ele ainda estiver faltando, você pode avisar a equipe do Trakt.
   <data name="Recommendations_HiddenConfirmation" xml:space="preserve">
     <value>Isso não será mais recomendado a você</value>
   </data>
+  <data name="Settings_MovieSortHeader_Text" xml:space="preserve">
+    <value>CLASSIFICAÇÃO DOS FILMES</value>
+  </data>
 </root>

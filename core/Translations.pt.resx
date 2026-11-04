@@ -7597,4 +7597,7 @@ Se depois disso continuar a faltar, pode avisar a equipa do Trakt. O e-mail já 
   <data name="Recommendations_HiddenConfirmation" xml:space="preserve">
     <value>Não voltará a ser-lhe recomendado</value>
   </data>
+  <data name="Settings_MovieSortHeader_Text" xml:space="preserve">
+    <value>CLASSIFICAÇÃO DOS FILMES</value>
+  </data>
 </root>

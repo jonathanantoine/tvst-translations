@@ -6261,4 +6261,7 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
   <data name="Recommendations_HiddenConfirmation" xml:space="preserve">
     <value>Non le verrà più consigliato</value>
   </data>
+  <data name="Settings_MovieSortHeader_Text" xml:space="preserve">
+    <value>CLASSIFICAZIONE DEI FILM</value>
+  </data>
 </root>
