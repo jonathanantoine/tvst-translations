@@ -2736,6 +2736,13 @@ Você quer fazer isso agora?</value>
 {0}, cancele a qualquer momento.
 A assinatura renova automaticamente até que você a cancele em sua Conta do Google Play a qualquer momento antes do término do período de cobrança atual.</value>
     </data>
+  <data name="Donation_SubscriptionExplanation_iOS" xml:space="preserve">
+    <value>Tenha acesso a TODOS os recursos listados acima.
+
+{0}, cancele a qualquer momento.
+
+A assinatura é renovada automaticamente, a menos que você a cancele pelo menos 24 horas antes do próximo pagamento. Cancele-a nos ajustes da sua Conta Apple.</value>
+  </data>
   <data name="Donation_SubscriptionExplanation_Windows" xml:space="preserve">
     <value>Assinatura recorrente cobrada a cada 3 meses. Você pode cancelá-la a qualquer momento na página Serviços e assinaturas da sua conta Microsoft.</value>
   </data>

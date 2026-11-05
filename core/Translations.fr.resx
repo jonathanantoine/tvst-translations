@@ -4025,6 +4025,13 @@ Voulez-vous le faire maintenant ?</value>
 
 L'abonnement se renouvelle automatiquement jusqu'à ce que vous l'annuliez dans votre compte Google Play à tout moment avant la fin de la période de facturation en cours.</value>
     </data>
+  <data name="Donation_SubscriptionExplanation_iOS" xml:space="preserve">
+    <value>Accédez à TOUTES les fonctionnalités listées ci-dessus.
+
+{0}, annulation possible à tout moment.
+
+L'abonnement se renouvelle automatiquement, sauf si vous l'annulez au moins 24 heures avant le prochain paiement. Annulez-le depuis les réglages de votre compte Apple.</value>
+  </data>
   <data name="Donation_SubscriptionExplanation_Windows" xml:space="preserve">
     <value>Abonnement récurrent facturé tous les 3 mois. Vous pouvez l'annuler à tout moment depuis la page Services et abonnements de votre compte Microsoft.</value>
   </data>

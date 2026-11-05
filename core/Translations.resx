@@ -1748,6 +1748,13 @@ de  <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
 
 Subscription automatically renews until you cancel it in your Google Play Account anytime before the current billing period ends.</value>
   </data>
+  <data name="Donation_SubscriptionExplanation_iOS" xml:space="preserve">
+    <value>Get access to ALL features listed above.
+
+{0}, cancel any time.
+
+Your subscription renews automatically unless you cancel it at least 24 hours before the next payment. Cancel it in your Apple Account settings.</value>
+  </data>
   <data name="Donation_SubscriptionExplanation_Windows" xml:space="preserve">
     <value>Recurring subscription billed every 3 months. You can cancel it at any time from the Services &amp; subscriptions page of your Microsoft account.</value>
   </data>

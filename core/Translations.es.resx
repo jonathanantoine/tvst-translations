@@ -2756,6 +2756,13 @@ Puedes hacerlo en cualquier momento más tarde en la configuración de la aplica
 
 La suscripción se renueva automáticamente hasta que la canceles en tu cuenta de Google Play en cualquier momento antes de que finalice el período de facturación actual.</value>
     </data>
+  <data name="Donation_SubscriptionExplanation_iOS" xml:space="preserve">
+    <value>Accede a TODAS las funciones mencionadas anteriormente.
+
+{0}, puedes cancelar en cualquier momento.
+
+La suscripción se renueva automáticamente, salvo que la canceles al menos 24 horas antes del próximo pago. Cancélala en los ajustes de tu cuenta de Apple.</value>
+  </data>
   <data name="Donation_SubscriptionExplanation_Windows" xml:space="preserve">
     <value>Suscripción periódica facturada cada 3 meses. Puedes cancelarla en cualquier momento desde la página Servicios y suscripciones de tu cuenta Microsoft.</value>
   </data>

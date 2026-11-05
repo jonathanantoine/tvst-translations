@@ -2625,6 +2625,13 @@ Vuoi farlo ora?</value>
 
 L'abbonamento si rinnova automaticamente fino alla disdetta effettuata tramite il tuo account Google Play in qualsiasi momento prima della fine del periodo di fatturazione corrente.</value>
     </data>
+  <data name="Donation_SubscriptionExplanation_iOS" xml:space="preserve">
+    <value>Accedi a TUTTE le funzionalità elencate sopra.
+
+{0}, puoi annullare in qualsiasi momento.
+
+L'abbonamento si rinnova automaticamente, a meno che tu non lo annulli almeno 24 ore prima del prossimo pagamento. Annullalo nelle impostazioni del tuo account Apple.</value>
+  </data>
   <data name="Donation_SubscriptionExplanation_Windows" xml:space="preserve">
     <value>Abbonamento ricorrente fatturato ogni 3 mesi. Puoi annullarlo in qualsiasi momento dalla pagina Servizi e abbonamenti del tuo account Microsoft.</value>
   </data>
