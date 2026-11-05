@@ -6327,4 +6327,19 @@ Se depois disso ele ainda estiver faltando, você pode avisar a equipe do Trakt.
   <data name="Home_Calendar_NothingToday" xml:space="preserve">
     <value>nada previsto</value>
   </data>
+  <data name="Settings_PageTop_Gradient" xml:space="preserve">
+    <value>Degradê da sua cor</value>
+  </data>
+  <data name="Settings_PageTop_SolidBar" xml:space="preserve">
+    <value>Barra sólida da sua cor</value>
+  </data>
+  <data name="Settings_PageTop_Title" xml:space="preserve">
+    <value>Topo das páginas</value>
+  </data>
+  <data name="Settings_PageTop_ImageColor_Subtitle" xml:space="preserve">
+    <value>Quando a página tem uma imagem. Caso contrário, a sua cor.</value>
+  </data>
+  <data name="Settings_PageTop_ImageColor_Title" xml:space="preserve">
+    <value>Usar a cor da imagem</value>
+  </data>
 </root>

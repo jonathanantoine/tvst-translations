@@ -6298,4 +6298,19 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
   <data name="Home_Calendar_NothingToday" xml:space="preserve">
     <value>niente in programma</value>
   </data>
+  <data name="Settings_PageTop_Gradient" xml:space="preserve">
+    <value>Sfumatura del tuo colore</value>
+  </data>
+  <data name="Settings_PageTop_SolidBar" xml:space="preserve">
+    <value>Barra piena del tuo colore</value>
+  </data>
+  <data name="Settings_PageTop_Title" xml:space="preserve">
+    <value>Parte superiore delle pagine</value>
+  </data>
+  <data name="Settings_PageTop_ImageColor_Subtitle" xml:space="preserve">
+    <value>Quando la pagina ha un'immagine. Altrimenti, il tuo colore.</value>
+  </data>
+  <data name="Settings_PageTop_ImageColor_Title" xml:space="preserve">
+    <value>Usa il colore dell'immagine</value>
+  </data>
 </root>

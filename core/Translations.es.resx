@@ -6324,4 +6324,19 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
   <data name="Home_Calendar_NothingToday" xml:space="preserve">
     <value>nada previsto</value>
   </data>
+  <data name="Settings_PageTop_Gradient" xml:space="preserve">
+    <value>Degradado de tu color</value>
+  </data>
+  <data name="Settings_PageTop_SolidBar" xml:space="preserve">
+    <value>Barra sólida de tu color</value>
+  </data>
+  <data name="Settings_PageTop_Title" xml:space="preserve">
+    <value>Parte superior de las páginas</value>
+  </data>
+  <data name="Settings_PageTop_ImageColor_Subtitle" xml:space="preserve">
+    <value>Cuando la página tiene una imagen. Si no, tu color.</value>
+  </data>
+  <data name="Settings_PageTop_ImageColor_Title" xml:space="preserve">
+    <value>Usar el color de la imagen</value>
+  </data>
 </root>

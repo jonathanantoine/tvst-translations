@@ -7634,4 +7634,19 @@ Se depois disso continuar a faltar, pode avisar a equipa do Trakt. O e-mail já 
   <data name="Home_Calendar_NothingToday" xml:space="preserve">
     <value>nada previsto</value>
   </data>
+  <data name="Settings_PageTop_Gradient" xml:space="preserve">
+    <value>Gradiente da sua cor</value>
+  </data>
+  <data name="Settings_PageTop_SolidBar" xml:space="preserve">
+    <value>Barra cheia da sua cor</value>
+  </data>
+  <data name="Settings_PageTop_Title" xml:space="preserve">
+    <value>Topo das páginas</value>
+  </data>
+  <data name="Settings_PageTop_ImageColor_Subtitle" xml:space="preserve">
+    <value>Quando a página tem uma imagem. Caso contrário, a sua cor.</value>
+  </data>
+  <data name="Settings_PageTop_ImageColor_Title" xml:space="preserve">
+    <value>Usar a cor da imagem</value>
+  </data>
 </root>
