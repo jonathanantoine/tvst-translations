@@ -6270,4 +6270,22 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
   <data name="Settings_MovieSortHeader_Text" xml:space="preserve">
     <value>CLASSIFICAZIONE DEI FILM</value>
   </data>
+  <data name="Calendar_EventTag_NewShow" xml:space="preserve">
+    <value>Nuova serie</value>
+  </data>
+  <data name="Calendar_EventTag_SeasonPremiere" xml:space="preserve">
+    <value>Inizio di stagione</value>
+  </data>
+  <data name="Calendar_EventTag_SeasonFinale" xml:space="preserve">
+    <value>Ultimo episodio della stagione</value>
+  </data>
+  <data name="Calendar_EventTag_SeriesFinale" xml:space="preserve">
+    <value>Ultimo episodio della serie</value>
+  </data>
+  <data name="Calendar_RowTag_Watched" xml:space="preserve">
+    <value>Visto</value>
+  </data>
+  <data name="Home_Calendar_NothingToday" xml:space="preserve">
+    <value>niente in programma</value>
+  </data>
 </root>

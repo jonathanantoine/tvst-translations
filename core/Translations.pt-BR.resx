@@ -6299,4 +6299,22 @@ Se depois disso ele ainda estiver faltando, você pode avisar a equipe do Trakt.
   <data name="Settings_MovieSortHeader_Text" xml:space="preserve">
     <value>CLASSIFICAÇÃO DOS FILMES</value>
   </data>
+  <data name="Calendar_EventTag_NewShow" xml:space="preserve">
+    <value>Nova série</value>
+  </data>
+  <data name="Calendar_EventTag_SeasonPremiere" xml:space="preserve">
+    <value>Estreia da temporada</value>
+  </data>
+  <data name="Calendar_EventTag_SeasonFinale" xml:space="preserve">
+    <value>Último episódio da temporada</value>
+  </data>
+  <data name="Calendar_EventTag_SeriesFinale" xml:space="preserve">
+    <value>Último episódio da série</value>
+  </data>
+  <data name="Calendar_RowTag_Watched" xml:space="preserve">
+    <value>Visto</value>
+  </data>
+  <data name="Home_Calendar_NothingToday" xml:space="preserve">
+    <value>nada previsto</value>
+  </data>
 </root>

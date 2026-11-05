@@ -7519,4 +7519,22 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
   <data name="Settings_MovieSortHeader_Text" xml:space="preserve">
     <value>TRI DES FILMS</value>
   </data>
+  <data name="Calendar_EventTag_NewShow" xml:space="preserve">
+    <value>Nouvelle série</value>
+  </data>
+  <data name="Calendar_EventTag_SeasonPremiere" xml:space="preserve">
+    <value>Début de saison</value>
+  </data>
+  <data name="Calendar_EventTag_SeasonFinale" xml:space="preserve">
+    <value>Dernier épisode de la saison</value>
+  </data>
+  <data name="Calendar_EventTag_SeriesFinale" xml:space="preserve">
+    <value>Dernier épisode de la série</value>
+  </data>
+  <data name="Calendar_RowTag_Watched" xml:space="preserve">
+    <value>Vu</value>
+  </data>
+  <data name="Home_Calendar_NothingToday" xml:space="preserve">
+    <value>rien de prévu</value>
+  </data>
 </root>

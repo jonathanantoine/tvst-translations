@@ -6262,4 +6262,22 @@ If it is still missing after that, you can let the Trakt team know. The email is
   <data name="Settings_MovieSortHeader_Text" xml:space="preserve">
     <value>MOVIES SORTING</value>
   </data>
+  <data name="Calendar_EventTag_NewShow" xml:space="preserve">
+    <value>New show</value>
+  </data>
+  <data name="Calendar_EventTag_SeasonPremiere" xml:space="preserve">
+    <value>Season premiere</value>
+  </data>
+  <data name="Calendar_EventTag_SeasonFinale" xml:space="preserve">
+    <value>Season finale</value>
+  </data>
+  <data name="Calendar_EventTag_SeriesFinale" xml:space="preserve">
+    <value>Series finale</value>
+  </data>
+  <data name="Calendar_RowTag_Watched" xml:space="preserve">
+    <value>Watched</value>
+  </data>
+  <data name="Home_Calendar_NothingToday" xml:space="preserve">
+    <value>nothing planned</value>
+  </data>
 </root>
