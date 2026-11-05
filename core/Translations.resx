@@ -6300,7 +6300,7 @@ If it is still missing after that, you can let the Trakt team know. The email is
     <value>Top of pages</value>
   </data>
   <data name="Settings_PageTop_ImageColor_Subtitle" xml:space="preserve">
-    <value>When the page has an image. Otherwise, your color.</value>
+    <value>The first image, on recommendations and genres.</value>
   </data>
   <data name="Settings_PageTop_ImageColor_Title" xml:space="preserve">
     <value>Use the image's color</value>

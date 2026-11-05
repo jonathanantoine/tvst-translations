@@ -7644,7 +7644,7 @@ Se depois disso continuar a faltar, pode avisar a equipa do Trakt. O e-mail já 
     <value>Topo das páginas</value>
   </data>
   <data name="Settings_PageTop_ImageColor_Subtitle" xml:space="preserve">
-    <value>Quando a página tem uma imagem. Caso contrário, a sua cor.</value>
+    <value>A primeira imagem, nas recomendações e nos géneros.</value>
   </data>
   <data name="Settings_PageTop_ImageColor_Title" xml:space="preserve">
     <value>Usar a cor da imagem</value>

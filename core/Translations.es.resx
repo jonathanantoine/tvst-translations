@@ -6334,7 +6334,7 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
     <value>Parte superior de las páginas</value>
   </data>
   <data name="Settings_PageTop_ImageColor_Subtitle" xml:space="preserve">
-    <value>Cuando la página tiene una imagen. Si no, tu color.</value>
+    <value>La primera imagen, en recomendaciones y géneros.</value>
   </data>
   <data name="Settings_PageTop_ImageColor_Title" xml:space="preserve">
     <value>Usar el color de la imagen</value>
