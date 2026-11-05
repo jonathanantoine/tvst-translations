@@ -3628,6 +3628,9 @@ t  <data name="Settings_Modern_Badge_Premium" xml:space="preserve">
   <data name="NewVersion_VersionChipFormat" xml:space="preserve">
     <value>Versione {0}</value>
   </data>
+  <data name="NewVersion_TitleFormat" xml:space="preserve">
+    <value>Versione {0} installata!</value>
+  </data>
   <data name="Settings_Various_ShowNewVersionScreen_Text" xml:space="preserve">
     <value>Mostra la schermata delle novità</value>
   </data>

@@ -4907,6 +4907,9 @@ Lembrete: o seu código é {0}.</value>
   <data name="NewVersion_VersionChipFormat" xml:space="preserve">
     <value>Versão {0}</value>
   </data>
+  <data name="NewVersion_TitleFormat" xml:space="preserve">
+    <value>Versão {0} instalada!</value>
+  </data>
   <data name="Settings_Various_ShowNewVersionScreen_Text" xml:space="preserve">
     <value>Mostrar o ecrã de novidades</value>
   </data>

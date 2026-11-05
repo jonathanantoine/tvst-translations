@@ -3626,6 +3626,9 @@ Do you confirm?</value>
   <data name="NewVersion_VersionChipFormat" xml:space="preserve">
     <value>Version {0}</value>
   </data>
+  <data name="NewVersion_TitleFormat" xml:space="preserve">
+    <value>Version {0} installed!</value>
+  </data>
   <data name="Settings_Various_ShowNewVersionScreen_Text" xml:space="preserve">
     <value>Show the what's new screen</value>
   </data>
