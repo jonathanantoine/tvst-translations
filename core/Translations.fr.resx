@@ -1116,12 +1116,12 @@ lisons vos séries TV</value>
   <data
       name     ="People_Code_ActingInXMoviesPlural"
       xml:space="preserve">
-    <value>ACTEUR DANS {0} FILMS</value>
+    <value>{0} films au casting</value>
   </data>
   <data
       name     ="People_Code_ActingInXShowsPlural"
       xml:space="preserve">
-    <value>ACTEUR DANS {0} SÉRIES</value>
+    <value>{0} séries au casting</value>
   </data>
   <data
       name     ="People_Code_AsCastNumberPlural"
@@ -1136,12 +1136,12 @@ lisons vos séries TV</value>
   <data
       name     ="People_Code_CrewingInXMoviesPlural"
       xml:space="preserve">
-    <value>DANS L'ÉQUIPE DE TOURNAGE DE {0} FILMS</value>
+    <value>{0} films en équipe de tournage</value>
   </data>
   <data
       name     ="People_Code_CrewingInXShowsPlural"
       xml:space="preserve">
-    <value>DANS L'ÉQUIPE DE TOURNAGE DE {0} SÉRIES</value>
+    <value>{0} séries en équipe de tournage</value>
   </data>
   <data
       name     ="People_Code_EmptyBiography"
@@ -3386,12 +3386,12 @@ xml:space="preserve">
   <data
       name     ="People_Code_ActingInXMoviesSingle"
       xml:space="preserve">
-    <value>ACTEUR DANS {0} FILM</value>
+    <value>{0} film au casting</value>
   </data>
   <data
       name     ="People_Code_ActingInXShowsSingle"
       xml:space="preserve">
-    <value>ACTEUR DANS {0} SÉRIE</value>
+    <value>{0} série au casting</value>
   </data>
   <data
       name     ="People_Code_AsCastNumberSingle"
@@ -3406,12 +3406,12 @@ xml:space="preserve">
   <data
       name     ="People_Code_CrewingInXMoviesSingle"
       xml:space="preserve">
-    <value>DANS L'ÉQUIPE DE TOURNAGE DE {0} FILM</value>
+    <value>{0} film en équipe de tournage</value>
   </data>
   <data
       name     ="People_Code_CrewingInXShowsSingle"
       xml:space="preserve">
-    <value>DANS L'ÉQUIPE DE TOURNAGE DE {0} SÉRIE</value>
+    <value>{0} série en équipe de tournage</value>
   </data>
 
 
@@ -3914,12 +3914,6 @@ Si vous ne pouvez toujours pas accéder à votre compte après la connexion, veu
   <data name="Settings_Display_ItemsByRowHeader_MainHeader" xml:space="preserve">
         <value>Nombre d'éléments par ligne en mode grille</value>
     </data>
-  <data name="People_AlreadyInYourCollection" xml:space="preserve">
-    <value>DÉJÀ VU DANS...</value>
-  </data>
-  <data name="People_ToWatchIn" xml:space="preserve">
-    <value>À VOIR DANS...</value>
-  </data>
   <data name="Global_ShowStatus_Released" xml:space="preserve">
     <value>sorti</value>
   </data>
@@ -7557,9 +7551,36 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
     <value>Haut des pages</value>
   </data>
   <data name="Settings_PageTop_ImageColor_Subtitle" xml:space="preserve">
-    <value>La première image, sur les recommandations et les genres.</value>
+    <value>La première image, sur les recommandations, les genres, vos listes et quelques autres pages. L'accueil garde votre couleur.</value>
   </data>
-  <data name="Settings_PageTop_ImageColor_Title" xml:space="preserve">
-    <value>Utiliser la couleur de l'image</value>
+  <data name="Settings_Colors_Header" xml:space="preserve">
+    <value>Couleurs</value>
+  </data>
+  <data name="Settings_PageTop_Choice_Gradient" xml:space="preserve">
+    <value>Dégradé</value>
+  </data>
+  <data name="Settings_PageTop_Choice_ImageColor" xml:space="preserve">
+    <value>Couleur de l'image</value>
+  </data>
+  <data name="Settings_PageTop_Choice_SolidBar" xml:space="preserve">
+    <value>Barre pleine</value>
+  </data>
+  <data name="Settings_PageTop_Summary_Format" xml:space="preserve">
+    <value>Haut des pages : {0}</value>
+  </data>
+  <data name="Settings_ColorPage_Apply" xml:space="preserve">
+    <value>Appliquer</value>
+  </data>
+  <data name="People_Code_AlreadySeenInXTitlesPlural" xml:space="preserve">
+    <value>{0} titres déjà vus</value>
+  </data>
+  <data name="People_Code_AlreadySeenInXTitlesSingle" xml:space="preserve">
+    <value>{0} titre déjà vu</value>
+  </data>
+  <data name="People_Code_ToWatchInXTitlesPlural" xml:space="preserve">
+    <value>{0} titres à voir</value>
+  </data>
+  <data name="People_Code_ToWatchInXTitlesSingle" xml:space="preserve">
+    <value>{0} titre à voir</value>
   </data>
 </root>

@@ -691,10 +691,10 @@ leyendo tus datos…</value>
     <value>{0} episodios</value>
   </data>
     <data name="People_Code_ActingInXMoviesPlural" xml:space="preserve">
-    <value>APARECE EN {0} PELÍCULAS</value>
+    <value>{0} películas en el reparto</value>
   </data>
     <data name="People_Code_ActingInXShowsPlural" xml:space="preserve">
-    <value>APARECE EN {0} SERIES</value>
+    <value>{0} series en el reparto</value>
   </data>
     <data name="People_Code_AsCastNumberPlural" xml:space="preserve">
     <value>{0} créditos</value>
@@ -703,10 +703,10 @@ leyendo tus datos…</value>
     <value>{0} créditos</value>
   </data>
     <data name="People_Code_CrewingInXMoviesPlural" xml:space="preserve">
-    <value>EN EL EQUIPO DE {0} PELÍCULAS</value>
+    <value>{0} películas en el equipo técnico</value>
   </data>
     <data name="People_Code_CrewingInXShowsPlural" xml:space="preserve">
-    <value>EN EL EQUIPO DE {0} SERIES</value>
+    <value>{0} series en el equipo técnico</value>
   </data>
     <data name="People_Code_EmptyBiography" xml:space="preserve">
     <value>No hay biografía disponible.</value>
@@ -2211,10 +2211,10 @@ y tendencias mundiales!</value>
     <value>{0} episodio_</value>
   </data>
     <data name="People_Code_ActingInXMoviesSingle" xml:space="preserve">
-    <value>APARECE EN {0} PELÍCULA_</value>
+    <value>{0} película en el reparto</value>
   </data>
     <data name="People_Code_ActingInXShowsSingle" xml:space="preserve">
-    <value>APARECE EN {0} SERIE_</value>
+    <value>{0} serie en el reparto</value>
   </data>
     <data name="People_Code_AsCastNumberSingle" xml:space="preserve">
     <value>{0} crédito_</value>
@@ -2223,10 +2223,10 @@ y tendencias mundiales!</value>
     <value>{0} crédito_</value>
   </data>
     <data name="People_Code_CrewingInXMoviesSingle" xml:space="preserve">
-    <value>EN EL EQUIPO DE {0} PELÍCULA_</value>
+    <value>{0} película en el equipo técnico</value>
   </data>
     <data name="People_Code_CrewingInXShowsSingle" xml:space="preserve">
-    <value>EN EL EQUIPO DE {0} SERIE_</value>
+    <value>{0} serie en el equipo técnico</value>
   </data>
 
 
@@ -2649,12 +2649,6 @@ Si aún no puedes acceder a tu cuenta después de iniciar sesión, contáctanos 
     <data name="Settings_Display_ItemsByRowHeader_MainHeader" xml:space="preserve">
         <value>Número de artículo por fila en modo de cuadrícula</value>
     </data>
-    <data name="People_AlreadyInYourCollection" xml:space="preserve">
-    <value>YA VISTO EN...</value>
-  </data>
-    <data name="People_ToWatchIn" xml:space="preserve">
-    <value>POR VER EN...</value>
-  </data>
     <data name="Global_ShowStatus_Released" xml:space="preserve">
     <value>publicado</value>
   </data>
@@ -6334,9 +6328,36 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
     <value>Parte superior de las páginas</value>
   </data>
   <data name="Settings_PageTop_ImageColor_Subtitle" xml:space="preserve">
-    <value>La primera imagen, en recomendaciones y géneros.</value>
+    <value>La primera imagen, en recomendaciones, géneros, tus listas y algunas otras páginas. La pantalla de inicio mantiene tu color.</value>
   </data>
-  <data name="Settings_PageTop_ImageColor_Title" xml:space="preserve">
-    <value>Usar el color de la imagen</value>
+  <data name="Settings_Colors_Header" xml:space="preserve">
+    <value>Colores</value>
+  </data>
+  <data name="Settings_PageTop_Choice_Gradient" xml:space="preserve">
+    <value>Degradado</value>
+  </data>
+  <data name="Settings_PageTop_Choice_ImageColor" xml:space="preserve">
+    <value>Color de la imagen</value>
+  </data>
+  <data name="Settings_PageTop_Choice_SolidBar" xml:space="preserve">
+    <value>Barra sólida</value>
+  </data>
+  <data name="Settings_PageTop_Summary_Format" xml:space="preserve">
+    <value>Parte superior de las páginas: {0}</value>
+  </data>
+  <data name="Settings_ColorPage_Apply" xml:space="preserve">
+    <value>Aplicar</value>
+  </data>
+  <data name="People_Code_AlreadySeenInXTitlesPlural" xml:space="preserve">
+    <value>{0} títulos ya vistos</value>
+  </data>
+  <data name="People_Code_AlreadySeenInXTitlesSingle" xml:space="preserve">
+    <value>{0} título ya visto</value>
+  </data>
+  <data name="People_Code_ToWatchInXTitlesPlural" xml:space="preserve">
+    <value>{0} títulos por ver</value>
+  </data>
+  <data name="People_Code_ToWatchInXTitlesSingle" xml:space="preserve">
+    <value>{0} título por ver</value>
   </data>
 </root>

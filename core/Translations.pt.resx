@@ -1079,12 +1079,12 @@ processando suas séries...</value>
   <data
       name="People_Code_ActingInXMoviesPlural"
       xml:space="preserve">
-    <value>ATUANDO EM {0} FILMES</value>
+    <value>{0} filmes no elenco</value>
   </data>
   <data
       name="People_Code_ActingInXShowsPlural"
       xml:space="preserve">
-    <value>ATUANDO EM {0} SÉRIES</value>
+    <value>{0} séries no elenco</value>
   </data>
   <data
       name="People_Code_AsCastNumberPlural"
@@ -1099,12 +1099,12 @@ processando suas séries...</value>
   <data
       name="People_Code_CrewingInXMoviesPlural"
       xml:space="preserve">
-    <value>NO ELENCO DE {0} FILMES</value>
+    <value>{0} filmes na equipa técnica</value>
   </data>
   <data
       name="People_Code_CrewingInXShowsPlural"
       xml:space="preserve">
-    <value>NO ELENCO DE {0} SÉRIES</value>
+    <value>{0} séries na equipa técnica</value>
   </data>
   <data
       name="People_Code_EmptyBiography"
@@ -3457,12 +3457,12 @@ xml:space="preserve">
   <data
       name="People_Code_ActingInXMoviesSingle"
       xml:space="preserve">
-    <value>ATUANDO EM {0} FILME</value>
+    <value>{0} filme no elenco</value>
   </data>
   <data
       name="People_Code_ActingInXShowsSingle"
       xml:space="preserve">
-    <value>ATUANDO EM {0} SÉRIE</value>
+    <value>{0} série no elenco</value>
   </data>
   <data
       name="People_Code_AsCastNumberSingle"
@@ -3477,12 +3477,12 @@ xml:space="preserve">
   <data
       name="People_Code_CrewingInXMoviesSingle"
       xml:space="preserve">
-    <value>NO ELENCO DE {0} FILME</value>
+    <value>{0} filme na equipa técnica</value>
   </data>
   <data
       name="People_Code_CrewingInXShowsSingle"
       xml:space="preserve">
-    <value>NO ELENCO DE {0} SÉRIE</value>
+    <value>{0} série na equipa técnica</value>
   </data>
 
 
@@ -3944,12 +3944,6 @@ Se ainda não conseguir acessar sua conta após o login, entre em contato Trakt 
   <data name="Settings_Display_ItemsByRowHeader_MainHeader" xml:space="preserve">
         <value>Número de item por linha no modo de grade</value>
     </data>
-  <data name="People_AlreadyInYourCollection" xml:space="preserve">
-    <value>JÁ VISTO EM...</value>
-  </data>
-  <data name="People_ToWatchIn" xml:space="preserve">
-    <value>PARA VER EM...</value>
-  </data>
   <data name="Global_ShowStatus_Released" xml:space="preserve">
     <value>liberado</value>
   </data>
@@ -7644,9 +7638,36 @@ Se depois disso continuar a faltar, pode avisar a equipa do Trakt. O e-mail já 
     <value>Topo das páginas</value>
   </data>
   <data name="Settings_PageTop_ImageColor_Subtitle" xml:space="preserve">
-    <value>A primeira imagem, nas recomendações e nos géneros.</value>
+    <value>A primeira imagem, nas recomendações, nos géneros, nas suas listas e em algumas outras páginas. A página inicial mantém a sua cor.</value>
   </data>
-  <data name="Settings_PageTop_ImageColor_Title" xml:space="preserve">
-    <value>Usar a cor da imagem</value>
+  <data name="Settings_Colors_Header" xml:space="preserve">
+    <value>Cores</value>
+  </data>
+  <data name="Settings_PageTop_Choice_Gradient" xml:space="preserve">
+    <value>Gradiente</value>
+  </data>
+  <data name="Settings_PageTop_Choice_ImageColor" xml:space="preserve">
+    <value>Cor da imagem</value>
+  </data>
+  <data name="Settings_PageTop_Choice_SolidBar" xml:space="preserve">
+    <value>Barra sólida</value>
+  </data>
+  <data name="Settings_PageTop_Summary_Format" xml:space="preserve">
+    <value>Topo das páginas: {0}</value>
+  </data>
+  <data name="Settings_ColorPage_Apply" xml:space="preserve">
+    <value>Aplicar</value>
+  </data>
+  <data name="People_Code_AlreadySeenInXTitlesPlural" xml:space="preserve">
+    <value>{0} títulos já vistos</value>
+  </data>
+  <data name="People_Code_AlreadySeenInXTitlesSingle" xml:space="preserve">
+    <value>{0} título já visto</value>
+  </data>
+  <data name="People_Code_ToWatchInXTitlesPlural" xml:space="preserve">
+    <value>{0} títulos para ver</value>
+  </data>
+  <data name="People_Code_ToWatchInXTitlesSingle" xml:space="preserve">
+    <value>{0} título para ver</value>
   </data>
 </root>

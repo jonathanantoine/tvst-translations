@@ -712,10 +712,10 @@ reading your shows...</value>
     <value>{0} episodes</value>
   </data>
   <data name="People_Code_ActingInXMoviesPlural" xml:space="preserve">
-    <value>ACTING IN {0} MOVIES</value>
+    <value>{0} movies in the cast</value>
   </data>
   <data name="People_Code_ActingInXShowsPlural" xml:space="preserve">
-    <value>ACTING IN {0} TV SHOWS</value>
+    <value>{0} shows in the cast</value>
   </data>
   <data name="People_Code_AsCastNumberPlural" xml:space="preserve">
     <value>{0} cast credits</value>
@@ -724,16 +724,10 @@ reading your shows...</value>
     <value>{0} crew credits</value>
   </data>
   <data name="People_Code_CrewingInXMoviesPlural" xml:space="preserve">
-    <value>IN THE CREW OF {0} MOVIES</value>
-  </data>
-  <data name="People_AlreadyInYourCollection" xml:space="preserve">
-    <value>ALREADY SEEN IN...</value>
-  </data>
-  <data name="People_ToWatchIn" xml:space="preserve">
-    <value>TO WATCH IN...</value>
+    <value>{0} movies in the crew</value>
   </data>
   <data name="People_Code_CrewingInXShowsPlural" xml:space="preserve">
-    <value>IN THE CREW OF {0} TV SHOWS</value>
+    <value>{0} shows in the crew</value>
   </data>
   <data name="People_Code_EmptyBiography" xml:space="preserve">
     <value>No biography available.</value>
@@ -2312,10 +2306,10 @@ Do you confirm ?
     <value>{0} episode</value>
   </data>
   <data name="People_Code_ActingInXMoviesSingle" xml:space="preserve">
-    <value>ACTING IN {0} MOVIE</value>
+    <value>{0} movie in the cast</value>
   </data>
   <data name="People_Code_ActingInXShowsSingle" xml:space="preserve">
-    <value>ACTING IN {0} TV SHOW</value>
+    <value>{0} show in the cast</value>
   </data>
   <data name="People_Code_AsCastNumberSingle" xml:space="preserve">
     <value>{0} cast credit</value>
@@ -2324,10 +2318,10 @@ Do you confirm ?
     <value>{0} crew credit</value>
   </data>
   <data name="People_Code_CrewingInXMoviesSingle" xml:space="preserve">
-    <value>IN THE CREW OF {0} MOVIE</value>
+    <value>{0} movie in the crew</value>
   </data>
   <data name="People_Code_CrewingInXShowsSingle" xml:space="preserve">
-    <value>IN THE CREW OF {0} TV SHOW</value>
+    <value>{0} show in the crew</value>
   </data>
   <data name="Home_UserLists_Code_NumberOfElementSingle" xml:space="preserve">
     <value>{0} item in this list</value>
@@ -6300,9 +6294,36 @@ If it is still missing after that, you can let the Trakt team know. The email is
     <value>Top of pages</value>
   </data>
   <data name="Settings_PageTop_ImageColor_Subtitle" xml:space="preserve">
-    <value>The first image, on recommendations and genres.</value>
+    <value>The first image, on recommendations, genres, your lists and a few other pages. Home keeps your color.</value>
   </data>
-  <data name="Settings_PageTop_ImageColor_Title" xml:space="preserve">
-    <value>Use the image's color</value>
+  <data name="Settings_Colors_Header" xml:space="preserve">
+    <value>Colors</value>
+  </data>
+  <data name="Settings_PageTop_Choice_Gradient" xml:space="preserve">
+    <value>Gradient</value>
+  </data>
+  <data name="Settings_PageTop_Choice_ImageColor" xml:space="preserve">
+    <value>Image's color</value>
+  </data>
+  <data name="Settings_PageTop_Choice_SolidBar" xml:space="preserve">
+    <value>Solid bar</value>
+  </data>
+  <data name="Settings_PageTop_Summary_Format" xml:space="preserve">
+    <value>Top of pages: {0}</value>
+  </data>
+  <data name="Settings_ColorPage_Apply" xml:space="preserve">
+    <value>Apply</value>
+  </data>
+  <data name="People_Code_AlreadySeenInXTitlesPlural" xml:space="preserve">
+    <value>{0} titles already seen</value>
+  </data>
+  <data name="People_Code_AlreadySeenInXTitlesSingle" xml:space="preserve">
+    <value>{0} title already seen</value>
+  </data>
+  <data name="People_Code_ToWatchInXTitlesPlural" xml:space="preserve">
+    <value>{0} titles to watch</value>
+  </data>
+  <data name="People_Code_ToWatchInXTitlesSingle" xml:space="preserve">
+    <value>{0} title to watch</value>
   </data>
 </root>
