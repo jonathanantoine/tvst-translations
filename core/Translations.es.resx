@@ -2888,10 +2888,7 @@ Si desea dar un impulso adicional, el enlace de donación está aquí y siempre 
         <value>episodio visto en</value>
     </data>
     <data name="Global_UI_HintOfPinchPossibleContent" xml:space="preserve">
-        <value>Pellizca para acercar o alejar y cambiar el número de elementos por fila.</value>
-    </data>
-    <data name="Global_UI_HintToastTitle" xml:space="preserve">
-        <value>💡 Consejo</value>
+        <value>Separa o junta dos dedos sobre las imágenes para cambiar su tamaño</value>
     </data>
     <data name="Global_UI_HintOfCtrlWheelPossibleContent" xml:space="preserve">
         <value>Mantén pulsado Ctrl y usa la rueda del ratón para cambiar el número de elementos por fila.</value>
@@ -6202,7 +6199,7 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
     <value>Descubrir películas</value>
   </data>
   <data name="WhereToStart_Title" xml:space="preserve">
-    <value>¿Por dónde empezar?</value>
+    <value>¿Qué serie empezar?</value>
   </data>
   <data name="WhereToStart_Sort_PositiveComments" xml:space="preserve">
     <value>Comentarios positivos</value>
@@ -6285,6 +6282,9 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
   <data name="WhereToStart_EntryHint" xml:space="preserve">
     <value>¿Dudas? Compare estas series</value>
   </data>
+  <data name="Discover_WhereToStart_Format" xml:space="preserve">
+    <value>Ya tiene {0} series por empezar</value>
+  </data>
   <data name="WhereToStart_SortedByFormat" xml:space="preserve">
     <value>Ordenado por: {0}</value>
   </data>
@@ -6359,5 +6359,17 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
   </data>
   <data name="People_Code_ToWatchInXTitlesSingle" xml:space="preserve">
     <value>{0} título por ver</value>
+  </data>
+  <data name="Home_Calendar_Today_EpisodeCountSingle" xml:space="preserve">
+    <value>{0} episodio</value>
+  </data>
+  <data name="Home_Calendar_Today_EpisodeCountPlural" xml:space="preserve">
+    <value>{0} episodios</value>
+  </data>
+  <data name="Home_Calendar_Today_MovieCountSingle" xml:space="preserve">
+    <value>{0} película</value>
+  </data>
+  <data name="Home_Calendar_Today_MovieCountPlural" xml:space="preserve">
+    <value>{0} películas</value>
   </data>
 </root>

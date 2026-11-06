@@ -2997,10 +2997,7 @@ If you'd like to give an extra boost, the donation link is right here and always
       <value>episode watched in</value>
   </data>
   <data name="Global_UI_HintOfPinchPossibleContent" xml:space="preserve">
-      <value>Pinch to zoom in or out to change the number of items per row.</value>
-  </data>
-  <data name="Global_UI_HintToastTitle" xml:space="preserve">
-      <value>💡 Tip</value>
+      <value>Pinch or spread two fingers on the images to resize them</value>
   </data>
   <data name="Global_UI_HintOfCtrlWheelPossibleContent" xml:space="preserve">
       <value>Hold Ctrl and scroll the mouse wheel to change the number of items per row.</value>
@@ -6168,7 +6165,7 @@ If it is still missing after that, you can let the Trakt team know. The email is
     <value>Discover movies</value>
   </data>
   <data name="WhereToStart_Title" xml:space="preserve">
-    <value>Where to start?</value>
+    <value>Which show to start?</value>
   </data>
   <data name="WhereToStart_Sort_PositiveComments" xml:space="preserve">
     <value>Positive comments</value>
@@ -6251,6 +6248,9 @@ If it is still missing after that, you can let the Trakt team know. The email is
   <data name="WhereToStart_EntryHint" xml:space="preserve">
     <value>Not sure? Compare these shows</value>
   </data>
+  <data name="Discover_WhereToStart_Format" xml:space="preserve">
+    <value>You already have {0} shows to start</value>
+  </data>
   <data name="WhereToStart_SortedByFormat" xml:space="preserve">
     <value>Sorted by: {0}</value>
   </data>
@@ -6325,5 +6325,17 @@ If it is still missing after that, you can let the Trakt team know. The email is
   </data>
   <data name="People_Code_ToWatchInXTitlesSingle" xml:space="preserve">
     <value>{0} title to watch</value>
+  </data>
+  <data name="Home_Calendar_Today_EpisodeCountSingle" xml:space="preserve">
+    <value>{0} episode</value>
+  </data>
+  <data name="Home_Calendar_Today_EpisodeCountPlural" xml:space="preserve">
+    <value>{0} episodes</value>
+  </data>
+  <data name="Home_Calendar_Today_MovieCountSingle" xml:space="preserve">
+    <value>{0} movie</value>
+  </data>
+  <data name="Home_Calendar_Today_MovieCountPlural" xml:space="preserve">
+    <value>{0} movies</value>
   </data>
 </root>
