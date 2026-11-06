@@ -202,7 +202,7 @@ Cliquez-ici pour faire une donation !</value>
   <data
       name     ="AdCrossPromo_BooksTracker_Title"
       xml:space="preserve">
-    <value>Books Tracker · par le créateur de TV Shows Tracker</value>
+    <value>Books Tracker · du même créateur</value>
   </data>
   <data
       name     ="AdCrossPromo_BooksTracker_Subtitle"
@@ -222,7 +222,7 @@ Cliquez-ici pour faire une donation !</value>
   <data
       name     ="AdCrossPromo_PodcastTracker_Title"
       xml:space="preserve">
-    <value>Podcast Tracker · Par le créateur de TV Shows Tracker</value>
+    <value>Podcast Tracker · du même créateur</value>
   </data>
   <data
       name     ="AdCrossPromo_PodcastTracker_Subtitle"

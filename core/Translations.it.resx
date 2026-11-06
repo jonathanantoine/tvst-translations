@@ -137,7 +137,7 @@ Stai usando la versione {0}</value>
 Clicca qui e fai una donazione!</value>
   </data>
     <data name="AdCrossPromo_BooksTracker_Title" xml:space="preserve">
-    <value>Books Tracker · dal creatore di TV Shows Tracker</value>
+    <value>Books Tracker · dello stesso creatore</value>
   </data>
     <data name="AdCrossPromo_BooksTracker_Subtitle" xml:space="preserve">
     <value>Segui i tuoi libri, come le tue serie TV</value>
@@ -149,10 +149,10 @@ Clicca qui e fai una donazione!</value>
     <value>Vedi</value>
   </data>
     <data name="AdCrossPromo_PodcastTracker_Title" xml:space="preserve">
-    <value>Podcast Tracker · Dal creatore di TV Shows Tracker</value>
+    <value>Podcast Tracker · dello stesso creatore</value>
   </data>
     <data name="AdCrossPromo_PodcastTracker_Subtitle" xml:space="preserve">
-    <value>Ascolta e tieni traccia dei tuoi podcast. Proprio come le tue serie.</value>
+    <value>Ascolta e segui i tuoi podcast, come le tue serie.</value>
   </data>
     <data name="AdCrossPromo_PodcastTracker_Cta" xml:space="preserve">
     <value>Vedi</value>

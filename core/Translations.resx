@@ -133,7 +133,7 @@ You are using version {0}</value>
 Click here and make donation!</value>
   </data>
   <data name="AdCrossPromo_BooksTracker_Title" xml:space="preserve">
-    <value>Books Tracker · by the maker of TV Shows Tracker</value>
+    <value>Books Tracker · by the same maker</value>
   </data>
   <data name="AdCrossPromo_BooksTracker_Subtitle" xml:space="preserve">
     <value>Track your books, just like your TV shows</value>
@@ -145,7 +145,7 @@ Click here and make donation!</value>
     <value>See</value>
   </data>
   <data name="AdCrossPromo_PodcastTracker_Title" xml:space="preserve">
-    <value>Podcast Tracker · From the maker of TV Shows Tracker</value>
+    <value>Podcast Tracker · by the same maker</value>
   </data>
   <data name="AdCrossPromo_PodcastTracker_Subtitle" xml:space="preserve">
     <value>Listen &amp; track your podcasts. Just like your shows.</value>
