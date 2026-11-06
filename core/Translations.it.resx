@@ -6380,7 +6380,16 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
     <value>Solo un episodio da vedere</value>
   </data>
   <data name="WhereToStart_Highlight_OneSeasonLeft" xml:space="preserve">
-    <value>Solo una stagione da vedere</value>
+    <value>Solo una stagione da recuperare</value>
+  </data>
+  <data name="WhereToStart_Highlight_LastSeason" xml:space="preserve">
+    <value>Ultima stagione della serie</value>
+  </data>
+  <data name="WhereToStart_Highlight_LastSeasonCanceled" xml:space="preserve">
+    <value>Ultima stagione, serie cancellata</value>
+  </data>
+  <data name="WhereToStart_Highlight_SeasonWatchedFormat" xml:space="preserve">
+    <value>Stagione {0} vista {1}</value>
   </data>
   <data name="WhereToStart_Highlight_NewEpisode" xml:space="preserve">
     <value>1 nuovo episodio</value>
@@ -6410,7 +6419,7 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
     <value>Una sola stagione, {0} in tutto</value>
   </data>
   <data name="WhereToStart_Highlight_LongAbsenceFormat" xml:space="preserve">
-    <value>Vista l'ultima volta {0}</value>
+    <value>Non vista da {0}</value>
   </data>
   <data name="WhereToStart_SeasonRatings_Link" xml:space="preserve">
     <value>Vedi i voti delle stagioni</value>
@@ -6489,5 +6498,17 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
   </data>
   <data name="PhotoGallery_Group_Others" xml:space="preserve">
     <value>Loghi e personaggi</value>
+  </data>
+  <data name="WhereToStart_List_Both" xml:space="preserve">
+    <value>Entrambe</value>
+  </data>
+  <data name="WhereToStart_Title_Both" xml:space="preserve">
+    <value>Quale serie guardare?</value>
+  </data>
+  <data name="WhereToStart_Sort_LeastTimeLeft" xml:space="preserve">
+    <value>Meno tempo da guardare</value>
+  </data>
+  <data name="WhereToStart_Empty_Both" xml:space="preserve">
+    <value>Nessuna serie da iniziare o continuare per ora.</value>
   </data>
 </root>

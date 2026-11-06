@@ -6409,7 +6409,16 @@ Se depois disso ele ainda estiver faltando, você pode avisar a equipe do Trakt.
     <value>Falta só um episódio</value>
   </data>
   <data name="WhereToStart_Highlight_OneSeasonLeft" xml:space="preserve">
-    <value>Falta só uma temporada</value>
+    <value>Só uma temporada para colocar em dia</value>
+  </data>
+  <data name="WhereToStart_Highlight_LastSeason" xml:space="preserve">
+    <value>Última temporada da série</value>
+  </data>
+  <data name="WhereToStart_Highlight_LastSeasonCanceled" xml:space="preserve">
+    <value>Última temporada, série cancelada</value>
+  </data>
+  <data name="WhereToStart_Highlight_SeasonWatchedFormat" xml:space="preserve">
+    <value>Temporada {0} assistida {1}</value>
   </data>
   <data name="WhereToStart_Highlight_NewEpisode" xml:space="preserve">
     <value>1 episódio novo</value>
@@ -6439,7 +6448,7 @@ Se depois disso ele ainda estiver faltando, você pode avisar a equipe do Trakt.
     <value>Só uma temporada, {0} no total</value>
   </data>
   <data name="WhereToStart_Highlight_LongAbsenceFormat" xml:space="preserve">
-    <value>Vista pela última vez {0}</value>
+    <value>Sem assistir há {0}</value>
   </data>
   <data name="WhereToStart_SeasonRatings_Link" xml:space="preserve">
     <value>Ver as notas das temporadas</value>
@@ -6518,5 +6527,17 @@ Se depois disso ele ainda estiver faltando, você pode avisar a equipe do Trakt.
   </data>
   <data name="PhotoGallery_Group_Others" xml:space="preserve">
     <value>Logos e personagens</value>
+  </data>
+  <data name="WhereToStart_List_Both" xml:space="preserve">
+    <value>Ambas</value>
+  </data>
+  <data name="WhereToStart_Title_Both" xml:space="preserve">
+    <value>Qual série assistir?</value>
+  </data>
+  <data name="WhereToStart_Sort_LeastTimeLeft" xml:space="preserve">
+    <value>Menos tempo para assistir</value>
+  </data>
+  <data name="WhereToStart_Empty_Both" xml:space="preserve">
+    <value>Nenhuma série para começar ou continuar no momento.</value>
   </data>
 </root>

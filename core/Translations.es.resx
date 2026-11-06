@@ -6406,7 +6406,16 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
     <value>Solo queda un episodio por ver</value>
   </data>
   <data name="WhereToStart_Highlight_OneSeasonLeft" xml:space="preserve">
-    <value>Solo queda una temporada por ver</value>
+    <value>Solo una temporada por recuperar</value>
+  </data>
+  <data name="WhereToStart_Highlight_LastSeason" xml:space="preserve">
+    <value>Última temporada de la serie</value>
+  </data>
+  <data name="WhereToStart_Highlight_LastSeasonCanceled" xml:space="preserve">
+    <value>Última temporada, serie cancelada</value>
+  </data>
+  <data name="WhereToStart_Highlight_SeasonWatchedFormat" xml:space="preserve">
+    <value>Temporada {0} vista {1}</value>
   </data>
   <data name="WhereToStart_Highlight_NewEpisode" xml:space="preserve">
     <value>1 episodio nuevo</value>
@@ -6436,7 +6445,7 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
     <value>Una sola temporada, {0} en total</value>
   </data>
   <data name="WhereToStart_Highlight_LongAbsenceFormat" xml:space="preserve">
-    <value>Vista por última vez {0}</value>
+    <value>Sin ver desde hace {0}</value>
   </data>
   <data name="WhereToStart_SeasonRatings_Link" xml:space="preserve">
     <value>Ver las notas de las temporadas</value>
@@ -6515,5 +6524,17 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
   </data>
   <data name="PhotoGallery_Group_Others" xml:space="preserve">
     <value>Logotipos y personajes</value>
+  </data>
+  <data name="WhereToStart_List_Both" xml:space="preserve">
+    <value>Ambas</value>
+  </data>
+  <data name="WhereToStart_Title_Both" xml:space="preserve">
+    <value>¿Qué serie ver?</value>
+  </data>
+  <data name="WhereToStart_Sort_LeastTimeLeft" xml:space="preserve">
+    <value>Menos tiempo por ver</value>
+  </data>
+  <data name="WhereToStart_Empty_Both" xml:space="preserve">
+    <value>Ninguna serie por empezar o continuar por ahora.</value>
   </data>
 </root>

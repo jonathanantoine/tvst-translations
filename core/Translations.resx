@@ -6372,7 +6372,16 @@ If it is still missing after that, you can let the Trakt team know. The email is
     <value>Only one episode left to watch</value>
   </data>
   <data name="WhereToStart_Highlight_OneSeasonLeft" xml:space="preserve">
-    <value>Only one season left to watch</value>
+    <value>Only one season to catch up on</value>
+  </data>
+  <data name="WhereToStart_Highlight_LastSeason" xml:space="preserve">
+    <value>Last season of the show</value>
+  </data>
+  <data name="WhereToStart_Highlight_LastSeasonCanceled" xml:space="preserve">
+    <value>Last season, show canceled</value>
+  </data>
+  <data name="WhereToStart_Highlight_SeasonWatchedFormat" xml:space="preserve">
+    <value>Season {0} watched {1}</value>
   </data>
   <data name="WhereToStart_Highlight_NewEpisode" xml:space="preserve">
     <value>1 new episode</value>
@@ -6402,7 +6411,7 @@ If it is still missing after that, you can let the Trakt team know. The email is
     <value>Just one season, {0} in all</value>
   </data>
   <data name="WhereToStart_Highlight_LongAbsenceFormat" xml:space="preserve">
-    <value>Last watched {0}</value>
+    <value>Not watched for {0}</value>
   </data>
   <data name="WhereToStart_SeasonRatings_Link" xml:space="preserve">
     <value>See the season ratings</value>
@@ -6481,5 +6490,17 @@ If it is still missing after that, you can let the Trakt team know. The email is
   </data>
   <data name="PhotoGallery_Group_Others" xml:space="preserve">
     <value>Logos and characters</value>
+  </data>
+  <data name="WhereToStart_List_Both" xml:space="preserve">
+    <value>Both</value>
+  </data>
+  <data name="WhereToStart_Title_Both" xml:space="preserve">
+    <value>Which show to watch?</value>
+  </data>
+  <data name="WhereToStart_Sort_LeastTimeLeft" xml:space="preserve">
+    <value>Least time to watch</value>
+  </data>
+  <data name="WhereToStart_Empty_Both" xml:space="preserve">
+    <value>No show to start or keep watching right now.</value>
   </data>
 </root>
