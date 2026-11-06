@@ -6206,21 +6206,6 @@ If it is still missing after that, you can let the Trakt team know. The email is
   <data name="WhereToStart_SameCreatorFormat" xml:space="preserve">
     <value>From the creator of {0}, which you rated {1}</value>
   </data>
-  <data name="WhereToStart_SeasonRatings_Header" xml:space="preserve">
-    <value>Rating by season</value>
-  </data>
-  <data name="WhereToStart_Trend_Up" xml:space="preserve">
-    <value>Rising over the seasons</value>
-  </data>
-  <data name="WhereToStart_Trend_Down" xml:space="preserve">
-    <value>Falling over the seasons</value>
-  </data>
-  <data name="WhereToStart_Trend_Stable" xml:space="preserve">
-    <value>Steady over the seasons</value>
-  </data>
-  <data name="WhereToStart_SeasonRatingFormat" xml:space="preserve">
-    <value>Season {0}: {1}</value>
-  </data>
   <data name="WhereToStart_SeasonCount_Single" xml:space="preserve">
     <value>1 season</value>
   </data>
@@ -6337,5 +6322,92 @@ If it is still missing after that, you can let the Trakt team know. The email is
   </data>
   <data name="Home_Calendar_Today_MovieCountPlural" xml:space="preserve">
     <value>{0} movies</value>
+  </data>
+  <data name="WhereToStart_Title_Continue" xml:space="preserve">
+    <value>Which show to keep watching?</value>
+  </data>
+  <data name="WhereToStart_List_Start" xml:space="preserve">
+    <value>To start</value>
+  </data>
+  <data name="WhereToStart_List_Continue" xml:space="preserve">
+    <value>To keep watching</value>
+  </data>
+  <data name="WhereToStart_Sort_AlmostFinished" xml:space="preserve">
+    <value>Almost finished</value>
+  </data>
+  <data name="WhereToStart_Sort_BestNext" xml:space="preserve">
+    <value>Best rated next</value>
+  </data>
+  <data name="WhereToStart_Sort_NewSeasonSoon" xml:space="preserve">
+    <value>New season soon</value>
+  </data>
+  <data name="WhereToStart_Sort_RecentlyWatched" xml:space="preserve">
+    <value>Watched recently</value>
+  </data>
+  <data name="WhereToStart_Empty_Continue" xml:space="preserve">
+    <value>No show to keep watching right now.</value>
+  </data>
+  <data name="WhereToStart_NextEpisodeFormat" xml:space="preserve">
+    <value>Next episode: {0}</value>
+  </data>
+  <data name="WhereToStart_SeasonToStartFormat" xml:space="preserve">
+    <value>Season {0} to start</value>
+  </data>
+  <data name="WhereToStart_EpisodesLeftToSeeFormat" xml:space="preserve">
+    <value>{0} ep. of {1} min to watch</value>
+  </data>
+  <data name="WhereToStart_EpisodeCountToSeeFormat" xml:space="preserve">
+    <value>{0} ep. to watch</value>
+  </data>
+  <data name="WhereToStart_SeasonRatingNoteFormat" xml:space="preserve">
+    <value>Season {0} rating: {1}</value>
+  </data>
+  <data name="WhereToStart_LastWatchedFormat" xml:space="preserve">
+    <value>Last episode watched {0}</value>
+  </data>
+  <data name="WhereToStart_Highlight_EpisodesLeftFormat" xml:space="preserve">
+    <value>Only {0} episodes left to watch</value>
+  </data>
+  <data name="WhereToStart_Highlight_OneEpisodeLeft" xml:space="preserve">
+    <value>Only one episode left to watch</value>
+  </data>
+  <data name="WhereToStart_Highlight_OneSeasonLeft" xml:space="preserve">
+    <value>Only one season left to watch</value>
+  </data>
+  <data name="WhereToStart_Highlight_NewEpisode" xml:space="preserve">
+    <value>1 new episode</value>
+  </data>
+  <data name="WhereToStart_Highlight_NewEpisodesFormat" xml:space="preserve">
+    <value>{0} new episodes</value>
+  </data>
+  <data name="WhereToStart_Highlight_CanceledFormat" xml:space="preserve">
+    <value>Canceled after season {0}</value>
+  </data>
+  <data name="WhereToStart_Highlight_UpcomingFormat" xml:space="preserve">
+    <value>Season {0} on {1}: time to catch up</value>
+  </data>
+  <data name="WhereToStart_Highlight_UpcomingToCatchUpFormat" xml:space="preserve">
+    <value>Season {0} on {1}: {2} ep. to catch up</value>
+  </data>
+  <data name="WhereToStart_Highlight_BestStillToComeFormat" xml:space="preserve">
+    <value>The best is yet to come: season {0}</value>
+  </data>
+  <data name="WhereToStart_Highlight_RatingsFallAfterFormat" xml:space="preserve">
+    <value>Ratings fall after season {0}</value>
+  </data>
+  <data name="WhereToStart_Highlight_RatingsRiseUntilFormat" xml:space="preserve">
+    <value>Ratings rise up to season {0}</value>
+  </data>
+  <data name="WhereToStart_Highlight_ShortFormat" xml:space="preserve">
+    <value>Just one season, {0} in all</value>
+  </data>
+  <data name="WhereToStart_Highlight_LongAbsenceFormat" xml:space="preserve">
+    <value>Last watched {0}</value>
+  </data>
+  <data name="WhereToStart_SeasonRatings_Link" xml:space="preserve">
+    <value>See the season ratings</value>
+  </data>
+  <data name="WhereToStart_SeasonRatings_SeenLegend" xml:space="preserve">
+    <value>Seasons already watched are in gray</value>
   </data>
 </root>
