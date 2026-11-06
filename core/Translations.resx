@@ -6410,4 +6410,76 @@ If it is still missing after that, you can let the Trakt team know. The email is
   <data name="WhereToStart_SeasonRatings_SeenLegend" xml:space="preserve">
     <value>Seasons already watched are in gray</value>
   </data>
+  <data name="ShowStats_EpisodesWatchedOutOfPluralFormat" xml:space="preserve">
+    <value>episodes watched out of {0}</value>
+  </data>
+  <data name="ShowStats_EpisodesWatchedOutOfSingleFormat" xml:space="preserve">
+    <value>episode watched out of {0}</value>
+  </data>
+  <data name="ShowStats_SeasonsWatchedOutOfPluralFormat" xml:space="preserve">
+    <value>seasons watched out of {0}</value>
+  </data>
+  <data name="ShowStats_SeasonsWatchedOutOfSingleFormat" xml:space="preserve">
+    <value>season watched out of {0}</value>
+  </data>
+  <data name="ShowStats_EpisodesToWatchPlural" xml:space="preserve">
+    <value>episodes to watch</value>
+  </data>
+  <data name="ShowStats_EpisodesToWatchSingle" xml:space="preserve">
+    <value>episode to watch</value>
+  </data>
+  <data name="ShowStats_SeasonsStartedOutOfPluralFormat" xml:space="preserve">
+    <value>{0} seasons started out of {1}</value>
+  </data>
+  <data name="ShowStats_SeasonsStartedOutOfSingleFormat" xml:space="preserve">
+    <value>{0} season started out of {1}</value>
+  </data>
+  <data name="ShowStats_SeasonsToWatchFormat" xml:space="preserve">
+    <value>{0} seasons to watch</value>
+  </data>
+  <data name="ShowStats_PercentFormat" xml:space="preserve">
+    <value>{0}%</value>
+  </data>
+  <data name="ShowStats_Column_TimeSpent" xml:space="preserve">
+    <value>watched</value>
+  </data>
+  <data name="ShowStats_Column_TimeLeft" xml:space="preserve">
+    <value>left to watch</value>
+  </data>
+  <data name="ShowStats_Column_EpisodesOutOfPluralFormat" xml:space="preserve">
+    <value>episodes of {0}</value>
+  </data>
+  <data name="ShowStats_Column_EpisodesOutOfSingleFormat" xml:space="preserve">
+    <value>episode of {0}</value>
+  </data>
+  <data name="ShowStats_SeasonRangeFormat" xml:space="preserve">
+    <value>{0} to {1}</value>
+  </data>
+  <data name="Global_Duration_DaysFormat" xml:space="preserve">
+    <value>{0} d</value>
+  </data>
+  <data name="Global_Duration_DaysHoursFormat" xml:space="preserve">
+    <value>{0} d {1} h</value>
+  </data>
+  <data name="ShowStats_HiddenSeasonsPluralFormat" xml:space="preserve">
+    <value>{0} hidden seasons</value>
+  </data>
+  <data name="ShowStats_HiddenSeasonsSingleFormat" xml:space="preserve">
+    <value>{0} hidden season</value>
+  </data>
+  <data name="PhotoGallery_Group_Chosen" xml:space="preserve">
+    <value>Your chosen images</value>
+  </data>
+  <data name="PhotoGallery_Group_Added" xml:space="preserve">
+    <value>Your added images</value>
+  </data>
+  <data name="PhotoGallery_Group_Vertical" xml:space="preserve">
+    <value>Vertical images</value>
+  </data>
+  <data name="PhotoGallery_Group_Wide" xml:space="preserve">
+    <value>Wide images</value>
+  </data>
+  <data name="PhotoGallery_Group_Others" xml:space="preserve">
+    <value>Logos and characters</value>
+  </data>
 </root>
