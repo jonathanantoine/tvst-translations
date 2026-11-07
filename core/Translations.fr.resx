@@ -5312,11 +5312,11 @@ Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? V
   <data name="CastAndCrewSearch_MembershipFilterFormat" xml:space="preserve">
     <value>Rôle : {0}</value>
   </data>
-  <data name="CastAndCrewSearch_EpisodesFilterHeader" xml:space="preserve">
-    <value>Épisodes</value>
+  <data name="CastAndCrewSearch_TierFilterHeader" xml:space="preserve">
+    <value>Acteurs</value>
   </data>
-  <data name="CastAndCrewSearch_EpisodesFilterFormat" xml:space="preserve">
-    <value>Épisodes : {0}</value>
+  <data name="CastAndCrewSearch_TierFilterFormat" xml:space="preserve">
+    <value>Acteurs : {0}</value>
   </data>
   <data name="CastAndCrewSearch_Membership_Cast" xml:space="preserve">
     <value>Casting</value>
@@ -7819,5 +7819,8 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
   </data>
   <data name="CastAndCrew_MainOfTotalHeader_Format_Plural" xml:space="preserve">
     <value>{0} acteurs principaux sur {1}</value>
+  </data>
+  <data name="ListContent_ContentTypeFilter_All" xml:space="preserve">
+    <value>Tout</value>
   </data>
 </root>

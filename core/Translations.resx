@@ -4058,11 +4058,11 @@ Would you like the app to turn that setting off on your Trakt account? Your view
   <data name="CastAndCrewSearch_MembershipFilterFormat" xml:space="preserve">
     <value>Role: {0}</value>
   </data>
-  <data name="CastAndCrewSearch_EpisodesFilterHeader" xml:space="preserve">
-    <value>Episodes</value>
+  <data name="CastAndCrewSearch_TierFilterHeader" xml:space="preserve">
+    <value>Cast</value>
   </data>
-  <data name="CastAndCrewSearch_EpisodesFilterFormat" xml:space="preserve">
-    <value>Episodes: {0}</value>
+  <data name="CastAndCrewSearch_TierFilterFormat" xml:space="preserve">
+    <value>Cast: {0}</value>
   </data>
   <data name="CastAndCrewSearch_Membership_Cast" xml:space="preserve">
     <value>Cast</value>
@@ -6546,7 +6546,7 @@ If it is still missing after that, you can let the Trakt team know. The email is
     <value>{0} guest stars</value>
   </data>
   <data name="CastAndCrewSearch_Tier_Main" xml:space="preserve">
-    <value>Main cast</value>
+    <value>Main</value>
   </data>
   <data name="CastAndCrewSearch_Tier_Recurring" xml:space="preserve">
     <value>Recurring</value>
@@ -6562,5 +6562,8 @@ If it is still missing after that, you can let the Trakt team know. The email is
   </data>
   <data name="CastAndCrew_MainOfTotalHeader_Format_Plural" xml:space="preserve">
     <value>{0} main cast members of {1}</value>
+  </data>
+  <data name="ListContent_ContentTypeFilter_All" xml:space="preserve">
+    <value>All</value>
   </data>
 </root>
