@@ -4070,15 +4070,6 @@ Would you like the app to turn that setting off on your Trakt account? Your view
   <data name="CastAndCrewSearch_Membership_Crew" xml:space="preserve">
     <value>Crew</value>
   </data>
-  <data name="CastAndCrewSearch_EpisodesExactFormat" xml:space="preserve">
-    <value>{0} episode</value>
-  </data>
-  <data name="CastAndCrewSearch_EpisodesRangeFormat" xml:space="preserve">
-    <value>{0} to {1} episodes</value>
-  </data>
-  <data name="CastAndCrewSearch_EpisodesFromFormat" xml:space="preserve">
-    <value>{0} episodes and more</value>
-  </data>
   <data name="CastAndCrewSearch_OpenButton_Tooltip" xml:space="preserve">
     <value>Search in the cast and crew</value>
   </data>
@@ -6535,5 +6526,41 @@ If it is still missing after that, you can let the Trakt team know. The email is
   </data>
   <data name="Settings_DisplayMoviePlaysOnMainList_Subtitle" xml:space="preserve">
     <value>Adds a chip with the number of viewings on the posters of the movies watched more than once.</value>
+  </data>
+  <data name="CastAndCrew_MainCastHeader_CountFormat_Single" xml:space="preserve">
+    <value>{0} main cast member</value>
+  </data>
+  <data name="CastAndCrew_MainCastHeader_CountFormat_Plural" xml:space="preserve">
+    <value>{0} main cast members</value>
+  </data>
+  <data name="CastAndCrew_RecurringCastHeader_CountFormat_Single" xml:space="preserve">
+    <value>{0} recurring cast member</value>
+  </data>
+  <data name="CastAndCrew_RecurringCastHeader_CountFormat_Plural" xml:space="preserve">
+    <value>{0} recurring cast members</value>
+  </data>
+  <data name="CastAndCrew_GuestCastHeader_CountFormat_Single" xml:space="preserve">
+    <value>{0} guest star</value>
+  </data>
+  <data name="CastAndCrew_GuestCastHeader_CountFormat_Plural" xml:space="preserve">
+    <value>{0} guest stars</value>
+  </data>
+  <data name="CastAndCrewSearch_Tier_Main" xml:space="preserve">
+    <value>Main cast</value>
+  </data>
+  <data name="CastAndCrewSearch_Tier_Recurring" xml:space="preserve">
+    <value>Recurring</value>
+  </data>
+  <data name="CastAndCrewSearch_Tier_Guest" xml:space="preserve">
+    <value>Guest stars</value>
+  </data>
+  <data name="CastAndCrew_SeeAllCast_Format" xml:space="preserve">
+    <value>See all {0} cast members</value>
+  </data>
+  <data name="CastAndCrew_MainOfTotalHeader_Format_Single" xml:space="preserve">
+    <value>{0} main cast member of {1}</value>
+  </data>
+  <data name="CastAndCrew_MainOfTotalHeader_Format_Plural" xml:space="preserve">
+    <value>{0} main cast members of {1}</value>
   </data>
 </root>

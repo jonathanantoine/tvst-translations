@@ -4072,15 +4072,6 @@ Vuoi che l'app disattivi questa impostazione sul tuo account Trakt? Da ora in po
   <data name="CastAndCrewSearch_Membership_Crew" xml:space="preserve">
     <value>Troupe</value>
   </data>
-  <data name="CastAndCrewSearch_EpisodesExactFormat" xml:space="preserve">
-    <value>{0} episodio</value>
-  </data>
-  <data name="CastAndCrewSearch_EpisodesRangeFormat" xml:space="preserve">
-    <value>Da {0} a {1} episodi</value>
-  </data>
-  <data name="CastAndCrewSearch_EpisodesFromFormat" xml:space="preserve">
-    <value>{0} episodi e oltre</value>
-  </data>
   <data name="CastAndCrewSearch_OpenButton_Tooltip" xml:space="preserve">
     <value>Cerca nel cast e nella troupe</value>
   </data>
@@ -5100,7 +5091,7 @@ Una stagione segnata come vista in una volta conta all'ora in cui l'ha segnata.<
     <value>Calendario</value>
   </data>
   <data name="EpisodeDetails_Cast_GuestStar_Text" xml:space="preserve">
-    <value>GUEST</value>
+    <value>OSPITE</value>
   </data>
   <data name="Settings_SortHeaderForIncompleteSeasonShows_Text" xml:space="preserve">
     <value>Serie con episodi da vedere, stagione in corso</value>
@@ -6543,5 +6534,41 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
   </data>
   <data name="Settings_DisplayMoviePlaysOnMainList_Subtitle" xml:space="preserve">
     <value>Aggiunge un'etichetta con il numero di visioni sulle locandine dei film visti più di una volta.</value>
+  </data>
+  <data name="CastAndCrew_MainCastHeader_CountFormat_Single" xml:space="preserve">
+    <value>{0} attore principale</value>
+  </data>
+  <data name="CastAndCrew_MainCastHeader_CountFormat_Plural" xml:space="preserve">
+    <value>{0} attori principali</value>
+  </data>
+  <data name="CastAndCrew_RecurringCastHeader_CountFormat_Single" xml:space="preserve">
+    <value>{0} attore ricorrente</value>
+  </data>
+  <data name="CastAndCrew_RecurringCastHeader_CountFormat_Plural" xml:space="preserve">
+    <value>{0} attori ricorrenti</value>
+  </data>
+  <data name="CastAndCrew_GuestCastHeader_CountFormat_Single" xml:space="preserve">
+    <value>{0} ospite</value>
+  </data>
+  <data name="CastAndCrew_GuestCastHeader_CountFormat_Plural" xml:space="preserve">
+    <value>{0} ospiti</value>
+  </data>
+  <data name="CastAndCrewSearch_Tier_Main" xml:space="preserve">
+    <value>Principali</value>
+  </data>
+  <data name="CastAndCrewSearch_Tier_Recurring" xml:space="preserve">
+    <value>Ricorrenti</value>
+  </data>
+  <data name="CastAndCrewSearch_Tier_Guest" xml:space="preserve">
+    <value>Ospiti</value>
+  </data>
+  <data name="CastAndCrew_SeeAllCast_Format" xml:space="preserve">
+    <value>Vedi tutti i {0} attori</value>
+  </data>
+  <data name="CastAndCrew_MainOfTotalHeader_Format_Single" xml:space="preserve">
+    <value>{0} attore principale su {1}</value>
+  </data>
+  <data name="CastAndCrew_MainOfTotalHeader_Format_Plural" xml:space="preserve">
+    <value>{0} attori principali su {1}</value>
   </data>
 </root>
