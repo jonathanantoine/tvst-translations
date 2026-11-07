@@ -6535,4 +6535,13 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
   <data name="CastAndCrew_CrewHeader_CountFormat_Single" xml:space="preserve">
     <value>{0} membro della troupe</value>
   </data>
+  <data name="MovieInList_PlaysChipFormat" xml:space="preserve">
+    <value>Visto {0} volte</value>
+  </data>
+  <data name="Settings_DisplayMoviePlaysOnMainList" xml:space="preserve">
+    <value>Mostrare il numero di visioni</value>
+  </data>
+  <data name="Settings_DisplayMoviePlaysOnMainList_Subtitle" xml:space="preserve">
+    <value>Aggiunge un'etichetta con il numero di visioni sulle locandine dei film visti più di una volta.</value>
+  </data>
 </root>

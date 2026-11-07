@@ -6564,4 +6564,13 @@ Se depois disso ele ainda estiver faltando, você pode avisar a equipe do Trakt.
   <data name="CastAndCrew_CrewHeader_CountFormat_Single" xml:space="preserve">
     <value>{0} membro da equipe</value>
   </data>
+  <data name="MovieInList_PlaysChipFormat" xml:space="preserve">
+    <value>Assistido {0} vezes</value>
+  </data>
+  <data name="Settings_DisplayMoviePlaysOnMainList" xml:space="preserve">
+    <value>Exibir o número de vezes assistido</value>
+  </data>
+  <data name="Settings_DisplayMoviePlaysOnMainList_Subtitle" xml:space="preserve">
+    <value>Adiciona uma etiqueta com o número de vezes assistido nas capas dos filmes assistidos mais de uma vez.</value>
+  </data>
 </root>

@@ -7871,4 +7871,13 @@ Se depois disso continuar a faltar, pode avisar a equipa do Trakt. O e-mail já 
   <data name="CastAndCrew_CrewHeader_CountFormat_Single" xml:space="preserve">
     <value>{0} membro da equipa</value>
   </data>
+  <data name="MovieInList_PlaysChipFormat" xml:space="preserve">
+    <value>Visto {0} vezes</value>
+  </data>
+  <data name="Settings_DisplayMoviePlaysOnMainList" xml:space="preserve">
+    <value>Mostrar o número de visualizações</value>
+  </data>
+  <data name="Settings_DisplayMoviePlaysOnMainList_Subtitle" xml:space="preserve">
+    <value>Adiciona uma etiqueta com o número de visualizações nas capas dos filmes vistos mais de uma vez.</value>
+  </data>
 </root>

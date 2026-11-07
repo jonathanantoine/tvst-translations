@@ -7784,4 +7784,13 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
   <data name="CastAndCrew_CrewHeader_CountFormat_Single" xml:space="preserve">
     <value>{0} membre de l'équipe</value>
   </data>
+  <data name="MovieInList_PlaysChipFormat" xml:space="preserve">
+    <value>Vu {0} fois</value>
+  </data>
+  <data name="Settings_DisplayMoviePlaysOnMainList" xml:space="preserve">
+    <value>Afficher le nombre de visionnages</value>
+  </data>
+  <data name="Settings_DisplayMoviePlaysOnMainList_Subtitle" xml:space="preserve">
+    <value>Ajoute une étiquette avec le nombre de visionnages sur les pochettes des films vus plus d'une fois.</value>
+  </data>
 </root>

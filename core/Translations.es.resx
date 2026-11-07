@@ -6561,4 +6561,13 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
   <data name="CastAndCrew_CrewHeader_CountFormat_Single" xml:space="preserve">
     <value>{0} miembro del equipo</value>
   </data>
+  <data name="MovieInList_PlaysChipFormat" xml:space="preserve">
+    <value>Visto {0} veces</value>
+  </data>
+  <data name="Settings_DisplayMoviePlaysOnMainList" xml:space="preserve">
+    <value>Mostrar el número de visionados</value>
+  </data>
+  <data name="Settings_DisplayMoviePlaysOnMainList_Subtitle" xml:space="preserve">
+    <value>Añade una etiqueta con el número de visionados en las carátulas de las películas vistas más de una vez.</value>
+  </data>
 </root>

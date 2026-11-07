@@ -6527,4 +6527,13 @@ If it is still missing after that, you can let the Trakt team know. The email is
   <data name="CastAndCrew_CrewHeader_CountFormat_Single" xml:space="preserve">
     <value>{0} crew member</value>
   </data>
+  <data name="MovieInList_PlaysChipFormat" xml:space="preserve">
+    <value>Watched {0} times</value>
+  </data>
+  <data name="Settings_DisplayMoviePlaysOnMainList" xml:space="preserve">
+    <value>Display the number of viewings</value>
+  </data>
+  <data name="Settings_DisplayMoviePlaysOnMainList_Subtitle" xml:space="preserve">
+    <value>Adds a chip with the number of viewings on the posters of the movies watched more than once.</value>
+  </data>
 </root>
