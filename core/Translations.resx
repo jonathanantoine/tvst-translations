@@ -5074,16 +5074,16 @@ A season marked as watched in one go counts at the time you marked it.</value>
     <value>Grouped like your shows</value>
   </data>
   <data name="ListContent_HomeGroups_NotTrackedGroupHeader_Plural" xml:space="preserve">
-    <value>{0} SHOWS NOT TRACKED</value>
+    <value>{0} shows not tracked</value>
   </data>
   <data name="ListContent_HomeGroups_NotTrackedGroupHeader_Single" xml:space="preserve">
-    <value>{0} SHOW NOT TRACKED</value>
+    <value>{0} show not tracked</value>
   </data>
   <data name="ListContent_HomeGroups_MoviesGroupHeader_Plural" xml:space="preserve">
-    <value>{0} MOVIES</value>
+    <value>{0} movies</value>
   </data>
   <data name="ListContent_HomeGroups_MoviesGroupHeader_Single" xml:space="preserve">
-    <value>{0} MOVIE</value>
+    <value>{0} movie</value>
   </data>
   <data name="Settings_Display_ItemsByRowHeader_Calendar" xml:space="preserve">
     <value>In the calendar</value>
@@ -5609,9 +5609,6 @@ If it is still missing after that, you can let the Trakt team know. The email is
   <data name="Show_Journal_LastWatchedFormat" xml:space="preserve">
     <value>Last episode watched {0}.</value>
   </data>
-  <data name="Movie_Journal_NotWatched" xml:space="preserve">
-    <value>You haven't watched this movie yet.</value>
-  </data>
   <data name="Movie_Journal_DateFormat" xml:space="preserve">
     <value>on {0}</value>
   </data>
@@ -5620,6 +5617,9 @@ If it is still missing after that, you can let the Trakt team know. The email is
   </data>
   <data name="Movie_Journal_AddedFormat" xml:space="preserve">
     <value>You added it {0}.</value>
+  </data>
+  <data name="Movie_Journal_AddedThisMovieFormat" xml:space="preserve">
+    <value>You added this movie {0}.</value>
   </data>
   <data name="Movie_Journal_ToWatchlistFormat" xml:space="preserve">
     <value>to your watchlist{0}</value>
@@ -6305,6 +6305,21 @@ If it is still missing after that, you can let the Trakt team know. The email is
   <data name="People_Code_AlreadySeenInXTitlesSingle" xml:space="preserve">
     <value>{0} title already seen</value>
   </data>
+  <data name="People_Code_SeenInFormat" xml:space="preserve">
+    <value>Seen in {0}</value>
+  </data>
+  <data name="People_Code_SeenInFormatFemale" xml:space="preserve">
+    <value>Seen in {0}</value>
+  </data>
+  <data name="People_Code_TwoTitlesFormat" xml:space="preserve">
+    <value>{0} and {1}</value>
+  </data>
+  <data name="People_Code_TwoTitlesAndOneOtherFormat" xml:space="preserve">
+    <value>{0}, {1} and 1 more</value>
+  </data>
+  <data name="People_Code_TwoTitlesAndOthersFormat" xml:space="preserve">
+    <value>{0}, {1} and {2} more</value>
+  </data>
   <data name="People_Code_ToWatchInXTitlesPlural" xml:space="preserve">
     <value>{0} titles to watch</value>
   </data>
@@ -6499,5 +6514,17 @@ If it is still missing after that, you can let the Trakt team know. The email is
   </data>
   <data name="WhereToStart_Empty_Both" xml:space="preserve">
     <value>No show to start or keep watching right now.</value>
+  </data>
+  <data name="CastAndCrew_CastHeader_CountFormat_Plural" xml:space="preserve">
+    <value>{0} cast members</value>
+  </data>
+  <data name="CastAndCrew_CastHeader_CountFormat_Single" xml:space="preserve">
+    <value>{0} cast member</value>
+  </data>
+  <data name="CastAndCrew_CrewHeader_CountFormat_Plural" xml:space="preserve">
+    <value>{0} crew members</value>
+  </data>
+  <data name="CastAndCrew_CrewHeader_CountFormat_Single" xml:space="preserve">
+    <value>{0} crew member</value>
   </data>
 </root>

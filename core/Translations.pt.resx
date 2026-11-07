@@ -2000,7 +2000,7 @@ para essa série</value>
   <data
       name="ShowDetails_ShowComments_Code_ReplyNumberPlural"
       xml:space="preserve">
-    <value>Respostas</value>
+    <value>respostas</value>
   </data>
   <data
       name="ShowDetails_ShowComments_Code_ReplyNumberNone"
@@ -2025,7 +2025,7 @@ para essa série</value>
   <data
       name="ShowDetails_ShowComments_Code_ReplyNumberSingular"
       xml:space="preserve">
-    <value>Resposta</value>
+    <value>resposta</value>
   </data>
   <data
       name="MediaItemDetails_Comments_Code_LoadingComments"
@@ -6418,16 +6418,16 @@ Uma temporada marcada como vista de uma só vez conta à hora a que a marcou.</v
     <value>Agrupado como as minhas séries</value>
   </data>
   <data name="ListContent_HomeGroups_NotTrackedGroupHeader_Plural" xml:space="preserve">
-    <value>{0} SÉRIES NÃO SEGUIDAS</value>
+    <value>{0} séries não seguidas</value>
   </data>
   <data name="ListContent_HomeGroups_NotTrackedGroupHeader_Single" xml:space="preserve">
-    <value>{0} SÉRIE NÃO SEGUIDA</value>
+    <value>{0} série não seguida</value>
   </data>
   <data name="ListContent_HomeGroups_MoviesGroupHeader_Plural" xml:space="preserve">
-    <value>{0} FILMES</value>
+    <value>{0} filmes</value>
   </data>
   <data name="ListContent_HomeGroups_MoviesGroupHeader_Single" xml:space="preserve">
-    <value>{0} FILME</value>
+    <value>{0} filme</value>
   </data>
   <data name="Settings_Display_ItemsByRowHeader_Calendar" xml:space="preserve">
     <value>No calendário</value>
@@ -6953,9 +6953,6 @@ Se depois disso continuar a faltar, pode avisar a equipa do Trakt. O e-mail já 
   <data name="Show_Journal_LastWatchedFormat" xml:space="preserve">
     <value>Último episódio visto {0}.</value>
   </data>
-  <data name="Movie_Journal_NotWatched" xml:space="preserve">
-    <value>Ainda não viu este filme.</value>
-  </data>
   <data name="Movie_Journal_DateFormat" xml:space="preserve">
     <value>em {0}</value>
   </data>
@@ -6964,6 +6961,9 @@ Se depois disso continuar a faltar, pode avisar a equipa do Trakt. O e-mail já 
   </data>
   <data name="Movie_Journal_AddedFormat" xml:space="preserve">
     <value>Adicionou-o {0}.</value>
+  </data>
+  <data name="Movie_Journal_AddedThisMovieFormat" xml:space="preserve">
+    <value>Adicionou este filme {0}.</value>
   </data>
   <data name="Movie_Journal_ToWatchlistFormat" xml:space="preserve">
     <value>à sua watchlist{0}</value>
@@ -7649,6 +7649,21 @@ Se depois disso continuar a faltar, pode avisar a equipa do Trakt. O e-mail já 
   <data name="People_Code_AlreadySeenInXTitlesSingle" xml:space="preserve">
     <value>{0} título já visto</value>
   </data>
+  <data name="People_Code_SeenInFormat" xml:space="preserve">
+    <value>Já visto em {0}</value>
+  </data>
+  <data name="People_Code_SeenInFormatFemale" xml:space="preserve">
+    <value>Já vista em {0}</value>
+  </data>
+  <data name="People_Code_TwoTitlesFormat" xml:space="preserve">
+    <value>{0} e {1}</value>
+  </data>
+  <data name="People_Code_TwoTitlesAndOneOtherFormat" xml:space="preserve">
+    <value>{0}, {1} e mais 1</value>
+  </data>
+  <data name="People_Code_TwoTitlesAndOthersFormat" xml:space="preserve">
+    <value>{0}, {1} e mais {2}</value>
+  </data>
   <data name="People_Code_ToWatchInXTitlesPlural" xml:space="preserve">
     <value>{0} títulos para ver</value>
   </data>
@@ -7843,5 +7858,17 @@ Se depois disso continuar a faltar, pode avisar a equipa do Trakt. O e-mail já 
   </data>
   <data name="WhereToStart_Empty_Both" xml:space="preserve">
     <value>Nenhuma série por começar ou continuar de momento.</value>
+  </data>
+  <data name="CastAndCrew_CastHeader_CountFormat_Plural" xml:space="preserve">
+    <value>{0} atores</value>
+  </data>
+  <data name="CastAndCrew_CastHeader_CountFormat_Single" xml:space="preserve">
+    <value>{0} ator</value>
+  </data>
+  <data name="CastAndCrew_CrewHeader_CountFormat_Plural" xml:space="preserve">
+    <value>{0} membros da equipa</value>
+  </data>
+  <data name="CastAndCrew_CrewHeader_CountFormat_Single" xml:space="preserve">
+    <value>{0} membro da equipa</value>
   </data>
 </root>

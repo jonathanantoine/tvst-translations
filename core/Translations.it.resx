@@ -1285,7 +1285,7 @@ per questa SERIE TV</value>
     <value>{0} – stagione{1}</value>
   </data>
     <data name="ShowDetails_ShowComments_Code_ReplyNumberPlural" xml:space="preserve">
-    <value>Risposte</value>
+    <value>risposte</value>
   </data>
     <data name="ShowDetails_ShowComments_Code_ReplyNumberNone" xml:space="preserve">
     <value>Nessuna risposta</value>
@@ -1300,7 +1300,7 @@ per questa SERIE TV</value>
     <value>Mostra le risposte</value>
   </data>
     <data name="ShowDetails_ShowComments_Code_ReplyNumberSingular" xml:space="preserve">
-    <value>Risposta</value>
+    <value>risposta</value>
   </data>
     <data name="ShowDetails_ShowComments_SpoilerAlertButtonText" xml:space="preserve">
     <value>SPOILER: MOSTRA IN QUALSIASI LINGUA</value>
@@ -5082,16 +5082,16 @@ Una stagione segnata come vista in una volta conta all'ora in cui l'ha segnata.<
     <value>Raggruppato come le mie serie TV</value>
   </data>
   <data name="ListContent_HomeGroups_NotTrackedGroupHeader_Plural" xml:space="preserve">
-    <value>{0} SERIE TV NON SEGUITE</value>
+    <value>{0} serie TV non seguite</value>
   </data>
   <data name="ListContent_HomeGroups_NotTrackedGroupHeader_Single" xml:space="preserve">
-    <value>{0} SERIE TV NON SEGUITA</value>
+    <value>{0} serie TV non seguita</value>
   </data>
   <data name="ListContent_HomeGroups_MoviesGroupHeader_Plural" xml:space="preserve">
-    <value>{0} FILM</value>
+    <value>{0} film</value>
   </data>
   <data name="ListContent_HomeGroups_MoviesGroupHeader_Single" xml:space="preserve">
-    <value>{0} FILM</value>
+    <value>{0} film</value>
   </data>
   <data name="Settings_Display_ItemsByRowHeader_Calendar" xml:space="preserve">
     <value>Nel calendario</value>
@@ -5617,9 +5617,6 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
   <data name="Show_Journal_LastWatchedFormat" xml:space="preserve">
     <value>Ultimo episodio visto {0}.</value>
   </data>
-  <data name="Movie_Journal_NotWatched" xml:space="preserve">
-    <value>Non hai ancora visto questo film.</value>
-  </data>
   <data name="Movie_Journal_DateFormat" xml:space="preserve">
     <value>il {0}</value>
   </data>
@@ -5628,6 +5625,9 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
   </data>
   <data name="Movie_Journal_AddedFormat" xml:space="preserve">
     <value>L'hai aggiunto {0}.</value>
+  </data>
+  <data name="Movie_Journal_AddedThisMovieFormat" xml:space="preserve">
+    <value>Hai aggiunto questo film {0}.</value>
   </data>
   <data name="Movie_Journal_ToWatchlistFormat" xml:space="preserve">
     <value>alla tua watchlist{0}</value>
@@ -6313,6 +6313,21 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
   <data name="People_Code_AlreadySeenInXTitlesSingle" xml:space="preserve">
     <value>{0} titolo già visto</value>
   </data>
+  <data name="People_Code_SeenInFormat" xml:space="preserve">
+    <value>Già visto in {0}</value>
+  </data>
+  <data name="People_Code_SeenInFormatFemale" xml:space="preserve">
+    <value>Già vista in {0}</value>
+  </data>
+  <data name="People_Code_TwoTitlesFormat" xml:space="preserve">
+    <value>{0} e {1}</value>
+  </data>
+  <data name="People_Code_TwoTitlesAndOneOtherFormat" xml:space="preserve">
+    <value>{0}, {1} e un altro</value>
+  </data>
+  <data name="People_Code_TwoTitlesAndOthersFormat" xml:space="preserve">
+    <value>{0}, {1} e altri {2}</value>
+  </data>
   <data name="People_Code_ToWatchInXTitlesPlural" xml:space="preserve">
     <value>{0} titoli da vedere</value>
   </data>
@@ -6507,5 +6522,17 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
   </data>
   <data name="WhereToStart_Empty_Both" xml:space="preserve">
     <value>Nessuna serie da iniziare o continuare per ora.</value>
+  </data>
+  <data name="CastAndCrew_CastHeader_CountFormat_Plural" xml:space="preserve">
+    <value>{0} attori</value>
+  </data>
+  <data name="CastAndCrew_CastHeader_CountFormat_Single" xml:space="preserve">
+    <value>{0} attore</value>
+  </data>
+  <data name="CastAndCrew_CrewHeader_CountFormat_Plural" xml:space="preserve">
+    <value>{0} membri della troupe</value>
+  </data>
+  <data name="CastAndCrew_CrewHeader_CountFormat_Single" xml:space="preserve">
+    <value>{0} membro della troupe</value>
   </data>
 </root>

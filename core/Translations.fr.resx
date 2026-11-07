@@ -6331,16 +6331,16 @@ Une saison marquée comme vue d'un coup compte à l'heure où vous l'avez marqu�
     <value>Groupé comme vos séries</value>
   </data>
   <data name="ListContent_HomeGroups_NotTrackedGroupHeader_Plural" xml:space="preserve">
-    <value>{0} SÉRIES NON SUIVIES</value>
+    <value>{0} séries non suivies</value>
   </data>
   <data name="ListContent_HomeGroups_NotTrackedGroupHeader_Single" xml:space="preserve">
-    <value>{0} SÉRIE NON SUIVIE</value>
+    <value>{0} série non suivie</value>
   </data>
   <data name="ListContent_HomeGroups_MoviesGroupHeader_Plural" xml:space="preserve">
-    <value>{0} FILMS</value>
+    <value>{0} films</value>
   </data>
   <data name="ListContent_HomeGroups_MoviesGroupHeader_Single" xml:space="preserve">
-    <value>{0} FILM</value>
+    <value>{0} film</value>
   </data>
   <data name="Settings_Display_ItemsByRowHeader_Calendar" xml:space="preserve">
     <value>Dans le calendrier</value>
@@ -6866,9 +6866,6 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
   <data name="Show_Journal_LastWatchedFormat" xml:space="preserve">
     <value>Dernier épisode vu {0}.</value>
   </data>
-  <data name="Movie_Journal_NotWatched" xml:space="preserve">
-    <value>Vous n'avez pas encore vu ce film.</value>
-  </data>
   <data name="Movie_Journal_DateFormat" xml:space="preserve">
     <value>le {0}</value>
   </data>
@@ -6877,6 +6874,9 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
   </data>
   <data name="Movie_Journal_AddedFormat" xml:space="preserve">
     <value>Vous l'avez ajouté {0}.</value>
+  </data>
+  <data name="Movie_Journal_AddedThisMovieFormat" xml:space="preserve">
+    <value>Vous avez ajouté ce film {0}.</value>
   </data>
   <data name="Movie_Journal_ToWatchlistFormat" xml:space="preserve">
     <value>à votre liste « À voir »{0}</value>
@@ -7562,6 +7562,21 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
   <data name="People_Code_AlreadySeenInXTitlesSingle" xml:space="preserve">
     <value>{0} titre déjà vu</value>
   </data>
+  <data name="People_Code_SeenInFormat" xml:space="preserve">
+    <value>Déjà vu dans {0}</value>
+  </data>
+  <data name="People_Code_SeenInFormatFemale" xml:space="preserve">
+    <value>Déjà vue dans {0}</value>
+  </data>
+  <data name="People_Code_TwoTitlesFormat" xml:space="preserve">
+    <value>{0} et {1}</value>
+  </data>
+  <data name="People_Code_TwoTitlesAndOneOtherFormat" xml:space="preserve">
+    <value>{0}, {1} et 1 autre</value>
+  </data>
+  <data name="People_Code_TwoTitlesAndOthersFormat" xml:space="preserve">
+    <value>{0}, {1} et {2} autres</value>
+  </data>
   <data name="People_Code_ToWatchInXTitlesPlural" xml:space="preserve">
     <value>{0} titres à voir</value>
   </data>
@@ -7756,5 +7771,17 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
   </data>
   <data name="WhereToStart_Empty_Both" xml:space="preserve">
     <value>Aucune série à commencer ou à continuer pour le moment.</value>
+  </data>
+  <data name="CastAndCrew_CastHeader_CountFormat_Plural" xml:space="preserve">
+    <value>{0} acteurs</value>
+  </data>
+  <data name="CastAndCrew_CastHeader_CountFormat_Single" xml:space="preserve">
+    <value>{0} acteur</value>
+  </data>
+  <data name="CastAndCrew_CrewHeader_CountFormat_Plural" xml:space="preserve">
+    <value>{0} membres de l'équipe</value>
+  </data>
+  <data name="CastAndCrew_CrewHeader_CountFormat_Single" xml:space="preserve">
+    <value>{0} membre de l'équipe</value>
   </data>
 </root>

@@ -5108,16 +5108,16 @@ Una temporada marcada como vista de una vez cuenta a la hora en que la marcó.</
     <value>Agrupado como tus series</value>
   </data>
   <data name="ListContent_HomeGroups_NotTrackedGroupHeader_Plural" xml:space="preserve">
-    <value>{0} SERIES NO SEGUIDAS</value>
+    <value>{0} series no seguidas</value>
   </data>
   <data name="ListContent_HomeGroups_NotTrackedGroupHeader_Single" xml:space="preserve">
-    <value>{0} SERIE NO SEGUIDA</value>
+    <value>{0} serie no seguida</value>
   </data>
   <data name="ListContent_HomeGroups_MoviesGroupHeader_Plural" xml:space="preserve">
-    <value>{0} PELÍCULAS</value>
+    <value>{0} películas</value>
   </data>
   <data name="ListContent_HomeGroups_MoviesGroupHeader_Single" xml:space="preserve">
-    <value>{0} PELÍCULA</value>
+    <value>{0} película</value>
   </data>
   <data name="Settings_Display_ItemsByRowHeader_Calendar" xml:space="preserve">
     <value>En el calendario</value>
@@ -5643,9 +5643,6 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
   <data name="Show_Journal_LastWatchedFormat" xml:space="preserve">
     <value>Último episodio visto {0}.</value>
   </data>
-  <data name="Movie_Journal_NotWatched" xml:space="preserve">
-    <value>Todavía no has visto esta película.</value>
-  </data>
   <data name="Movie_Journal_DateFormat" xml:space="preserve">
     <value>el {0}</value>
   </data>
@@ -5654,6 +5651,9 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
   </data>
   <data name="Movie_Journal_AddedFormat" xml:space="preserve">
     <value>La añadiste {0}.</value>
+  </data>
+  <data name="Movie_Journal_AddedThisMovieFormat" xml:space="preserve">
+    <value>Añadiste esta película {0}.</value>
   </data>
   <data name="Movie_Journal_ToWatchlistFormat" xml:space="preserve">
     <value>a tu watchlist{0}</value>
@@ -6339,6 +6339,21 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
   <data name="People_Code_AlreadySeenInXTitlesSingle" xml:space="preserve">
     <value>{0} título ya visto</value>
   </data>
+  <data name="People_Code_SeenInFormat" xml:space="preserve">
+    <value>Ya visto en {0}</value>
+  </data>
+  <data name="People_Code_SeenInFormatFemale" xml:space="preserve">
+    <value>Ya vista en {0}</value>
+  </data>
+  <data name="People_Code_TwoTitlesFormat" xml:space="preserve">
+    <value>{0} y {1}</value>
+  </data>
+  <data name="People_Code_TwoTitlesAndOneOtherFormat" xml:space="preserve">
+    <value>{0}, {1} y 1 más</value>
+  </data>
+  <data name="People_Code_TwoTitlesAndOthersFormat" xml:space="preserve">
+    <value>{0}, {1} y {2} más</value>
+  </data>
   <data name="People_Code_ToWatchInXTitlesPlural" xml:space="preserve">
     <value>{0} títulos por ver</value>
   </data>
@@ -6533,5 +6548,17 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
   </data>
   <data name="WhereToStart_Empty_Both" xml:space="preserve">
     <value>Ninguna serie por empezar o continuar por ahora.</value>
+  </data>
+  <data name="CastAndCrew_CastHeader_CountFormat_Plural" xml:space="preserve">
+    <value>{0} actores</value>
+  </data>
+  <data name="CastAndCrew_CastHeader_CountFormat_Single" xml:space="preserve">
+    <value>{0} actor</value>
+  </data>
+  <data name="CastAndCrew_CrewHeader_CountFormat_Plural" xml:space="preserve">
+    <value>{0} miembros del equipo</value>
+  </data>
+  <data name="CastAndCrew_CrewHeader_CountFormat_Single" xml:space="preserve">
+    <value>{0} miembro del equipo</value>
   </data>
 </root>
