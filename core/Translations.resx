@@ -6371,14 +6371,14 @@ If it is still missing after that, you can let the Trakt team know. The email is
   <data name="WhereToStart_Highlight_OneEpisodeLeft" xml:space="preserve">
     <value>Only one episode left to watch</value>
   </data>
-  <data name="WhereToStart_Highlight_OneSeasonLeft" xml:space="preserve">
-    <value>Only one season to catch up on</value>
+  <data name="WhereToStart_Highlight_OneSeasonLeftFormat" xml:space="preserve">
+    <value>Only season {0} left to catch up on</value>
   </data>
-  <data name="WhereToStart_Highlight_LastSeason" xml:space="preserve">
-    <value>Last season of the show</value>
+  <data name="WhereToStart_Highlight_LastSeasonFormat" xml:space="preserve">
+    <value>Season {0}, the last of the show</value>
   </data>
-  <data name="WhereToStart_Highlight_LastSeasonCanceled" xml:space="preserve">
-    <value>Last season, show canceled</value>
+  <data name="WhereToStart_Highlight_LastSeasonCanceledFormat" xml:space="preserve">
+    <value>Season {0}, the last one: show canceled</value>
   </data>
   <data name="WhereToStart_Highlight_SeasonWatchedFormat" xml:space="preserve">
     <value>Season {0} watched {1}</value>
@@ -6412,9 +6412,6 @@ If it is still missing after that, you can let the Trakt team know. The email is
   </data>
   <data name="WhereToStart_Highlight_LongAbsenceFormat" xml:space="preserve">
     <value>Not watched for {0}</value>
-  </data>
-  <data name="WhereToStart_SeasonRatings_Link" xml:space="preserve">
-    <value>See the season ratings</value>
   </data>
   <data name="WhereToStart_SeasonRatings_SeenLegend" xml:space="preserve">
     <value>Seasons already watched are in gray</value>

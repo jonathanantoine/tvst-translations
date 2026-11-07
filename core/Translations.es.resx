@@ -6405,14 +6405,14 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
   <data name="WhereToStart_Highlight_OneEpisodeLeft" xml:space="preserve">
     <value>Solo queda un episodio por ver</value>
   </data>
-  <data name="WhereToStart_Highlight_OneSeasonLeft" xml:space="preserve">
-    <value>Solo una temporada por recuperar</value>
+  <data name="WhereToStart_Highlight_OneSeasonLeftFormat" xml:space="preserve">
+    <value>Solo queda la temporada {0} por recuperar</value>
   </data>
-  <data name="WhereToStart_Highlight_LastSeason" xml:space="preserve">
-    <value>Última temporada de la serie</value>
+  <data name="WhereToStart_Highlight_LastSeasonFormat" xml:space="preserve">
+    <value>Temporada {0}, la última de la serie</value>
   </data>
-  <data name="WhereToStart_Highlight_LastSeasonCanceled" xml:space="preserve">
-    <value>Última temporada, serie cancelada</value>
+  <data name="WhereToStart_Highlight_LastSeasonCanceledFormat" xml:space="preserve">
+    <value>Temporada {0}, la última: serie cancelada</value>
   </data>
   <data name="WhereToStart_Highlight_SeasonWatchedFormat" xml:space="preserve">
     <value>Temporada {0} vista {1}</value>
@@ -6446,9 +6446,6 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
   </data>
   <data name="WhereToStart_Highlight_LongAbsenceFormat" xml:space="preserve">
     <value>Sin ver desde hace {0}</value>
-  </data>
-  <data name="WhereToStart_SeasonRatings_Link" xml:space="preserve">
-    <value>Ver las notas de las temporadas</value>
   </data>
   <data name="WhereToStart_SeasonRatings_SeenLegend" xml:space="preserve">
     <value>En gris, las temporadas ya vistas</value>
