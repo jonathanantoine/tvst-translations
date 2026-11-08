@@ -6606,4 +6606,7 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
   <data name="ListContent_ContentTypeFilter_All" xml:space="preserve">
     <value>Todo</value>
   </data>
+  <data name="Settings_Display_ItemsByRow_Subtitle" xml:space="preserve">
+    <value>Con el teléfono en vertical. Girado en horizontal, muestra más por fila, del mismo tamaño.</value>
+  </data>
 </root>

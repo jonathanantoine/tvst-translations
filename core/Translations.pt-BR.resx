@@ -6609,4 +6609,7 @@ Se depois disso ele ainda estiver faltando, você pode avisar a equipe do Trakt.
   <data name="ListContent_ContentTypeFilter_All" xml:space="preserve">
     <value>Tudo</value>
   </data>
+  <data name="Settings_Display_ItemsByRow_Subtitle" xml:space="preserve">
+    <value>Com o celular na vertical. Girado na horizontal, mostra mais por linha, do mesmo tamanho.</value>
+  </data>
 </root>

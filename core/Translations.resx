@@ -6572,4 +6572,7 @@ If it is still missing after that, you can let the Trakt team know. The email is
   <data name="ListContent_ContentTypeFilter_All" xml:space="preserve">
     <value>All</value>
   </data>
+  <data name="Settings_Display_ItemsByRow_Subtitle" xml:space="preserve">
+    <value>For the phone held upright. Turned sideways, it shows more per row, at the same size.</value>
+  </data>
 </root>

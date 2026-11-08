@@ -7829,4 +7829,7 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
   <data name="ListContent_ContentTypeFilter_All" xml:space="preserve">
     <value>Tout</value>
   </data>
+  <data name="Settings_Display_ItemsByRow_Subtitle" xml:space="preserve">
+    <value>Pour le téléphone tenu droit. Tourné en largeur, il en affiche plus par ligne, de la même taille.</value>
+  </data>
 </root>

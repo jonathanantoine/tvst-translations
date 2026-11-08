@@ -6580,4 +6580,7 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
   <data name="ListContent_ContentTypeFilter_All" xml:space="preserve">
     <value>Tutto</value>
   </data>
+  <data name="Settings_Display_ItemsByRow_Subtitle" xml:space="preserve">
+    <value>Con il telefono in verticale. Ruotato in orizzontale, ne mostra di più per riga, della stessa dimensione.</value>
+  </data>
 </root>

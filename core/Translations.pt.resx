@@ -7916,4 +7916,7 @@ Se depois disso continuar a faltar, pode avisar a equipa do Trakt. O e-mail já 
   <data name="ListContent_ContentTypeFilter_All" xml:space="preserve">
     <value>Tudo</value>
   </data>
+  <data name="Settings_Display_ItemsByRow_Subtitle" xml:space="preserve">
+    <value>Com o telemóvel na vertical. Rodado na horizontal, mostra mais por linha, do mesmo tamanho.</value>
+  </data>
 </root>
