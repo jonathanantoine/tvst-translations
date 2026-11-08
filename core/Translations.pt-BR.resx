@@ -6459,6 +6459,12 @@ Se depois disso ele ainda estiver faltando, você pode avisar a equipe do Trakt.
   <data name="WhereToStart_SeasonRatings_SeenLegend" xml:space="preserve">
     <value>Em cinza, as temporadas já vistas</value>
   </data>
+  <data name="ShowDetails_SeasonRatings_WatchedLegend" xml:space="preserve">
+    <value>Temporadas vistas</value>
+  </data>
+  <data name="ShowDetails_SeasonRatings_YourRatingLegend" xml:space="preserve">
+    <value>Sua nota</value>
+  </data>
   <data name="ShowStats_EpisodesWatchedOutOfPluralFormat" xml:space="preserve">
     <value>episódios assistidos de {0}</value>
   </data>

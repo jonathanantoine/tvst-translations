@@ -6456,6 +6456,12 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
   <data name="WhereToStart_SeasonRatings_SeenLegend" xml:space="preserve">
     <value>En gris, las temporadas ya vistas</value>
   </data>
+  <data name="ShowDetails_SeasonRatings_WatchedLegend" xml:space="preserve">
+    <value>Temporadas vistas</value>
+  </data>
+  <data name="ShowDetails_SeasonRatings_YourRatingLegend" xml:space="preserve">
+    <value>Tu puntuación</value>
+  </data>
   <data name="ShowStats_EpisodesWatchedOutOfPluralFormat" xml:space="preserve">
     <value>episodios vistos de {0}</value>
   </data>

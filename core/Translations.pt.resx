@@ -7766,6 +7766,12 @@ Se depois disso continuar a faltar, pode avisar a equipa do Trakt. O e-mail já 
   <data name="WhereToStart_SeasonRatings_SeenLegend" xml:space="preserve">
     <value>A cinzento, as temporadas já vistas</value>
   </data>
+  <data name="ShowDetails_SeasonRatings_WatchedLegend" xml:space="preserve">
+    <value>Temporadas vistas</value>
+  </data>
+  <data name="ShowDetails_SeasonRatings_YourRatingLegend" xml:space="preserve">
+    <value>A sua nota</value>
+  </data>
   <data name="ShowStats_EpisodesWatchedOutOfPluralFormat" xml:space="preserve">
     <value>episódios vistos de {0}</value>
   </data>

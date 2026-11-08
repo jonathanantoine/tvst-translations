@@ -6430,6 +6430,12 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
   <data name="WhereToStart_SeasonRatings_SeenLegend" xml:space="preserve">
     <value>In grigio le stagioni già viste</value>
   </data>
+  <data name="ShowDetails_SeasonRatings_WatchedLegend" xml:space="preserve">
+    <value>Stagioni viste</value>
+  </data>
+  <data name="ShowDetails_SeasonRatings_YourRatingLegend" xml:space="preserve">
+    <value>Il tuo voto</value>
+  </data>
   <data name="ShowStats_EpisodesWatchedOutOfPluralFormat" xml:space="preserve">
     <value>episodi visti su {0}</value>
   </data>

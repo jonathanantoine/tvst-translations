@@ -7679,6 +7679,12 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
   <data name="WhereToStart_SeasonRatings_SeenLegend" xml:space="preserve">
     <value>En gris, les saisons déjà vues</value>
   </data>
+  <data name="ShowDetails_SeasonRatings_WatchedLegend" xml:space="preserve">
+    <value>Saisons vues</value>
+  </data>
+  <data name="ShowDetails_SeasonRatings_YourRatingLegend" xml:space="preserve">
+    <value>Votre note</value>
+  </data>
   <data name="ShowStats_EpisodesWatchedOutOfPluralFormat" xml:space="preserve">
     <value>épisodes vus sur {0}</value>
   </data>
@@ -7713,7 +7719,7 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
     <value>déjà vu</value>
   </data>
   <data name="ShowStats_Column_TimeLeft" xml:space="preserve">
-    <value>reste à voir</value>
+    <value>à voir</value>
   </data>
   <data name="ShowStats_Column_EpisodesOutOfPluralFormat" xml:space="preserve">
     <value>épisodes sur {0}</value>

@@ -6422,6 +6422,12 @@ If it is still missing after that, you can let the Trakt team know. The email is
   <data name="WhereToStart_SeasonRatings_SeenLegend" xml:space="preserve">
     <value>Seasons already watched are in gray</value>
   </data>
+  <data name="ShowDetails_SeasonRatings_WatchedLegend" xml:space="preserve">
+    <value>Seasons you've watched</value>
+  </data>
+  <data name="ShowDetails_SeasonRatings_YourRatingLegend" xml:space="preserve">
+    <value>Your rating</value>
+  </data>
   <data name="ShowStats_EpisodesWatchedOutOfPluralFormat" xml:space="preserve">
     <value>episodes watched out of {0}</value>
   </data>
