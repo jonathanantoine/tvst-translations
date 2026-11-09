@@ -6425,6 +6425,9 @@ If it is still missing after that, you can let the Trakt team know. The email is
   <data name="ShowDetails_SeasonRatings_WatchedLegend" xml:space="preserve">
     <value>Seasons you've watched</value>
   </data>
+  <data name="ShowDetails_SeasonRatings_HiddenLegend" xml:space="preserve">
+    <value>Hidden seasons</value>
+  </data>
   <data name="ShowDetails_SeasonRatings_YourRatingLegend" xml:space="preserve">
     <value>Your rating</value>
   </data>
@@ -6574,5 +6577,14 @@ If it is still missing after that, you can let the Trakt team know. The email is
   </data>
   <data name="Settings_Display_ItemsByRow_Subtitle" xml:space="preserve">
     <value>For the phone held upright. Turned sideways, it shows more per row, at the same size.</value>
+  </data>
+  <data name="People_Biography_ReadMore" xml:space="preserve">
+    <value>Read more</value>
+  </data>
+  <data name="People_Biography_ReadLess" xml:space="preserve">
+    <value>See less</value>
+  </data>
+  <data name="People_SocialLink_Wikipedia" xml:space="preserve">
+    <value>Wikipedia</value>
   </data>
 </root>

@@ -6462,6 +6462,9 @@ Se depois disso ele ainda estiver faltando, você pode avisar a equipe do Trakt.
   <data name="ShowDetails_SeasonRatings_WatchedLegend" xml:space="preserve">
     <value>Temporadas vistas</value>
   </data>
+  <data name="ShowDetails_SeasonRatings_HiddenLegend" xml:space="preserve">
+    <value>Temporadas ocultas</value>
+  </data>
   <data name="ShowDetails_SeasonRatings_YourRatingLegend" xml:space="preserve">
     <value>Sua nota</value>
   </data>
@@ -6611,5 +6614,14 @@ Se depois disso ele ainda estiver faltando, você pode avisar a equipe do Trakt.
   </data>
   <data name="Settings_Display_ItemsByRow_Subtitle" xml:space="preserve">
     <value>Com o celular na vertical. Girado na horizontal, mostra mais por linha, do mesmo tamanho.</value>
+  </data>
+  <data name="People_Biography_ReadMore" xml:space="preserve">
+    <value>Ler mais</value>
+  </data>
+  <data name="People_Biography_ReadLess" xml:space="preserve">
+    <value>Ver menos</value>
+  </data>
+  <data name="People_SocialLink_Wikipedia" xml:space="preserve">
+    <value>Wikipédia</value>
   </data>
 </root>

@@ -6459,6 +6459,9 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
   <data name="ShowDetails_SeasonRatings_WatchedLegend" xml:space="preserve">
     <value>Temporadas vistas</value>
   </data>
+  <data name="ShowDetails_SeasonRatings_HiddenLegend" xml:space="preserve">
+    <value>Temporadas ocultas</value>
+  </data>
   <data name="ShowDetails_SeasonRatings_YourRatingLegend" xml:space="preserve">
     <value>Tu puntuación</value>
   </data>
@@ -6608,5 +6611,14 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
   </data>
   <data name="Settings_Display_ItemsByRow_Subtitle" xml:space="preserve">
     <value>Con el teléfono en vertical. Girado en horizontal, muestra más por fila, del mismo tamaño.</value>
+  </data>
+  <data name="People_Biography_ReadMore" xml:space="preserve">
+    <value>Leer más</value>
+  </data>
+  <data name="People_Biography_ReadLess" xml:space="preserve">
+    <value>Ver menos</value>
+  </data>
+  <data name="People_SocialLink_Wikipedia" xml:space="preserve">
+    <value>Wikipedia</value>
   </data>
 </root>

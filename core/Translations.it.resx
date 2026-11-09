@@ -6433,6 +6433,9 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
   <data name="ShowDetails_SeasonRatings_WatchedLegend" xml:space="preserve">
     <value>Stagioni viste</value>
   </data>
+  <data name="ShowDetails_SeasonRatings_HiddenLegend" xml:space="preserve">
+    <value>Stagioni nascoste</value>
+  </data>
   <data name="ShowDetails_SeasonRatings_YourRatingLegend" xml:space="preserve">
     <value>Il tuo voto</value>
   </data>
@@ -6582,5 +6585,14 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
   </data>
   <data name="Settings_Display_ItemsByRow_Subtitle" xml:space="preserve">
     <value>Con il telefono in verticale. Ruotato in orizzontale, ne mostra di più per riga, della stessa dimensione.</value>
+  </data>
+  <data name="People_Biography_ReadMore" xml:space="preserve">
+    <value>Leggi tutto</value>
+  </data>
+  <data name="People_Biography_ReadLess" xml:space="preserve">
+    <value>Vedi meno</value>
+  </data>
+  <data name="People_SocialLink_Wikipedia" xml:space="preserve">
+    <value>Wikipedia</value>
   </data>
 </root>
