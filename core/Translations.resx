@@ -3813,7 +3813,7 @@ Would you like the app to turn that setting off on your Trakt account? Your view
     <value>Seen and unseen marks</value>
   </data>
   <data name="PendingOperations_Section_HiddenOrNot_Text" xml:space="preserve">
-    <value>Hidden shows and seasons</value>
+    <value>Dropped shows and skipped seasons</value>
   </data>
   <data name="PendingOperations_Code_SectionCountFormat" xml:space="preserve">
     <value>{0} of {1} displayed</value>
@@ -6429,7 +6429,7 @@ If it is still missing after that, you can let the Trakt team know. The email is
     <value>Seasons you've watched</value>
   </data>
   <data name="ShowDetails_SeasonRatings_HiddenLegend" xml:space="preserve">
-    <value>Hidden seasons</value>
+    <value>Skipped seasons</value>
   </data>
   <data name="ShowDetails_SeasonRatings_YourRatingLegend" xml:space="preserve">
     <value>Your rating</value>
@@ -6486,10 +6486,10 @@ If it is still missing after that, you can let the Trakt team know. The email is
     <value>{0} d {1} h</value>
   </data>
   <data name="ShowStats_HiddenSeasonsPluralFormat" xml:space="preserve">
-    <value>{0} hidden seasons</value>
+    <value>{0} skipped seasons</value>
   </data>
   <data name="ShowStats_HiddenSeasonsSingleFormat" xml:space="preserve">
-    <value>{0} hidden season</value>
+    <value>{0} skipped season</value>
   </data>
   <data name="PhotoGallery_Group_Chosen" xml:space="preserve">
     <value>Your chosen images</value>

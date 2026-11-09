@@ -3814,7 +3814,7 @@ Recordatorio: tu código es {0}.</value>
     <value>Marcas de visto y no visto</value>
   </data>
   <data name="PendingOperations_Section_HiddenOrNot_Text" xml:space="preserve">
-    <value>Series y temporadas ocultas</value>
+    <value>Series abandonadas y temporadas omitidas</value>
   </data>
   <data name="PendingOperations_Code_SectionCountFormat" xml:space="preserve">
     <value>{0} de {1} mostradas</value>
@@ -6463,7 +6463,7 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
     <value>Temporadas vistas</value>
   </data>
   <data name="ShowDetails_SeasonRatings_HiddenLegend" xml:space="preserve">
-    <value>Temporadas ocultas</value>
+    <value>Temporadas omitidas</value>
   </data>
   <data name="ShowDetails_SeasonRatings_YourRatingLegend" xml:space="preserve">
     <value>Tu puntuación</value>
@@ -6520,10 +6520,10 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
     <value>{0} d {1} h</value>
   </data>
   <data name="ShowStats_HiddenSeasonsPluralFormat" xml:space="preserve">
-    <value>{0} temporadas ocultas</value>
+    <value>{0} temporadas omitidas</value>
   </data>
   <data name="ShowStats_HiddenSeasonsSingleFormat" xml:space="preserve">
-    <value>{0} temporada oculta</value>
+    <value>{0} temporada omitida</value>
   </data>
   <data name="PhotoGallery_Group_Chosen" xml:space="preserve">
     <value>Sus imágenes elegidas</value>

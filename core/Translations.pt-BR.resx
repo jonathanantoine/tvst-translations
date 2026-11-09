@@ -3754,7 +3754,7 @@ Você quer que o aplicativo desative essa opção na sua conta Trakt? A partir d
     <value>Marcações de visto e não visto</value>
   </data>
   <data name="PendingOperations_Section_HiddenOrNot_Text" xml:space="preserve">
-    <value>Séries e temporadas ocultas</value>
+    <value>Séries abandonadas e temporadas ignoradas</value>
   </data>
   <data name="PendingOperations_Code_SectionCountFormat" xml:space="preserve">
     <value>{0} de {1} exibidas</value>
@@ -6466,7 +6466,7 @@ Se depois disso ele ainda estiver faltando, você pode avisar a equipe do Trakt.
     <value>Temporadas vistas</value>
   </data>
   <data name="ShowDetails_SeasonRatings_HiddenLegend" xml:space="preserve">
-    <value>Temporadas ocultas</value>
+    <value>Temporadas ignoradas</value>
   </data>
   <data name="ShowDetails_SeasonRatings_YourRatingLegend" xml:space="preserve">
     <value>Sua nota</value>
@@ -6523,10 +6523,10 @@ Se depois disso ele ainda estiver faltando, você pode avisar a equipe do Trakt.
     <value>{0} d {1} h</value>
   </data>
   <data name="ShowStats_HiddenSeasonsPluralFormat" xml:space="preserve">
-    <value>{0} temporadas ocultas</value>
+    <value>{0} temporadas ignoradas</value>
   </data>
   <data name="ShowStats_HiddenSeasonsSingleFormat" xml:space="preserve">
-    <value>{0} temporada oculta</value>
+    <value>{0} temporada ignorada</value>
   </data>
   <data name="PhotoGallery_Group_Chosen" xml:space="preserve">
     <value>Suas imagens escolhidas</value>

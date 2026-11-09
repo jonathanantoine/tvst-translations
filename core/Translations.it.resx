@@ -3815,7 +3815,7 @@ Vuoi che l'app disattivi questa impostazione sul tuo account Trakt? Da ora in po
     <value>Contrassegni visto e non visto</value>
   </data>
   <data name="PendingOperations_Section_HiddenOrNot_Text" xml:space="preserve">
-    <value>Serie e stagioni nascoste</value>
+    <value>Serie TV abbandonate e stagioni saltate</value>
   </data>
   <data name="PendingOperations_Code_SectionCountFormat" xml:space="preserve">
     <value>{0} di {1} visualizzate</value>
@@ -6437,7 +6437,7 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
     <value>Stagioni viste</value>
   </data>
   <data name="ShowDetails_SeasonRatings_HiddenLegend" xml:space="preserve">
-    <value>Stagioni nascoste</value>
+    <value>Stagioni saltate</value>
   </data>
   <data name="ShowDetails_SeasonRatings_YourRatingLegend" xml:space="preserve">
     <value>Il tuo voto</value>
@@ -6494,10 +6494,10 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
     <value>{0} g {1} h</value>
   </data>
   <data name="ShowStats_HiddenSeasonsPluralFormat" xml:space="preserve">
-    <value>{0} stagioni nascoste</value>
+    <value>{0} stagioni saltate</value>
   </data>
   <data name="ShowStats_HiddenSeasonsSingleFormat" xml:space="preserve">
-    <value>{0} stagione nascosta</value>
+    <value>{0} stagione saltata</value>
   </data>
   <data name="PhotoGallery_Group_Chosen" xml:space="preserve">
     <value>Le tue immagini scelte</value>

@@ -5067,7 +5067,7 @@ Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? V
     <value>Marquages vu et non vu</value>
   </data>
   <data name="PendingOperations_Section_HiddenOrNot_Text" xml:space="preserve">
-    <value>Séries et saisons masquées</value>
+    <value>Séries abandonnées et saisons ignorées</value>
   </data>
   <data name="PendingOperations_Code_SectionCountFormat" xml:space="preserve">
     <value>{0} sur {1} affichées</value>
@@ -7686,7 +7686,7 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
     <value>Saisons vues</value>
   </data>
   <data name="ShowDetails_SeasonRatings_HiddenLegend" xml:space="preserve">
-    <value>Saisons masquées</value>
+    <value>Saisons ignorées</value>
   </data>
   <data name="ShowDetails_SeasonRatings_YourRatingLegend" xml:space="preserve">
     <value>Votre note</value>
@@ -7743,10 +7743,10 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
     <value>{0} j {1} h</value>
   </data>
   <data name="ShowStats_HiddenSeasonsPluralFormat" xml:space="preserve">
-    <value>{0} saisons masquées</value>
+    <value>{0} saisons ignorées</value>
   </data>
   <data name="ShowStats_HiddenSeasonsSingleFormat" xml:space="preserve">
-    <value>{0} saison masquée</value>
+    <value>{0} saison ignorée</value>
   </data>
   <data name="PhotoGallery_Group_Chosen" xml:space="preserve">
     <value>Vos images choisies</value>
