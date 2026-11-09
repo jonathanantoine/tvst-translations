@@ -6368,6 +6368,9 @@ If it is still missing after that, you can let the Trakt team know. The email is
   <data name="WhereToStart_SeasonRatingNoteFormat" xml:space="preserve">
     <value>Season {0} rating: {1}</value>
   </data>
+  <data name="WhereToStart_ShowRatingNoteFormat" xml:space="preserve">
+    <value>Show rating: {0}</value>
+  </data>
   <data name="WhereToStart_LastWatchedFormat" xml:space="preserve">
     <value>Last episode watched {0}</value>
   </data>
@@ -6511,6 +6514,15 @@ If it is still missing after that, you can let the Trakt team know. The email is
   </data>
   <data name="WhereToStart_Sort_LeastTimeLeft" xml:space="preserve">
     <value>Least time to watch</value>
+  </data>
+  <data name="WhereToStart_Sort_ShortestSeasonLeft" xml:space="preserve">
+    <value>Quickest season to finish</value>
+  </data>
+  <data name="WhereToStart_SeasonEpisodesLeftFormat" xml:space="preserve">
+    <value>{0} ep. of {1} min to watch in season {2}</value>
+  </data>
+  <data name="WhereToStart_SeasonEpisodeCountLeftFormat" xml:space="preserve">
+    <value>{0} ep. to watch in season {1}</value>
   </data>
   <data name="WhereToStart_Empty_Both" xml:space="preserve">
     <value>No show to start or keep watching right now.</value>

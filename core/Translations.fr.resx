@@ -7625,6 +7625,9 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
   <data name="WhereToStart_SeasonRatingNoteFormat" xml:space="preserve">
     <value>Note de la saison {0} : {1}</value>
   </data>
+  <data name="WhereToStart_ShowRatingNoteFormat" xml:space="preserve">
+    <value>Note de la série : {0}</value>
+  </data>
   <data name="WhereToStart_LastWatchedFormat" xml:space="preserve">
     <value>Dernier épisode vu {0}</value>
   </data>
@@ -7768,6 +7771,15 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
   </data>
   <data name="WhereToStart_Sort_LeastTimeLeft" xml:space="preserve">
     <value>Le moins de temps à voir</value>
+  </data>
+  <data name="WhereToStart_Sort_ShortestSeasonLeft" xml:space="preserve">
+    <value>Saison la plus vite finie</value>
+  </data>
+  <data name="WhereToStart_SeasonEpisodesLeftFormat" xml:space="preserve">
+    <value>{0} ép. de {1} min à voir dans la saison {2}</value>
+  </data>
+  <data name="WhereToStart_SeasonEpisodeCountLeftFormat" xml:space="preserve">
+    <value>{0} ép. à voir dans la saison {1}</value>
   </data>
   <data name="WhereToStart_Empty_Both" xml:space="preserve">
     <value>Aucune série à commencer ou à continuer pour le moment.</value>

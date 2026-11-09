@@ -6402,6 +6402,9 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
   <data name="WhereToStart_SeasonRatingNoteFormat" xml:space="preserve">
     <value>Nota de la temporada {0}: {1}</value>
   </data>
+  <data name="WhereToStart_ShowRatingNoteFormat" xml:space="preserve">
+    <value>Nota de la serie: {0}</value>
+  </data>
   <data name="WhereToStart_LastWatchedFormat" xml:space="preserve">
     <value>Último episodio visto {0}</value>
   </data>
@@ -6545,6 +6548,15 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
   </data>
   <data name="WhereToStart_Sort_LeastTimeLeft" xml:space="preserve">
     <value>Menos tiempo por ver</value>
+  </data>
+  <data name="WhereToStart_Sort_ShortestSeasonLeft" xml:space="preserve">
+    <value>Temporada más rápida de terminar</value>
+  </data>
+  <data name="WhereToStart_SeasonEpisodesLeftFormat" xml:space="preserve">
+    <value>{0} ep. de {1} min por ver en la temporada {2}</value>
+  </data>
+  <data name="WhereToStart_SeasonEpisodeCountLeftFormat" xml:space="preserve">
+    <value>{0} ep. por ver en la temporada {1}</value>
   </data>
   <data name="WhereToStart_Empty_Both" xml:space="preserve">
     <value>Ninguna serie por empezar o continuar por ahora.</value>
