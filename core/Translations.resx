@@ -6260,12 +6260,6 @@ If it is still missing after that, you can let the Trakt team know. The email is
   <data name="Home_Calendar_NothingToday" xml:space="preserve">
     <value>nothing planned</value>
   </data>
-  <data name="Settings_PageTop_Gradient" xml:space="preserve">
-    <value>Gradient in your color</value>
-  </data>
-  <data name="Settings_PageTop_SolidBar" xml:space="preserve">
-    <value>Solid bar in your color</value>
-  </data>
   <data name="Settings_PageTop_Title" xml:space="preserve">
     <value>Top of pages</value>
   </data>
