@@ -511,9 +511,9 @@ per i miei figli e mia moglie.</value>
     <value>AGGIUNGI UNA SERIE TV</value>
   </data>
     <data name="Home_Popular_IsInError_Text" xml:space="preserve">
-    <value>SERIE TV popolari e di tendenza
-sono disponibili solo con
-una connessione a Internet.</value>
+    <value>Impossibile caricare i suggerimenti.
+Controlla la connessione a Internet,
+poi aggiorna la pagina.</value>
   </data>
     <data name="Home_Popular_RecommandationsBeingRemoved_Text" xml:space="preserve">
     <value>Nascondi</value>

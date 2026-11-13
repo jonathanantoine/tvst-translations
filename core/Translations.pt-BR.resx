@@ -501,9 +501,9 @@ Tente adicionar uma :-)</value>
     <value>ADICIONAR UMA SÉRIE PARA MINHA COLEÇÃO</value>
   </data>
     <data name="Home_Popular_IsInError_Text" xml:space="preserve">
-    <value>Tendências e séries populares
-estão disponíveis apenas com
-uma conexão com a internet.</value>
+    <value>Não foi possível carregar as sugestões.
+Verifique sua conexão com a internet
+e atualize a página.</value>
   </data>
     <data name="Home_Popular_RecommandationsBeingRemoved_Text" xml:space="preserve">
     <value>Escondendo</value>

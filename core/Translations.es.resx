@@ -505,9 +505,9 @@ vacío,
     <value>AÑADIR ESTA SERIE A MI COLECCIÓN</value>
   </data>
     <data name="Home_Popular_IsInError_Text" xml:space="preserve">
-    <value>Las series más populares
-solo están disponibles con
-conexión a internet.</value>
+    <value>No se pudieron cargar las sugerencias.
+Comprueba tu conexión a internet
+y actualiza la página.</value>
   </data>
     <data name="Home_Popular_RecommandationsBeingRemoved_Text" xml:space="preserve">
     <value>Ocultando…</value>

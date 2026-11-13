@@ -516,9 +516,9 @@ It adds the show to your list of favorites and helps build better personal recom
     <value>ADD A MOVIE</value>
   </data>
   <data name="Home_Popular_IsInError_Text" xml:space="preserve">
-    <value>Trending and popular shows
-are only available with an
-internet connection.</value>
+    <value>Couldn't load suggestions.
+Check your internet connection,
+then refresh the page.</value>
   </data>
   <data name="Home_Popular_RecommandationsBeingRemoved_Text" xml:space="preserve">
     <value>Hiding...</value>
