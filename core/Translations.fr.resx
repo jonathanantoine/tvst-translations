@@ -6654,6 +6654,12 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
   <data name="Settings_HomeGroups_GroupNotOnMyServices_Subtitle" xml:space="preserve">
     <value>Séries à commencer et films à voir, déjà sortis, qu'aucune de vos plateformes ne propose encore.</value>
   </data>
+  <data name="Settings_HomeGroups_CompareLink_Title" xml:space="preserve">
+    <value>Proposer de comparer les séries</value>
+  </data>
+  <data name="Settings_HomeGroups_CompareLink_Subtitle" xml:space="preserve">
+    <value>La ligne « Vous hésitez ? Comparez ces séries » sous les groupes de séries à commencer et à continuer.</value>
+  </data>
   <data name="Home_Code_ShowsToStartNotOnMyServicesGroupHeaderPlural" xml:space="preserve">
     <value>{0} séries hors de vos plateformes</value>
   </data>
