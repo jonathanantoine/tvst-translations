@@ -3607,9 +3607,6 @@ t  <data name="Settings_Modern_Badge_Premium" xml:space="preserve">
   <data name="ShowDetails_AppBar_MarkAllEpisodesAsSeen_Label" xml:space="preserve">
     <value>Contrassegna tutti gli episodi come visti</value>
   </data>
-  <data name="ShowDetails_Code_AskMarkAllEpisodesAsSeenContentSingle" xml:space="preserve">
-    <value>1 episodio verrà aggiunto alla sua cronologia di visione. Conferma?</value>
-  </data>
   <data name="ShowDetails_Code_AskMarkAllEpisodesAsSeenContentPlural" xml:space="preserve">
     <value>{0} episodi verranno aggiunti alla sua cronologia di visione. Conferma?</value>
   </data>

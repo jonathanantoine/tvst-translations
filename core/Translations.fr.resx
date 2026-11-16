@@ -4860,9 +4860,6 @@ Rappel : votre code est {0}.</value>
   <data name="ShowDetails_AppBar_MarkAllEpisodesAsSeen_Label" xml:space="preserve">
     <value>Marquer tous les épisodes comme vus</value>
   </data>
-  <data name="ShowDetails_Code_AskMarkAllEpisodesAsSeenContentSingle" xml:space="preserve">
-    <value>1 épisode sera ajouté à votre historique de visionnage. Confirmez-vous ?</value>
-  </data>
   <data name="ShowDetails_Code_AskMarkAllEpisodesAsSeenContentPlural" xml:space="preserve">
     <value>{0} épisodes seront ajoutés à votre historique de visionnage. Confirmez-vous ?</value>
   </data>
