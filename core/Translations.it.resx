@@ -6676,4 +6676,25 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
   <data name="MovieDetails_Info_Status_Canceled" xml:space="preserve">
     <value>Cancellato</value>
   </data>
+  <data name="TopTitles_Sort_MostWatchedShows" xml:space="preserve">
+    <value>Le più viste</value>
+  </data>
+  <data name="TopTitles_Sort_MostWatchedMovies" xml:space="preserve">
+    <value>I più visti</value>
+  </data>
+  <data name="TopTitles_Sort_BestRatedShows" xml:space="preserve">
+    <value>Le più votate</value>
+  </data>
+  <data name="TopTitles_Sort_BestRatedMovies" xml:space="preserve">
+    <value>I più votati</value>
+  </data>
+  <data name="TopTitles_Sort_NewestShows" xml:space="preserve">
+    <value>Le più recenti</value>
+  </data>
+  <data name="TopTitles_Sort_NewestMovies" xml:space="preserve">
+    <value>I più recenti</value>
+  </data>
+  <data name="Global_Sort_Label" xml:space="preserve">
+    <value>Ordina</value>
+  </data>
 </root>

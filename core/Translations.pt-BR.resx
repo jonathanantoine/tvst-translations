@@ -6705,4 +6705,25 @@ Se depois disso ele ainda estiver faltando, você pode avisar a equipe do Trakt.
   <data name="MovieDetails_Info_Status_Canceled" xml:space="preserve">
     <value>Cancelado</value>
   </data>
+  <data name="TopTitles_Sort_MostWatchedShows" xml:space="preserve">
+    <value>As mais vistas</value>
+  </data>
+  <data name="TopTitles_Sort_MostWatchedMovies" xml:space="preserve">
+    <value>Os mais vistos</value>
+  </data>
+  <data name="TopTitles_Sort_BestRatedShows" xml:space="preserve">
+    <value>As mais bem avaliadas</value>
+  </data>
+  <data name="TopTitles_Sort_BestRatedMovies" xml:space="preserve">
+    <value>Os mais bem avaliados</value>
+  </data>
+  <data name="TopTitles_Sort_NewestShows" xml:space="preserve">
+    <value>As mais recentes</value>
+  </data>
+  <data name="TopTitles_Sort_NewestMovies" xml:space="preserve">
+    <value>Os mais recentes</value>
+  </data>
+  <data name="Global_Sort_Label" xml:space="preserve">
+    <value>Ordenar</value>
+  </data>
 </root>

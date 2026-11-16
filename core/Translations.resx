@@ -6668,4 +6668,25 @@ If it is still missing after that, you can let the Trakt team know. The email is
   <data name="MovieDetails_Info_Status_Canceled" xml:space="preserve">
     <value>Canceled</value>
   </data>
+  <data name="TopTitles_Sort_MostWatchedShows" xml:space="preserve">
+    <value>Most watched</value>
+  </data>
+  <data name="TopTitles_Sort_MostWatchedMovies" xml:space="preserve">
+    <value>Most watched</value>
+  </data>
+  <data name="TopTitles_Sort_BestRatedShows" xml:space="preserve">
+    <value>Top rated</value>
+  </data>
+  <data name="TopTitles_Sort_BestRatedMovies" xml:space="preserve">
+    <value>Top rated</value>
+  </data>
+  <data name="TopTitles_Sort_NewestShows" xml:space="preserve">
+    <value>Newest</value>
+  </data>
+  <data name="TopTitles_Sort_NewestMovies" xml:space="preserve">
+    <value>Newest</value>
+  </data>
+  <data name="Global_Sort_Label" xml:space="preserve">
+    <value>Sort</value>
+  </data>
 </root>

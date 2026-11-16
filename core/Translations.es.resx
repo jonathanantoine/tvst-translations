@@ -6702,4 +6702,25 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
   <data name="MovieDetails_Info_Status_Canceled" xml:space="preserve">
     <value>Cancelada</value>
   </data>
+  <data name="TopTitles_Sort_MostWatchedShows" xml:space="preserve">
+    <value>Las más vistas</value>
+  </data>
+  <data name="TopTitles_Sort_MostWatchedMovies" xml:space="preserve">
+    <value>Las más vistas</value>
+  </data>
+  <data name="TopTitles_Sort_BestRatedShows" xml:space="preserve">
+    <value>Las mejor valoradas</value>
+  </data>
+  <data name="TopTitles_Sort_BestRatedMovies" xml:space="preserve">
+    <value>Las mejor valoradas</value>
+  </data>
+  <data name="TopTitles_Sort_NewestShows" xml:space="preserve">
+    <value>Las más recientes</value>
+  </data>
+  <data name="TopTitles_Sort_NewestMovies" xml:space="preserve">
+    <value>Las más recientes</value>
+  </data>
+  <data name="Global_Sort_Label" xml:space="preserve">
+    <value>Ordenar</value>
+  </data>
 </root>
