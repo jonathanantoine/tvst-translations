@@ -6422,8 +6422,17 @@ If it is still missing after that, you can let the Trakt team know. The email is
   <data name="WhereToStart_SeasonRatings_SeenLegend" xml:space="preserve">
     <value>Seasons already watched are in gray</value>
   </data>
+  <data name="WhereToStart_EpisodeRatings_SeenLegend" xml:space="preserve">
+    <value>Episodes already watched are in gray</value>
+  </data>
   <data name="ShowDetails_SeasonRatings_WatchedLegend" xml:space="preserve">
     <value>Seasons you've watched</value>
+  </data>
+  <data name="ShowDetails_EpisodeRatings_WatchedLegend" xml:space="preserve">
+    <value>Episodes you've watched</value>
+  </data>
+  <data name="ShowDetails_ShowInfo_EpisodesRatingGroupHeader_Text" xml:space="preserve">
+    <value>Episode ratings</value>
   </data>
   <data name="ShowDetails_SeasonRatings_HiddenLegend" xml:space="preserve">
     <value>Skipped seasons</value>
@@ -6595,5 +6604,41 @@ If it is still missing after that, you can let the Trakt team know. The email is
   </data>
   <data name="People_SocialLink_Wikipedia" xml:space="preserve">
     <value>Wikipedia</value>
+  </data>
+  <data name="MediaItemDetails_Info_Studio_Plural" xml:space="preserve">
+    <value>Studios</value>
+  </data>
+  <data name="MediaItemDetails_Info_Studio_Single" xml:space="preserve">
+    <value>Studio</value>
+  </data>
+  <data name="ShowDetails_Trailers_SeasonAction" xml:space="preserve">
+    <value>Watch trailers</value>
+  </data>
+  <data name="ShowDetails_Trailers_SheetTitle" xml:space="preserve">
+    <value>Trailers</value>
+  </data>
+  <data name="ShowDetails_Trailers_NoneForSeason" xml:space="preserve">
+    <value>No trailer for this season yet.</value>
+  </data>
+  <data name="ShowDetails_Trailers_Teaser" xml:space="preserve">
+    <value>Teaser</value>
+  </data>
+  <data name="ShowDetails_Trailers_SeasonAction_Single" xml:space="preserve">
+    <value>Watch the trailer</value>
+  </data>
+  <data name="ShowDetails_Trailers_SeasonAction_PluralFormat" xml:space="preserve">
+    <value>Watch the {0} trailers</value>
+  </data>
+  <data name="ShowDetails_Trailers_SeasonAction_None" xml:space="preserve">
+    <value>No trailer</value>
+  </data>
+  <data name="ShowDetails_Trailers_Version_OriginalSubtitled" xml:space="preserve">
+    <value>Original with subtitles</value>
+  </data>
+  <data name="ShowDetails_Trailers_Version_OriginalEnglishSubtitles" xml:space="preserve">
+    <value>Original, English subtitles</value>
+  </data>
+  <data name="ShowDetails_Trailers_SeeAll" xml:space="preserve">
+    <value>See all trailers</value>
   </data>
 </root>
