@@ -661,11 +661,6 @@ femme et mes enfants.</value>
     <value>Les plus populaires</value>
   </data>
   <data
-      name     ="Home_Code_Popular_PopularGenreFormat"
-      xml:space="preserve">
-    <value>{0} - LES PLUS POPULAIRES</value>
-  </data>
-  <data
       name     ="ShowDetails_Code_SimilarToThisShow"
       xml:space="preserve">
     <value>VOUS POURRIEZ AIMER CES SÉRIES</value>
@@ -7898,5 +7893,35 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
   </data>
   <data name="ShowDetails_Trailers_SeeAll" xml:space="preserve">
     <value>Voir toutes les bandes-annonces</value>
+  </data>
+  <data name="MediaItemDetails_Info_OriginalLanguageHeader" xml:space="preserve">
+    <value>Langue originale</value>
+  </data>
+  <data name="ShowDetails_Info_TypeHeader" xml:space="preserve">
+    <value>Type</value>
+  </data>
+  <data name="GenreName_mini_series" xml:space="preserve">
+    <value>Mini-série</value>
+  </data>
+  <data name="MovieDetails_Info_DigitalReleaseHeader" xml:space="preserve">
+    <value>Sortie en VOD</value>
+  </data>
+  <data name="MovieDetails_Info_CollectionHeader" xml:space="preserve">
+    <value>Saga</value>
+  </data>
+  <data name="MovieDetails_Info_Status_Rumored" xml:space="preserve">
+    <value>Projet non confirmé</value>
+  </data>
+  <data name="MovieDetails_Info_Status_Planned" xml:space="preserve">
+    <value>Annoncé</value>
+  </data>
+  <data name="MovieDetails_Info_Status_InProduction" xml:space="preserve">
+    <value>En tournage</value>
+  </data>
+  <data name="MovieDetails_Info_Status_PostProduction" xml:space="preserve">
+    <value>Tournage terminé</value>
+  </data>
+  <data name="MovieDetails_Info_Status_Canceled" xml:space="preserve">
+    <value>Annulé</value>
   </data>
 </root>

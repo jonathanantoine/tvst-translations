@@ -414,9 +414,6 @@ coffee and happiness from my kids and wife.</value>
   <data name="Home_Code_Popular_Popular" xml:space="preserve">
     <value>Most popular</value>
   </data>
-  <data name="Home_Code_Popular_PopularGenreFormat" xml:space="preserve">
-    <value>{0} - MOST POPULAR</value>
-  </data>
   <data name="Billing_CannotConnectYouToTheStore" xml:space="preserve">
     <value>Cannot connect you to the Store now, please try again later.</value>
   </data>
@@ -6640,5 +6637,35 @@ If it is still missing after that, you can let the Trakt team know. The email is
   </data>
   <data name="ShowDetails_Trailers_SeeAll" xml:space="preserve">
     <value>See all trailers</value>
+  </data>
+  <data name="MediaItemDetails_Info_OriginalLanguageHeader" xml:space="preserve">
+    <value>Original language</value>
+  </data>
+  <data name="ShowDetails_Info_TypeHeader" xml:space="preserve">
+    <value>Type</value>
+  </data>
+  <data name="GenreName_mini_series" xml:space="preserve">
+    <value>Miniseries</value>
+  </data>
+  <data name="MovieDetails_Info_DigitalReleaseHeader" xml:space="preserve">
+    <value>Digital release</value>
+  </data>
+  <data name="MovieDetails_Info_CollectionHeader" xml:space="preserve">
+    <value>Franchise</value>
+  </data>
+  <data name="MovieDetails_Info_Status_Rumored" xml:space="preserve">
+    <value>Unconfirmed project</value>
+  </data>
+  <data name="MovieDetails_Info_Status_Planned" xml:space="preserve">
+    <value>Announced</value>
+  </data>
+  <data name="MovieDetails_Info_Status_InProduction" xml:space="preserve">
+    <value>Filming</value>
+  </data>
+  <data name="MovieDetails_Info_Status_PostProduction" xml:space="preserve">
+    <value>Filming done</value>
+  </data>
+  <data name="MovieDetails_Info_Status_Canceled" xml:space="preserve">
+    <value>Canceled</value>
   </data>
 </root>

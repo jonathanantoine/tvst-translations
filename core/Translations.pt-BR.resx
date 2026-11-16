@@ -417,9 +417,6 @@ filhos e minha esposa.</value>
     <data name="Home_Code_Popular_Popular" xml:space="preserve">
     <value>As mais populares</value>
   </data>
-    <data name="Home_Code_Popular_PopularGenreFormat" xml:space="preserve">
-    <value>{0} - POPULAR</value>
-  </data>
     <data name="ShowDetails_Code_SimilarToThisShow" xml:space="preserve">
     <value>VOCÊ PODE GOSTAR</value>
   </data>
@@ -6677,5 +6674,35 @@ Se depois disso ele ainda estiver faltando, você pode avisar a equipe do Trakt.
   </data>
   <data name="ShowDetails_Trailers_SeeAll" xml:space="preserve">
     <value>Ver todos os trailers</value>
+  </data>
+  <data name="MediaItemDetails_Info_OriginalLanguageHeader" xml:space="preserve">
+    <value>Idioma original</value>
+  </data>
+  <data name="ShowDetails_Info_TypeHeader" xml:space="preserve">
+    <value>Tipo</value>
+  </data>
+  <data name="GenreName_mini_series" xml:space="preserve">
+    <value>Minissérie</value>
+  </data>
+  <data name="MovieDetails_Info_DigitalReleaseHeader" xml:space="preserve">
+    <value>Lançamento digital</value>
+  </data>
+  <data name="MovieDetails_Info_CollectionHeader" xml:space="preserve">
+    <value>Franquia</value>
+  </data>
+  <data name="MovieDetails_Info_Status_Rumored" xml:space="preserve">
+    <value>Projeto não confirmado</value>
+  </data>
+  <data name="MovieDetails_Info_Status_Planned" xml:space="preserve">
+    <value>Anunciado</value>
+  </data>
+  <data name="MovieDetails_Info_Status_InProduction" xml:space="preserve">
+    <value>Em filmagem</value>
+  </data>
+  <data name="MovieDetails_Info_Status_PostProduction" xml:space="preserve">
+    <value>Filmagem concluída</value>
+  </data>
+  <data name="MovieDetails_Info_Status_Canceled" xml:space="preserve">
+    <value>Cancelado</value>
   </data>
 </root>
