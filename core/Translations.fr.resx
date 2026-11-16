@@ -7942,6 +7942,18 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
   <data name="TopTitles_Sort_NewestMovies" xml:space="preserve">
     <value>Les plus récents</value>
   </data>
+  <data name="TopTitles_Sort_WorstRatedShows" xml:space="preserve">
+    <value>Les moins bien notées</value>
+  </data>
+  <data name="TopTitles_Sort_WorstRatedMovies" xml:space="preserve">
+    <value>Les moins bien notés</value>
+  </data>
+  <data name="TopTitles_Sort_OldestShows" xml:space="preserve">
+    <value>Les plus anciennes</value>
+  </data>
+  <data name="TopTitles_Sort_OldestMovies" xml:space="preserve">
+    <value>Les plus anciens</value>
+  </data>
   <data name="Global_Sort_Label" xml:space="preserve">
     <value>Trier</value>
   </data>

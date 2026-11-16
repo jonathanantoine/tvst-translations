@@ -6686,6 +6686,18 @@ If it is still missing after that, you can let the Trakt team know. The email is
   <data name="TopTitles_Sort_NewestMovies" xml:space="preserve">
     <value>Newest</value>
   </data>
+  <data name="TopTitles_Sort_WorstRatedShows" xml:space="preserve">
+    <value>Lowest rated</value>
+  </data>
+  <data name="TopTitles_Sort_WorstRatedMovies" xml:space="preserve">
+    <value>Lowest rated</value>
+  </data>
+  <data name="TopTitles_Sort_OldestShows" xml:space="preserve">
+    <value>Oldest</value>
+  </data>
+  <data name="TopTitles_Sort_OldestMovies" xml:space="preserve">
+    <value>Oldest</value>
+  </data>
   <data name="Global_Sort_Label" xml:space="preserve">
     <value>Sort</value>
   </data>

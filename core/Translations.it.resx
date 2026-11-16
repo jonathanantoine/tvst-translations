@@ -6694,6 +6694,18 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
   <data name="TopTitles_Sort_NewestMovies" xml:space="preserve">
     <value>I più recenti</value>
   </data>
+  <data name="TopTitles_Sort_WorstRatedShows" xml:space="preserve">
+    <value>Le meno apprezzate</value>
+  </data>
+  <data name="TopTitles_Sort_WorstRatedMovies" xml:space="preserve">
+    <value>I meno apprezzati</value>
+  </data>
+  <data name="TopTitles_Sort_OldestShows" xml:space="preserve">
+    <value>Le meno recenti</value>
+  </data>
+  <data name="TopTitles_Sort_OldestMovies" xml:space="preserve">
+    <value>I meno recenti</value>
+  </data>
   <data name="Global_Sort_Label" xml:space="preserve">
     <value>Ordina</value>
   </data>

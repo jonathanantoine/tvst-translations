@@ -8028,6 +8028,18 @@ Se depois disso continuar a faltar, pode avisar a equipa do Trakt. O e-mail já 
   <data name="TopTitles_Sort_NewestMovies" xml:space="preserve">
     <value>Os mais recentes</value>
   </data>
+  <data name="TopTitles_Sort_WorstRatedShows" xml:space="preserve">
+    <value>As piores avaliadas</value>
+  </data>
+  <data name="TopTitles_Sort_WorstRatedMovies" xml:space="preserve">
+    <value>Os piores avaliados</value>
+  </data>
+  <data name="TopTitles_Sort_OldestShows" xml:space="preserve">
+    <value>As mais antigas</value>
+  </data>
+  <data name="TopTitles_Sort_OldestMovies" xml:space="preserve">
+    <value>Os mais antigos</value>
+  </data>
   <data name="Global_Sort_Label" xml:space="preserve">
     <value>Ordenar</value>
   </data>
