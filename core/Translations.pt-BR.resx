@@ -5433,6 +5433,12 @@ Se depois disso ele ainda estiver faltando, você pode avisar a equipe do Trakt.
   <data name="Settings_HomeGroups_CompareLink_Subtitle" xml:space="preserve">
     <value>A linha “Na dúvida? Compare estas séries” abaixo dos grupos de séries para começar e para continuar.</value>
   </data>
+  <data name="Settings_HomeGroups_SimpleTitles_Title" xml:space="preserve">
+    <value>Títulos dos grupos em uma só linha</value>
+  </data>
+  <data name="Settings_HomeGroups_SimpleTitles_Subtitle" xml:space="preserve">
+    <value>O número em tamanho normal, sem a linha cinza embaixo. Vale também para os filmes.</value>
+  </data>
   <data name="Home_Code_ShowsToStartNotOnMyServicesGroupHeaderPlural" xml:space="preserve">
     <value>{0} séries fora das suas plataformas</value>
   </data>
