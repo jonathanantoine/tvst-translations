@@ -5436,6 +5436,9 @@ Se depois disso ele ainda estiver faltando, você pode avisar a equipe do Trakt.
   <data name="Settings_HomeGroups_SimpleTitles_Title" xml:space="preserve">
     <value>Títulos dos grupos em uma só linha</value>
   </data>
+  <data name="Home_DisplayMenu_SimpleTitles" xml:space="preserve">
+    <value>Títulos em uma linha</value>
+  </data>
   <data name="Settings_HomeGroups_SimpleTitles_Subtitle" xml:space="preserve">
     <value>O número em tamanho normal, sem a linha cinza embaixo. Vale também para os filmes.</value>
   </data>

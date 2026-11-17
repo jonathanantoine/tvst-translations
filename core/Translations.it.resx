@@ -5407,6 +5407,9 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
   <data name="Settings_HomeGroups_SimpleTitles_Title" xml:space="preserve">
     <value>Titoli dei gruppi su una sola riga</value>
   </data>
+  <data name="Home_DisplayMenu_SimpleTitles" xml:space="preserve">
+    <value>Titoli su una riga</value>
+  </data>
   <data name="Settings_HomeGroups_SimpleTitles_Subtitle" xml:space="preserve">
     <value>Il numero a grandezza normale, senza la riga grigia sotto. Vale anche per i film.</value>
   </data>

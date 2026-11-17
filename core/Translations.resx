@@ -5399,6 +5399,9 @@ If it is still missing after that, you can let the Trakt team know. The email is
   <data name="Settings_HomeGroups_SimpleTitles_Title" xml:space="preserve">
     <value>Group titles on a single line</value>
   </data>
+  <data name="Home_DisplayMenu_SimpleTitles" xml:space="preserve">
+    <value>Titles on one line</value>
+  </data>
   <data name="Settings_HomeGroups_SimpleTitles_Subtitle" xml:space="preserve">
     <value>The number at normal size, without the grey line below. Movies too.</value>
   </data>

@@ -6655,6 +6655,9 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
   <data name="Settings_HomeGroups_SimpleTitles_Title" xml:space="preserve">
     <value>Titres de groupe sur une seule ligne</value>
   </data>
+  <data name="Home_DisplayMenu_SimpleTitles" xml:space="preserve">
+    <value>Titres sur une ligne</value>
+  </data>
   <data name="Settings_HomeGroups_SimpleTitles_Subtitle" xml:space="preserve">
     <value>Le nombre en taille normale, sans la ligne grise en dessous. Vaut aussi pour les films.</value>
   </data>

@@ -5433,6 +5433,9 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
   <data name="Settings_HomeGroups_SimpleTitles_Title" xml:space="preserve">
     <value>Títulos de grupo en una sola línea</value>
   </data>
+  <data name="Home_DisplayMenu_SimpleTitles" xml:space="preserve">
+    <value>Títulos en una línea</value>
+  </data>
   <data name="Settings_HomeGroups_SimpleTitles_Subtitle" xml:space="preserve">
     <value>El número en tamaño normal, sin la línea gris debajo. También para las películas.</value>
   </data>

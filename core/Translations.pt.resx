@@ -6741,6 +6741,9 @@ Se depois disso continuar a faltar, pode avisar a equipa do Trakt. O e-mail já 
   <data name="Settings_HomeGroups_SimpleTitles_Title" xml:space="preserve">
     <value>Títulos dos grupos numa só linha</value>
   </data>
+  <data name="Home_DisplayMenu_SimpleTitles" xml:space="preserve">
+    <value>Títulos numa só linha</value>
+  </data>
   <data name="Settings_HomeGroups_SimpleTitles_Subtitle" xml:space="preserve">
     <value>O número em tamanho normal, sem a linha cinzenta por baixo. Também para os filmes.</value>
   </data>
