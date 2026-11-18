@@ -3503,7 +3503,7 @@ Si vous ne pouvez toujours pas accéder à votre compte après la connexion, veu
   <data
       name     ="Settings_OpenMovieWorldInsteadOfTVShow"
       xml:space="preserve">
-    <value>Ouvrir la page des films au lieu de celle des des séries TV au démarrage ?</value>
+    <value>Ouvrir la page des films au lieu de celle des séries TV au démarrage ?</value>
   </data>
   <data name="MovieDetails_Info_Director_Single" xml:space="preserve">
         <value>Directeur</value>
@@ -7965,5 +7965,65 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
   </data>
   <data name="Global_Sort_Label" xml:space="preserve">
     <value>Trier</value>
+  </data>
+  <data name="Home_Code_ShowsBeingRewatchedGroupHeader_Plural" xml:space="preserve">
+    <value>{0} séries en revisionnage</value>
+  </data>
+  <data name="Home_Code_ShowsBeingRewatchedGroupHeader_Single" xml:space="preserve">
+    <value>{0} série en revisionnage</value>
+  </data>
+  <data name="Settings_HomeGroups_GroupRewatchedShows_Title" xml:space="preserve">
+    <value>Séparer les séries en revisionnage</value>
+  </data>
+  <data name="Settings_HomeGroups_GroupRewatchedShows_Subtitle" xml:space="preserve">
+    <value>Désactivé : elles restent avec vos autres séries à voir.</value>
+  </data>
+  <data name="Home_Code_GroupSubtitle_EpisodesToRewatch" xml:space="preserve">
+    <value>épisodes à revoir</value>
+  </data>
+  <data name="ShowDetails_Menu_RewatchFromStart" xml:space="preserve">
+    <value>Revoir depuis le début</value>
+  </data>
+  <data name="ShowDetails_Menu_StopRewatching" xml:space="preserve">
+    <value>Arrêter le revisionnage</value>
+  </data>
+  <data name="ShowRewatch_Start_HomeGroup" xml:space="preserve">
+    <value>Sur l'accueil, la série passe dans les séries en revisionnage et vous propose de nouveau le premier épisode.</value>
+  </data>
+  <data name="ShowRewatch_Start_HomeNoGroup" xml:space="preserve">
+    <value>Sur l'accueil, la série vous propose de nouveau le premier épisode.</value>
+  </data>
+  <data name="ShowRewatch_Start_MidShow" xml:space="preserve">
+    <value>Les épisodes que vous n'avez pas encore vus viendront ensuite.</value>
+  </data>
+  <data name="ShowRewatch_Start_History" xml:space="preserve">
+    <value>Votre historique est gardé : chaque épisode revu ajoute un visionnage.</value>
+  </data>
+  <data name="ShowRewatch_Start_NotVip" xml:space="preserve">
+    <value>Ce revisionnage restera sur cet appareil : il ne sera visible ni sur vos autres appareils ni sur Trakt, sauf avec l'abonnement payant Trakt VIP.</value>
+  </data>
+  <data name="ShowRewatch_Start_Button" xml:space="preserve">
+    <value>Revoir la série</value>
+  </data>
+  <data name="ShowRewatch_Stop_Content" xml:space="preserve">
+    <value>Vos visionnages restent dans votre historique. Si vous revoyez la série plus tard, vous repartirez du premier épisode.</value>
+  </data>
+  <data name="ShowRewatch_MarkAll_AlreadyWatched_Plural" xml:space="preserve">
+    <value>{0} épisodes déjà vus recevront un nouveau visionnage, daté d'aujourd'hui.</value>
+  </data>
+  <data name="ShowRewatch_MarkAll_AlreadyWatched_Single" xml:space="preserve">
+    <value>{0} épisode déjà vu recevra un nouveau visionnage, daté d'aujourd'hui.</value>
+  </data>
+  <data name="ShowRewatch_MarkAll_NeverWatched_Plural" xml:space="preserve">
+    <value>{0} épisodes jamais vus seront marqués comme vus.</value>
+  </data>
+  <data name="ShowRewatch_MarkAll_NeverWatched_Single" xml:space="preserve">
+    <value>{0} épisode jamais vu sera marqué comme vu.</value>
+  </data>
+  <data name="PendingActions_ErrorPopup_VipRequired_RewatchBody" xml:space="preserve">
+    <value>Revoir une série sur Trakt est réservé aux membres Trakt VIP. Ce changement reste sur cet appareil.</value>
+  </data>
+  <data name="Settings_SortHeaderForRewatchedShows_Text" xml:space="preserve">
+    <value>Séries en revisionnage</value>
   </data>
 </root>

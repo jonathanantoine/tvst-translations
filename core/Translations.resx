@@ -6710,4 +6710,64 @@ If it is still missing after that, you can let the Trakt team know. The email is
   <data name="Global_Sort_Label" xml:space="preserve">
     <value>Sort</value>
   </data>
+  <data name="Home_Code_ShowsBeingRewatchedGroupHeader_Plural" xml:space="preserve">
+    <value>{0} shows you're rewatching</value>
+  </data>
+  <data name="Home_Code_ShowsBeingRewatchedGroupHeader_Single" xml:space="preserve">
+    <value>{0} show you're rewatching</value>
+  </data>
+  <data name="Settings_HomeGroups_GroupRewatchedShows_Title" xml:space="preserve">
+    <value>Split off the shows you're rewatching</value>
+  </data>
+  <data name="Settings_HomeGroups_GroupRewatchedShows_Subtitle" xml:space="preserve">
+    <value>Off: they stay with your other shows to watch.</value>
+  </data>
+  <data name="Home_Code_GroupSubtitle_EpisodesToRewatch" xml:space="preserve">
+    <value>episodes to watch again</value>
+  </data>
+  <data name="ShowDetails_Menu_RewatchFromStart" xml:space="preserve">
+    <value>Rewatch from the start</value>
+  </data>
+  <data name="ShowDetails_Menu_StopRewatching" xml:space="preserve">
+    <value>Stop rewatching</value>
+  </data>
+  <data name="ShowRewatch_Start_HomeGroup" xml:space="preserve">
+    <value>On Home, the show moves to the shows you're rewatching and offers the first episode again.</value>
+  </data>
+  <data name="ShowRewatch_Start_HomeNoGroup" xml:space="preserve">
+    <value>On Home, the show offers the first episode again.</value>
+  </data>
+  <data name="ShowRewatch_Start_MidShow" xml:space="preserve">
+    <value>The episodes you haven't watched yet come after.</value>
+  </data>
+  <data name="ShowRewatch_Start_History" xml:space="preserve">
+    <value>Your history is kept: each episode you watch again adds a viewing.</value>
+  </data>
+  <data name="ShowRewatch_Start_NotVip" xml:space="preserve">
+    <value>This rewatch stays on this device: it won't show on your other devices or on Trakt, except with a paid Trakt VIP subscription.</value>
+  </data>
+  <data name="ShowRewatch_Start_Button" xml:space="preserve">
+    <value>Rewatch the show</value>
+  </data>
+  <data name="ShowRewatch_Stop_Content" xml:space="preserve">
+    <value>Your viewings stay in your history. If you rewatch the show later, you'll start again from the first episode.</value>
+  </data>
+  <data name="ShowRewatch_MarkAll_AlreadyWatched_Plural" xml:space="preserve">
+    <value>{0} episodes already watched will get one more viewing, dated today.</value>
+  </data>
+  <data name="ShowRewatch_MarkAll_AlreadyWatched_Single" xml:space="preserve">
+    <value>{0} episode already watched will get one more viewing, dated today.</value>
+  </data>
+  <data name="ShowRewatch_MarkAll_NeverWatched_Plural" xml:space="preserve">
+    <value>{0} episodes never watched will be marked as watched.</value>
+  </data>
+  <data name="ShowRewatch_MarkAll_NeverWatched_Single" xml:space="preserve">
+    <value>{0} episode never watched will be marked as watched.</value>
+  </data>
+  <data name="PendingActions_ErrorPopup_VipRequired_RewatchBody" xml:space="preserve">
+    <value>Rewatching a show on Trakt is reserved for Trakt VIP members. This change stays on this device.</value>
+  </data>
+  <data name="Settings_SortHeaderForRewatchedShows_Text" xml:space="preserve">
+    <value>Shows you're rewatching</value>
+  </data>
 </root>

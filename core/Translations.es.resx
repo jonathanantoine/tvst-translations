@@ -6744,4 +6744,64 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
   <data name="Global_Sort_Label" xml:space="preserve">
     <value>Ordenar</value>
   </data>
+  <data name="Home_Code_ShowsBeingRewatchedGroupHeader_Plural" xml:space="preserve">
+    <value>{0} series para volver a ver</value>
+  </data>
+  <data name="Home_Code_ShowsBeingRewatchedGroupHeader_Single" xml:space="preserve">
+    <value>{0} serie para volver a ver</value>
+  </data>
+  <data name="Settings_HomeGroups_GroupRewatchedShows_Title" xml:space="preserve">
+    <value>Separar las series para volver a ver</value>
+  </data>
+  <data name="Settings_HomeGroups_GroupRewatchedShows_Subtitle" xml:space="preserve">
+    <value>Desactivado: se quedan con las demás series por ver.</value>
+  </data>
+  <data name="Home_Code_GroupSubtitle_EpisodesToRewatch" xml:space="preserve">
+    <value>episodios por volver a ver</value>
+  </data>
+  <data name="ShowDetails_Menu_RewatchFromStart" xml:space="preserve">
+    <value>Volver a ver desde el principio</value>
+  </data>
+  <data name="ShowDetails_Menu_StopRewatching" xml:space="preserve">
+    <value>Dejar de volver a ver</value>
+  </data>
+  <data name="ShowRewatch_Start_HomeGroup" xml:space="preserve">
+    <value>En el inicio, la serie pasa a las series para volver a ver y propone de nuevo el primer episodio.</value>
+  </data>
+  <data name="ShowRewatch_Start_HomeNoGroup" xml:space="preserve">
+    <value>En el inicio, la serie propone de nuevo el primer episodio.</value>
+  </data>
+  <data name="ShowRewatch_Start_MidShow" xml:space="preserve">
+    <value>Los episodios que aún no ha visto vendrán después.</value>
+  </data>
+  <data name="ShowRewatch_Start_History" xml:space="preserve">
+    <value>Su historial se conserva: cada episodio que vuelva a ver añade un visionado.</value>
+  </data>
+  <data name="ShowRewatch_Start_NotVip" xml:space="preserve">
+    <value>Esta nueva vuelta se queda en este dispositivo: no se verá en sus otros dispositivos ni en Trakt, salvo con la suscripción de pago Trakt VIP.</value>
+  </data>
+  <data name="ShowRewatch_Start_Button" xml:space="preserve">
+    <value>Volver a ver la serie</value>
+  </data>
+  <data name="ShowRewatch_Stop_Content" xml:space="preserve">
+    <value>Sus visionados se quedan en su historial. Si vuelve a ver la serie más adelante, empezará de nuevo por el primer episodio.</value>
+  </data>
+  <data name="ShowRewatch_MarkAll_AlreadyWatched_Plural" xml:space="preserve">
+    <value>{0} episodios ya vistos recibirán un nuevo visionado, con fecha de hoy.</value>
+  </data>
+  <data name="ShowRewatch_MarkAll_AlreadyWatched_Single" xml:space="preserve">
+    <value>{0} episodio ya visto recibirá un nuevo visionado, con fecha de hoy.</value>
+  </data>
+  <data name="ShowRewatch_MarkAll_NeverWatched_Plural" xml:space="preserve">
+    <value>{0} episodios nunca vistos se marcarán como vistos.</value>
+  </data>
+  <data name="ShowRewatch_MarkAll_NeverWatched_Single" xml:space="preserve">
+    <value>{0} episodio nunca visto se marcará como visto.</value>
+  </data>
+  <data name="PendingActions_ErrorPopup_VipRequired_RewatchBody" xml:space="preserve">
+    <value>Volver a ver una serie en Trakt está reservado a los miembros Trakt VIP. Este cambio se queda en este dispositivo.</value>
+  </data>
+  <data name="Settings_SortHeaderForRewatchedShows_Text" xml:space="preserve">
+    <value>Series para volver a ver</value>
+  </data>
 </root>
