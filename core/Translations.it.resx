@@ -6757,8 +6757,17 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
   <data name="ShowRewatch_Start_Button" xml:space="preserve">
     <value>Rivedi la serie</value>
   </data>
+  <data name="ShowRewatch_Start_Title" xml:space="preserve">
+    <value>Rivedere {0} dall'inizio?</value>
+  </data>
+  <data name="ShowRewatch_Start_CanStop" xml:space="preserve">
+    <value>Potrà smettere di rivederla in qualsiasi momento da questo stesso menu.</value>
+  </data>
+  <data name="ShowRewatch_Stop_Title" xml:space="preserve">
+    <value>Smettere di rivedere {0}?</value>
+  </data>
   <data name="ShowRewatch_Stop_Content" xml:space="preserve">
-    <value>Le visualizzazioni restano nella cronologia. Se rivedrà la serie più avanti, ripartirà dal primo episodio.</value>
+    <value>Non viene cancellato nulla: gli episodi visti restano segnati come visti e le visualizzazioni restano nella cronologia. Nella Home, la serie torna al punto in cui si trovava.</value>
   </data>
   <data name="ShowRewatch_MarkAll_AlreadyWatched_Plural" xml:space="preserve">
     <value>{0} episodi già visti riceveranno una nuova visualizzazione, con la data di oggi.</value>

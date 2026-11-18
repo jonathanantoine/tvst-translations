@@ -8005,8 +8005,17 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
   <data name="ShowRewatch_Start_Button" xml:space="preserve">
     <value>Revoir la série</value>
   </data>
+  <data name="ShowRewatch_Start_Title" xml:space="preserve">
+    <value>Revoir {0} depuis le début ?</value>
+  </data>
+  <data name="ShowRewatch_Start_CanStop" xml:space="preserve">
+    <value>Vous pourrez arrêter le revisionnage à tout moment depuis ce même menu.</value>
+  </data>
+  <data name="ShowRewatch_Stop_Title" xml:space="preserve">
+    <value>Arrêter de revoir {0} ?</value>
+  </data>
   <data name="ShowRewatch_Stop_Content" xml:space="preserve">
-    <value>Vos visionnages restent dans votre historique. Si vous revoyez la série plus tard, vous repartirez du premier épisode.</value>
+    <value>Rien n'est effacé : les épisodes que vous avez vus restent marqués comme vus, et vos visionnages restent dans votre historique. Sur l'accueil, la série reprend où vous en étiez.</value>
   </data>
   <data name="ShowRewatch_MarkAll_AlreadyWatched_Plural" xml:space="preserve">
     <value>{0} épisodes déjà vus recevront un nouveau visionnage, daté d'aujourd'hui.</value>

@@ -6749,8 +6749,17 @@ If it is still missing after that, you can let the Trakt team know. The email is
   <data name="ShowRewatch_Start_Button" xml:space="preserve">
     <value>Rewatch the show</value>
   </data>
+  <data name="ShowRewatch_Start_Title" xml:space="preserve">
+    <value>Rewatch {0} from the start?</value>
+  </data>
+  <data name="ShowRewatch_Start_CanStop" xml:space="preserve">
+    <value>You can stop rewatching at any time from this same menu.</value>
+  </data>
+  <data name="ShowRewatch_Stop_Title" xml:space="preserve">
+    <value>Stop rewatching {0}?</value>
+  </data>
   <data name="ShowRewatch_Stop_Content" xml:space="preserve">
-    <value>Your viewings stay in your history. If you rewatch the show later, you'll start again from the first episode.</value>
+    <value>Nothing is deleted: the episodes you watched stay marked as watched, and your viewings stay in your history. On Home, the show picks up where you left off.</value>
   </data>
   <data name="ShowRewatch_MarkAll_AlreadyWatched_Plural" xml:space="preserve">
     <value>{0} episodes already watched will get one more viewing, dated today.</value>

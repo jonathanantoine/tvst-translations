@@ -6783,8 +6783,17 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
   <data name="ShowRewatch_Start_Button" xml:space="preserve">
     <value>Volver a ver la serie</value>
   </data>
+  <data name="ShowRewatch_Start_Title" xml:space="preserve">
+    <value>¿Volver a ver {0} desde el principio?</value>
+  </data>
+  <data name="ShowRewatch_Start_CanStop" xml:space="preserve">
+    <value>Podrá dejar de volver a verla en cualquier momento desde este mismo menú.</value>
+  </data>
+  <data name="ShowRewatch_Stop_Title" xml:space="preserve">
+    <value>¿Dejar de volver a ver {0}?</value>
+  </data>
   <data name="ShowRewatch_Stop_Content" xml:space="preserve">
-    <value>Sus visionados se quedan en su historial. Si vuelve a ver la serie más adelante, empezará de nuevo por el primer episodio.</value>
+    <value>No se borra nada: los episodios que vio siguen marcados como vistos y sus visionados se quedan en su historial. En el inicio, la serie sigue donde lo dejó.</value>
   </data>
   <data name="ShowRewatch_MarkAll_AlreadyWatched_Plural" xml:space="preserve">
     <value>{0} episodios ya vistos recibirán un nuevo visionado, con fecha de hoy.</value>
