@@ -5894,6 +5894,30 @@ If it is still missing after that, you can let the Trakt team know. The email is
   <data name="SortChooser_Criterion_ReleaseDate" xml:space="preserve">
     <value>Release date</value>
   </data>
+  <data name="SortChooser_Criterion_CustomOrder" xml:space="preserve">
+    <value>Custom order</value>
+  </data>
+  <data name="SortChooser_Criterion_DateAdded" xml:space="preserve">
+    <value>Date added</value>
+  </data>
+  <data name="SortChooser_Criterion_ItemCount" xml:space="preserve">
+    <value>Number of items</value>
+  </data>
+  <data name="SortChooser_Criterion_LastChange" xml:space="preserve">
+    <value>Last change</value>
+  </data>
+  <data name="SortChooser_Order_FewestItemsFirst" xml:space="preserve">
+    <value>Fewest items first</value>
+  </data>
+  <data name="SortChooser_Order_MostItemsFirst" xml:space="preserve">
+    <value>Most items first</value>
+  </data>
+  <data name="SortChooser_ListTitle" xml:space="preserve">
+    <value>LIST SORTING</value>
+  </data>
+  <data name="SortChooser_ListsTitle" xml:space="preserve">
+    <value>LISTS SORTING</value>
+  </data>
   <data name="SortChooser_Criterion_WatchlistRank" xml:space="preserve">
     <value>Watchlist rank</value>
   </data>

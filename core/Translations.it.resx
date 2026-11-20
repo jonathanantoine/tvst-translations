@@ -5902,6 +5902,30 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
   <data name="SortChooser_Criterion_ReleaseDate" xml:space="preserve">
     <value>Data di uscita</value>
   </data>
+  <data name="SortChooser_Criterion_CustomOrder" xml:space="preserve">
+    <value>Ordine personalizzato</value>
+  </data>
+  <data name="SortChooser_Criterion_DateAdded" xml:space="preserve">
+    <value>Data di aggiunta</value>
+  </data>
+  <data name="SortChooser_Criterion_ItemCount" xml:space="preserve">
+    <value>Numero di elementi</value>
+  </data>
+  <data name="SortChooser_Criterion_LastChange" xml:space="preserve">
+    <value>Ultima modifica</value>
+  </data>
+  <data name="SortChooser_Order_FewestItemsFirst" xml:space="preserve">
+    <value>Prima meno elementi</value>
+  </data>
+  <data name="SortChooser_Order_MostItemsFirst" xml:space="preserve">
+    <value>Prima più elementi</value>
+  </data>
+  <data name="SortChooser_ListTitle" xml:space="preserve">
+    <value>CLASSIFICAZIONE DELLA LISTA</value>
+  </data>
+  <data name="SortChooser_ListsTitle" xml:space="preserve">
+    <value>CLASSIFICAZIONE DELLE LISTE</value>
+  </data>
   <data name="SortChooser_Criterion_WatchlistRank" xml:space="preserve">
     <value>Posizione nella watchlist</value>
   </data>

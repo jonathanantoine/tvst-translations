@@ -5928,6 +5928,30 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
   <data name="SortChooser_Criterion_ReleaseDate" xml:space="preserve">
     <value>Fecha de estreno</value>
   </data>
+  <data name="SortChooser_Criterion_CustomOrder" xml:space="preserve">
+    <value>Orden personalizado</value>
+  </data>
+  <data name="SortChooser_Criterion_DateAdded" xml:space="preserve">
+    <value>Fecha de adición</value>
+  </data>
+  <data name="SortChooser_Criterion_ItemCount" xml:space="preserve">
+    <value>Número de elementos</value>
+  </data>
+  <data name="SortChooser_Criterion_LastChange" xml:space="preserve">
+    <value>Última modificación</value>
+  </data>
+  <data name="SortChooser_Order_FewestItemsFirst" xml:space="preserve">
+    <value>Menos elementos primero</value>
+  </data>
+  <data name="SortChooser_Order_MostItemsFirst" xml:space="preserve">
+    <value>Más elementos primero</value>
+  </data>
+  <data name="SortChooser_ListTitle" xml:space="preserve">
+    <value>ORDEN DE LA LISTA</value>
+  </data>
+  <data name="SortChooser_ListsTitle" xml:space="preserve">
+    <value>ORDEN DE LAS LISTAS</value>
+  </data>
   <data name="SortChooser_Criterion_WatchlistRank" xml:space="preserve">
     <value>Posición en la watchlist</value>
   </data>

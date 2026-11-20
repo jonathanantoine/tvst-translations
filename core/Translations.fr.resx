@@ -7150,6 +7150,30 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
   <data name="SortChooser_Criterion_ReleaseDate" xml:space="preserve">
     <value>Date de sortie</value>
   </data>
+  <data name="SortChooser_Criterion_CustomOrder" xml:space="preserve">
+    <value>Ordre personnalisé</value>
+  </data>
+  <data name="SortChooser_Criterion_DateAdded" xml:space="preserve">
+    <value>Date d'ajout</value>
+  </data>
+  <data name="SortChooser_Criterion_ItemCount" xml:space="preserve">
+    <value>Nombre d'éléments</value>
+  </data>
+  <data name="SortChooser_Criterion_LastChange" xml:space="preserve">
+    <value>Dernière modification</value>
+  </data>
+  <data name="SortChooser_Order_FewestItemsFirst" xml:space="preserve">
+    <value>Moins d'éléments d'abord</value>
+  </data>
+  <data name="SortChooser_Order_MostItemsFirst" xml:space="preserve">
+    <value>Plus d'éléments d'abord</value>
+  </data>
+  <data name="SortChooser_ListTitle" xml:space="preserve">
+    <value>TRI DE LA LISTE</value>
+  </data>
+  <data name="SortChooser_ListsTitle" xml:space="preserve">
+    <value>TRI DES LISTES</value>
+  </data>
   <data name="SortChooser_Criterion_WatchlistRank" xml:space="preserve">
     <value>Rang dans la watchlist</value>
   </data>
