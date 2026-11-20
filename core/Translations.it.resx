@@ -4812,73 +4812,7 @@ Una stagione segnata come vista in una volta conta all'ora in cui l'ha segnata.<
     <value>Nessuna visione per ora.</value>
   </data>
   <data name="Settings_HomeGroupsSectionHeader" xml:space="preserve">
-    <value>GRUPPI DI SERIE NELLA PAGINA PRINCIPALE</value>
-  </data>
-  <data name="Settings_HomeGroups_Movies_Header" xml:space="preserve">
-    <value>GRUPPI DI FILM NELLA PAGINA PRINCIPALE</value>
-  </data>
-  <data name="Settings_HomeGroupsSectionSubtitle" xml:space="preserve">
-    <value>L'anteprima mostra la tua pagina principale come la modellano gli interruttori qui sotto. Ognuno separa un gruppo; disattivato, le sue serie restano nel gruppo di origine.</value>
-  </data>
-  <data name="Settings_HomeGroups_Preview_Caption" xml:space="preserve">
-    <value>La tua pagina principale, dall'alto in basso</value>
-  </data>
-  <data name="Settings_HomeGroups_Preview_HiddenSuffix" xml:space="preserve">
-    <value>nascosto</value>
-  </data>
-  <data name="Settings_HomeGroups_Preview_AlwaysSuffix" xml:space="preserve">
-    <value>sempre visibile</value>
-  </data>
-  <data name="Settings_HomeGroups_SplitSeasonInProgress_Title" xml:space="preserve">
-    <value>Separa le stagioni ancora in onda</value>
-  </data>
-  <data name="Settings_HomeGroups_SplitSeasonInProgress_Subtitle" xml:space="preserve">
-    <value>Disattivato: restano in “Serie TV con episodi non visti”.</value>
-  </data>
-  <data name="Settings_HomeGroups_SeasonInProgressFirst_Title" xml:space="preserve">
-    <value>… e mostrale sopra le stagioni complete</value>
-  </data>
-  <data name="Settings_HomeGroups_SplitEndedWithUnseen_Title" xml:space="preserve">
-    <value>Separa le serie terminate con episodi non visti</value>
-  </data>
-  <data name="Settings_HomeGroups_SplitEndedWithUnseen_Subtitle" xml:space="preserve">
-    <value>Disattivato: restano in “Serie TV con episodi non visti”.</value>
-  </data>
-  <data name="Settings_HomeGroups_SplitShowsToStart_Title" xml:space="preserve">
-    <value>Separa le serie da iniziare</value>
-  </data>
-  <data name="Settings_HomeGroups_SplitShowsToStart_Subtitle" xml:space="preserve">
-    <value>Serie della tua watchlist senza episodi visti. Disattivato: sono ordinate con le altre, in base ai loro episodi.</value>
-  </data>
-  <data name="Settings_HomeGroups_SplitNoEpisodeAvailable_Title" xml:space="preserve">
-    <value>… e, tra queste, quelle senza episodi disponibili</value>
-  </data>
-  <data name="Settings_HomeGroups_SplitNoEpisodeAvailable_Subtitle" xml:space="preserve">
-    <value>Nessun episodio trasmesso o annunciato. Disattivato: restano in “Serie TV in arrivo”.</value>
-  </data>
-  <data name="Settings_HomeGroups_SplitNextEpisodeUnknown_Title" xml:space="preserve">
-    <value>Separa le serie viste il cui prossimo episodio è sconosciuto</value>
-  </data>
-  <data name="Settings_HomeGroups_SplitNextEpisodeUnknown_Subtitle" xml:space="preserve">
-    <value>Serie in pari senza data di messa in onda nota. Disattivato: restano in “Serie TV viste, in arrivo”.</value>
-  </data>
-  <data name="Settings_HomeGroups_ShowEndedFinished_Title" xml:space="preserve">
-    <value>Mostra le serie viste e terminate</value>
-  </data>
-  <data name="Settings_HomeGroups_ShowEndedFinished_Subtitle" xml:space="preserve">
-    <value>Disattivato: non compaiono affatto nella pagina principale.</value>
-  </data>
-  <data name="Settings_HomeGroups_Movies_Subtitle" xml:space="preserve">
-    <value>L'anteprima mostra la sezione watchlist della tua pagina principale.</value>
-  </data>
-  <data name="Settings_HomeGroups_SplitUpcomingMovies_Title" xml:space="preserve">
-    <value>Separa i film in arrivo</value>
-  </data>
-  <data name="Settings_HomeGroups_SplitUpcomingMovies_Subtitle" xml:space="preserve">
-    <value>Film non ancora usciti. Disattivato: restano nella watchlist con gli altri.</value>
-  </data>
-  <data name="Settings_HomeGroups_UpcomingMoviesFirst_Title" xml:space="preserve">
-    <value>… e mostrali sopra i film usciti</value>
+    <value>GRUPPI NELLA PAGINA PRINCIPALE</value>
   </data>
   <data name="Settings_HomeGroups_Preview_Badge" xml:space="preserve">
     <value>ANTEPRIMA</value>
@@ -5142,12 +5076,6 @@ Una stagione segnata come vista in una volta conta all'ora in cui l'ha segnata.<
     <value>Uscita digitale il
 {0}</value>
   </data>
-  <data name="Settings_HomeGroups_AwaitingDigitalMovies_Title" xml:space="preserve">
-    <value>Raggruppa i film in attesa dell'uscita digitale</value>
-  </data>
-  <data name="Settings_HomeGroups_AwaitingDigitalMovies_Subtitle" xml:space="preserve">
-    <value>Già usciti al cinema, con una data di uscita digitale annunciata. Usa il paese scelto per dove guardare, altrimenti la data statunitense.</value>
-  </data>
   <data name="DataFreshness_Verdict_Checking" xml:space="preserve">
     <value>Verifica con Trakt in corso…</value>
   </data>
@@ -5392,12 +5320,6 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
   <data name="Settings_Display_ChooseStreamingServices_Subtitle" xml:space="preserve">
     <value>Nell'anteprima è solo un esempio. Nelle tue liste non appare ancora nulla.</value>
   </data>
-  <data name="Settings_HomeGroups_GroupNotOnMyServices_Title" xml:space="preserve">
-    <value>Separa ciò che non è sulle tue piattaforme</value>
-  </data>
-  <data name="Settings_HomeGroups_GroupNotOnMyServices_Subtitle" xml:space="preserve">
-    <value>Serie da iniziare e film da vedere, già usciti, che nessuna delle tue piattaforme offre ancora.</value>
-  </data>
   <data name="Settings_HomeGroups_CompareLink_Title" xml:space="preserve">
     <value>Proporre di confrontare le serie</value>
   </data>
@@ -5411,7 +5333,7 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
     <value>Titoli su una riga</value>
   </data>
   <data name="Settings_HomeGroups_SimpleTitles_Subtitle" xml:space="preserve">
-    <value>Il numero a grandezza normale, senza la riga grigia sotto. Vale anche per i film.</value>
+    <value>Il numero a grandezza normale, senza la riga grigia sotto. Serie e film.</value>
   </data>
   <data name="Home_Code_ShowsToStartNotOnMyServicesGroupHeaderPlural" xml:space="preserve">
     <value>{0} serie fuori dalle tue piattaforme</value>
@@ -5959,6 +5881,66 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
   <data name="Settings_Display_Code_SortOption_FirstAiredReverse" xml:space="preserve">
     <value>Prima messa in onda (più recente prima)</value>
   </data>
+  <data name="SortChooser_Criterion_Title" xml:space="preserve">
+    <value>Titolo</value>
+  </data>
+  <data name="SortChooser_Criterion_LastAction" xml:space="preserve">
+    <value>Ultima azione</value>
+  </data>
+  <data name="SortChooser_Criterion_NextEpisodeDate" xml:space="preserve">
+    <value>Data del prossimo episodio da vedere</value>
+  </data>
+  <data name="SortChooser_Criterion_EpisodesToWatch" xml:space="preserve">
+    <value>Episodi da vedere</value>
+  </data>
+  <data name="SortChooser_Criterion_MyRating" xml:space="preserve">
+    <value>Il mio voto</value>
+  </data>
+  <data name="SortChooser_Criterion_FirstAired" xml:space="preserve">
+    <value>Prima messa in onda</value>
+  </data>
+  <data name="SortChooser_Criterion_ReleaseDate" xml:space="preserve">
+    <value>Data di uscita</value>
+  </data>
+  <data name="SortChooser_Criterion_WatchlistRank" xml:space="preserve">
+    <value>Posizione nella watchlist</value>
+  </data>
+  <data name="SortChooser_Order_AToZ" xml:space="preserve">
+    <value>Dalla A alla Z</value>
+  </data>
+  <data name="SortChooser_Order_ZToA" xml:space="preserve">
+    <value>Dalla Z alla A</value>
+  </data>
+  <data name="SortChooser_Order_MostRecentFirst" xml:space="preserve">
+    <value>Prima la più recente</value>
+  </data>
+  <data name="SortChooser_Order_OldestFirst" xml:space="preserve">
+    <value>Prima la più vecchia</value>
+  </data>
+  <data name="SortChooser_Order_FewestEpisodesFirst" xml:space="preserve">
+    <value>Prima meno episodi</value>
+  </data>
+  <data name="SortChooser_Order_MostEpisodesFirst" xml:space="preserve">
+    <value>Prima più episodi</value>
+  </data>
+  <data name="SortChooser_Order_BestFirst" xml:space="preserve">
+    <value>Prima il migliore</value>
+  </data>
+  <data name="SortChooser_Order_LowestFirst" xml:space="preserve">
+    <value>Prima il peggiore</value>
+  </data>
+  <data name="SortChooser_Order_FirstToLast" xml:space="preserve">
+    <value>Dal primo all'ultimo</value>
+  </data>
+  <data name="SortChooser_Order_LastToFirst" xml:space="preserve">
+    <value>Dall'ultimo al primo</value>
+  </data>
+  <data name="SortChooser_GroupOrderCard_Subtitle" xml:space="preserve">
+    <value>Scegli e riordina i gruppi</value>
+  </data>
+  <data name="SortChooser_Close" xml:space="preserve">
+    <value>OK</value>
+  </data>
   <data name="Comments_Header_CountFormat_Plural" xml:space="preserve">
     <value>{0} commenti</value>
   </data>
@@ -6074,13 +6056,7 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
     <value>Pubblica</value>
   </data>
   <data name="Settings_HomeGroupOrder_Title" xml:space="preserve">
-    <value>Ordine dei gruppi</value>
-  </data>
-  <data name="Settings_HomeGroupOrder_Default" xml:space="preserve">
-    <value>Ordine predefinito</value>
-  </data>
-  <data name="Settings_HomeGroupOrder_Custom" xml:space="preserve">
-    <value>Ordine personalizzato</value>
+    <value>Gruppi della home</value>
   </data>
   <data name="Settings_HomeGroupOrder_Explanation" xml:space="preserve">
     <value>Trascina un gruppo per spostarlo nella schermata iniziale.</value>
@@ -6724,12 +6700,6 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
   <data name="Home_Code_ShowsBeingRewatchedGroupHeader_Single" xml:space="preserve">
     <value>{0} serie da rivedere</value>
   </data>
-  <data name="Settings_HomeGroups_GroupRewatchedShows_Title" xml:space="preserve">
-    <value>Separa le serie da rivedere</value>
-  </data>
-  <data name="Settings_HomeGroups_GroupRewatchedShows_Subtitle" xml:space="preserve">
-    <value>Disattivato: restano con le altre serie da vedere.</value>
-  </data>
   <data name="Home_Code_GroupSubtitle_EpisodesToRewatch" xml:space="preserve">
     <value>episodi da rivedere</value>
   </data>
@@ -6786,5 +6756,29 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
   </data>
   <data name="Settings_SortHeaderForRewatchedShows_Text" xml:space="preserve">
     <value>Serie da rivedere</value>
+  </data>
+  <data name="Settings_HomeGroupOrder_RowSubtitle" xml:space="preserve">
+    <value>Scegliere e disporre i gruppi di serie e film</value>
+  </data>
+  <data name="Home_DisplayMenu_ChooseGroups" xml:space="preserve">
+    <value>Scegliere e disporre i gruppi…</value>
+  </data>
+  <data name="Settings_HomeGroupOrder_OnHomeHeader" xml:space="preserve">
+    <value>Nella schermata iniziale</value>
+  </data>
+  <data name="Settings_HomeGroupOrder_DisplayHeader" xml:space="preserve">
+    <value>Visualizzazione</value>
+  </data>
+  <data name="Settings_HomeGroupOrder_AlsoSplitsMovies" xml:space="preserve">
+    <value>Separa anche i film</value>
+  </data>
+  <data name="Settings_HomeGroupOrder_AlsoSplitsShows" xml:space="preserve">
+    <value>Separa anche le serie</value>
+  </data>
+  <data name="Settings_HomeGroupOrder_MoviesIncludedFormat" xml:space="preserve">
+    <value>{0} · film inclusi</value>
+  </data>
+  <data name="Settings_HomeGroupOrder_ShowsIncludedFormat" xml:space="preserve">
+    <value>{0} · serie incluse</value>
   </data>
 </root>
