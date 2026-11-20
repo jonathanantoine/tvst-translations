@@ -981,10 +981,10 @@ matches this search
     <value>Last action date reversed</value>
   </data>
   <data name="Settings_Display_Code_SortOption_NextEpisodeAiredDate" xml:space="preserve">
-    <value>Next episode to see air date</value>
+    <value>Next episode to watch (oldest first)</value>
   </data>
   <data name="Settings_Display_Code_SortOption_NextEpisodeAiredDateReverse" xml:space="preserve">
-    <value>Next episode to see air date reversed</value>
+    <value>Next episode to watch (newest first)</value>
   </data>
   <data name="Settings_Display_ColorHeader_Text" xml:space="preserve">
     <value>MAIN COLOR</value>

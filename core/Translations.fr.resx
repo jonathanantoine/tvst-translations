@@ -1531,12 +1531,12 @@ Exprimez-vous !</value>
   <data
       name     ="Settings_Display_Code_SortOption_NextEpisodeAiredDate"
       xml:space="preserve">
-    <value>Date de sortie du prochain épisode à voir</value>
+    <value>Prochain épisode à voir (plus ancien d'abord)</value>
   </data>
   <data
       name     ="Settings_Display_Code_SortOption_NextEpisodeAiredDateReverse"
       xml:space="preserve">
-    <value>Date de sortie du prochain épisode à voir inversé</value>
+    <value>Prochain épisode à voir (plus récent d'abord)</value>
   </data>
   <data
       name     ="Settings_Display_ColorHeader_Text"

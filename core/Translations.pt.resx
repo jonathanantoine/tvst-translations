@@ -1463,12 +1463,12 @@ corresponde à essa pesquisa
   <data
       name="Settings_Display_Code_SortOption_NextEpisodeAiredDate"
       xml:space="preserve">
-    <value>Próximo episódio a ser exibido</value>
+    <value>Próximo episódio por ver (mais antigo primeiro)</value>
   </data>
   <data
       name="Settings_Display_Code_SortOption_NextEpisodeAiredDateReverse"
       xml:space="preserve">
-    <value>Próximo episódio a ser exibido invertido</value>
+    <value>Próximo episódio por ver (mais recente primeiro)</value>
   </data>
   <data
       name="Settings_Display_ColorHeader_Text"

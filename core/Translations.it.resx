@@ -968,10 +968,10 @@ corrisponda a questa ricerca
     <value>Data ultima modifica invertita</value>
   </data>
     <data name="Settings_Display_Code_SortOption_NextEpisodeAiredDate" xml:space="preserve">
-    <value>Prossimo episodio in onda</value>
+    <value>Prossimo episodio da vedere (più vecchio prima)</value>
   </data>
     <data name="Settings_Display_Code_SortOption_NextEpisodeAiredDateReverse" xml:space="preserve">
-    <value>Prossimo episodio in onda invertito</value>
+    <value>Prossimo episodio da vedere (più recente prima)</value>
   </data>
     <data name="Settings_Display_ColorHeader_Text" xml:space="preserve">
     <value>COLORE PRINCIPALE</value>

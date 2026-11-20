@@ -959,10 +959,10 @@ aparece en esta búsqueda
   </data>
 
     <data name="Settings_Display_Code_SortOption_NextEpisodeAiredDate" xml:space="preserve">
-    <value>Fecha de emisión del próximo episodio por ver</value>
+    <value>Próximo episodio por ver (más antiguo primero)</value>
   </data>
     <data name="Settings_Display_Code_SortOption_NextEpisodeAiredDateReverse" xml:space="preserve">
-    <value>Fecha de emisión del próximo episodio por ver inverso</value>
+    <value>Próximo episodio por ver (más reciente primero)</value>
   </data>
     <data name="Settings_Display_ColorHeader_Text" xml:space="preserve">
     <value>COLOR PRINCIPAL</value>

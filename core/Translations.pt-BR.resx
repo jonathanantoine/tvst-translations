@@ -921,10 +921,10 @@ corresponde à essa pesquisa
     <value>Data da última modificação invertido</value>
   </data>
     <data name="Settings_Display_Code_SortOption_NextEpisodeAiredDate" xml:space="preserve">
-    <value>Próximo episódio a ser exibido</value>
+    <value>Próximo episódio a assistir (mais antigo primeiro)</value>
   </data>
     <data name="Settings_Display_Code_SortOption_NextEpisodeAiredDateReverse" xml:space="preserve">
-    <value>Próximo episódio a ser exibido invertido</value>
+    <value>Próximo episódio a assistir (mais recente primeiro)</value>
   </data>
     <data name="Settings_Display_ColorHeader_Text" xml:space="preserve">
     <value>COR PRINCIPAL</value>
