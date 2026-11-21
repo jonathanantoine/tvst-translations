@@ -1042,7 +1042,7 @@ matches this search
     <value>SETTINGS</value>
   </data>
   <data name="Settings_RaterAfterWatchedHeader_Text" xml:space="preserve">
-    <value>Episodes: prompt to rate when marked as watched.</value>
+    <value>Episodes and seasons: prompt to rate</value>
   </data>
 
     <data name="Settings_RaterAfterMovieWatchedHeader_Text" xml:space="preserve">
@@ -6796,5 +6796,11 @@ If it is still missing after that, you can let the Trakt team know. The email is
   </data>
   <data name="Settings_HomeGroupOrder_ShowsIncludedFormat" xml:space="preserve">
     <value>{0} · shows included</value>
+  </data>
+  <data name="Settings_RaterAfterWatchedHeader_Subtitle" xml:space="preserve">
+    <value>Each time you mark an episode as watched. The season is offered once you rate its last episode.</value>
+  </data>
+  <data name="RateASeason_AfterLastEpisode_QuestionFormat" xml:space="preserve">
+    <value>You watched all of season {0}. Your rating?</value>
   </data>
 </root>

@@ -1627,7 +1627,7 @@ Exprimez-vous !</value>
   <data
       name     ="Settings_RaterAfterWatchedHeader_Text"
       xml:space="preserve">
-      <value>Épisodes : demander une note lorsqu’un épisode est marqué comme vu ?</value>
+      <value>Épisodes et saisons : demander une note</value>
   </data>
   <data
       name     ="Settings_SortHeader_Text"
@@ -8052,5 +8052,11 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
   </data>
   <data name="Settings_HomeGroupOrder_ShowsIncludedFormat" xml:space="preserve">
     <value>{0} · séries comprises</value>
+  </data>
+  <data name="Settings_RaterAfterWatchedHeader_Subtitle" xml:space="preserve">
+    <value>À chaque épisode marqué comme vu. La saison est proposée une fois son dernier épisode noté.</value>
+  </data>
+  <data name="RateASeason_AfterLastEpisode_QuestionFormat" xml:space="preserve">
+    <value>Saison {0} vue en entier. Votre note ?</value>
   </data>
 </root>

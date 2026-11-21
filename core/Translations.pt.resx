@@ -1558,7 +1558,7 @@ corresponde à essa pesquisa
   <data
       name="Settings_RaterAfterWatchedHeader_Text"
       xml:space="preserve">
-        <value>Episódios: solicitar uma avaliação ao marcar como assistido</value>
+        <value>Episódios e temporadas: solicitar uma avaliação</value>
     </data>
   <data
       name="Settings_SortHeader_Text"
@@ -8138,5 +8138,11 @@ Se depois disso continuar a faltar, pode avisar a equipa do Trakt. O e-mail já 
   </data>
   <data name="Settings_HomeGroupOrder_ShowsIncludedFormat" xml:space="preserve">
     <value>{0} · séries incluídas</value>
+  </data>
+  <data name="Settings_RaterAfterWatchedHeader_Subtitle" xml:space="preserve">
+    <value>Sempre que marca um episódio como visto. A temporada é proposta depois de avaliar o último episódio.</value>
+  </data>
+  <data name="RateASeason_AfterLastEpisode_QuestionFormat" xml:space="preserve">
+    <value>Viu toda a temporada {0}. A sua avaliação?</value>
   </data>
 </root>

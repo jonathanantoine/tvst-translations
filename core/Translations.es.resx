@@ -1022,7 +1022,7 @@ aparece en esta búsqueda
     <value>AJUSTES</value>
   </data>
     <data name="Settings_RaterAfterWatchedHeader_Text" xml:space="preserve">
-        <value>Episodios: solicitar una valoración al marcar como visto</value>
+        <value>Episodios y temporadas: solicitar una valoración</value>
     </data>
     <data name="Settings_SortHeader_Text" xml:space="preserve">
     <value>ORDEN DE LAS SERIES</value>
@@ -6830,5 +6830,11 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
   </data>
   <data name="Settings_HomeGroupOrder_ShowsIncludedFormat" xml:space="preserve">
     <value>{0} · series incluidas</value>
+  </data>
+  <data name="Settings_RaterAfterWatchedHeader_Subtitle" xml:space="preserve">
+    <value>Cada vez que marcas un episodio como visto. La temporada se propone cuando valoras su último episodio.</value>
+  </data>
+  <data name="RateASeason_AfterLastEpisode_QuestionFormat" xml:space="preserve">
+    <value>Has visto toda la temporada {0}. ¿Tu valoración?</value>
   </data>
 </root>

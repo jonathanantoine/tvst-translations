@@ -1029,7 +1029,7 @@ corrisponda a questa ricerca
     <value>IMPOSTAZIONI</value>
   </data>
     <data name="Settings_RaterAfterWatchedHeader_Text" xml:space="preserve">
-        <value>Episodi: richiedere una valutazione quando contrassegnato come visto</value>
+        <value>Episodi e stagioni: richiedere una valutazione</value>
     </data>
     <data name="Settings_SortHeader_Text" xml:space="preserve">
     <value>CLASSIFICAZIONE DELLE SERIE TV</value>
@@ -6804,5 +6804,11 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
   </data>
   <data name="Settings_HomeGroupOrder_ShowsIncludedFormat" xml:space="preserve">
     <value>{0} · serie incluse</value>
+  </data>
+  <data name="Settings_RaterAfterWatchedHeader_Subtitle" xml:space="preserve">
+    <value>Ogni volta che segni un episodio come visto. La stagione viene proposta dopo aver votato il suo ultimo episodio.</value>
+  </data>
+  <data name="RateASeason_AfterLastEpisode_QuestionFormat" xml:space="preserve">
+    <value>Hai visto tutta la stagione {0}. Il tuo voto?</value>
   </data>
 </root>
