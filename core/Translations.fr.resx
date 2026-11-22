@@ -8123,7 +8123,7 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
     <value>{0} ans au début de la série</value>
   </data>
   <data name="Cast_Code_AgeWhenJoined" xml:space="preserve">
-    <value>{0} ans à son arrivée (saison {1})</value>
+    <value>{0} ans en saison {1}</value>
   </data>
   <data name="Cast_Code_AgeAtMovieRelease" xml:space="preserve">
     <value>{0} ans à la sortie du film</value>

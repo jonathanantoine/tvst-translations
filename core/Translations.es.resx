@@ -6901,7 +6901,7 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
     <value>{0} años al inicio de la serie</value>
   </data>
   <data name="Cast_Code_AgeWhenJoined" xml:space="preserve">
-    <value>{0} años al llegar (temporada {1})</value>
+    <value>{0} años en la temporada {1}</value>
   </data>
   <data name="Cast_Code_AgeAtMovieRelease" xml:space="preserve">
     <value>{0} años en el estreno de la película</value>

@@ -6867,7 +6867,7 @@ If it is still missing after that, you can let the Trakt team know. The email is
     <value>{0} when the show began</value>
   </data>
   <data name="Cast_Code_AgeWhenJoined" xml:space="preserve">
-    <value>{0} when they joined (season {1})</value>
+    <value>aged {0} in season {1}</value>
   </data>
   <data name="Cast_Code_AgeAtMovieRelease" xml:space="preserve">
     <value>{0} when the movie came out</value>
