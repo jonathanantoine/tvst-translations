@@ -8059,4 +8059,73 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
   <data name="RateASeason_AfterLastEpisode_QuestionFormat" xml:space="preserve">
     <value>Saison {0} vue en entier. Votre note ?</value>
   </data>
+  <data name="Settings_ConnectionTest_Title" xml:space="preserve">
+    <value>Tester la connexion</value>
+  </data>
+  <data name="Settings_ConnectionTest_Subtitle" xml:space="preserve">
+    <value>Vérifie que l'app joint Trakt et les services des résumés et des images</value>
+  </data>
+  <data name="ConnectionTest_InProgress" xml:space="preserve">
+    <value>Test de la connexion…</value>
+  </data>
+  <data name="ConnectionTest_ResultTitle" xml:space="preserve">
+    <value>Test de la connexion</value>
+  </data>
+  <data name="ConnectionTest_LineFormat" xml:space="preserve">
+    <value>{0} : {1}</value>
+  </data>
+  <data name="ConnectionTest_Status_Ok" xml:space="preserve">
+    <value>répond</value>
+  </data>
+  <data name="ConnectionTest_Status_Failed" xml:space="preserve">
+    <value>ne répond pas</value>
+  </data>
+  <data name="ConnectionTest_Service_Trakt" xml:space="preserve">
+    <value>Trakt (votre compte)</value>
+  </data>
+  <data name="ConnectionTest_Service_Tmdb" xml:space="preserve">
+    <value>TMDB (résumés, plateformes de streaming)</value>
+  </data>
+  <data name="ConnectionTest_Service_TmdbImages" xml:space="preserve">
+    <value>Images de TMDB</value>
+  </data>
+  <data name="ConnectionTest_Service_FanArt" xml:space="preserve">
+    <value>Affiches (fanart.tv)</value>
+  </data>
+  <data name="ConnectionTest_Advice_AllGood" xml:space="preserve">
+    <value>Tout répond.</value>
+  </data>
+  <data name="ConnectionTest_Advice_NoInternet" xml:space="preserve">
+    <value>Rien ne répond : vérifiez que l'appareil est connecté à internet, puis refaites le test.</value>
+  </data>
+  <data name="ConnectionTest_Advice_TmdbBlocked" xml:space="preserve">
+    <value>Essayez un autre réseau (Wi-Fi ou données mobiles) : certains opérateurs internet bloquent TMDB, qui fournit les résumés et les images. Ce qui manque sera complété à la prochaine actualisation.</value>
+  </data>
+  <data name="ConnectionTest_Advice_TryLater" xml:space="preserve">
+    <value>Un service ne répond pas. C'est souvent passager : refaites le test dans quelques minutes.</value>
+  </data>
+  <data name="MediaItem_OverviewUnavailable_TmdbUnreachable" xml:space="preserve">
+    <value>Résumé indisponible : le site TMDB, qui fournit les résumés, ne répond pas sur votre connexion.</value>
+  </data>
+  <data name="Home_Code_NextSeasonToStartGroupHeader_Plural" xml:space="preserve">
+    <value>{0} séries, saison suivante à commencer</value>
+  </data>
+  <data name="Home_Code_NextSeasonToStartGroupHeader_Single" xml:space="preserve">
+    <value>{0} série, saison suivante à commencer</value>
+  </data>
+  <data name="Home_Code_GroupSubtitle_FirstEpisodeToSee" xml:space="preserve">
+    <value>épisode 1 à voir</value>
+  </data>
+  <data name="Settings_SortHeaderForNextSeasonToStart_Text" xml:space="preserve">
+    <value>Saison suivante à commencer</value>
+  </data>
+  <data name="Cast_Code_AgeAtShowStart" xml:space="preserve">
+    <value>{0} ans au début de la série</value>
+  </data>
+  <data name="Cast_Code_AgeWhenJoined" xml:space="preserve">
+    <value>{0} ans à son arrivée (saison {1})</value>
+  </data>
+  <data name="Cast_Code_AgeAtMovieRelease" xml:space="preserve">
+    <value>{0} ans à la sortie du film</value>
+  </data>
 </root>
