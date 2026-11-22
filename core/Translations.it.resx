@@ -6880,4 +6880,19 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
   <data name="Cast_Code_AgeAtMovieRelease" xml:space="preserve">
     <value>{0} anni all'uscita del film</value>
   </data>
+  <data name="Search_RecentSearches_Title" xml:space="preserve">
+    <value>Ricerche recenti</value>
+  </data>
+  <data name="Search_RecentSearches_SeeMore" xml:space="preserve">
+    <value>Mostra altro</value>
+  </data>
+  <data name="Search_RecentSearches_SeeLess" xml:space="preserve">
+    <value>Mostra meno</value>
+  </data>
+  <data name="Search_RecentSearches_ClearAll" xml:space="preserve">
+    <value>Cancella tutto</value>
+  </data>
+  <data name="Search_RecentSearches_RemoveFormat" xml:space="preserve">
+    <value>Rimuovi {0} dalle ricerche recenti</value>
+  </data>
 </root>

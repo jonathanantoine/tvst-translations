@@ -6909,4 +6909,19 @@ Se depois disso ele ainda estiver faltando, você pode avisar a equipe do Trakt.
   <data name="Cast_Code_AgeAtMovieRelease" xml:space="preserve">
     <value>{0} anos na estreia do filme</value>
   </data>
+  <data name="Search_RecentSearches_Title" xml:space="preserve">
+    <value>Pesquisas recentes</value>
+  </data>
+  <data name="Search_RecentSearches_SeeMore" xml:space="preserve">
+    <value>Ver mais</value>
+  </data>
+  <data name="Search_RecentSearches_SeeLess" xml:space="preserve">
+    <value>Ver menos</value>
+  </data>
+  <data name="Search_RecentSearches_ClearAll" xml:space="preserve">
+    <value>Limpar tudo</value>
+  </data>
+  <data name="Search_RecentSearches_RemoveFormat" xml:space="preserve">
+    <value>Remover {0} das pesquisas recentes</value>
+  </data>
 </root>

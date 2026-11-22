@@ -6872,4 +6872,19 @@ If it is still missing after that, you can let the Trakt team know. The email is
   <data name="Cast_Code_AgeAtMovieRelease" xml:space="preserve">
     <value>{0} when the movie came out</value>
   </data>
+  <data name="Search_RecentSearches_Title" xml:space="preserve">
+    <value>Recent searches</value>
+  </data>
+  <data name="Search_RecentSearches_SeeMore" xml:space="preserve">
+    <value>See more</value>
+  </data>
+  <data name="Search_RecentSearches_SeeLess" xml:space="preserve">
+    <value>See less</value>
+  </data>
+  <data name="Search_RecentSearches_ClearAll" xml:space="preserve">
+    <value>Clear all</value>
+  </data>
+  <data name="Search_RecentSearches_RemoveFormat" xml:space="preserve">
+    <value>Remove {0} from recent searches</value>
+  </data>
 </root>
