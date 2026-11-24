@@ -475,6 +475,12 @@ Prueba a añadir una :-)</value>
     <data name="Home_Menu_ContactMe_Text" xml:space="preserve">
     <value>Contacto</value>
   </data>
+  <data name="Home_Menu_ContactMe_Reason_Faq" xml:space="preserve">
+    <value>Preguntas frecuentes</value>
+  </data>
+  <data name="FaqLink" xml:space="preserve">
+    <value>https://jonathanantoine.com/tvst.html#faq</value>
+  </data>
     <data name="Home_Menu_ContactMe_Reason_DataMissing" xml:space="preserve">
     <value>Algunos datos no están actualizados</value>
   </data>

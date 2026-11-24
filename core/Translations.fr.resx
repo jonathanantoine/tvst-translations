@@ -741,6 +741,12 @@ femme et mes enfants.</value>
       xml:space="preserve">
     <value>Contactez-moi</value>
   </data>
+  <data name="Home_Menu_ContactMe_Reason_Faq" xml:space="preserve">
+    <value>Questions fréquentes</value>
+  </data>
+  <data name="FaqLink" xml:space="preserve">
+    <value>https://jonathanantoine.com/tvst-fr.html#faq</value>
+  </data>
   <data
       name     ="Home_Menu_ContactMe_Reason_DataMissing"
       xml:space="preserve">

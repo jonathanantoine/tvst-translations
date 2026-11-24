@@ -741,6 +741,12 @@ Tente adicionar uma :-)</value>
       xml:space="preserve">
     <value>Fale comigo</value>
   </data>
+  <data name="Home_Menu_ContactMe_Reason_Faq" xml:space="preserve">
+    <value>Perguntas frequentes</value>
+  </data>
+  <data name="FaqLink" xml:space="preserve">
+    <value>https://jonathanantoine.com/tvst.html#faq</value>
+  </data>
   <data
       name="Home_Menu_ContactMe_Reason_DataMissing"
       xml:space="preserve">

@@ -471,6 +471,12 @@ Try adding one :-)</value>
   <data name="Home_Menu_ContactMe_Text" xml:space="preserve">
     <value>Contact me</value>
   </data>
+  <data name="Home_Menu_ContactMe_Reason_Faq" xml:space="preserve">
+    <value>Frequently asked questions</value>
+  </data>
+  <data name="FaqLink" xml:space="preserve">
+    <value>https://jonathanantoine.com/tvst.html#faq</value>
+  </data>
   <data name="Home_Menu_ContactMe_Reason_DataMissing" xml:space="preserve">
     <value>Some data is not up to date</value>
   </data>
