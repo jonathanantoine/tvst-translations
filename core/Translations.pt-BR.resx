@@ -1090,7 +1090,7 @@ Regras: 5 ou mais palavras, sem solicitações de suporte, marcar spoiler!</valu
     <value>Avaliar essa série</value>
   </data>
     <data name="ShowDetails_AppBar_Remove_Label" xml:space="preserve">
-    <value>Remover da minha coleção</value>
+    <value>Remover esta série</value>
   </data>
     <data name="ShowDetails_Menu_MoveToTopOfWatchlist" xml:space="preserve">
     <value>Mover para o topo da watchlist</value>
@@ -1159,13 +1159,15 @@ para essa série</value>
     <value>CALENDÁRIO</value>
   </data>
     <data name="ShowDetails_Code_AskRemovingContent" xml:space="preserve">
-    <value>AVISO: Isso irá remover essa série da sua coleção de séries no Trakt, sua lista para assistir e todo seu histórico será perdido.</value>
+    <value>Esta série também será removida da sua conta Trakt: histórico de exibição, watchlist e coleção.
+
+Você confirma?</value>
   </data>
     <data name="ShowDetails_Code_AskRemovingTitle" xml:space="preserve">
-    <value>REMOVER A SÉRIE?</value>
+    <value>Remover esta série?</value>
   </data>
     <data name="ShowDetails_Code_CannotRemoveFormat" xml:space="preserve">
-    <value>Desculpa, não conseguimos remover a série '{0}' da sua coleção agora.</value>
+    <value>Não foi possível remover a série '{0}' no momento.</value>
   </data>
     <data name="ShowDetails_Code_Episode_AiredEpisodesPlural" xml:space="preserve">
     <value>EPISÓDIOS EXIBIDOS</value>
@@ -1890,13 +1892,12 @@ Clique aqui e faça uma doação!</value>
     <value>Compartilhar filme</value>
 </data>
     <data name="MovieDetails_AskRemovingTitle" xml:space="preserve">
-    <value>REMOVER ESTE FILME DO TVST?</value>
+    <value>Remover este filme?</value>
 </data>
     <data name="MovieDetails_AskRemovingContent" xml:space="preserve">
-    <value>AVISO: Isso removerá TODOS OS DADOS relacionados a este filme no Trakt.tv: Coleção, watchlist, histórico de reproduções, etc.
+    <value>Este filme também será removido da sua conta Trakt: histórico de exibição, watchlist e coleção.
 
-Você confirma?
-    </value>
+Você confirma?</value>
 </data>
     <data name="MovieDetails_Add_Where_Title" xml:space="preserve">
     <value>ONDE?</value>
@@ -4204,7 +4205,7 @@ Você quer que o aplicativo desative essa opção na sua conta Trakt? A partir d
     <value>Relatar ao Trakt</value>
   </data>
   <data name="DataFreshness_ReportToTrakt_DialogContent" xml:space="preserve">
-    <value>O Trakt cuida dessas comunicações no fórum de suporte dele. Abra lá uma conversa nova, diga qual série ou filme é o caso e o que está errado, e a equipe do Trakt vai analisar. Abrir o fórum agora?</value>
+    <value>O Trakt cuida desses relatos no site de suporte dele. Fale lá com a equipe, diga qual é a série ou o filme e o que está errado, e ela vai analisar. Abrir o site agora?</value>
   </data>
   <data name="DataFreshness_Refresh_DialogTitle" xml:space="preserve">
     <value>Download a partir do Trakt</value>
@@ -5140,7 +5141,7 @@ Uma temporada marcada como assistida de uma vez conta na hora em que você a mar
 
 Para conferir se uma série ou um filme está atualizado: abra a ficha dele, toque nos três pontinhos no canto superior direito e depois em “Atualização dos dados”.
 
-Se uma informação estiver errada, relate no fórum de suporte do site do Trakt: abra uma conversa nova e indique a série ou o filme e o que está errado.</value>
+Se uma informação estiver errada, relate no site de suporte do Trakt: indique a série ou o filme e o que está errado.</value>
   </data>
   <data name="DataFreshness_State_TmdbUpdatedAt" xml:space="preserve">
     <value>Atualizado no TMDB</value>
@@ -6929,5 +6930,14 @@ Se depois disso ele ainda estiver faltando, você pode avisar a equipe do Trakt.
   </data>
   <data name="Search_RecentSearches_RemoveFormat" xml:space="preserve">
     <value>Remover {0} das pesquisas recentes</value>
+  </data>
+  <data name="Donation_Restore_Done_Toast" xml:space="preserve">
+    <value>Compras restauradas</value>
+  </data>
+  <data name="Donation_Restore_NothingFound_Title" xml:space="preserve">
+    <value>Nenhuma compra encontrada</value>
+  </data>
+  <data name="Donation_Restore_NothingFound_Message" xml:space="preserve">
+    <value>Verifique se o seu dispositivo usa a conta Apple com a qual você comprou. Se for a conta certa, escreva para mim pelo menu, "Fale comigo".</value>
   </data>
 </root>

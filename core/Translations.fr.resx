@@ -1810,7 +1810,7 @@ Règles: au moins 5 mots, pas de demande d'aide, indiquez les spoilers !</value>
   <data
       name     ="ShowDetails_AppBar_Search_Label"
       xml:space="preserve">
-    <value>Trouver une série</value>
+    <value>Rechercher</value>
   </data>
   <data
       name     ="Global_Share_Label"
@@ -1892,20 +1892,19 @@ pour cette série...</value>
   <data
       name     ="ShowDetails_Code_AskRemovingContent"
       xml:space="preserve">
-    <value>ATTENTION : cela supprimera TOUTES LES DONNÉES de la série sur Trakt.tv : épisodes vues, présence dans la collection, etc.
+    <value>Cette série sera aussi supprimée de votre compte Trakt : historique de visionnage, liste « À voir » et collection.
 
-Confirmez-vous ?
-        </value>
+Confirmez-vous ?</value>
   </data>
   <data
       name     ="ShowDetails_Code_AskRemovingTitle"
       xml:space="preserve">
-    <value>SUPPRIMER CETTE SÉRIE ?</value>
+    <value>Supprimer cette série ?</value>
   </data>
   <data
       name     ="ShowDetails_Code_CannotRemoveFormat"
       xml:space="preserve">
-    <value>Impossible de supprimer la série '{0}' de votre collection pour le moment.</value>
+    <value>Impossible de supprimer la série « {0} » pour le moment.</value>
   </data>
   <data
       name     ="ShowDetails_Code_Episode_AiredEpisodesPlural"
@@ -2951,14 +2950,13 @@ d'être pleine de surprises !</value>
   </data><data
  name     ="MovieDetails_AskRemovingTitle"
  xml:space="preserve">
-    <value>ENLEVER CE FILM ?</value>
+    <value>Supprimer ce film ?</value>
   </data><data
  name     ="MovieDetails_AskRemovingContent"
  xml:space="preserve">
-    <value>ATTENTION : cela supprimera TOUTES LES DONNÉES de la série sur Trakt.tv : épisodes vues, présence dans la collection, etc.
+    <value>Ce film sera aussi supprimé de votre compte Trakt : historique de visionnage, liste « À voir » et collection.
 
-Confirmez-vous ?
-        </value>
+Confirmez-vous ?</value>
   </data><data
  name     ="MovieDetails_Add_Where_Title"
  xml:space="preserve">
@@ -5516,7 +5514,7 @@ Voulez-vous que l'application désactive ce réglage sur votre compte Trakt ? V
     <value>Signaler à Trakt</value>
   </data>
   <data name="DataFreshness_ReportToTrakt_DialogContent" xml:space="preserve">
-    <value>Trakt traite ces signalements sur son forum d'assistance. Ouvrez-y une nouvelle conversation, indiquez la série ou le film concerné et ce qui ne va pas, et l'équipe Trakt s'en occupera. Ouvrir le forum maintenant ?</value>
+    <value>Trakt traite ces signalements sur son site d'assistance. Contactez-y l'équipe, indiquez la série ou le film concerné et ce qui ne va pas, et elle s'en occupera. Ouvrir le site maintenant ?</value>
   </data>
   <data name="DataFreshness_Refresh_DialogTitle" xml:space="preserve">
     <value>Téléchargement depuis Trakt</value>
@@ -6359,7 +6357,7 @@ Une saison marquée comme vue d'un coup compte à l'heure où vous l'avez marqu�
 
 Pour vérifier si une série ou un film est à jour : ouvrez sa fiche, appuyez sur les trois points en haut à droite, puis sur « Fraîcheur des données ».
 
-Si une information est fausse, signalez-la sur le forum d'assistance du site de Trakt : ouvrez une nouvelle conversation, indiquez la série ou le film et ce qui ne va pas.</value>
+Si une information est fausse, signalez-la sur le site d'assistance de Trakt : indiquez la série ou le film et ce qui ne va pas.</value>
   </data>
   <data name="DataFreshness_State_TmdbUpdatedAt" xml:space="preserve">
     <value>Mise à jour chez TMDB</value>
@@ -8148,5 +8146,14 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
   </data>
   <data name="Search_RecentSearches_RemoveFormat" xml:space="preserve">
     <value>Retirer {0} des recherches récentes</value>
+  </data>
+  <data name="Donation_Restore_Done_Toast" xml:space="preserve">
+    <value>Achats restaurés</value>
+  </data>
+  <data name="Donation_Restore_NothingFound_Title" xml:space="preserve">
+    <value>Aucun achat trouvé</value>
+  </data>
+  <data name="Donation_Restore_NothingFound_Message" xml:space="preserve">
+    <value>Vérifiez que votre appareil utilise le compte Apple avec lequel vous avez acheté. Si c'est le bon, écrivez-moi depuis le menu, « Contactez-moi ».</value>
   </data>
 </root>

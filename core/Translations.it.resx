@@ -1097,10 +1097,10 @@ Vuoi maggiori informazioni?</value>
   </data>
 
     <data name="ShowDetails_AppBar_Add_Label" xml:space="preserve">
-    <value>Aggiungi a SERIE TV</value>
+    <value>Aggiungi questa serie</value>
   </data>
     <data name="Home_AppBar_Add_Label" xml:space="preserve">
-    <value>Aggiungi SERIE TV</value>
+    <value>Aggiungi una serie</value>
   </data>
     <data name="ShowDetails_AppBar_AddComment_Label" xml:space="preserve">
     <value>Commenta</value>
@@ -1138,7 +1138,7 @@ Regole: 5 o più parole, senza richieste di supporto, contrassegna se spoiler!</
     <value>Valuta questa SERIE TV</value>
   </data>
     <data name="ShowDetails_AppBar_Remove_Label" xml:space="preserve">
-    <value>Rimuovi dalla mia raccolta</value>
+    <value>Rimuovi questa serie</value>
   </data>
   <data name="ShowDetails_Menu_MoveToTopOfWatchlist" xml:space="preserve">
     <value>Sposta in cima alla watchlist</value>
@@ -1195,13 +1195,15 @@ per questa SERIE TV</value>
     <value>CALENDARIO</value>
   </data>
     <data name="ShowDetails_Code_AskRemovingContent" xml:space="preserve">
-    <value>AVVISO: questo rimuoverà questa SERIE TV dalla tua raccolta SERIE TV su Trakt, la tua lista di controllo e tutta la tua cronologia andranno persi.</value>
+    <value>Questa serie verrà rimossa anche dal tuo account Trakt: cronologia di visione, watchlist e collezione.
+
+Confermi?</value>
   </data>
     <data name="ShowDetails_Code_AskRemovingTitle" xml:space="preserve">
-    <value>RIMUOVERE SERIE TV?</value>
+    <value>Rimuovere questa serie?</value>
   </data>
     <data name="ShowDetails_Code_CannotRemoveFormat" xml:space="preserve">
-    <value>Spiacenti, al momento non è stato possibile rimuovere la SERIE TV '{0}' dalla tua raccolta.</value>
+    <value>Al momento non è possibile rimuovere la serie '{0}'.</value>
   </data>
     <data name="ShowDetails_Code_Episode_AiredEpisodesPlural" xml:space="preserve">
     <value>EPISODI TRASMESSI</value>
@@ -1901,13 +1903,12 @@ merita di essere divertente!</value>
     <value>Condividi film</value>
 </data>
     <data name="MovieDetails_AskRemovingTitle" xml:space="preserve">
-    <value>RIMUOVERE QUESTO FILM DA TVST?</value>
+    <value>Rimuovere questo film?</value>
 </data>
     <data name="MovieDetails_AskRemovingContent" xml:space="preserve">
-    <value>AVVISO: verranno rimossi TUTTI I DATI relativi a questo film su Trakt.tv: raccolta, watchlist, cronologia di riproduzione, ecc.
+    <value>Questo film verrà rimosso anche dal tuo account Trakt: cronologia di visione, watchlist e collezione.
 
-Confermi?
-    </value>
+Confermi?</value>
 </data>
     <data name="MovieDetails_Add_Where_Title" xml:space="preserve">
     <value>DOVE?</value>
@@ -4265,7 +4266,7 @@ Vuoi che l'app disattivi questa impostazione sul tuo account Trakt? Da ora in po
     <value>Segnalare a Trakt</value>
   </data>
   <data name="DataFreshness_ReportToTrakt_DialogContent" xml:space="preserve">
-    <value>Trakt gestisce queste segnalazioni sul suo forum di assistenza. Apra li una nuova conversazione, indichi la serie o il film interessato e che cosa non va, e il team di Trakt se ne occupera. Aprire il forum adesso?</value>
+    <value>Trakt gestisce queste segnalazioni sul suo sito di assistenza. Contatti lì il team, indichi la serie o il film interessato e che cosa non va, e se ne occuperà. Aprire il sito adesso?</value>
   </data>
   <data name="DataFreshness_Refresh_DialogTitle" xml:space="preserve">
     <value>Scaricamento da Trakt</value>
@@ -5111,7 +5112,7 @@ Una stagione segnata come vista in una volta conta all'ora in cui l'ha segnata.<
 
 Per verificare se una serie o un film è aggiornato: apra la sua scheda, tocchi i tre puntini in alto a destra, poi «Aggiornamento dei dati».
 
-Se un'informazione è sbagliata, la segnali sul forum di assistenza del sito di Trakt: apra una nuova conversazione e indichi la serie o il film e che cosa non va.</value>
+Se un'informazione è sbagliata, la segnali sul sito di assistenza di Trakt: indichi la serie o il film e che cosa non va.</value>
   </data>
   <data name="DataFreshness_State_TmdbUpdatedAt" xml:space="preserve">
     <value>Aggiornato su TMDB</value>
@@ -6900,5 +6901,14 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
   </data>
   <data name="Search_RecentSearches_RemoveFormat" xml:space="preserve">
     <value>Rimuovi {0} dalle ricerche recenti</value>
+  </data>
+  <data name="Donation_Restore_Done_Toast" xml:space="preserve">
+    <value>Acquisti ripristinati</value>
+  </data>
+  <data name="Donation_Restore_NothingFound_Title" xml:space="preserve">
+    <value>Nessun acquisto trovato</value>
+  </data>
+  <data name="Donation_Restore_NothingFound_Message" xml:space="preserve">
+    <value>Verifica che il tuo dispositivo usi l'account Apple con cui hai acquistato. Se è quello giusto, scrivimi dal menu, «Parla con me».</value>
   </data>
 </root>

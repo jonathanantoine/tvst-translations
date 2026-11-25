@@ -1235,16 +1235,15 @@ episode for this show</value>
     <value>CALENDAR</value>
   </data>
   <data name="ShowDetails_Code_AskRemovingContent" xml:space="preserve">
-    <value>WARNING : this will remove ALL DATA related to this show on Trakt.tv : collected shows, watchlist, watch history, etc.
+    <value>This show will also be removed from your Trakt account: watch history, watchlist and collection.
 
-Do you confirm ?
-        </value>
+Do you confirm?</value>
   </data>
   <data name="ShowDetails_Code_AskRemovingTitle" xml:space="preserve">
-    <value>REMOVE THE SHOW ?</value>
+    <value>Remove this show?</value>
   </data>
   <data name="ShowDetails_Code_CannotRemoveFormat" xml:space="preserve">
-    <value>Sorry, cannot remove the show '{0}' from your collection at the moment</value>
+    <value>The show '{0}' can't be removed at the moment.</value>
   </data>
   <data name="ShowDetails_Code_Episode_AiredEpisodesPlural" xml:space="preserve">
     <value>AIRED EPISODES</value>
@@ -2007,13 +2006,12 @@ This data helps us improve the app and fix issues. No personal information is ev
     <value>Share this movie</value>
   </data>
   <data name="MovieDetails_AskRemovingTitle" xml:space="preserve">
-    <value>REMOVE THIS MOVIE?</value>
+    <value>Remove this movie?</value>
   </data>
   <data name="MovieDetails_AskRemovingContent" xml:space="preserve">
-    <value>WARNING : this will remove ALL DATA related to this movie on Trakt.tv : collection, watchlist, plays history, etc.
+    <value>This movie will also be removed from your Trakt account: watch history, watchlist and collection.
 
-Do you confirm ?
-        </value>
+Do you confirm?</value>
   </data>
   <data name="MovieDetails_Add_Where_Title" xml:space="preserve">
     <value>WHERE?</value>
@@ -4263,7 +4261,7 @@ Would you like the app to turn that setting off on your Trakt account? Your view
     <value>Report to Trakt</value>
   </data>
   <data name="DataFreshness_ReportToTrakt_DialogContent" xml:space="preserve">
-    <value>Trakt handles these reports on its support forum. Open a new conversation there, say which show or movie is concerned and what is wrong, and the Trakt team will take a look. Open the forum now?</value>
+    <value>Trakt handles these reports on its support site. Contact the team there, say which show or movie is concerned and what is wrong, and they will take a look. Open the site now?</value>
   </data>
   <data name="DataFreshness_Refresh_DialogTitle" xml:space="preserve">
     <value>Download from Trakt</value>
@@ -5103,7 +5101,7 @@ A season marked as watched in one go counts at the time you marked it.</value>
 
 To check whether a show or movie is up to date: open its page, tap the three dots at the top right, then "Data freshness".
 
-If something is wrong, report it on the support forum of Trakt's website: start a new conversation and say which show or movie is concerned and what is wrong.</value>
+If something is wrong, report it on Trakt's support site: say which show or movie is concerned and what is wrong.</value>
   </data>
   <data name="DataFreshness_State_TmdbUpdatedAt" xml:space="preserve">
     <value>Updated on TMDB</value>
@@ -6892,5 +6890,14 @@ If it is still missing after that, you can let the Trakt team know. The email is
   </data>
   <data name="Search_RecentSearches_RemoveFormat" xml:space="preserve">
     <value>Remove {0} from recent searches</value>
+  </data>
+  <data name="Donation_Restore_Done_Toast" xml:space="preserve">
+    <value>Purchases restored</value>
+  </data>
+  <data name="Donation_Restore_NothingFound_Title" xml:space="preserve">
+    <value>No purchase found</value>
+  </data>
+  <data name="Donation_Restore_NothingFound_Message" xml:space="preserve">
+    <value>Check that your device uses the Apple Account you bought with. If it does, write to me from the menu, "Contact me".</value>
   </data>
 </root>

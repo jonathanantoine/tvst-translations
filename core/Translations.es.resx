@@ -1204,16 +1204,15 @@ entrantes para esta serie</value>
     <value>CALENDARIO</value>
   </data>
     <data name="ShowDetails_Code_AskRemovingContent" xml:space="preserve">
-    <value>ATENCIÓN : esta acción borrará TODOS LOS DATOS relacionados conecta serie en Trakt.tv: series recopiladas, watchlist, historial, etc.
+    <value>Esta serie también se eliminará de tu cuenta de Trakt: historial de visionado, watchlist y colección.
 
-Confirmas ?
-        </value>
+¿Confirmas?</value>
   </data>
     <data name="ShowDetails_Code_AskRemovingTitle" xml:space="preserve">
-    <value>¿ELIMINAR LA SERIE?</value>
+    <value>¿Eliminar esta serie?</value>
   </data>
     <data name="ShowDetails_Code_CannotRemoveFormat" xml:space="preserve">
-    <value>Lo siento, no se puede eliminar la serie '{0}' de tu colección en este momento </value>
+    <value>No se puede eliminar la serie '{0}' en este momento.</value>
   </data>
     <data name="ShowDetails_Code_Episode_AiredEpisodesPlural" xml:space="preserve">
     <value>EPISODIOS EMITIDO</value>
@@ -1919,10 +1918,12 @@ y tendencias mundiales!</value>
       <value>Compartir esta película</value>
     </data>
     <data name="MovieDetails_AskRemovingTitle" xml:space="preserve">
-      <value>ELIMINAR ESTA PELÍCULA DE TVST?</value>
+      <value>¿Eliminar esta película?</value>
     </data>
     <data name="MovieDetails_AskRemovingContent" xml:space="preserve">
-      <value>AVISO: Esta acción supone eliminar TODOS LOS DATOS relacionados con esta película de Trakt.tv: colección, watchlist, historial, etc.        ¿Confirmar?    </value>
+      <value>Esta película también se eliminará de tu cuenta de Trakt: historial de visionado, watchlist y colección.
+
+¿Confirmas?</value>
     </data>
     <data name="MovieDetails_Add_Where_Title" xml:space="preserve">
       <value>¿DÓNDE?</value>
@@ -4264,7 +4265,7 @@ Recordatorio: tu código es {0}.</value>
     <value>Informar a Trakt</value>
   </data>
   <data name="DataFreshness_ReportToTrakt_DialogContent" xml:space="preserve">
-    <value>Trakt gestiona estos informes en su foro de asistencia. Abra allí una conversación nueva, indique la serie o la película afectada y qué es lo que falla, y el equipo de Trakt lo revisará. ¿Abrir el foro ahora?</value>
+    <value>Trakt gestiona estos informes en su sitio de asistencia. Contacte allí con el equipo, indique la serie o la película afectada y qué es lo que falla, y lo revisarán. ¿Abrir el sitio ahora?</value>
   </data>
   <data name="DataFreshness_Refresh_DialogTitle" xml:space="preserve">
     <value>Descarga desde Trakt</value>
@@ -5137,7 +5138,7 @@ Una temporada marcada como vista de una vez cuenta a la hora en que la marcó.</
 
 Para comprobar si una serie o una película está al día: abra su ficha, toque los tres puntos arriba a la derecha y luego «Frescura de los datos».
 
-Si algún dato es incorrecto, infórmelo en el foro de asistencia del sitio web de Trakt: abra una conversación nueva e indique la serie o la película y qué es lo que falla.</value>
+Si algún dato es incorrecto, infórmelo en el sitio de asistencia de Trakt: indique la serie o la película y qué es lo que falla.</value>
   </data>
   <data name="DataFreshness_State_TmdbUpdatedAt" xml:space="preserve">
     <value>Actualizado en TMDB</value>
@@ -6926,5 +6927,14 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
   </data>
   <data name="Search_RecentSearches_RemoveFormat" xml:space="preserve">
     <value>Quitar {0} de las búsquedas recientes</value>
+  </data>
+  <data name="Donation_Restore_Done_Toast" xml:space="preserve">
+    <value>Compras restauradas</value>
+  </data>
+  <data name="Donation_Restore_NothingFound_Title" xml:space="preserve">
+    <value>No se ha encontrado ninguna compra</value>
+  </data>
+  <data name="Donation_Restore_NothingFound_Message" xml:space="preserve">
+    <value>Comprueba que tu dispositivo usa la cuenta de Apple con la que compraste. Si es la correcta, escríbeme desde el menú, «Contacto».</value>
   </data>
 </root>
