@@ -511,10 +511,6 @@ e atualize a página.</value>
     <data name="Home_Popular_RecommandationsBeingRemoved_Text" xml:space="preserve">
     <value>Escondendo</value>
   </data>
-
-    <data name="Home_Suggestions_PanelTitle_Header" xml:space="preserve">
-    <value>SUGESTÕES</value>
-  </data>
     <data name="Home_UserHistory_Code_LastWeek" xml:space="preserve">
     <value>Os 7 dias anteriores</value>
   </data>
@@ -523,9 +519,6 @@ e atualize a página.</value>
   </data>
     <data name="Home_UserHistory_Code_Yesterday" xml:space="preserve">
     <value>Ontem</value>
-  </data>
-    <data name="Home_UserHistory_PanelTitle_Header" xml:space="preserve">
-    <value>SEU HISTÓRICO</value>
   </data>
     <data name="Home_UserHistory_SegmentHeader" xml:space="preserve">
     <value>Seu</value>
@@ -639,9 +632,6 @@ para ver suas estatísticas.</value>
   </data>
     <data name="Home_UserStats_LastMonth_GroupHeader_Text" xml:space="preserve">
     <value>Episódios assistidos nos últimos 30 dias</value>
-  </data>
-    <data name="Home_UserStats_PanelTitle_Header" xml:space="preserve">
-    <value>TUDO SOBRE VOCÊ</value>
   </data>
     <data name="Home_UserStats_Progression_GroupHeader_Text" xml:space="preserve">
     <value>Seu progresso</value>
@@ -827,12 +817,6 @@ corresponde à essa pesquisa
     <data name="Settings_DisplayIncomingHeader_Text" xml:space="preserve">
     <value>Mostrar próximos episódios no início e mostrar a página de detalhes?</value>
   </data>
-    <data name="Settings_DisplaySection_Discover" xml:space="preserve">
-        <value>Mostrar a seção "Descobrir"?</value>
-    </data>
-    <data name="Settings_DisplaySection_UserHistoryHeader" xml:space="preserve">
-        <value>Mostrar a seção "Seu histórico"?</value>
-    </data>
     <data name="Settings_Display_AppLanguage_Text" xml:space="preserve">
     <value>Idioma do aplicativo</value>
   </data>
@@ -1489,9 +1473,6 @@ merece ser divertida!</value>
     <data name="Global_TabSection_Shows" xml:space="preserve">
     <value>Séries</value>
   </data>
-    <data name="Global_TabSection_YourShows" xml:space="preserve">
-    <value>Suas séries</value>
-  </data>
     <data name="Global_TabSection_Stats" xml:space="preserve">
     <value>Perfil</value>
   </data>
@@ -1728,9 +1709,6 @@ merece ser divertida!</value>
     <data name="Settings_AppSection_Text" xml:space="preserve">
     <value>SEÇÕES DO APP</value>
   </data>
-    <data name="Settings_DisplaySection_CalendarHeader" xml:space="preserve">
-        <value>Mostrar a seção "Calendário"?</value>
-    </data>
 
     <data name="AdDisplayControl_Placeholder_Text" xml:space="preserve">
     <value>Você quer dizer 'Obrigado' OU remover os anúncios?
@@ -2699,10 +2677,6 @@ Esses dados nos ajudam a melhorar o aplicativo e a corrigir problemas. Nenhuma i
     <data name="Settings_Various_SwipeToMarkAsSeen_Text" xml:space="preserve">
     <value>Ativar deslize para marcar o próximo episódio como visto (modo lista)</value>
   </data>
-
-    <data name="Settings_DisplayMovieOnHomeScreenHeader_Text" xml:space="preserve">
-        <value>Exibir a aba 'filmes' na página inicial?</value>
-    </data>
     <data name="Global_TabSection_Movies" xml:space="preserve">
     <value>FILMES</value>
   </data>
@@ -2894,9 +2868,6 @@ Se quiser dar uma força extra, o link de doação está aqui e fica sempre disp
     <data name="Settings_LanguageAndFormatHeader_Text" xml:space="preserve">
         <value>Idioma e formato</value>
     </data>
-    <data name="Settings_DisplaySection_UserStatsHeader" xml:space="preserve">
-        <value>Mostrar a seção "Suas estatísticas"?</value>
-    </data>
     <data name="Settings_HomeSectionsGroupHeader_Text" xml:space="preserve">
         <value>Seções da página inicial</value>
     </data>
@@ -2931,9 +2902,6 @@ Se quiser dar uma força extra, o link de doação está aqui e fica sempre disp
     <data name="Home_UserMenu_YourStats" xml:space="preserve">
       <value>Suas estatísticas de visualização</value>
   </data>
-    <data name="Settings_DisplaySectionsWarning" xml:space="preserve">
-        <value>💡 É possível exibir até 5 seções ao mesmo tempo, por isso mantenha apenas as que são realmente importantes para você. A seção « Suas estatísticas » será ocultada automaticamente se ultrapassar 5.</value>
-    </data>
     <data name="Home_UserStats_WatchTime_WatchedMoviesPlural" xml:space="preserve">
         <value>filmes vistos em</value>
     </data>
@@ -6939,5 +6907,53 @@ Se depois disso ele ainda estiver faltando, você pode avisar a equipe do Trakt.
   </data>
   <data name="Donation_Restore_NothingFound_Message" xml:space="preserve">
     <value>Verifique se o seu dispositivo usa a conta Apple com a qual você comprou. Se for a conta certa, escreva para mim pelo menu, "Fale comigo".</value>
+  </data>
+  <data name="Home_Lists_EmptyMessage" xml:space="preserve">
+    <value>Suas listas aparecem aqui, exceto as vazias. Para preencher uma, abra uma série ou um filme e adicione o título à lista pelo menu.</value>
+  </data>
+  <data name="Settings_HomeTabs_Title" xml:space="preserve">
+    <value>Abas da tela inicial</value>
+  </data>
+  <data name="Settings_HomeTabs_RowSubtitle" xml:space="preserve">
+    <value>Escolher e organizar as abas</value>
+  </data>
+  <data name="Settings_HomeTabs_Explanation" xml:space="preserve">
+    <value>Arraste uma aba para movê-la.</value>
+  </data>
+  <data name="Settings_HomeTabs_ExplanationWithBar" xml:space="preserve">
+    <value>As cinco primeiras abas ficam na barra inferior. Arraste uma aba para movê-la.</value>
+  </data>
+  <data name="Settings_HomeTabs_BarHeaderFormat" xml:space="preserve">
+    <value>Na barra inferior ({0} no máximo)</value>
+  </data>
+  <data name="Settings_HomeTabs_ShownHeader" xml:space="preserve">
+    <value>Exibidas</value>
+  </data>
+  <data name="Settings_HomeTabs_ExtraHeader" xml:space="preserve">
+    <value>Quando há mais espaço</value>
+  </data>
+  <data name="Settings_HomeTabs_ExtraExplanation" xml:space="preserve">
+    <value>Celular na horizontal ou tablet. Arraste uma aba mais para cima para colocá-la na barra inferior: a última da barra desce para cá.</value>
+  </data>
+  <data name="Settings_HomeTabs_HiddenHeader" xml:space="preserve">
+    <value>Não exibidas</value>
+  </data>
+  <data name="Settings_HomeTabs_BarFull" xml:space="preserve">
+    <value>A barra inferior está cheia. Remova uma aba para poder adicionar outra.</value>
+  </data>
+  <data name="Settings_HomeTabs_InMenu" xml:space="preserve">
+    <value>Está no menu</value>
+  </data>
+  <data name="Settings_HomeTabs_AlsoInMenu" xml:space="preserve">
+    <value>Também no menu</value>
+  </data>
+  <data name="Settings_HomeTabs_Reset" xml:space="preserve">
+    <value>Restaurar as abas padrão</value>
+  </data>
+  <data name="Settings_HomeTabs_Add" xml:space="preserve">
+    <value>Adicionar às abas</value>
+  </data>
+  <data name="Settings_HomeTabs_Remove" xml:space="preserve">
+    <value>Remover das abas</value>
   </data>
 </root>

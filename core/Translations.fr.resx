@@ -815,12 +815,6 @@ puis actualisez la page.</value>
       xml:space="preserve">
     <value>Suppression...</value>
   </data>
-
-  <data
-      name     ="Home_Suggestions_PanelTitle_Header"
-      xml:space="preserve">
-    <value>SUGGESTIONS</value>
-  </data>
   <data
       name     ="Home_UserHistory_Code_LastWeek"
       xml:space="preserve">
@@ -855,11 +849,6 @@ puis actualisez la page.</value>
       name     ="Home_UserHistory_Code_Yesterday"
       xml:space="preserve">
     <value>Hier</value>
-  </data>
-  <data
-      name     ="Home_UserHistory_PanelTitle_Header"
-      xml:space="preserve">
-    <value>RÉCEMMENT VUS</value>
   </data>
   <data
       name     ="Global_TabSection_HistoryPanelTitle"
@@ -1051,11 +1040,6 @@ pour voir vos stats</value>
       xml:space="preserve">
     <value>Épisodes vus ces 30 derniers jours</value>
     <comment>EP. VUS CES 30 DERNIERS JOURS</comment>
-  </data>
-  <data
-      name     ="Home_UserStats_PanelTitle_Header"
-      xml:space="preserve">
-    <value>À PROPOS DE VOUS</value>
   </data>
   <data
       name     ="Home_UserStats_Progression_GroupHeader_Text"
@@ -1364,16 +1348,6 @@ Exprimez-vous !</value>
       name     ="Settings_DisplayIncomingHeader_Text"
       xml:space="preserve">
     <value>Afficher les épisodes à venir sur la page d'accueil et les détails d'une série ?</value>
-  </data>
-  <data
-    name     ="Settings_DisplaySection_Discover"
-    xml:space="preserve">
-    <value>Afficher la section "Découverte" ?</value>
-  </data>
-  <data
-    name     ="Settings_DisplaySection_UserHistoryHeader"
-    xml:space="preserve">
-    <value>Afficher la section "Votre historique" ?</value>
   </data>
   <data
       name     ="Settings_Display_AppLanguage_Text"
@@ -2426,11 +2400,6 @@ d'être pleine de surprises !</value>
     <value>Calendrier</value>
   </data>
   <data
-      name     ="Global_TabSection_YourShows"
-      xml:space="preserve">
-    <value>Vos séries</value>
-  </data>
-  <data
       name     ="Global_TabSection_History"
       xml:space="preserve">
     <value>Historique</value>
@@ -2783,10 +2752,6 @@ d'être pleine de surprises !</value>
       name     ="Settings_AppSection_Text"
       xml:space="preserve">
     <value>SECTIONS DE L'APPLICATION</value>
-  </data><data
-           name     ="Settings_DisplaySection_CalendarHeader"
-           xml:space="preserve">
-    <value>Afficher la section "Calendrier" ?</value>
   </data><data
            name     ="Settings_Various_FixDb"
            xml:space="preserve">
@@ -3986,9 +3951,6 @@ Ces données nous aident à améliorer l'application et à résoudre les problè
   <data name="Settings_Various_SwipeToMarkAsSeen_Text" xml:space="preserve">
     <value>Activer le swipe pour marquer l'épisode suivant comme vu (mode liste) ?</value>
   </data>
-  <data name="Settings_DisplayMovieOnHomeScreenHeader_Text" xml:space="preserve">
-    <value>Afficher l'onglet 'films' sur la page d'accueil ?</value>
-  </data>
   <data name="Global_TabSection_Movies" xml:space="preserve">
     <value>Films</value>
   </data>
@@ -4206,9 +4168,6 @@ Si vous souhaitez donner un coup de pouce supplémentaire, le lien de donation e
   <data name="Settings_LanguageAndFormatHeader_Text" xml:space="preserve">
     <value>Langue et format</value>
   </data>
-  <data name="Settings_DisplaySection_UserStatsHeader" xml:space="preserve">
-    <value>Afficher l'onglet "Vos stats" ?</value>
-  </data>
   <data name="Settings_HomeSectionsGroupHeader_Text" xml:space="preserve">
     <value>SECTIONS DE LA PAGE D’ACCUEIL</value>
   </data>
@@ -4225,9 +4184,6 @@ Si vous souhaitez donner un coup de pouce supplémentaire, le lien de donation e
   <data name="Home_UserMenu_YourStats"
     xml:space="preserve">
     <value>Vos stats</value>
-  </data>
-  <data name="Settings_DisplaySectionsWarning" xml:space="preserve">
-    <value>💡 Vous pouvez afficher jusqu’à 5 sections en même temps: gardez celles qui comptent vraiment pour vous. La section « Vos statistiques » sera automatiquement masquée si vous dépassez 5 éléments.</value>
   </data>
   <data name="Home_UserStats_WatchTime_WatchedMoviesPlural" xml:space="preserve">
       <value>films vus en</value>
@@ -8155,5 +8111,53 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
   </data>
   <data name="Donation_Restore_NothingFound_Message" xml:space="preserve">
     <value>Vérifiez que votre appareil utilise le compte Apple avec lequel vous avez acheté. Si c'est le bon, écrivez-moi depuis le menu, « Contactez-moi ».</value>
+  </data>
+  <data name="Home_Lists_EmptyMessage" xml:space="preserve">
+    <value>Vos listes s'affichent ici, sauf les listes vides. Pour en remplir une, ouvrez une série ou un film et ajoutez ce titre à la liste depuis son menu.</value>
+  </data>
+  <data name="Settings_HomeTabs_Title" xml:space="preserve">
+    <value>Onglets de l'accueil</value>
+  </data>
+  <data name="Settings_HomeTabs_RowSubtitle" xml:space="preserve">
+    <value>Choisir et ranger les onglets</value>
+  </data>
+  <data name="Settings_HomeTabs_Explanation" xml:space="preserve">
+    <value>Faites glisser un onglet pour le déplacer.</value>
+  </data>
+  <data name="Settings_HomeTabs_ExplanationWithBar" xml:space="preserve">
+    <value>Les cinq premiers onglets sont dans la barre du bas. Faites glisser un onglet pour le déplacer.</value>
+  </data>
+  <data name="Settings_HomeTabs_BarHeaderFormat" xml:space="preserve">
+    <value>Dans la barre du bas ({0} maximum)</value>
+  </data>
+  <data name="Settings_HomeTabs_ShownHeader" xml:space="preserve">
+    <value>Affichés</value>
+  </data>
+  <data name="Settings_HomeTabs_ExtraHeader" xml:space="preserve">
+    <value>Quand il y a plus de place</value>
+  </data>
+  <data name="Settings_HomeTabs_ExtraExplanation" xml:space="preserve">
+    <value>Téléphone à l'horizontale ou tablette. Faites glisser un onglet plus haut pour le mettre dans la barre du bas : le dernier de la barre descendra ici.</value>
+  </data>
+  <data name="Settings_HomeTabs_HiddenHeader" xml:space="preserve">
+    <value>Pas affichés</value>
+  </data>
+  <data name="Settings_HomeTabs_BarFull" xml:space="preserve">
+    <value>La barre du bas est pleine. Retirez un onglet pour pouvoir en ajouter un autre.</value>
+  </data>
+  <data name="Settings_HomeTabs_InMenu" xml:space="preserve">
+    <value>À retrouver dans le menu</value>
+  </data>
+  <data name="Settings_HomeTabs_AlsoInMenu" xml:space="preserve">
+    <value>Aussi dans le menu</value>
+  </data>
+  <data name="Settings_HomeTabs_Reset" xml:space="preserve">
+    <value>Rétablir les onglets par défaut</value>
+  </data>
+  <data name="Settings_HomeTabs_Add" xml:space="preserve">
+    <value>Ajouter aux onglets</value>
+  </data>
+  <data name="Settings_HomeTabs_Remove" xml:space="preserve">
+    <value>Retirer des onglets</value>
   </data>
 </root>

@@ -526,10 +526,6 @@ then refresh the page.</value>
   <data name="Home_Popular_RecommandationsBeingRemoved_Text" xml:space="preserve">
     <value>Hiding...</value>
   </data>
-
-  <data name="Home_Suggestions_PanelTitle_Header" xml:space="preserve">
-    <value>SUGGESTIONS</value>
-  </data>
   <data name="Home_UserHistory_Code_LastWeek" xml:space="preserve">
     <value>The last 7 days</value>
   </data>
@@ -538,9 +534,6 @@ then refresh the page.</value>
   </data>
   <data name="Home_UserHistory_Code_Yesterday" xml:space="preserve">
     <value>Yesterday</value>
-  </data>
-  <data name="Home_UserHistory_PanelTitle_Header" xml:space="preserve">
-    <value>RECENTLY WATCHED</value>
   </data>
   <data name="Home_UserHistory_Filter_OnlyYours" xml:space="preserve">
     <value>Only yours</value>
@@ -659,9 +652,6 @@ to see your stats.</value>
   </data>
   <data name="Home_UserStats_LastMonth_GroupHeader_Text" xml:space="preserve">
     <value>Episodes watched in the last 30 days</value>
-  </data>
-  <data name="Home_UserStats_PanelTitle_Header" xml:space="preserve">
-    <value>IT'S ALL ABOUT YOU</value>
   </data>
   <data name="Home_UserStats_Progression_GroupHeader_Text" xml:space="preserve">
     <value>Your progress</value>
@@ -880,15 +870,6 @@ matches this search
   <data name="Settings_DisplayIncomingHeader_Text" xml:space="preserve">
     <value>Display incoming episodes on home and show details page.</value>
     <comment>Settings_MainUiCustomizationHeader</comment>
-  </data>
-  <data name="Settings_DisplaySection_Discover" xml:space="preserve">
-    <value>Display the “Discover” section?</value>
-  </data>
-  <data name="Settings_DisplaySection_UserHistoryHeader" xml:space="preserve">
-    <value>Display the “Your History” section?</value>
-  </data>
-  <data name="Settings_DisplayMovieOnHomeScreenHeader_Text" xml:space="preserve">
-    <value>Display the movies section?</value>
   </data>
   <data name="Settings_Display_AppLanguage_Text" xml:space="preserve">
     <value>App language</value>
@@ -1607,9 +1588,6 @@ deserves to be funny!</value>
   <data name="Global_TabSection_Movies" xml:space="preserve">
     <value>Movies</value>
   </data>
-  <data name="Global_TabSection_YourShows" xml:space="preserve">
-    <value>Your shows</value>
-  </data>
   <data name="Global_TabSection_Stats" xml:space="preserve">
     <value>You</value>
   </data>
@@ -1864,9 +1842,6 @@ Your subscription renews automatically unless you cancel it at least 24 hours be
   </data>
   <data name="Settings_AppSection_Text" xml:space="preserve">
     <value>APP' SECTIONS</value>
-  </data>
-  <data name="Settings_DisplaySection_CalendarHeader" xml:space="preserve">
-    <value>Display the "Calendar" section?</value>
   </data>
   <data name="SetAsSeenAtAGivenDate_Button_SetAsSeen" xml:space="preserve">
     <value>Set as watched at this date</value>
@@ -3039,9 +3014,6 @@ If you'd like to give an extra boost, the donation link is right here and always
   <data name="Settings_LanguageAndFormatHeader_Text" xml:space="preserve">
     <value>Language &amp; Format</value>
   </data>
-  <data name="Settings_DisplaySection_UserStatsHeader" xml:space="preserve">
-    <value>Display the “Your Stats” section?</value>
-  </data>
   <data name="Settings_HomeSectionsGroupHeader_Text" xml:space="preserve">
     <value>HOME PAGE SECTIONS</value>
   </data>
@@ -3054,9 +3026,6 @@ If you'd like to give an extra boost, the donation link is right here and always
 
   <data name="Home_UserMenu_YourStats" xml:space="preserve">
       <value>Your Watching Stats</value>
-  </data>
-  <data name="Settings_DisplaySectionsWarning" xml:space="preserve">
-      <value> You can display up to 5 sections at the same time, so keep only the ones that matter most to you. The "Your stats" section will be hidden automatically if you select more than 5.</value>
   </data>
   <data name="Home_UserStats_WatchedMoviesInLast6MonthsPlural" xml:space="preserve">
     <value>movies watched in the last 6 months in</value>
@@ -6899,5 +6868,53 @@ If it is still missing after that, you can let the Trakt team know. The email is
   </data>
   <data name="Donation_Restore_NothingFound_Message" xml:space="preserve">
     <value>Check that your device uses the Apple Account you bought with. If it does, write to me from the menu, "Contact me".</value>
+  </data>
+  <data name="Home_Lists_EmptyMessage" xml:space="preserve">
+    <value>Your lists appear here, except the empty ones. To fill one, open a show or a movie and add it to the list from its menu.</value>
+  </data>
+  <data name="Settings_HomeTabs_Title" xml:space="preserve">
+    <value>Home tabs</value>
+  </data>
+  <data name="Settings_HomeTabs_RowSubtitle" xml:space="preserve">
+    <value>Choose and arrange the tabs</value>
+  </data>
+  <data name="Settings_HomeTabs_Explanation" xml:space="preserve">
+    <value>Drag a tab to move it.</value>
+  </data>
+  <data name="Settings_HomeTabs_ExplanationWithBar" xml:space="preserve">
+    <value>The first five tabs are in the bottom bar. Drag a tab to move it.</value>
+  </data>
+  <data name="Settings_HomeTabs_BarHeaderFormat" xml:space="preserve">
+    <value>In the bottom bar ({0} maximum)</value>
+  </data>
+  <data name="Settings_HomeTabs_ShownHeader" xml:space="preserve">
+    <value>Shown</value>
+  </data>
+  <data name="Settings_HomeTabs_ExtraHeader" xml:space="preserve">
+    <value>When there is more room</value>
+  </data>
+  <data name="Settings_HomeTabs_ExtraExplanation" xml:space="preserve">
+    <value>Phone held sideways, or tablet. Drag a tab higher to put it in the bottom bar: the last one of the bar comes down here.</value>
+  </data>
+  <data name="Settings_HomeTabs_HiddenHeader" xml:space="preserve">
+    <value>Not shown</value>
+  </data>
+  <data name="Settings_HomeTabs_BarFull" xml:space="preserve">
+    <value>The bottom bar is full. Remove a tab to be able to add another one.</value>
+  </data>
+  <data name="Settings_HomeTabs_InMenu" xml:space="preserve">
+    <value>Find it in the menu</value>
+  </data>
+  <data name="Settings_HomeTabs_AlsoInMenu" xml:space="preserve">
+    <value>Also in the menu</value>
+  </data>
+  <data name="Settings_HomeTabs_Reset" xml:space="preserve">
+    <value>Restore the default tabs</value>
+  </data>
+  <data name="Settings_HomeTabs_Add" xml:space="preserve">
+    <value>Add to the tabs</value>
+  </data>
+  <data name="Settings_HomeTabs_Remove" xml:space="preserve">
+    <value>Remove from the tabs</value>
   </data>
 </root>
