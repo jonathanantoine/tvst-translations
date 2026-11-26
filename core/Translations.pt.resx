@@ -8247,4 +8247,46 @@ Se depois disso continuar a faltar, pode avisar a equipa do Trakt. O e-mail já 
   <data name="Settings_HomeTabs_Remove" xml:space="preserve">
     <value>Remover dos separadores</value>
   </data>
+  <data name="Home_DisplayMenu_ChooseLists" xml:space="preserve">
+    <value>Escolher e arrumar as listas…</value>
+  </data>
+  <data name="Settings_HomeListsOrder_Title" xml:space="preserve">
+    <value>Separador Listas</value>
+  </data>
+  <data name="Settings_HomeListsOrder_Explanation" xml:space="preserve">
+    <value>Arraste uma lista para a mover no separador Listas.</value>
+  </data>
+  <data name="Settings_HomeListsOrder_OwnHeader" xml:space="preserve">
+    <value>As suas listas</value>
+  </data>
+  <data name="Settings_HomeListsOrder_OwnExplanation" xml:space="preserve">
+    <value>Esta ordem também fica guardada na sua conta Trakt.</value>
+  </data>
+  <data name="Settings_HomeListsOrder_LikedHeader" xml:space="preserve">
+    <value>Listas favoritas</value>
+  </data>
+  <data name="Settings_HomeListsOrder_HiddenHeader" xml:space="preserve">
+    <value>Não visíveis</value>
+  </data>
+  <data name="Settings_HomeListsOrder_HiddenExplanation" xml:space="preserve">
+    <value>Uma lista retirada do separador não é eliminada: continua na página Listas do menu.</value>
+  </data>
+  <data name="Settings_HomeListsOrder_EmptyList" xml:space="preserve">
+    <value>Vazia, aparecerá com o primeiro título</value>
+  </data>
+  <data name="Settings_HomeListsOrder_AuthorFormat" xml:space="preserve">
+    <value>De {0}</value>
+  </data>
+  <data name="Settings_HomeListsOrder_Add" xml:space="preserve">
+    <value>Adicionar ao separador</value>
+  </data>
+  <data name="Settings_HomeListsOrder_Remove" xml:space="preserve">
+    <value>Remover do separador</value>
+  </data>
+  <data name="PendingOperations_Code_ListRankSet" xml:space="preserve">
+    <value>Nova ordem das listas</value>
+  </data>
+  <data name="Home_Lists_AllHiddenMessage" xml:space="preserve">
+    <value>Retirou todas as suas listas deste separador. Escolha as que quer mostrar.</value>
+  </data>
 </root>

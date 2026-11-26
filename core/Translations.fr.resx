@@ -8160,4 +8160,46 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
   <data name="Settings_HomeTabs_Remove" xml:space="preserve">
     <value>Retirer des onglets</value>
   </data>
+  <data name="Home_DisplayMenu_ChooseLists" xml:space="preserve">
+    <value>Choisir et ranger les listes…</value>
+  </data>
+  <data name="Settings_HomeListsOrder_Title" xml:space="preserve">
+    <value>Onglet Listes</value>
+  </data>
+  <data name="Settings_HomeListsOrder_Explanation" xml:space="preserve">
+    <value>Faites glisser une liste pour la déplacer dans l'onglet Listes.</value>
+  </data>
+  <data name="Settings_HomeListsOrder_OwnHeader" xml:space="preserve">
+    <value>Vos listes</value>
+  </data>
+  <data name="Settings_HomeListsOrder_OwnExplanation" xml:space="preserve">
+    <value>Cet ordre est aussi enregistré sur votre compte Trakt.</value>
+  </data>
+  <data name="Settings_HomeListsOrder_LikedHeader" xml:space="preserve">
+    <value>Listes aimées</value>
+  </data>
+  <data name="Settings_HomeListsOrder_HiddenHeader" xml:space="preserve">
+    <value>Pas affichées</value>
+  </data>
+  <data name="Settings_HomeListsOrder_HiddenExplanation" xml:space="preserve">
+    <value>Une liste retirée de l'onglet n'est pas supprimée : elle reste dans la page Listes du menu.</value>
+  </data>
+  <data name="Settings_HomeListsOrder_EmptyList" xml:space="preserve">
+    <value>Vide, s'affichera dès son premier titre</value>
+  </data>
+  <data name="Settings_HomeListsOrder_AuthorFormat" xml:space="preserve">
+    <value>Par {0}</value>
+  </data>
+  <data name="Settings_HomeListsOrder_Add" xml:space="preserve">
+    <value>Ajouter à l'onglet</value>
+  </data>
+  <data name="Settings_HomeListsOrder_Remove" xml:space="preserve">
+    <value>Retirer de l'onglet</value>
+  </data>
+  <data name="PendingOperations_Code_ListRankSet" xml:space="preserve">
+    <value>Nouvel ordre des listes</value>
+  </data>
+  <data name="Home_Lists_AllHiddenMessage" xml:space="preserve">
+    <value>Vous avez retiré toutes vos listes de cet onglet. Choisissez celles à afficher.</value>
+  </data>
 </root>

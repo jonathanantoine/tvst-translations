@@ -6956,4 +6956,46 @@ Se depois disso ele ainda estiver faltando, você pode avisar a equipe do Trakt.
   <data name="Settings_HomeTabs_Remove" xml:space="preserve">
     <value>Remover das abas</value>
   </data>
+  <data name="Home_DisplayMenu_ChooseLists" xml:space="preserve">
+    <value>Escolher e organizar as listas…</value>
+  </data>
+  <data name="Settings_HomeListsOrder_Title" xml:space="preserve">
+    <value>Aba Listas</value>
+  </data>
+  <data name="Settings_HomeListsOrder_Explanation" xml:space="preserve">
+    <value>Arraste uma lista para movê-la na aba Listas.</value>
+  </data>
+  <data name="Settings_HomeListsOrder_OwnHeader" xml:space="preserve">
+    <value>Suas listas</value>
+  </data>
+  <data name="Settings_HomeListsOrder_OwnExplanation" xml:space="preserve">
+    <value>Esta ordem também fica salva na sua conta Trakt.</value>
+  </data>
+  <data name="Settings_HomeListsOrder_LikedHeader" xml:space="preserve">
+    <value>Listas curtidas</value>
+  </data>
+  <data name="Settings_HomeListsOrder_HiddenHeader" xml:space="preserve">
+    <value>Não exibidas</value>
+  </data>
+  <data name="Settings_HomeListsOrder_HiddenExplanation" xml:space="preserve">
+    <value>Uma lista removida da aba não é excluída: ela continua na página Listas do menu.</value>
+  </data>
+  <data name="Settings_HomeListsOrder_EmptyList" xml:space="preserve">
+    <value>Vazia, vai aparecer com o primeiro título</value>
+  </data>
+  <data name="Settings_HomeListsOrder_AuthorFormat" xml:space="preserve">
+    <value>De {0}</value>
+  </data>
+  <data name="Settings_HomeListsOrder_Add" xml:space="preserve">
+    <value>Adicionar à aba</value>
+  </data>
+  <data name="Settings_HomeListsOrder_Remove" xml:space="preserve">
+    <value>Remover da aba</value>
+  </data>
+  <data name="PendingOperations_Code_ListRankSet" xml:space="preserve">
+    <value>Nova ordem das listas</value>
+  </data>
+  <data name="Home_Lists_AllHiddenMessage" xml:space="preserve">
+    <value>Você removeu todas as suas listas desta aba. Escolha as que quer mostrar.</value>
+  </data>
 </root>

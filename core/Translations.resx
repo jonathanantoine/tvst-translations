@@ -6917,4 +6917,46 @@ If it is still missing after that, you can let the Trakt team know. The email is
   <data name="Settings_HomeTabs_Remove" xml:space="preserve">
     <value>Remove from the tabs</value>
   </data>
+  <data name="Home_DisplayMenu_ChooseLists" xml:space="preserve">
+    <value>Choose and arrange lists…</value>
+  </data>
+  <data name="Settings_HomeListsOrder_Title" xml:space="preserve">
+    <value>Lists tab</value>
+  </data>
+  <data name="Settings_HomeListsOrder_Explanation" xml:space="preserve">
+    <value>Drag a list to move it in the Lists tab.</value>
+  </data>
+  <data name="Settings_HomeListsOrder_OwnHeader" xml:space="preserve">
+    <value>Your lists</value>
+  </data>
+  <data name="Settings_HomeListsOrder_OwnExplanation" xml:space="preserve">
+    <value>This order is also saved on your Trakt account.</value>
+  </data>
+  <data name="Settings_HomeListsOrder_LikedHeader" xml:space="preserve">
+    <value>Liked lists</value>
+  </data>
+  <data name="Settings_HomeListsOrder_HiddenHeader" xml:space="preserve">
+    <value>Not shown</value>
+  </data>
+  <data name="Settings_HomeListsOrder_HiddenExplanation" xml:space="preserve">
+    <value>A list removed from the tab is not deleted: it stays on the Lists page of the menu.</value>
+  </data>
+  <data name="Settings_HomeListsOrder_EmptyList" xml:space="preserve">
+    <value>Empty, will show with its first title</value>
+  </data>
+  <data name="Settings_HomeListsOrder_AuthorFormat" xml:space="preserve">
+    <value>By {0}</value>
+  </data>
+  <data name="Settings_HomeListsOrder_Add" xml:space="preserve">
+    <value>Add to the tab</value>
+  </data>
+  <data name="Settings_HomeListsOrder_Remove" xml:space="preserve">
+    <value>Remove from the tab</value>
+  </data>
+  <data name="PendingOperations_Code_ListRankSet" xml:space="preserve">
+    <value>New order of the lists</value>
+  </data>
+  <data name="Home_Lists_AllHiddenMessage" xml:space="preserve">
+    <value>You have taken all your lists off this tab. Choose the ones to show.</value>
+  </data>
 </root>

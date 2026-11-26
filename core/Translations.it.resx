@@ -6928,4 +6928,46 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
   <data name="Settings_HomeTabs_Remove" xml:space="preserve">
     <value>Rimuovi dalle schede</value>
   </data>
+  <data name="Home_DisplayMenu_ChooseLists" xml:space="preserve">
+    <value>Scegliere e disporre gli elenchi…</value>
+  </data>
+  <data name="Settings_HomeListsOrder_Title" xml:space="preserve">
+    <value>Scheda Elenchi</value>
+  </data>
+  <data name="Settings_HomeListsOrder_Explanation" xml:space="preserve">
+    <value>Trascina un elenco per spostarlo nella scheda Elenchi.</value>
+  </data>
+  <data name="Settings_HomeListsOrder_OwnHeader" xml:space="preserve">
+    <value>I tuoi elenchi</value>
+  </data>
+  <data name="Settings_HomeListsOrder_OwnExplanation" xml:space="preserve">
+    <value>Questo ordine viene salvato anche sul tuo account Trakt.</value>
+  </data>
+  <data name="Settings_HomeListsOrder_LikedHeader" xml:space="preserve">
+    <value>Elenchi preferiti</value>
+  </data>
+  <data name="Settings_HomeListsOrder_HiddenHeader" xml:space="preserve">
+    <value>Non mostrati</value>
+  </data>
+  <data name="Settings_HomeListsOrder_HiddenExplanation" xml:space="preserve">
+    <value>Un elenco tolto dalla scheda non viene eliminato: resta nella pagina Elenchi del menu.</value>
+  </data>
+  <data name="Settings_HomeListsOrder_EmptyList" xml:space="preserve">
+    <value>Vuoto, apparirà con il primo titolo</value>
+  </data>
+  <data name="Settings_HomeListsOrder_AuthorFormat" xml:space="preserve">
+    <value>Di {0}</value>
+  </data>
+  <data name="Settings_HomeListsOrder_Add" xml:space="preserve">
+    <value>Aggiungi alla scheda</value>
+  </data>
+  <data name="Settings_HomeListsOrder_Remove" xml:space="preserve">
+    <value>Rimuovi dalla scheda</value>
+  </data>
+  <data name="PendingOperations_Code_ListRankSet" xml:space="preserve">
+    <value>Nuovo ordine degli elenchi</value>
+  </data>
+  <data name="Home_Lists_AllHiddenMessage" xml:space="preserve">
+    <value>Hai tolto tutti i tuoi elenchi da questa scheda. Scegli quelli da mostrare.</value>
+  </data>
 </root>
