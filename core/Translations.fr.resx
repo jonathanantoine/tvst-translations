@@ -828,7 +828,7 @@ puis actualisez la page.</value>
   <data
       name     ="HomeNavigationSystem_Responsive_Header"
       xml:space="preserve">
-    <value>POSITION DES SECTIONS DE L'ACCUEIL</value>
+    <value>Position de la barre d'onglets</value>
   </data>
   <data
       name     ="HomeNavigationSystem_Responsive"
@@ -1536,7 +1536,7 @@ Exprimez-vous !</value>
   <data
       name     ="Settings_Display_24HourDates_Text"
       xml:space="preserve">
-    <value>Affichage des heures au format 24H ?</value>
+    <value>Affichage des heures au format 24 h ?</value>
   </data>
   <data
       name     ="Settings_Display_StartupPage_Text"
@@ -2563,7 +2563,7 @@ d'être pleine de surprises !</value>
   </data><data
  name     ="Settings_BackgroundSync_WifiOnly"
  xml:space="preserve">
-    <value>Synchronisation en arrière-plan uniquement en WIFI ?</value>
+    <value>Synchronisation en arrière-plan uniquement en Wi-Fi ?</value>
   </data><data
  name     ="Global_ExitDemo"
  xml:space="preserve">
@@ -2751,7 +2751,7 @@ d'être pleine de surprises !</value>
     </data><data
       name     ="Settings_AppSection_Text"
       xml:space="preserve">
-    <value>SECTIONS DE L'APPLICATION</value>
+    <value>Accueil et onglets</value>
   </data><data
            name     ="Settings_Various_FixDb"
            xml:space="preserve">
@@ -2790,7 +2790,7 @@ d'être pleine de surprises !</value>
   </data><data
  name     ="Settings_WidgetCounterIncludesShowsToStart"
  xml:space="preserve">
-    <value>Inclure les séries à commencer de regarder dans le calcul du nombre d'épisodes restants à voir du Widget "Compteur" ?</value>
+    <value>Inclure les séries à commencer de regarder dans le calcul du nombre d'épisodes restants à voir du widget "Compteur" ?</value>
   </data><data
  name     ="Settings_BadgeCounterIncludesShowsToStart"
  xml:space="preserve">
@@ -3727,7 +3727,7 @@ Si vous ne pouvez toujours pas accéder à votre compte après la connexion, veu
       <value>Solution de secours 2 : connectez-vous dans votre navigateur</value>
   </data>
   <data name="Settings_BackupAndRestoreTabHeader" xml:space="preserve">
-        <value>Sauvegarde &amp; Restauration</value>
+        <value>Sauvegarde et restauration</value>
     </data>
   <data name="Show_RecommendThis" xml:space="preserve">
         <value>Ajouter cette série à mes favoris</value>
@@ -3941,7 +3941,7 @@ Cela permet de créer de meilleures recommandations personnelles pour vous.</val
     </data>
   <data name="Settings_Data_DisableTelemetry_Text" xml:space="preserve">
     <value>Désactiver la télémétrie
-Lorsque cette case est cochée, AUCUNE donnée d'utilisation anonyme ne sera collectée.
+Lorsque cette case est cochée, aucune donnée d'utilisation anonyme ne sera collectée.
 Ces données nous aident à améliorer l'application et à résoudre les problèmes. Aucune information personnelle n’est jamais partagée.</value>
   </data>
 
@@ -4169,7 +4169,10 @@ Si vous souhaitez donner un coup de pouce supplémentaire, le lien de donation e
     <value>Langue et format</value>
   </data>
   <data name="Settings_HomeSectionsGroupHeader_Text" xml:space="preserve">
-    <value>SECTIONS DE LA PAGE D’ACCUEIL</value>
+    <value>Page d'accueil</value>
+  </data>
+  <data name="Settings_TabBar_Header" xml:space="preserve">
+    <value>Barre d'onglets</value>
   </data>
    <data name="MovieDetails_Menu_AdddingWhereSubtitleFormat" xml:space="preserve">
     <value>Ajout de "{0}"</value>
@@ -4429,7 +4432,7 @@ Rappel : votre code est {0}.</value>
     <value>Langue de l'app, des données et format des dates, heures et épisodes</value>
   </data>
   <data name="Settings_Modern_HomeSections_Subtitle" xml:space="preserve">
-    <value>Navigation, pages de démarrage et sections visibles</value>
+    <value>Onglets de l'accueil, page de démarrage, barre d'onglets</value>
   </data>
   <data name="Settings_Modern_Appearance_Title" xml:space="preserve">
     <value>Apparence</value>
@@ -8150,6 +8153,9 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
   </data>
   <data name="Settings_HomeTabs_AlsoInMenu" xml:space="preserve">
     <value>Aussi dans le menu</value>
+  </data>
+  <data name="Settings_HomeTabs_AlwaysFirst" xml:space="preserve">
+    <value>Toujours affiché, en premier</value>
   </data>
   <data name="Settings_HomeTabs_Reset" xml:space="preserve">
     <value>Rétablir les onglets par défaut</value>

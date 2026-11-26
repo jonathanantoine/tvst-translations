@@ -229,7 +229,7 @@ Você está usando a versão {0}</value>
   <data
       name="HomeNavigationSystem_Responsive_Header"
       xml:space="preserve">
-    <value>POSIÇÕES DO MENU PRINCIPAL</value>
+    <value>Posição da barra de separadores</value>
   </data>
   <data
       name="HomeNavigationSystem_Responsive"
@@ -1553,7 +1553,7 @@ corresponde à essa pesquisa
   <data
       name="Settings_SortHeaderWithNOEpToSee_Text"
       xml:space="preserve">
-    <value>Grupos com NENHUM episódio para assistir</value>
+    <value>Grupos sem episódios por ver</value>
   </data>
   <data
       name="Settings_StatsHeader_Text"
@@ -2497,7 +2497,7 @@ merece ser divertida!</value>
   <data
       name="Settings_BackgroundSync_WifiOnly"
       xml:space="preserve">
-    <value>Sincronizar em segundo plano apenas no WI-FI?</value>
+    <value>Sincronizar em segundo plano apenas por Wi-Fi?</value>
   </data>
   <data
       name="Global_ExitDemo"
@@ -2733,7 +2733,7 @@ merece ser divertida!</value>
   <data
       name="Settings_AppSection_Text"
       xml:space="preserve">
-    <value>SEÇÕES DO APP</value>
+    <value>Ecrã inicial e separadores</value>
   </data>
 
   <data
@@ -2824,7 +2824,7 @@ Clique aqui e faça uma doação!</value>
   <data
       name="Settings_WidgetCounterIncludesShowsToStart"
       xml:space="preserve">
-    <value>Incluir programas para começar a assistir no contador esquerdo do episódio Contagem de widgets?</value>
+    <value>Incluir as séries por começar no contador de episódios do widget?</value>
   </data>
 
   <data
@@ -3131,13 +3131,13 @@ Confirma?</value>
   <data
   name="Settings_Display_MovieStartupPage_Text"
   xml:space="preserve">
-    <value>Guia exibido ao iniciar a página de detalhes de um programa de TV</value>
+    <value>Página de filmes: separador predefinido</value>
   </data>
 
   <data
      name     ="Settings_Display_ShowDetailsStartupPage_Text"
      xml:space="preserve">
-    <value>Guia exibida na inicialização da página de filmes</value>
+    <value>Página de uma série: separador predefinido</value>
   </data>
 
   <data
@@ -4192,8 +4192,11 @@ Se quiser dar um apoio extra, o link de doação está aqui e fica sempre dispon
         <value>Idioma e formato</value>
     </data>
   <data name="Settings_HomeSectionsGroupHeader_Text" xml:space="preserve">
-        <value>Seções da página inicial</value>
+        <value>Ecrã inicial</value>
     </data>
+  <data name="Settings_TabBar_Header" xml:space="preserve">
+    <value>Barra de separadores</value>
+  </data>
   <data name="Episode_SetAsUnseen_MultiplePlays_QuestionAllRecords" xml:space="preserve">
         <value>Todas as visualizações</value>
     </data>
@@ -4456,7 +4459,7 @@ Lembrete: o seu código é {0}.</value>
     <value>Idioma do app, dos dados e formato de datas, horários e episódios</value>
   </data>
   <data name="Settings_Modern_HomeSections_Subtitle" xml:space="preserve">
-    <value>Navegação, páginas iniciais e seções visíveis</value>
+    <value>Separadores do ecrã inicial, página ao iniciar, barra de separadores</value>
   </data>
   <data name="Settings_Modern_Appearance_Title" xml:space="preserve">
     <value>Aparência</value>
@@ -8237,6 +8240,9 @@ Se depois disso continuar a faltar, pode avisar a equipa do Trakt. O e-mail já 
   </data>
   <data name="Settings_HomeTabs_AlsoInMenu" xml:space="preserve">
     <value>Também no menu</value>
+  </data>
+  <data name="Settings_HomeTabs_AlwaysFirst" xml:space="preserve">
+    <value>Sempre visível, em primeiro lugar</value>
   </data>
   <data name="Settings_HomeTabs_Reset" xml:space="preserve">
     <value>Repor os separadores predefinidos</value>

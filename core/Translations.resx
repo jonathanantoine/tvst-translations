@@ -154,7 +154,7 @@ Click here and make donation!</value>
     <value>See</value>
   </data>
   <data name="AdPrivacy_ShowOptions_MenuItem" xml:space="preserve">
-    <value>Ad Privacy Options</value>
+    <value>Ad privacy options</value>
   </data>
   <data name="AdPrivacy_ShowOptions_SettingsSubtitle" xml:space="preserve">
     <value>Review or change your consent for personalized ads</value>
@@ -324,7 +324,7 @@ coffee and happiness from my kids and wife.</value>
     <value>YES</value>
   </data>
   <data name="HomeNavigationSystem_Responsive_Header" xml:space="preserve">
-    <value>HOME PAGE SECTIONS POSITIONS</value>
+    <value>Tab bar position</value>
   </data>
   <data name="HomeNavigationSystem_Responsive" xml:space="preserve">
     <value>Responsive : bottom on small screen, top on wide screen</value>
@@ -1039,10 +1039,10 @@ matches this search
     <value>TV SHOWS SORTING</value>
   </data>
   <data name="Settings_SortHeaderWithNOEpToSee_Text" xml:space="preserve">
-    <value>Groups WITHOUT episode to watch</value>
+    <value>Groups without episodes to watch</value>
   </data>
   <data name="Settings_SortHeaderWithShowToStartWatching_Text" xml:space="preserve">
-      <value>Groups with TV Shows to start watching</value>
+      <value>Groups with TV shows to start watching</value>
   </data>
   <data name="Settings_SortHeaderWithShowToStartWatchingWithoutNextEpisode_Text" xml:space="preserve">
     <value>Groups with shows to start watching with no episode available yet</value>
@@ -1682,7 +1682,7 @@ de  <data name="Global_AnAdWillBeDisplayed" xml:space="preserve">
     <value>Smaller</value>
   </data>
   <data name="Settings_BackgroundSync_WifiOnly" xml:space="preserve">
-    <value>Background synchronization only on WIFI?</value>
+    <value>Background synchronization only on Wi-Fi?</value>
   </data>
   <data name="Global_ExitDemo" xml:space="preserve">
     <value>Exit DEMO mode</value>
@@ -1757,7 +1757,7 @@ Your subscription renews automatically unless you cancel it at least 24 hours be
     <value>S{0:00} E{1:00}</value>
   </data>
   <data name="Settings_EpisodeFormatLabel" xml:space="preserve">
-    <value>Episode Number format</value>
+    <value>Episode number format</value>
   </data>
   <data name="CommentsSorting_Label_Newest" xml:space="preserve">
     <value>Newest first</value>
@@ -1841,7 +1841,7 @@ Your subscription renews automatically unless you cancel it at least 24 hours be
     <value>Hide watched episodes and movies from the calendar page.</value>
   </data>
   <data name="Settings_AppSection_Text" xml:space="preserve">
-    <value>APP' SECTIONS</value>
+    <value>Home and tabs</value>
   </data>
   <data name="SetAsSeenAtAGivenDate_Button_SetAsSeen" xml:space="preserve">
     <value>Set as watched at this date</value>
@@ -1871,18 +1871,18 @@ Your subscription renews automatically unless you cancel it at least 24 hours be
     <value>ANALYTICS</value>
   </data>
   <data name="Settings_Data_DisableTelemetry_Text" xml:space="preserve">
-    <value>Disable Telemetry.
+    <value>Disable telemetry.
 When checked, no anonymous usage data will be collected.
 This data helps us improve the app and fix issues. No personal information is ever shared.</value>
   </data>
   <data name="Settings_Various_ForceAdsDisplay_Text" xml:space="preserve">
-    <value>Force Ads display </value>
+    <value>Force ads display</value>
   </data>
   <data name="Settings_Various_SwipeToMarkAsSeen_Text" xml:space="preserve">
     <value>Enable swipe to mark next episode as seen (list mode)?</value>
   </data>
   <data name="Settings_WidgetCounterIncludesShowsToStart" xml:space="preserve">
-    <value>Include shows to start watching in the episode left counter Widget count.</value>
+    <value>Include shows to start watching in the episode left counter widget count.</value>
   </data>
   <data name="Settings_BadgeCounterIncludesShowsToStart" xml:space="preserve">
     <value>Include shows to start watching in the episode icon badge count.</value>
@@ -2094,10 +2094,10 @@ Do you confirm?</value>
     <value>Trending</value>
   </data>
   <data name="Settings_Display_MovieStartupPage_Text" xml:space="preserve">
-    <value>Movies page : default tab</value>
+    <value>Movies page: default tab</value>
   </data>
   <data name="Settings_Display_ShowDetailsStartupPage_Text" xml:space="preserve">
-    <value>Show details page : default tab</value>
+    <value>Show details page: default tab</value>
   </data>
   <data name="Settings_Various_SendTokenToDev" xml:space="preserve">
     <value>Send debug info to Jonathan!</value>
@@ -2632,7 +2632,7 @@ Reminder: your code is {0}.</value>
       <value>Fallback 2: sign in in your browser</value>
   </data>
   <data name="Settings_BackupAndRestoreTabHeader" xml:space="preserve">
-    <value>Backup &amp; Restore</value>
+    <value>Backup &amp; restore</value>
   </data>
   <data name="Show_RecommendThis" xml:space="preserve">
     <value>Add this show to my favorites</value>
@@ -3012,10 +3012,13 @@ If you'd like to give an extra boost, the donation link is right here and always
     <value>All viewings</value>
   </data>
   <data name="Settings_LanguageAndFormatHeader_Text" xml:space="preserve">
-    <value>Language &amp; Format</value>
+    <value>Language &amp; format</value>
   </data>
   <data name="Settings_HomeSectionsGroupHeader_Text" xml:space="preserve">
-    <value>HOME PAGE SECTIONS</value>
+    <value>Home page</value>
+  </data>
+  <data name="Settings_TabBar_Header" xml:space="preserve">
+    <value>Tab bar</value>
   </data>
   <data name="MoviesLists_PanelHeader_WatchlistNotReleased" xml:space="preserve">
       <value>Not out yet</value>
@@ -3192,7 +3195,7 @@ Do you confirm?</value>
     <value>App language, data, date and time formats, and episodes</value>
   </data>
   <data name="Settings_Modern_HomeSections_Subtitle" xml:space="preserve">
-    <value>Navigation, startup pages and visible sections</value>
+    <value>Home tabs, startup page, tab bar</value>
   </data>
   <data name="Settings_Modern_Appearance_Title" xml:space="preserve">
     <value>Appearance</value>
@@ -3312,7 +3315,7 @@ Do you confirm?</value>
     <value>ADVANCED MAINTENANCE</value>
   </data>
   <data name="Settings_Modern_Section_AdPrivacy" xml:space="preserve">
-    <value>Ad Privacy</value>
+    <value>Ad privacy</value>
   </data>
   <data name="Settings_Backup_ExportCsv_Subtitle" xml:space="preserve">
     <value>Creates a spreadsheet-readable file that can be imported later</value>
@@ -6907,6 +6910,9 @@ If it is still missing after that, you can let the Trakt team know. The email is
   </data>
   <data name="Settings_HomeTabs_AlsoInMenu" xml:space="preserve">
     <value>Also in the menu</value>
+  </data>
+  <data name="Settings_HomeTabs_AlwaysFirst" xml:space="preserve">
+    <value>Always shown, always first</value>
   </data>
   <data name="Settings_HomeTabs_Reset" xml:space="preserve">
     <value>Restore the default tabs</value>

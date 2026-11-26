@@ -152,7 +152,7 @@ Você está usando a versão {0}</value>
     <value>anos</value>
   </data>
     <data name="HomeNavigationSystem_Responsive_Header" xml:space="preserve">
-    <value>POSIÇÕES DO MENU PRINCIPAL</value>
+    <value>Posição da barra de abas</value>
   </data>
     <data name="HomeNavigationSystem_Responsive" xml:space="preserve">
     <value>Responsivo: Na parte inferior da tela pequena, na parte superior da tela grande</value>
@@ -977,7 +977,7 @@ corresponde à essa pesquisa
     <value>Grupos com episódio para assistir</value>
   </data>
     <data name="Settings_SortHeaderWithNOEpToSee_Text" xml:space="preserve">
-    <value>Grupos com NENHUM episódio para assistir</value>
+    <value>Grupos sem episódios para assistir</value>
   </data>
     <data name="Settings_StatsHeader_Text" xml:space="preserve">
     <value>ESTATÍSTICAS</value>
@@ -1565,7 +1565,7 @@ merece ser divertida!</value>
     <value>Menor</value>
   </data>
     <data name="Settings_BackgroundSync_WifiOnly" xml:space="preserve">
-    <value>Sincronizar em segundo plano apenas no WI-FI?</value>
+    <value>Sincronizar em segundo plano apenas no Wi-Fi?</value>
   </data>
     <data name="Global_ExitDemo" xml:space="preserve">
     <value>Pare o modo de demonstração.</value>
@@ -1707,7 +1707,7 @@ merece ser divertida!</value>
         <value>Ocultar episódios e filmes vistos da página do calendário.</value>
     </data>
     <data name="Settings_AppSection_Text" xml:space="preserve">
-    <value>SEÇÕES DO APP</value>
+    <value>Tela inicial e abas</value>
   </data>
 
     <data name="AdDisplayControl_Placeholder_Text" xml:space="preserve">
@@ -1768,7 +1768,7 @@ Clique aqui e faça uma doação!</value>
     <value>WIDGET</value>
   </data>
     <data name="Settings_WidgetCounterIncludesShowsToStart" xml:space="preserve">
-    <value>Incluir programas para começar a assistir no contador esquerdo do episódio Contagem de widgets?</value>
+    <value>Incluir as séries a começar no contador de episódios do widget?</value>
   </data>
 
     <data name="Settings_BadgeCounterIncludesShowsToStart" xml:space="preserve">
@@ -1995,11 +1995,11 @@ Você confirma?</value>
     <value>Em alta</value>
         </data>
     <data name="Settings_Display_MovieStartupPage_Text" xml:space="preserve">
-    <value>Guia exibido ao iniciar a página de detalhes de um programa de TV</value>
+    <value>Página de filmes: aba padrão</value>
   </data>
 
     <data name="Settings_Display_ShowDetailsStartupPage_Text" xml:space="preserve">
-    <value>Guia exibida na inicialização da página de filmes</value>
+    <value>Página de uma série: aba padrão</value>
   </data>
 
     <data name="Settings_Various_SendTokenToDev" xml:space="preserve">
@@ -2869,7 +2869,10 @@ Se quiser dar uma força extra, o link de doação está aqui e fica sempre disp
         <value>Idioma e formato</value>
     </data>
     <data name="Settings_HomeSectionsGroupHeader_Text" xml:space="preserve">
-        <value>Seções da página inicial</value>
+        <value>Tela inicial</value>
+    </data>
+    <data name="Settings_TabBar_Header" xml:space="preserve">
+        <value>Barra de abas</value>
     </data>
     <data name="Episode_SetAsUnseen_MultiplePlays_QuestionAllRecords" xml:space="preserve">
         <value>Todas as visualizações</value>
@@ -3147,7 +3150,7 @@ Lembrete: o seu código é {0}.</value>
     <value>Idioma do app, dos dados e formato de datas, horários e episódios</value>
   </data>
     <data name="Settings_Modern_HomeSections_Subtitle" xml:space="preserve">
-    <value>Navegação, páginas iniciais e seções visíveis</value>
+    <value>Abas da tela inicial, página ao abrir, barra de abas</value>
   </data>
     <data name="Settings_Modern_Appearance_Title" xml:space="preserve">
     <value>Aparência</value>
@@ -6946,6 +6949,9 @@ Se depois disso ele ainda estiver faltando, você pode avisar a equipe do Trakt.
   </data>
   <data name="Settings_HomeTabs_AlsoInMenu" xml:space="preserve">
     <value>Também no menu</value>
+  </data>
+  <data name="Settings_HomeTabs_AlwaysFirst" xml:space="preserve">
+    <value>Sempre visível, em primeiro lugar</value>
   </data>
   <data name="Settings_HomeTabs_Reset" xml:space="preserve">
     <value>Restaurar as abas padrão</value>

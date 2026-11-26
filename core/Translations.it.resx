@@ -179,7 +179,7 @@ Clicca qui e fai una donazione!</value>
     <value>ANNULLA</value>
   </data>
     <data name="Settings_Data_HideHiddenItems_Text" xml:space="preserve">
-    <value>Non mostrare le Serie TV abbandonate</value>
+    <value>Non mostrare le serie TV abbandonate</value>
   </data>
     <data name="Settings_Data_UsesSpecialsEpisodesInEpisodeLeftCount_Text" xml:space="preserve">
     <value>Calcola anche gli episodi speciali con il numero di episodi da vedere e le statistiche</value>
@@ -528,7 +528,7 @@ poi aggiorna la pagina.</value>
     <value>Oggi</value>
   </data>
     <data name="HomeNavigationSystem_Responsive_Header" xml:space="preserve">
-    <value>POSIZIONI DEL MENU PRINCIPALE</value>
+    <value>Posizione della barra delle schede</value>
   </data>
     <data name="HomeNavigationSystem_Responsive" xml:space="preserve">
     <value>Responsive: nella parte inferiore dello schermo, nella parte superiore dello schermo</value>
@@ -870,7 +870,7 @@ corrisponda a questa ricerca
     <value>Stai per essere reindirizzato a un sito dove viene spiegata la procedura per aggiungere una nuova lingua all'applicazione.</value>
   </data>
     <data name="Settings_Display_AppDataLanguage_Text" xml:space="preserve">
-    <value>Lingua dei dati delle SERIE TV</value>
+    <value>Lingua dei dati delle serie TV</value>
   </data>
     <data name="Settings_Display_Code_AvailableOnNextLaunchReminder" xml:space="preserve">
     <value>Hai apportato una modifica (carattere, colore o lingua) che sarà visibile solo al prossimo riavvio di TV Show Tracker</value>
@@ -1001,13 +1001,13 @@ corrisponda a questa ricerca
   </data>
  
     <data name="Settings_Notifications_CreateNotificationsForIncomingEpisodes_Text" xml:space="preserve">
-    <value>Notifica quando un episodio delle tue SERIE TV va in onda</value>
+    <value>Notifica quando un episodio delle tue serie TV va in onda</value>
   </data>
     <data name="Settings_Notifications_CreateNotificationsForSeasonReleaseDateAnnounced_Text" xml:space="preserve">
     <value>Notifica quando viene annunciata la data di lancio</value>
   </data>
     <data name="Settings_Notifications_CreateNotificationsForShowStatusChange_Text" xml:space="preserve">
-    <value>Notifica quando un SERIE TV cambia stato</value>
+    <value>Notifica quando una serie TV cambia stato</value>
   </data>
     <data name="Settings_Other_Header" xml:space="preserve">
     <value>ALTRO</value>
@@ -1617,7 +1617,7 @@ merita di essere divertente!</value>
     <value>Molto piccolo</value>
   </data>
     <data name="Settings_BackgroundSync_WifiOnly" xml:space="preserve">
-    <value>Sincronizza solo con WI-FI</value>
+    <value>Sincronizza solo con Wi-Fi</value>
   </data>
     <data name="Global_ExitDemo" xml:space="preserve">
     <value>Esci dalla modalità demo.</value>
@@ -1675,7 +1675,7 @@ merita di essere divertente!</value>
     <value>S{0:00} E{1:00}</value>
   </data>
     <data name="Settings_EpisodeFormatLabel" xml:space="preserve">
-    <value>Formato etichetta di Stagione-Episodi</value>
+    <value>Formato etichetta stagione-episodio</value>
   </data>
     <data name="CommentsSorting_Label_Newest" xml:space="preserve">
     <value>Prima i più nuovi</value>
@@ -1726,7 +1726,7 @@ merita di essere divertente!</value>
     <value>Paese d'origine</value>
   </data>
     <data name="Settings_SortEpisodesHeader" xml:space="preserve">
-    <value>CLASSIFICAZIONE degli Episodi</value>
+    <value>Ordine degli episodi</value>
   </data>
     <data name="Settings_SortEpisodesSectionHeader" xml:space="preserve">
     <value>SCHEDA EPISODI</value>
@@ -1759,7 +1759,7 @@ merita di essere divertente!</value>
         <value>Nascondi gli episodi e film visti dalla pagina del calendario.</value>
     </data>
     <data name="Settings_AppSection_Text" xml:space="preserve">
-    <value>SEZIONI DELL'APP</value>
+    <value>Home e schede</value>
   </data>
 
     <data name="SetAsSeenAtAGivenDate_Button_SetAsSeen" xml:space="preserve">
@@ -1787,7 +1787,7 @@ merita di essere divertente!</value>
     <value>WIDGET</value>
   </data>
     <data name="Settings_WidgetCounterIncludesShowsToStart" xml:space="preserve">
-    <value>Includi le Serie TV da vedere sul contatore del widget?</value>
+    <value>Includi le serie TV da vedere sul contatore del widget?</value>
   </data>
 
     <data name="Settings_BadgeCounterIncludesShowsToStart" xml:space="preserve">
@@ -2000,10 +2000,10 @@ Confermi?</value>
     <value>Di tendenza</value>
         </data>
     <data name="Settings_Display_MovieStartupPage_Text" xml:space="preserve">
-    <value>Tutorial iniziale quando si avvia la pagina dei dettagli di una Serie TV</value>
+    <value>Pagina dei film: scheda predefinita</value>
   </data>
     <data name="Settings_Display_ShowDetailsStartupPage_Text" xml:space="preserve">
-    <value>Tutorial iniziale all'avvio della pagina dei film</value>
+    <value>Pagina di una serie: scheda predefinita</value>
   </data>
     <data name="Settings_Various_SendTokenToDev" xml:space="preserve">
     <value>Invia informazioni di debug a Jonathan!</value>
@@ -2130,7 +2130,7 @@ Confermi?</value>
     <value>Meno informazioni</value>
   </data>
     <data name="Settings_SeasonCollapsingMode_Header" xml:space="preserve">
-    <value>Informazioni Stagioni</value>
+    <value>Informazioni stagioni</value>
   </data>
 
     <data name="AvailableSeasonCollapsingMode_IfFullySeenOrNotNextToSee" xml:space="preserve">
@@ -2764,7 +2764,10 @@ Se vuoi dare una spinta in più, il link per la donazione è qui e resta sempre 
         <value>Lingua e formato</value>
     </data>
     <data name="Settings_HomeSectionsGroupHeader_Text" xml:space="preserve">
-        <value>Sezioni della pagina iniziale</value>
+        <value>Pagina iniziale</value>
+    </data>
+    <data name="Settings_TabBar_Header" xml:space="preserve">
+        <value>Barra delle schede</value>
     </data>
     <data name="Episode_SetAsUnseen_MultiplePlays_QuestionAllRecords" xml:space="preserve">
         <value>Tutte le visualizzazioni</value>
@@ -3107,7 +3110,7 @@ Promemoria: il tuo codice è {0}.</value>
       <value>TELEMETRIA</value>
     </data>
     <data name="Settings_BackupAndRestoreTabHeader" xml:space="preserve">
-      <value>Backup &amp; Ripristino</value>
+      <value>Backup e ripristino</value>
     </data>
     <data name="Settings_DebugHeaderText" xml:space="preserve">
       <value>OTTIMIZZAZIONI</value>
@@ -3194,7 +3197,7 @@ Promemoria: il tuo codice è {0}.</value>
     <value>Lingua dell'app, dei dati e formato di date, orari ed episodi</value>
   </data>
   <data name="Settings_Modern_HomeSections_Subtitle" xml:space="preserve">
-    <value>Navigazione, pagine iniziali e sezioni visibili</value>
+    <value>Schede della home, pagina all'avvio, barra delle schede</value>
   </data>
   <data name="Settings_Modern_Appearance_Title" xml:space="preserve">
     <value>Aspetto</value>
@@ -6918,6 +6921,9 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
   </data>
   <data name="Settings_HomeTabs_AlsoInMenu" xml:space="preserve">
     <value>Anche nel menu</value>
+  </data>
+  <data name="Settings_HomeTabs_AlwaysFirst" xml:space="preserve">
+    <value>Sempre visibile, al primo posto</value>
   </data>
   <data name="Settings_HomeTabs_Reset" xml:space="preserve">
     <value>Ripristina le schede predefinite</value>
