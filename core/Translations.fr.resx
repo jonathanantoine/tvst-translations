@@ -3074,7 +3074,7 @@ Confirmez-vous ?</value>
   <data
       name     ="Settings_Display_ShowDetailsStartupPage_Text"
       xml:space="preserve">
-    <value>Détails d'une série : onglet par défaut</value>
+    <value>À l'ouverture d'une série</value>
   </data>
 
   <data
@@ -3231,11 +3231,6 @@ xml:space="preserve">
     <value>Ajouter/modifier vos notes personnelles</value>
   </data>
 
-  <data
-    name="ShowDetailsStartupPage_DefaultChoice"
-    xml:space="preserve">
-    <value>Dynamique en fonction de la page précédente - valeur par défaut</value>
-  </data>
 
   <data
   name="Settings_DisplayShowChannelOnHomePage"
@@ -8207,5 +8202,32 @@ S'il manque toujours après ce délai, vous pouvez prévenir l'équipe de Trakt.
   </data>
   <data name="Home_Lists_AllHiddenMessage" xml:space="preserve">
     <value>Vous avez retiré toutes vos listes de cet onglet. Choisissez celles à afficher.</value>
+  </data>
+  <data name="ShowDetailsStartupPage_Automatic" xml:space="preserve">
+    <value>Automatique</value>
+  </data>
+  <data name="ShowDetailsStartupPage_EpisodeList" xml:space="preserve">
+    <value>Liste des épisodes</value>
+  </data>
+  <data name="ShowDetailsStartupPage_EpisodeListAtNextEpisode" xml:space="preserve">
+    <value>Liste des épisodes, là où vous en êtes</value>
+  </data>
+  <data name="ShowDetailsStartupPage_NextEpisode" xml:space="preserve">
+    <value>Le prochain épisode à voir</value>
+  </data>
+  <data name="ShowDetailsStartupPage_Automatic_Explanation" xml:space="preserve">
+    <value>Depuis l'accueil : la liste des épisodes, là où vous en êtes. Depuis la recherche ou ailleurs : les infos de la série.</value>
+  </data>
+  <data name="ShowDetailsStartupPage_EpisodeList_Explanation" xml:space="preserve">
+    <value>La liste s'ouvre en haut.</value>
+  </data>
+  <data name="ShowDetailsStartupPage_EpisodeListAtNextEpisode_Explanation" xml:space="preserve">
+    <value>La liste s'ouvre sur le prochain épisode à voir. Pour les séries que vous suivez.</value>
+  </data>
+  <data name="ShowDetailsStartupPage_NextEpisode_Explanation" xml:space="preserve">
+    <value>Depuis l'accueil, sa page s'ouvre directement. Le bouton retour mène à la liste des épisodes. Pour les séries que vous suivez.</value>
+  </data>
+  <data name="ShowDetailsStartupPage_Tab_ExplanationFormat" xml:space="preserve">
+    <value>La série s'ouvre sur l'onglet {0}.</value>
   </data>
 </root>

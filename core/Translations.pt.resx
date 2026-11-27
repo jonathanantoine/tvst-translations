@@ -3137,7 +3137,7 @@ Confirma?</value>
   <data
      name     ="Settings_Display_ShowDetailsStartupPage_Text"
      xml:space="preserve">
-    <value>Página de uma série: separador predefinido</value>
+    <value>Ao abrir uma série</value>
   </data>
 
   <data
@@ -3302,11 +3302,6 @@ xml:space="preserve">
   </data>
 
 
-  <data
-    name="ShowDetailsStartupPage_DefaultChoice"
-    xml:space="preserve">
-    <value>Dinâmico dependendo da página anterior - valor de defeito</value>
-  </data>
   <data
   name="Settings_DisplayShowChannelOnHomePage"
   xml:space="preserve">
@@ -8294,5 +8289,32 @@ Se depois disso continuar a faltar, pode avisar a equipa do Trakt. O e-mail já 
   </data>
   <data name="Home_Lists_AllHiddenMessage" xml:space="preserve">
     <value>Retirou todas as suas listas deste separador. Escolha as que quer mostrar.</value>
+  </data>
+  <data name="ShowDetailsStartupPage_Automatic" xml:space="preserve">
+    <value>Automático</value>
+  </data>
+  <data name="ShowDetailsStartupPage_EpisodeList" xml:space="preserve">
+    <value>Lista de episódios</value>
+  </data>
+  <data name="ShowDetailsStartupPage_EpisodeListAtNextEpisode" xml:space="preserve">
+    <value>Lista de episódios, onde ficou</value>
+  </data>
+  <data name="ShowDetailsStartupPage_NextEpisode" xml:space="preserve">
+    <value>O próximo episódio a ver</value>
+  </data>
+  <data name="ShowDetailsStartupPage_Automatic_Explanation" xml:space="preserve">
+    <value>A partir do ecrã inicial: a lista de episódios, onde ficou. A partir da pesquisa ou de outro sítio: as informações da série.</value>
+  </data>
+  <data name="ShowDetailsStartupPage_EpisodeList_Explanation" xml:space="preserve">
+    <value>A lista abre no início.</value>
+  </data>
+  <data name="ShowDetailsStartupPage_EpisodeListAtNextEpisode_Explanation" xml:space="preserve">
+    <value>A lista abre no próximo episódio a ver. Para as séries que segue.</value>
+  </data>
+  <data name="ShowDetailsStartupPage_NextEpisode_Explanation" xml:space="preserve">
+    <value>A partir do ecrã inicial, a página dele abre diretamente. O botão Voltar leva à lista de episódios. Para as séries que segue.</value>
+  </data>
+  <data name="ShowDetailsStartupPage_Tab_ExplanationFormat" xml:space="preserve">
+    <value>A série abre no separador {0}.</value>
   </data>
 </root>

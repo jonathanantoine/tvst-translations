@@ -2097,7 +2097,7 @@ Do you confirm?</value>
     <value>Movies page: default tab</value>
   </data>
   <data name="Settings_Display_ShowDetailsStartupPage_Text" xml:space="preserve">
-    <value>Show details page: default tab</value>
+    <value>When you open a show</value>
   </data>
   <data name="Settings_Various_SendTokenToDev" xml:space="preserve">
     <value>Send debug info to Jonathan!</value>
@@ -2188,9 +2188,6 @@ Do you confirm?</value>
   </data>
   <data name="MediaItem_PersonalNoteMenuItem" xml:space="preserve">
     <value>Add/edit your personal notes</value>
-  </data>
-  <data name="ShowDetailsStartupPage_DefaultChoice" xml:space="preserve">
-    <value>Dynamic, based on where you come from - default</value>
   </data>
   <data name="Settings_DisplayShowChannelOnHomePage" xml:space="preserve">
     <value>Display airing channel?</value>
@@ -6964,5 +6961,32 @@ If it is still missing after that, you can let the Trakt team know. The email is
   </data>
   <data name="Home_Lists_AllHiddenMessage" xml:space="preserve">
     <value>You have taken all your lists off this tab. Choose the ones to show.</value>
+  </data>
+  <data name="ShowDetailsStartupPage_Automatic" xml:space="preserve">
+    <value>Automatic</value>
+  </data>
+  <data name="ShowDetailsStartupPage_EpisodeList" xml:space="preserve">
+    <value>Episode list</value>
+  </data>
+  <data name="ShowDetailsStartupPage_EpisodeListAtNextEpisode" xml:space="preserve">
+    <value>Episode list, where you left off</value>
+  </data>
+  <data name="ShowDetailsStartupPage_NextEpisode" xml:space="preserve">
+    <value>The next episode to watch</value>
+  </data>
+  <data name="ShowDetailsStartupPage_Automatic_Explanation" xml:space="preserve">
+    <value>From the home screen: the episode list, where you left off. From search or elsewhere: the show's info.</value>
+  </data>
+  <data name="ShowDetailsStartupPage_EpisodeList_Explanation" xml:space="preserve">
+    <value>The list opens at the top.</value>
+  </data>
+  <data name="ShowDetailsStartupPage_EpisodeListAtNextEpisode_Explanation" xml:space="preserve">
+    <value>The list opens at the next episode to watch. For shows you follow.</value>
+  </data>
+  <data name="ShowDetailsStartupPage_NextEpisode_Explanation" xml:space="preserve">
+    <value>From the home screen, its page opens directly. Back takes you to the episode list. For shows you follow.</value>
+  </data>
+  <data name="ShowDetailsStartupPage_Tab_ExplanationFormat" xml:space="preserve">
+    <value>The show opens on the {0} tab.</value>
   </data>
 </root>

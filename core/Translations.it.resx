@@ -2003,7 +2003,7 @@ Confermi?</value>
     <value>Pagina dei film: scheda predefinita</value>
   </data>
     <data name="Settings_Display_ShowDetailsStartupPage_Text" xml:space="preserve">
-    <value>Pagina di una serie: scheda predefinita</value>
+    <value>All'apertura di una serie</value>
   </data>
     <data name="Settings_Various_SendTokenToDev" xml:space="preserve">
     <value>Invia informazioni di debug a Jonathan!</value>
@@ -2106,9 +2106,6 @@ Confermi?</value>
     <value>Aggiungi/modifica le tue note personali</value>
   </data>
 
-    <data name="ShowDetailsStartupPage_DefaultChoice" xml:space="preserve">
-    <value>Dinamico a seconda della pagina precedente - valore predefinito</value>
-  </data>
 
     <data name="Settings_DisplayShowChannelOnHomePage" xml:space="preserve">
         <value>Mostrare il canale in onda?</value>
@@ -6975,5 +6972,32 @@ Se dopo questo tempo manca ancora, può avvisare il team di Trakt. L'e-mail è g
   </data>
   <data name="Home_Lists_AllHiddenMessage" xml:space="preserve">
     <value>Hai tolto tutti i tuoi elenchi da questa scheda. Scegli quelli da mostrare.</value>
+  </data>
+  <data name="ShowDetailsStartupPage_Automatic" xml:space="preserve">
+    <value>Automatico</value>
+  </data>
+  <data name="ShowDetailsStartupPage_EpisodeList" xml:space="preserve">
+    <value>Elenco degli episodi</value>
+  </data>
+  <data name="ShowDetailsStartupPage_EpisodeListAtNextEpisode" xml:space="preserve">
+    <value>Elenco degli episodi, dove eri rimasto</value>
+  </data>
+  <data name="ShowDetailsStartupPage_NextEpisode" xml:space="preserve">
+    <value>Il prossimo episodio da vedere</value>
+  </data>
+  <data name="ShowDetailsStartupPage_Automatic_Explanation" xml:space="preserve">
+    <value>Dalla schermata principale: l'elenco degli episodi, dove eri rimasto. Dalla ricerca o altrove: le informazioni della serie.</value>
+  </data>
+  <data name="ShowDetailsStartupPage_EpisodeList_Explanation" xml:space="preserve">
+    <value>L'elenco si apre dall'inizio.</value>
+  </data>
+  <data name="ShowDetailsStartupPage_EpisodeListAtNextEpisode_Explanation" xml:space="preserve">
+    <value>L'elenco si apre sul prossimo episodio da vedere. Per le serie che segui.</value>
+  </data>
+  <data name="ShowDetailsStartupPage_NextEpisode_Explanation" xml:space="preserve">
+    <value>Dalla schermata principale, la sua pagina si apre subito. Il tasto Indietro porta all'elenco degli episodi. Per le serie che segui.</value>
+  </data>
+  <data name="ShowDetailsStartupPage_Tab_ExplanationFormat" xml:space="preserve">
+    <value>La serie si apre sulla scheda {0}.</value>
   </data>
 </root>

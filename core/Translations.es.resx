@@ -2012,7 +2012,7 @@ y tendencias mundiales!</value>
   </data>
 
     <data name="Settings_Display_ShowDetailsStartupPage_Text" xml:space="preserve">
-    <value>Página de detalles del programa de televisión: pestaña predeterminada</value>
+    <value>Al abrir una serie</value>
   </data>
 
     <data name="Settings_Various_SendTokenToDev" xml:space="preserve">
@@ -2117,9 +2117,6 @@ y tendencias mundiales!</value>
     <value>Agrega/edita tus notas personales</value>
   </data>
 
-    <data name="ShowDetailsStartupPage_DefaultChoice" xml:space="preserve">
-    <value>Dinámico, basado en su procedencia - valor por defecto</value>
-  </data>
     <data name="Settings_DisplayShowChannelOnHomePage" xml:space="preserve">
     <value>¿Mostrar canal en emisión?</value>
   </data>
@@ -7001,5 +6998,32 @@ Si después sigue sin aparecer, puede avisar al equipo de Trakt. El correo ya es
   </data>
   <data name="Home_Lists_AllHiddenMessage" xml:space="preserve">
     <value>Has quitado todas tus listas de esta pestaña. Elige las que quieres mostrar.</value>
+  </data>
+  <data name="ShowDetailsStartupPage_Automatic" xml:space="preserve">
+    <value>Automático</value>
+  </data>
+  <data name="ShowDetailsStartupPage_EpisodeList" xml:space="preserve">
+    <value>Lista de episodios</value>
+  </data>
+  <data name="ShowDetailsStartupPage_EpisodeListAtNextEpisode" xml:space="preserve">
+    <value>Lista de episodios, donde lo dejaste</value>
+  </data>
+  <data name="ShowDetailsStartupPage_NextEpisode" xml:space="preserve">
+    <value>El próximo episodio por ver</value>
+  </data>
+  <data name="ShowDetailsStartupPage_Automatic_Explanation" xml:space="preserve">
+    <value>Desde la pantalla de inicio: la lista de episodios, donde lo dejaste. Desde la búsqueda u otro lugar: la información de la serie.</value>
+  </data>
+  <data name="ShowDetailsStartupPage_EpisodeList_Explanation" xml:space="preserve">
+    <value>La lista se abre al principio.</value>
+  </data>
+  <data name="ShowDetailsStartupPage_EpisodeListAtNextEpisode_Explanation" xml:space="preserve">
+    <value>La lista se abre en el próximo episodio por ver. Para las series que sigues.</value>
+  </data>
+  <data name="ShowDetailsStartupPage_NextEpisode_Explanation" xml:space="preserve">
+    <value>Desde la pantalla de inicio, su página se abre directamente. El botón Atrás lleva a la lista de episodios. Para las series que sigues.</value>
+  </data>
+  <data name="ShowDetailsStartupPage_Tab_ExplanationFormat" xml:space="preserve">
+    <value>La serie se abre en la pestaña {0}.</value>
   </data>
 </root>

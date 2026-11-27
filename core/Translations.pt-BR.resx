@@ -1999,7 +1999,7 @@ Você confirma?</value>
   </data>
 
     <data name="Settings_Display_ShowDetailsStartupPage_Text" xml:space="preserve">
-    <value>Página de uma série: aba padrão</value>
+    <value>Ao abrir uma série</value>
   </data>
 
     <data name="Settings_Various_SendTokenToDev" xml:space="preserve">
@@ -2106,9 +2106,6 @@ Você confirma?</value>
     <value>Adicione/edite suas anotações pessoais</value>
   </data>
 
-    <data name="ShowDetailsStartupPage_DefaultChoice" xml:space="preserve">
-    <value>Dinâmico dependendo da página anterior - valor de defeito</value>
-  </data>
     <data name="Settings_DisplayShowChannelOnHomePage" xml:space="preserve">
     <value>Exibir canal de exibição?</value>
   </data>
@@ -7003,5 +7000,32 @@ Se depois disso ele ainda estiver faltando, você pode avisar a equipe do Trakt.
   </data>
   <data name="Home_Lists_AllHiddenMessage" xml:space="preserve">
     <value>Você removeu todas as suas listas desta aba. Escolha as que quer mostrar.</value>
+  </data>
+  <data name="ShowDetailsStartupPage_Automatic" xml:space="preserve">
+    <value>Automático</value>
+  </data>
+  <data name="ShowDetailsStartupPage_EpisodeList" xml:space="preserve">
+    <value>Lista de episódios</value>
+  </data>
+  <data name="ShowDetailsStartupPage_EpisodeListAtNextEpisode" xml:space="preserve">
+    <value>Lista de episódios, onde você parou</value>
+  </data>
+  <data name="ShowDetailsStartupPage_NextEpisode" xml:space="preserve">
+    <value>O próximo episódio para assistir</value>
+  </data>
+  <data name="ShowDetailsStartupPage_Automatic_Explanation" xml:space="preserve">
+    <value>Pela tela inicial: a lista de episódios, onde você parou. Pela busca ou em outro lugar: as informações da série.</value>
+  </data>
+  <data name="ShowDetailsStartupPage_EpisodeList_Explanation" xml:space="preserve">
+    <value>A lista abre no início.</value>
+  </data>
+  <data name="ShowDetailsStartupPage_EpisodeListAtNextEpisode_Explanation" xml:space="preserve">
+    <value>A lista abre no próximo episódio para assistir. Para as séries que você acompanha.</value>
+  </data>
+  <data name="ShowDetailsStartupPage_NextEpisode_Explanation" xml:space="preserve">
+    <value>Pela tela inicial, a página dele abre direto. O botão Voltar leva à lista de episódios. Para as séries que você acompanha.</value>
+  </data>
+  <data name="ShowDetailsStartupPage_Tab_ExplanationFormat" xml:space="preserve">
+    <value>A série abre na aba {0}.</value>
   </data>
 </root>
